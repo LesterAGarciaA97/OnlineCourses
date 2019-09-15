@@ -1,2 +1,15 @@
 # OnlineCourses
-Technology, computing, programming and design online courses 
+## Technology, computing, programming and design online courses 
+### Folder 01 -----> Capacítate para el empleo (www.capacitateparaelempleo.org)
+### Folder 02 -----> Code Academy (www.codecademy.com)
+### Folder 03 -----> Code.org (www.code.org)
+### Folder 04 -----> Codigo Facilito (www.codigofacilito.com)
+### Folder 05 -----> Codility (www.codility.com)
+### Folder 06 -----> Coding or not (codingornot.com)
+### Folder 07 -----> Coursera (es.coursera.org)
+### Folder 08 -----> Khan Academy (es.khanacademy.org)
+### Folder 09 -----> Platzi (www.platzi.com)
+### Folder 10 -----> Solo Learn (www.sololearn.com)
+### Folder 11 -----> Udacity (www.udacity.com)
+### Folder 12 -----> Udemy (www.udemy.com)
+### Folder 13 -----> Youtbe (www.youtube.com)
