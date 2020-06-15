@@ -1,0 +1,24 @@
+alert("My first alert in Chrome");
+undefined
+var message = "Hello World";
+undefined
+message
+"Hello World"
+alert("My first alert in Chrome says " + message);
+undefined
+message = "Hello World 2";
+"Hello World 2"
+message
+"Hello World 2"
+alert("My first alert in Chrome says " + message);
+undefined
+message = prompt("What is your message?");
+"Hello World 3"
+alert("My first alert in Chrome says " + message);
+undefined
+var x = 1;
+undefined
+var y = 2;
+undefined
+x + y
+3
