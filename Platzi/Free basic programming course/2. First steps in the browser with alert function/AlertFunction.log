@@ -1,0 +1,12 @@
+alert("Hello mom, I am programming");
+undefined
+var x = 1;
+undefined
+var y = 2;
+undefined
+var z = x + y;
+undefined
+z
+3
+alert("El valor de z es " + z);
+undefined
