@@ -1,0 +1,13 @@
+Introduction to Relational Database and SQL
+
+Now we will build a billing report and a club member roster. We will accomplish it in by completing each task in the project:
+
+    Introduction
+    Know what tables are and write basic SELECT statements.
+    Use wildcard characters for pattern matching, and sort query results
+    Add data to a database with INSERT statements
+    Delete data from a database with DELETE statements
+    Join tables together to produce meaningful reports
+
+While you are watching me work on each step, you will get a cloud desktop with all the required software pre-installed. This will allow you to follow along the 
+instructions to complete the above mentioned tasks. After all, we learn best with active, hands-on learning.
