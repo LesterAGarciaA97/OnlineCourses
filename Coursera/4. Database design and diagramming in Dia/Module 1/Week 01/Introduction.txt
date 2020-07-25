@@ -1,0 +1,15 @@
+Database Design and Diagramming in Dia
+
+In Database Design and Diagramming with Dia you will learn to document a database design using an Entity Relationship Diagram by completing:
+
+    Exploring Dia - You become familiar with the Dia diagramming tool as you explore its components and create your first diagram.
+    Database Design - You will review the steps in database design as you document them using a Dia diagram.
+    Meet the ERD - You will explore an Entity Relationship Diagram as you become familiar with the components. 
+
+    Find the Good Stuff - You will examine the results of a requirements analysis and identify entities and attributes.
+    Entities and Attributes in the ERD - You will use Dia to add entities and attribute to an ERD.
+    Relationships Complete the ERD - You will complete an ERD in Dia, as you incorporate the relationships between the entities.
+
+While you are watching me work on each step, you will get a cloud desktop with all the required software pre-installed. This will allow you to follow along the 
+instructions to complete the above mentioned tasks. 
+After all, we learn best with active, hands-on learning experiences.
