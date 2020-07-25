@@ -1,0 +1,19 @@
+Textbook: Python for Everybody: Exploring Data in Python 3
+
+Printed copies of "Python for Everybody: Exploring Data In Python 3" are available for $10 or less from Amazon and $2 or less on Kindle:
+
+    Amazon / Kindle
+
+Here are free copies of the book in various formats available at:
+
+    https://www.py4e.com/book
+
+You can download all of the sample Python code from the book as well as licensed course materials from http://www.py4e.com/materials.
+
+This course is in Python 3 and the textbook for this class is in Python 3. Prior to July 2017, this course was taught in Python 2 with the textbook 
+"Python for Informatics: Exploring Information". This earlier Python 2 book has translations into Spanish, Korean, and Chinese. The Python 2 book and its 
+translations are still available at the www.pythonlearn.com web site.
+
+All of the book materials are available under a Creative Commons Attribution-NonCommercial 3.0 Unported License. The slides, audio, assignments, auto grader 
+and all course materials other than the book are available from http://www.py4e.com/materials under the more flexible Creative Commons Attribution 3.0 Unported License. 
+If you are curious as to why the "NC" variant of Creative Commons was used, see Appendix D of the textbook or search through my blog posts for the string "copyright".

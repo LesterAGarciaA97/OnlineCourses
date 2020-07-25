@@ -1,0 +1,14 @@
+Reading: Welcome to The Class
+
+Welcome to Getting Started with Python, the first class in our Python for Everybody Specialization. 
+We have built this class specifically for those with no prior programming experience. With a relatively simple book, 
+and basic exercises that focus on the core concepts of programming, we hope that you will gain a solid understanding of the 
+topics in this course and be well prepared to take the rest of the courses in the specialization.
+
+We expect that someone who knows another programming language and is just trying to learn Python should be able to go through 
+the material in this class in 2-3 weeks, while someone with no programming will take 5-6 weeks. Please take your time and learn 
+these concepts well, as there is little value rushing towards the later classes without proper preparation.
+
+We keep this first section as a source of course-wide material so you can come back and reference it as you need to throughout the class.
+
+Note: The Open Michigan materials mentioned in the previous video are available at www.py4e.com.
