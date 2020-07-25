@@ -1,0 +1,15 @@
+Build Your Own Portfolio Site
+
+Now we will build (project goals). We will accomplish it in by completing each task in the project:
+
+    Task 1 - Introduction and demo: What we'll build in this course
+    Task 2 - Create our first Docker container. And what exactly is Docker anyway?
+    Task 3 - Running containers in the background and port-mapping
+    Task 4 - Practise with basic Docker commands
+    Task 5 - Creating a development environment with Docker Volumes
+    Task 6 - Building a portfolio website in Docker
+
+While you are watching me work on each step, you will get a cloud desktop with all the required software pre-installed. This will allow you to follow 
+along the instructions to complete the above mentioned tasks. After all, we learn best with active, hands-on learning.
+
+Ready to get started? Click on the button below to launch the project on Rhyme.

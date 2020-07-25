@@ -1,0 +1,57 @@
+Command to run a docker imagen in background
+docker run -d nginx
+
+See running containers and its information
+docker ps
+
+Get inside de container
+docker exec -it "container ID" bash
+
+Docker basic commands
+
+Stop a docker image
+docker stop "container ID"
+
+Start a docker image
+docker start "container ID"
+
+List docker images used and their information
+docker ps -a
+
+Remove a container
+docker rm "container ID"
+
+Remove a container while running (Forcing remove)
+docker rm -f "docker ID"
+
+List running containers or been stop
+docker ps -aq
+
+Remove all containers
+docker rm $(docker ps -aq)
+
+Remove all containers (Forcing remove)
+docker rm -f $(docker ps -aq)
+
+Adding a new to a running container
+docker run -d -p 8080:80 --name test_site nginx
+
+Rename a running container
+docker rename text_site new_site
+
+Using docker volumes
+
+Create a new folder inside the container
+mkdir test
+
+Create a new file inside a folder of the container
+touch test/test.txt
+
+Add a script insite a file
+echo 'hello world' >> test.txt
+
+Run the script inside a file
+cat test.txt
+
+Set a docker volume
+docker run -d -p 8081:80 --name website2 -v $(pwd):/website nginx
