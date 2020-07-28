@@ -1,0 +1,25 @@
+Primary keys
+Must be unique values
+automatically indexed
+Can Span multiple columns
+Slows insertion slightly
+Can be specified when the table is created or added afterward
+
+Index
+Can be unique values
+Can span multiple columns
+Slows insertion/update/delete
+Can only be added afeter the table is created
+Speeds up lookupps
+Can span multiple tables
+
+NOTE: Index can be create only after a table is created
+
+
+
+Foreing Key
+Enforces table relations and data integrity
+Can span multiple columns
+Can be specified when the table is created or added afterward
+Always between two tables
+

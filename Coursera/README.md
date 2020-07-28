@@ -5,3 +5,5 @@
 ### Folder 03 -----> Introduction to relational database and SQL
 ### Folder 04 -----> Database design and diagramming in Dia
 ### Folder 05 -----> Relational modeling in Dia
+### Folder 06 -----> Intermediate relational database and SQL
+### Folder 07 -----> Advanced relational database and SQL

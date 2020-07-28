@@ -1,0 +1,15 @@
+Intermediate relational database and SQL
+
+Now we will build our database for our web application. We will accomplish it in by completing each task in the project:
+
+    Task 1 - User interface orientation
+    Task 2 - Preview finished products
+    Task 3 - Creating and dropping databases
+    Task 4 - Creating and dropping tables
+    Task 5 - Creating and dropping primary keys
+    Task 6 - Creating and dropping indexes
+    Task 7 - Creating and dropping foreign keys
+    Task 8 - Testing and creating technical documentation
+
+While you are watching me work on each step, you will get a cloud desktop with all the required software pre-installed. This will allow you to follow along 
+the instructions to complete the above mentioned tasks. After all, we learn best with active, hands-on learning

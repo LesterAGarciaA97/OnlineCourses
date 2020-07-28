@@ -1,0 +1,14 @@
+Advanced Relational Database and SQL
+
+Now we will get hands on with advanced SQL. We will accomplish it in by completing each task in the project:
+
+    Task 1 - User interface orientation
+    Task 2 - Learn and write server functions
+    Task 3 - Learn and write stored functions
+    Task 4 - Learn and write stored procedures
+    Task 5 - Write triggers and call stored procedures
+    Task 6 - Learn and write common table expressions
+    Task 7 - Learn and use recursive common table expressions
+
+While you are watching me work on each step, you will get a cloud desktop with all the required software pre-installed. This will allow you to 
+follow along the instructions to complete the above mentioned tasks. After all, we learn best with active, hands-on learning
