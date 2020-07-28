@@ -4,3 +4,4 @@
 ### Folder 02 -----> Introduction to Docker - Build your own portfolio site
 ### Folder 03 -----> Introduction to relational database and SQL
 ### Folder 04 -----> Database design and diagramming in Dia
+### Folder 05 -----> Relational modeling in Dia

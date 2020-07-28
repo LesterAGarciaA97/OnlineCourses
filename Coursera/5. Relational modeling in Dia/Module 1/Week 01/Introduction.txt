@@ -1,0 +1,17 @@
+Relational Modeling in Dia
+
+In Relational Modeling in Dia you will learn to document a database design using an Entity Relationship Diagram by completing:
+
+ERD Revisited - You will review the components in the ERD as you familiarize yourself with the specific ERD that will be used in the database design process in this course.
+Relational Model Components - In preparation for a conversion from the ERD to the Relational model, you will take a look at the components of a Relational Model and the Dia tool 
+set required to create the Relational Model diagram.
+Entities and Attributes - You will use Dia to create a new relational model and begin the processing of converting the entities and applicable attributes from the ERD into the model. 
+
+Adding Tables and Primary Keys - You will continue the process of converting the entities and applicable attributes from the ERD into the Relational Model in Dia.
+One-to-Many Relationships - You will use Dia to show the common columns that represent one-to-many relationships between relational tables.
+Many-to-Many Relationships - You will use Dia to add a bridge table to your Relational Model to show the common columns between two tables with a many-to-many relationship.
+The Complete Relational Model - You will use Dia to explore additional options for foreign keys, eventually completing the Relational Model diagram.
+
+While you are watching me work on each step, you will get a cloud desktop with all the required software pre-installed. 
+This will allow you to follow along the instructions to complete the above mentioned tasks. 
+After all, we learn best with active, hands-on learning experiences.

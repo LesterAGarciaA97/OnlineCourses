@@ -1,0 +1,18 @@
+steps in db design
+   requirements analysis
+   entity relationship diagram ERD
+   Relational Model
+
+Relational model is the blue print for making a DB
+
+Tables a related via common columns
+Every table has to be related to at least another table
+
+Many to Many relationships
+Use a "bridge table"
+Some time called Insertion Table
+The bridge tables attributes are de PK from the tables
+with N:N relationship
+They are primary keys in this table as well
+The bridge talbe is ALWAYS the "many" side when adding connectors
+
