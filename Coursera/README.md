@@ -7,3 +7,4 @@
 ### Folder 05 -----> Relational modeling in Dia
 ### Folder 06 -----> Intermediate relational database and SQL
 ### Folder 07 -----> Advanced relational database and SQL
+### Folder 08 -----> Gmail - The foundation to accessing Google Apps

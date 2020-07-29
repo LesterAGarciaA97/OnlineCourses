@@ -1,0 +1,15 @@
+Gmail: The Foundation To Accessing Google Apps
+
+Now we will create a Google account and set up Gmail that will enable access to Google's free apps and services.
+
+We will accomplish this by completing each task in the project:
+
+    Task 1: Set up Gmail - You will create your Google account and navigate to your Gmail.
+    Task 2: Organize Gmail - You will neatly organize your Gmail into categories that will be displayed in the inbox tabs.
+    Task 3: Create labels for emails and archive messages - You will learn how to create labels for your emails and clean up your inbox by archiving messages.
+    Task 4: Create email signature and set a Gmail background theme. You will create your email signature which is appended at the bottom of your outgoing messages. 
+            You will also set your Gmail background theme.
+    Task 5: Use Google hangouts chat - You will learn how to use Google hangouts chat to foster communication within an organization and build social relationships.
+
+While you are watching me work on each step, you will get a cloud desktop with all the required software pre-installed. This will allow you to follow along the 
+instructions to complete the above mentioned tasks. After all, we learn best with active, hands-on learning
