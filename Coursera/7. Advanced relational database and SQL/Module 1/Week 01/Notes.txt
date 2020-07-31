@@ -1,0 +1,27 @@
+Stored procedures
+very popular items in relational DB
+Look like a stored function
+
+procedure name, parameters, definition
+
+
+Triggers
+Cannot be called, they get called automatically at some events
+
+Trigger name, trigerrin event, trigerring table, actions
+
+ALWAYS needed: FOR EACH ROW
+
+
+Common table expressions
+CTE name, Column names, Definition
+
+When used common table expressions (cte) they will not be
+stored
+
+CTE Rrecursive
+columns names, anchor, recursive, stop condition
+
+A recursive CTE call itself!
+
+
