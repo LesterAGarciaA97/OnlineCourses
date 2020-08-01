@@ -1,0 +1,31 @@
+Steps in Database design:
+1. Requirements analysis
+2. Entity relationship diagram (ERD)
+3. Relational model
+
+Build a table with a GUI
+Naming conventions
+Using meaningful field names and consistent patterns in table and field name makes it easier.
+* To identify which table a field is in
+* To code multiple-table queries in SQL
+* To read and interpret queries
+
+Varchar = Variable Character
+
+The combination key...
+
+
+Test Data
+Typically not "live" data
+
+Could be:
+ a subset of real data-possibly scrambled
+ fictional data
+
+
+The test plan
+Purpose: To prove the database will satisty user requirements
+Begin planning for testing during requirements analysis phase
+The more complex the data and applications - the mode detailed the test plan
+
+

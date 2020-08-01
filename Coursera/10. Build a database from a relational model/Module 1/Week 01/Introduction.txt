@@ -1,0 +1,13 @@
+Build a Database from a Relational Model
+
+In Build a Database from a Relational Model you will learn to build and test the tables that make up the database structure represented in a relational model.
+
+    The Relational Model - You will review the components in the relational model and use the SQLiteStudio graphical user interface (GUI) to create a database.
+    Build a table with the GUI - Using the SQLiteStudio GUI, you will build two of the tables displayed on the relational model.
+    Build a table with SQL code. - You will write SQL code to generate two more of the five tables on the relational model. 
+
+    The Combination Key - You will build the last table in the database as you explore two methods of creating combination keys.
+    Test Data - In preparation for writing queries to test the database design, you will populate the tables with data while maintaining common data values for the common columns that relate tables.
+    Test the Design - To validate the relational model database design, you will write and run a series of queries.
+
+While you are watching me work on each step, you will get a cloud desktop with all the required software pre-installed. This will allow you to follow along the instructions to complete the above mentioned tasks. After all, we learn best with active, hands-on learning experiences.

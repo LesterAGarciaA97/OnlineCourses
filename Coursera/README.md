@@ -9,3 +9,4 @@
 ### Folder 07 -----> Advanced relational database and SQL
 ### Folder 08 -----> Gmail - The foundation to accessing Google Apps
 ### Folder 09 -----> Getting started in GIMP
+### Folder 10 -----> Build a database from a relational model
