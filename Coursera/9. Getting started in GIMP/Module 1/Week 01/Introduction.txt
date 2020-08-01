@@ -1,0 +1,13 @@
+Getting Started in GIMP
+
+Now we will create a postcard in GIMP. We will accomplish it by completing each task in the project:
+
+    Task 1: Open a file in GIMP, find and use keyboard shortcuts - Become familiar with the GIMP desktop. Understand the use of dialogs and docks. Open a file in GIMP and use keyboard shortcuts to zoom in and out.
+    Task 2: Crop an image and undo edits - Learn how to use the crop tool, how to refine your crop selection and how to redo your crop. Learn how to undo your edits and change the size and resolution of an image.
+    Task 3: Add text and rotate it. Learn about layers - Learn how to add text and edit text. Learn how to set text parameters and rotate and move text. Learn how layers work and how to use the Undo History dialog.
+    Task 4: Add a drop shadow and lens flare - Add and set the parameters for special effects and learn how how to apply to specific layers. Learn how to duplicate and hide layers.
+    Task 5: Apply color correction techniques - Apply three different color correction techniques to lighten or darken an image and to remove a color tint from an image.
+    Task 6: Save a file in GIMP - Learn how to save a file for re-editing and how to save a file for the web. 
+
+While you are watching me work on each step, you will get a cloud desktop with all the required software pre-installed. This will allow you to follow along the instructions to complete the above mentioned tasks. 
+After all, we learn best with active, hands-on learning
