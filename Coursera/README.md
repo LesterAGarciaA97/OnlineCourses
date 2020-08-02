@@ -11,3 +11,4 @@
 ### Folder 09 -----> Getting started in GIMP
 ### Folder 10 -----> Build a database from a relational model
 ### Folder 11 -----> Beginning SQL Server
+### Folder 12 -----> Introduction to bash shell scripting

@@ -1,0 +1,13 @@
+Introduction to Bash Shell Scripting
+
+Now we will work with Bash Shell Scripting. We will accomplish it by completing each task in the project:
+
+    Task 1: Navigation - You will learn how to navigate through the directory structure and view contents of a directory.
+    Task 2: File Manipulation - You will learn how to view the contents of a file, create new files, delete and rename files, and open a file in a text editor.
+    Task 3: Find Information - You will learn about files, your command history, and file paths.
+    Task 4: Aliases - You will learn how to implement an alias on a command line and how to create one in your .bash_aliases file.
+    Task 5: Writing a Script - You'll use the commands you've learned to develop a script that will back up files in your user directory.
+    Task 6 : Automating With Cron - After completing your backup script so that it emails backup files, you'll learn about cron and crontab and how to use them to automate your backup script.
+
+While you are watching me work on each step, you will get a cloud desktop with all the required software pre-installed. This will allow you to follow along the instructions to complete the above mentioned tasks. 
+After all, we learn best with active, hands-on learning

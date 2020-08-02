@@ -1,0 +1,49 @@
+$BASH
+ls
+ls -al
+if it starts with a - its a file
+if it starts with a d its a directory
+man ls
+pwd is to know where our user directory is located
+to acces the root directory use cd /
+cd = Change Directory
+
+Manipulating files
+mv = moving command to change name
+rm = remove command
+
+cat kinglear.txt 
+cat = command to show what is inside a file
+more = use sace bar to scroll inside a file
+less = the same
+
+Use always Q key to quit
+
+
+nano = editing text files in terminal
+
+To exit from nano editor use ctrl + x
+
+
+Finding information
+
+mkdir = create a new directory
+
+rm -ir = delete directory contents one by one by pressing y
+
+find = find files o directories
+
+ctrl + c to exit on any task
+
+"*name*"
+
+grep instances
+
+!ls = lasttime we used ls
+history = access to history command used
+
+
+Aliases
+Commonly used to short name a big name file
+
+
