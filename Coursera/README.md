@@ -10,3 +10,4 @@
 ### Folder 08 -----> Gmail - The foundation to accessing Google Apps
 ### Folder 09 -----> Getting started in GIMP
 ### Folder 10 -----> Build a database from a relational model
+### Folder 11 -----> Beginning SQL Server

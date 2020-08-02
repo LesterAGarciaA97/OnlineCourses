@@ -1,0 +1,5 @@
+BEGIN TRAN;
+UPDATE Cities
+SET Population=Population+555;
+WAITFOR DELAY '00:00:20'
+COMMIT TRAN;

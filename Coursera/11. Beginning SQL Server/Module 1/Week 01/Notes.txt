@@ -1,0 +1,10 @@
+CREATE DATABASE
+DROP DATABASE
+
+DROP TABLE dbo
+
+Security:
+Autenticación de windows
+Autenticación de usuario
+
+Transaction is a SQL statement using one ore more statements

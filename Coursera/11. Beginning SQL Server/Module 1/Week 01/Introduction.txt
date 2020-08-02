@@ -1,0 +1,15 @@
+Building our SQL Server
+
+Now we will build our SQL Server. We will accomplish it in Rhyme by completing each task in the project:
+
+    Task 1: Learn to execute the USE statement to switch databases.
+    Task 2: Create and then delete our very own database.
+    Task 3: Create a table in SQL Server Management Studio (SSMS).
+    Task 4: Add a column to a table in SQL Server Management Studio (SSMS).
+    Task 5: Manage security permissions on databases. 
+    Task 6: Create a scripts that that delay other scripts from executing.
+    Task 7: Execute two queries simultaneously.
+    Task 8: Backing up your Database.
+
+While you are watching me work on each step, you will get a cloud desktop with all the required software pre-installed. This will allow you to follow along the instructions to complete the above mentioned tasks. 
+After all, we learn best with active, hands-on learning
