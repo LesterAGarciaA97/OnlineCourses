@@ -1,0 +1,12 @@
+Image Classification with CNNs using Keras Project
+
+Now, we will build a CNN model and train it to solve an image classification problem. In this hands on project, you will go through the following tasks:
+
+    Importing Libraries
+    Processing the Data
+    Visualize Examples
+    Create Model
+    Train the Model
+    Final Predictions
+
+While you are watching the instructions, you will get a cloud desktop with all the required software pre-installed and you will be able to follow along the instructions to complete the above mentioned tasks.
