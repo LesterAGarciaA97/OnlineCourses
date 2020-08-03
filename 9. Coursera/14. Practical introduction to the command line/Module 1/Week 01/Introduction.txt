@@ -1,0 +1,14 @@
+Practical Introduction to the Command Line
+
+Now we will learn how to use the command line. By the end of the project we'll have photos organised into albums by date. We will accomplish it in by completing each task in the project:
+
+    Task 1: Terminal, Bash, Command Line and Prompt
+    Task 2: Execute Commands and Escape
+    Task 3: Navigate and Explore
+    Task 4: Create Files and Directories
+    Task 5: Write, Read and Concatenate
+    Task 6: Options and Chaining Commands with Pipes
+    Task 7: Copy, Move and Remove Files
+
+While you are watching me work on each step, you will get a cloud desktop with all the required software pre-installed. This will allow you to follow along the instructions to complete the above mentioned tasks. 
+After all, we learn best with active, hands-on learning

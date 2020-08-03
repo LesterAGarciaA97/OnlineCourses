@@ -1,0 +1,39 @@
+Terminal emulator is running bash
+bash is a common language
+Other languages as:
+zsh, fish, sh
+
+sh --> Bourne shell --> Bourne is the name of the creator of this language
+bash --> Bourne Again Shell
+
+Show language in the terminal that we are using:
+echo $0
+
+~$ --> Prompt
+
+
+Execute commands and escape
+Hello world in bash:
+echo Hello, World!
+
+escape characters that bash cannot read as ()
+Hello, World! :\)
+... or using "" in the string that we want to show
+echo "Hello, World! :)"
+echo 'Hello, World! :)'
+
+
+Navigate and explore
+pwd --> print working directory
+/"Directory"/"User"
+
+1 root can have many user, and every single directory have a 1 home directory
+
+ls = list
+
+back to home directory
+cd + enter
+
+
+Create files and directories
+
