@@ -1,0 +1,38 @@
+Command Line in Linux
+
+pwd to show in wich directory we are
+
+$HOME and $SHELL are enviroment variables
+
+To see a complete llist of enviroment  varialbles use env
+
+
+List file and directories using ls
+ls give us a simple listing of files and directories
+
+ls -l diferentiates between directories (d) and files (.)
+
+ls -al is used to have a detailed list
+
+
+
+Use de cd command to change directories
+.. means one directory back that we are
+Absolute path
+Relative path
+
+usr = user
+
+
+Use touch, mkdir and rm to make and remove files and directories
+mkdir = make a new directory
+cp = copy
+rm ""/* = Delete all files inside directory
+rmdir = remove directory
+rm -rf Remove a directory and all its content
+
+
+Search for files using find and search for patterns using grep
+grep will be used to find patterns on files
+grep "word" "file name"
+-r for recurse

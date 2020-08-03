@@ -1,0 +1,12 @@
+Linux from the Command Line
+
+Now we will work on Python and Classes. We will accomplish it by completing each task in the project:
+
+    Display the home directory from a terminal
+    List files and directories using ls
+    Use the cd command to change directories
+    Use touch, copy, mkdir, and rm to create and remove files and directories
+    Search for Files using find, Search for patterns using grep
+
+While you are watching me work on each step, you will get a cloud desktop with all the required software pre-installed. This will allow you to follow along the instructions to complete the above mentioned tasks. 
+After all, we learn best with active, hands-on learning

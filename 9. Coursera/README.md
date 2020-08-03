@@ -12,3 +12,4 @@
 ### Folder 10 -----> Build a database from a relational model
 ### Folder 11 -----> Beginning SQL Server
 ### Folder 12 -----> Introduction to bash shell scripting
+### Folder 13 -----> Command line in Linux
