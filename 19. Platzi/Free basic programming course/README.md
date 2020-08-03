@@ -3,8 +3,8 @@
 ### Folder 01 -----> My first line of code
 ### Folder 02 -----> First steps in the browser with alert function
 ### Folder 03 -----> Real HTML, CSS & JS
-### Folder 04 -----> 
-### Folder 05 -----> 
+### Folder 04 -----> Weight on another planet
+### Folder 05 -----> Obtaining user data
 ### Folder 06 -----> 
 ### Folder 07 -----> 
 ### Folder 08 -----> 
