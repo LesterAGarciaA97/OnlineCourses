@@ -6,7 +6,7 @@
 ### Folder 04 -----> Weight on another planet
 ### Folder 05 -----> Obtaining user data
 ### Folder 06 -----> Flow and conditionals
-### Folder 07 -----> 
+### Folder 07 -----> The DOM - Our workplace on the web
 ### Folder 08 -----> 
 ### Folder 09 -----> 
 ### Folder 10 -----> 
