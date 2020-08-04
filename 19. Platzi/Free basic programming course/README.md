@@ -7,7 +7,7 @@
 ### Folder 05 -----> Obtaining user data
 ### Folder 06 -----> Flow and conditionals
 ### Folder 07 -----> The DOM - Our workplace on the web
-### Folder 08 -----> 
+### Folder 08 -----> How Window and Document work
 ### Folder 09 -----> 
 ### Folder 10 -----> 
 ### Folder 11 -----> 
