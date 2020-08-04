@@ -10,8 +10,8 @@
 ### Folder 08 -----> How Window and Document work
 ### Folder 09 -----> Drawing in the DOM
 ### Folder 10 -----> JavaScript functions
-### Folder 11 -----> 
-### Folder 12 -----> 
+### Folder 11 -----> While and For cycles in JavaScript
+### Folder 12 -----> Events and Forms in HTML and JavaScript
 ### Folder 13 -----> 
 ### Folder 14 -----> 
 ### Folder 15 -----> 
@@ -26,3 +26,4 @@
 ### Folder 24 -----> 
 ### Folder 25 -----> 
 ### Folder 26 -----> 
+### Folder 27 -----> Course material
