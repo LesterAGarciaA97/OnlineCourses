@@ -8,7 +8,7 @@
 ### Folder 06 -----> Flow and conditionals
 ### Folder 07 -----> The DOM - Our workplace on the web
 ### Folder 08 -----> How Window and Document work
-### Folder 09 -----> 
+### Folder 09 -----> Drawing in the DOM
 ### Folder 10 -----> 
 ### Folder 11 -----> 
 ### Folder 12 -----> 
