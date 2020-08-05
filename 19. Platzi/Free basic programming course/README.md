@@ -14,7 +14,7 @@
 ### Folder 12 -----> Events and Forms in HTML and JavaScript
 ### Folder 13 -----> Detect keyboard events with JavaScript
 ### Folder 14 -----> Draw on canvas with the keyboard arrows
-### Folder 15 -----> 
+### Folder 15 -----> Mathematical functions and random numbers in JavaScript
 ### Folder 16 -----> 
 ### Folder 17 -----> 
 ### Folder 18 -----> 
