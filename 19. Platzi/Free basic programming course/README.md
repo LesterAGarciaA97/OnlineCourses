@@ -12,7 +12,7 @@
 ### Folder 10 -----> JavaScript functions
 ### Folder 11 -----> While and For cycles in JavaScript
 ### Folder 12 -----> Events and Forms in HTML and JavaScript
-### Folder 13 -----> 
+### Folder 13 -----> Detect keyboard events with JavaScript
 ### Folder 14 -----> 
 ### Folder 15 -----> 
 ### Folder 16 -----> 
@@ -26,4 +26,5 @@
 ### Folder 24 -----> 
 ### Folder 25 -----> 
 ### Folder 26 -----> 
-### Folder 27 -----> Course material
+### Folder 27 -----> 
+### Folder 28 -----> Course material
