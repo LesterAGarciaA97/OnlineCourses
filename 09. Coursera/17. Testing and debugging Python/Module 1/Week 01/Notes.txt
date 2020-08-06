@@ -1,0 +1,33 @@
+Finding bugs while testing is a good practice before
+the application goes to production
+
+First, it is necessary to create a function to test
+
+Create a function stube 
+a function stube is a placeholder for a function
+
+Print is common in debugging
+
+
+Select  a test framework
+1. Enable a test framework-unittest
+2. A test is designed with a test input and expected results based on function specs.
+3. The bubble sort function should fail the test.
+4. This is TDD: Test-Driven Development
+
+
+Explore test output and implement the function
+1. Observe the test output
+2. Implement the function (dont worry to fix it)!
+3. Run the test using the icons on the test itself
+
+
+Debug
+1. Set breakpoints -used to paused program to analyze variables
+2. use the Debug controls to step through code
+	Continue
+	Step over
+	Step into
+	Step out
+3. Zero in on Error
+

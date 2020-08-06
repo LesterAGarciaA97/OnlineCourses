@@ -16,3 +16,4 @@
 ### Folder 14 -----> Practical introduction to the command line
 ### Folder 15 -----> Image classification with CNNs using Keras
 ### Folder 16 -----> Create your first automation script using Selenium and Java
+### Folder 17 -----> Testing and debugging Python

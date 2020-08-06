@@ -1,0 +1,12 @@
+Testing and Debugging Python
+
+Now we will test and debug with Python. We will accomplish it by completing each task in the project:
+
+    Create Python Code Stub
+    Select Testing Framework
+    Implement Function
+    Debug code
+    Finalize Tests
+
+While you are watching me work on each step, you will get a cloud desktop with all the required software pre-installed. This will allow you to follow along the instructions to complete the above mentioned tasks. 
+After all, we learn best with active, hands-on learning
