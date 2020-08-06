@@ -19,3 +19,4 @@
 ### Folder 17 -----> Testing and debugging Python
 ### Folder 18 -----> Git + GitHub for open source collaboration
 ### Folder 19 -----> Git for developers using Github
+### Folder 20 -----> Data visualization with Python

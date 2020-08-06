@@ -1,0 +1,34 @@
+Create a Pandas dataframe table
+1. A table using Pandas dataframe and print
+2. Stadistics base on the table values
+3. A line graph with an X axis and Y axis using Pandas
+4. A window showing the graph using Matplotlib's pyplot
+
+Matplotlib pyplot
+1. A pyplot using temperature and month
+2. A pyplot using Month and temperature
+3. A Pyplot using month on the X axis, Temperature and Rainfall together on the Y axis.
+4. Create a Legens foe the graph
+
+
+Scatterplot graph
+1. Introducing the Seaborn library
+2. Built atop MatplotLib
+3. Create a plot with individual data poir scattered
+4. Create a regression to show possible correlation
+
+
+Seaborn Heatmap
+1. Popular type of graph--good for spotting large and small values quickly
+2. Sometimes requires data to be reorganized into a Matrix using pivots
+3. Has a color key on the side
+4. Create using a new births data set: (month, year, number of births)
+
+*This map is used to show correlations
+
+
+JointPlot
+1. Popular type graph--Good for looking at distribution and data points at the same time
+2. Has option to display different kind of graph- the parameter called kind
+3. Here, we will see scatter with regression line, as well as distribution
+
