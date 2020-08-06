@@ -1,0 +1,50 @@
+Welcome!
+
+Welcome to Git for Developers Using Github. This is a project-based course which should take approximately 2 hours to finish. Before diving into the project, please take a look at the course objectives and structure:
+Course Objectives
+
+In this course, we are going to focus on three learning objectives:
+
+    Getting familiar with Github's website
+    Performing version control on the command line with git
+    Working with new and existing repositories
+
+By the end of this course, you will be able to successfully use version control for your projects with git and Github.
+Course Structure
+
+This course is divided into 4 parts:
+
+    Course Overview: This introductory reading material.
+    Git for Developers Using Github: This is the hands on project that we will work on in Rhyme.
+    Graded Quiz: This is the final assignment that you need to pass in order to finish the course successfully.
+
+Project Structure
+
+The hands on project on Git for Developers Using Github is divided into following tasks:
+Task 1: Introduction to the Github site and using git locally
+Task 2: Setting up and using branches and remotes
+Task 3: Updates, merge conflicts, stashing, and rebasing
+Task 4: Commits and logs
+Task 5: Squash, edit, and revert commits
+Task 6: Starting a new repo
+Meet the Instructor
+
+Kerri-Leigh Grady has been wrestling version control systems and process improvement since 1999, but git became her darling as soon as she used it on the command line. She acknowledges it can be a curmudgeon, but she insists that's one of its many charms. When she's not cherry picking to recover from coding while uncaffeinated, she loves reading, writing, hiking, and pretending like she can paint.
+
+
+
+
+
+Git for Developers Using Github
+
+Now we will learn how to work with repositories on Github using git on the command line. We will accomplish it by completing each task in the project:
+
+    Gain familiarity with Github's site, and fork and clone a Github repository
+    Create branches, set up remotes, commit and push changes, and make a pull request
+    Fetch and pull updates, deal with merge conflicts, stash, and rebase
+    View and work with commits and logs
+    Squash and revert commits
+    Start a new repository 
+
+While you are watching me work on each step, you will get a cloud desktop with all the required software pre-installed. This will allow you to follow along the instructions to complete the above mentioned tasks. After all, we learn best with active, hands-on learning.
+

@@ -17,3 +17,5 @@
 ### Folder 15 -----> Image classification with CNNs using Keras
 ### Folder 16 -----> Create your first automation script using Selenium and Java
 ### Folder 17 -----> Testing and debugging Python
+### Folder 18 -----> Git + GitHub for open source collaboration
+### Folder 19 -----> Git for developers using Github

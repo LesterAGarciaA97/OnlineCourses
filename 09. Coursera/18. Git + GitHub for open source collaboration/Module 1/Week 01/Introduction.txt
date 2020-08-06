@@ -1,0 +1,52 @@
+Welcome!
+
+Welcome to Git + GitHub for Open Source Collaboration. This is a project-based course which should take approximately 1 hour to finish.
+
+By the end of this project, you will be able to collaborate with any GitHub repository on the Internet. You'll learn to add and push your code changes, create and merge branches, fork projects, and send pull requests for making your updates mainstream.
+Course Objectives
+
+In this course, we are going to focus on seven learning objectives:
+
+    Learning how Git works, and how to create a remote repository.
+    Push a versioned timeline of your coding history (git add, commit, push, status)
+    Consume and navigate Git / GitHub repositories (git clone, pull, log and checkout)
+    Understand how Git timelines work
+    Use branches as alternate code timelines (git branch and merge)
+    Fork repositories and keep them synced
+    Make your fork mainstream through Pull Requests 
+
+Course Structure
+
+This course is divided into 3 parts:
+
+    Course Overview: This introductory reading material.
+    Git + GitHub for Open Source Collaboration: This is the hands on project that we will work on in Rhyme.
+    Graded Quiz: This is the final assignment that you need to pass in order to finish the course successfully.
+
+Project Structure
+
+The hands on project on Git + GitHub for Open Source Collaboration are divided into following tasks:
+Task 1: Learning how Git works, and how to create a remote repository.
+Task 2: Push a versioned timeline of your coding history (git add, commit, push, status)
+Task 3: Consume and navigate Git / GitHub repositories (git clone, pull, log and checkout)
+Task 4: Understand how Git branches work
+Task 5: Use branches as alternate code timelines (git branch and merge)
+Task 6: Fork repositories and keep them synced
+Task 7: Make your fork mainstream through Pull Requests 
+
+
+
+Git + GitHub for Open Source Collaboration
+
+We are going to learn how to use Git and GitHub on the Rhyme Interactive platform. This will be accomplished by by completing each task in the project:
+
+    Learning how Git works, and how to create a remote repository.
+    Push a versioned timeline of your coding history (git add, commit, push, status)
+    Consume and navigate Git / GitHub repositories (git clone, pull, log and checkout)
+    Understand how Git timelines work
+    Use branches as alternate code timelines (git branch and merge)
+    Fork repositories and keep them synced
+    Make your fork mainstream through Pull Requests 
+
+While you are watching me work on each step, you will get a cloud desktop with all the required software pre-installed. This will allow you to follow along the instructions to complete the above mentioned tasks. 
+After all, we learn best with active, hands-on learning
