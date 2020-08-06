@@ -1,0 +1,13 @@
+ Create Your First Automation Script Using Selenium and Java
+
+Now we will write our first automation script using Selenium and Java. We will accomplish it in by completing each task in the project:
+
+    Setup a java project for automation scripts.
+    Run your first command on the Chrome Browser.
+    Writing first Test Case using TestNG
+    Interacting With Elements of Web Application
+    Interacting with Web Elements like radio button and Links
+    Interacting with web tables on a web application
+
+While you are watching me work on each step, you will get a cloud desktop with all the required software pre-installed. This will allow you to follow along the instructions to complete the above mentioned tasks. 
+After all, we learn best with active, hands-on learning

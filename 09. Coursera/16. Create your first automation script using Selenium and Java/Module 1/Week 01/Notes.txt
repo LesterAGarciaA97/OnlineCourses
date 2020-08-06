@@ -1,0 +1,8 @@
+Libraries to be included:
+Selenium.jar
+TestNG
+
+Basic Selenium commands in Chrome Browser
+TestNG
+Interacting with elements in a test application
+
