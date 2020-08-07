@@ -1,0 +1,12 @@
+Image Processing with Python
+
+Now we will process images with Python. We will accomplish it by completing each task in the project:
+
+    Read the Image using Python and OpenCV
+    Resize the Image using OpenCV
+    Blur the Image
+    Sharpen the Image
+    Batch Process a Folder of Images
+
+While you are watching me work on each step, you will get a cloud desktop with all the required software pre-installed. 
+This will allow you to follow along the instructions to complete the above mentioned tasks. After all, we learn best with active, hands-on learning

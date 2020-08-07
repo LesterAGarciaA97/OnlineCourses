@@ -1,0 +1,26 @@
+Open an image
+
+Resize image
+determine the originla height and width to resize
+
+Blur the image
+1. Blur can be desirable and interesting
+2. Implement the function to blur
+3. Call the Blur function
+4. Show imagen in a windowsG
+
+The kernel values increase, the blur effect increases too
+
+Sharpen Image
+This is used in facial recognition software, investigations of all kinds,
+scientific, criminal, etc.
+
+Implement the function to sharpen using OpenCV
+Use Convolution Matrix or Kernel with a filter
+Pass the image to our sharpen function
+
+Batch processing images
+1. Read the filename from a directory
+2. Pass each filename to the resize function
+3. Store the file in a new directory with the same filename
+

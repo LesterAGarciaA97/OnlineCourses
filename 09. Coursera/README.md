@@ -21,3 +21,4 @@
 ### Folder 19 -----> Git for developers using Github
 ### Folder 20 -----> Data visualization with Python
 ### Folder 21 -----> Processing data with Python
+### Folder 22 -----> Image processing with Python
