@@ -23,3 +23,4 @@
 ### Folder 21 -----> Processing data with Python
 ### Folder 22 -----> Image processing with Python
 ### Folder 23 -----> Create Python Linux script to generate a disk usage report
+### Folder 24 -----> Class creation in object oriented Python

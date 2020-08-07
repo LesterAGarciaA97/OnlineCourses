@@ -1,0 +1,30 @@
+Analyze class requirements
+Create the class definition
+Create an object instance
+Print one of the attributes using a dot operator
+
+Create constructor
+1. Constructor is called when an object is created
+2. Allows for initialization of attributes
+3. Allows for default values
+4. Create a constructor
+5. Check the default values
+6. Check the assigned values
+
+Getter and Setter
+1. Getters provide access control and Setters provide protection for the attributes
+2. No 'private' attributes in Python
+3. Give the attribute a new name to imply 'hidden'
+4. Implement Getter and Setter for _price
+
+Create string representation
+1. Print the object created
+2. Determine how the objects shoul be printed
+3. Implement the __str__ method in the Class Definition
+
+Sort objects
+Read data from the file
+Extract data from the entry
+Create the object to the list
+Sort list of objects and print them
+
