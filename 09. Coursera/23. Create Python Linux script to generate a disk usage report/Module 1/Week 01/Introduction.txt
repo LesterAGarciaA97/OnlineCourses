@@ -1,0 +1,12 @@
+Python Linux Script to Generate a Disk Usage Report
+
+Now we will work on Python Linux Script. We will accomplish it by completing each task in the project:
+
+    Prepare the Python Script.
+    Use the __name__ to identify the main code and use sys.argv to access the command line arguments.
+    Create a for loop to access each sub-directory.
+    Create a function to determine the disk space used by each directory.
+    Use a python package to generate a report in CSV format.
+
+While you are watching me work on each step, you will get a cloud desktop with all the required software pre-installed. 
+This will allow you to follow along the instructions to complete the above mentioned tasks. After all, we learn best with active, hands-on learning
