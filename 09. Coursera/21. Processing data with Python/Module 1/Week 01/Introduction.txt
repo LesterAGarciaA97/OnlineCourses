@@ -1,0 +1,12 @@
+Processing Data with Python
+
+Now we will Process Data with Python. We will accomplish it by completing each task in the project:
+
+    Create a Pandas DataFrame
+    Read Data from Files
+    Cleaning Data
+    Data Analysis
+    Data Subset
+
+While you are watching me work on each step, you will get a cloud desktop with all the required software pre-installed. 
+This will allow you to follow along the instructions to complete the above mentioned tasks. After all, we learn best with active, hands-on learning

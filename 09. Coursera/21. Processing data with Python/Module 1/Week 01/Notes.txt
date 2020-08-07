@@ -1,0 +1,31 @@
+Create danned data
+
+Canned data is hard coded within the program
+
+Read data from files
+
+Cleaning data
+One of the most important tasks in processing data
+Data needs to be consistent to be reliable analyzed
+Cleaning involves parsing data detecting 'bad' or missing data
+
+
+Statistical analysis
+Mean: The average of a ser of numbers
+Median: The middle value in a sorted set of numbers
+Standard deviation: How much each value differs from
+the mean. Can be used to detect outliers
+Mode: The most common value in a list of data
+
+Pandas easily performs these functions
+
+
+Data subset
+Indexing
+	Select single columns using a column name
+	Select multiple column names
+
+Iloc and Loc
+	Select a certain row number using iloc
+	Select a certain row using a certain value
+
