@@ -1,0 +1,45 @@
+Onedrive es un almacenamiento en los servidores de microsoft
+
+Se puede subir cualquier tipo de archivo
+
+Se puede trabajar en línea con documentos
+Se puede trabajar de manera colaborativa en línea
+
+
+Visión general:
+Plan gratuito tiene 5gb por default
+
+
+Opcional: Crear cuenta de Outlook
+
+Word, Excel, PowerPoint, OneNote, Documento de texto sin formato (txt)
+Funcionalidd básica
+
+Se pueden crear carpetas para la mejor gestion de orden de archivos
+Es parecido a crear carpetas en Windows
+
+Pueden moverse documentos entre carpetas ya sea con clicks independientes o arrasntrando a la carpeta destino
+
+También se puede mover carpetas
+
+Se le pueden cambiar nombre a archivos uno a la vez, no de forma múltiple
+
+Subir archivos:
+1. Seleccionar desde el explorador de archivos
+2. Arrastras y soltar
+
+Se pueden cargar carpetas con todo su contenido adentro de ellas
+
+Se pueden modificar los modos de vista a:
+1 Lista
+2 Minituras
+
+Compartir vinculo:
+Escoger opcion para que puedan editar o no
+
+Si ya no queremos compartir, entramos a información y deshabilitamos links
+
+
+Utilizarlo en nuestra computadora
+Al instalarlo creará una carpeta en nuestra computadora
+
