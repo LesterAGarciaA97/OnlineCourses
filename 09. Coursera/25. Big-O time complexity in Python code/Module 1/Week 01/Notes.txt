@@ -1,0 +1,21 @@
+Big-O time complexity in Python code
+
+This is no delimeted by time, is taken by
+amount of data used
+
+ Visualize complexity results using PyPlot
+
+1. Implement the plot function that will be used for future tasks
+2. Takes an array for X-coordinates and an array for Y coordinate
+3. Used in future tasks to plot input Size N on the X axis and iteration count on the Y axis
+4. Create a window showing the graph using Matplotlib's pyplot
+5. Determine how this will be used to visuallize Big-O
+
+
+Array = Constant
+
+Bubble sort = Ascending --> Increasing automatically
+
+Linear search function = Linear and increasing constantly
+
+Binary search = Ascending tending to be constant

@@ -1,0 +1,12 @@
+Big-O Time Complexity in Python Code
+
+Now we will work on Big-O Time Complexity in Python Code. We will accomplish it by completing each task in the project:
+
+    Use Matplotlib’s Pyplot module to produce a graph to visualize Big-O performance data.
+    Write a function that returns one element and analyze the Big-O time complexity.
+    Write a Bubblesort function and analyze its performance.
+    Implement a Linear Search of an Array and determine its Big-O.
+    Create a Binary Search function and perform Big-O analysis.
+
+While you are watching me work on each step, you will get a cloud desktop with all the required software pre-installed. 
+This will allow you to follow along the instructions to complete the above mentioned tasks. After all, we learn best with active, hands-on learning
