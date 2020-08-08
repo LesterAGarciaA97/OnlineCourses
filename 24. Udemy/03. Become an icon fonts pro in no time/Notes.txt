@@ -1,0 +1,16 @@
+Font awesome
+Install in computer
+
+Open Adobe Ilustrator to see the fonts previously installed
+
+Search for fonawesome cheatsheet
+
+
+The Glyphs panel
+If we select this option there will show all the icons available
+
+Grouping icons
+This is usefull to search and use after saving changes
+
+Using icon fonts with Bootstrap
+<i class="glyphicons glyphicons=home"></i>
