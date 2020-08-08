@@ -1,0 +1,12 @@
+Python Pandas Merge Sort Filter
+
+Now we will work on Python Pandas Merge Sort Filter. We will accomplish it by completing each task in the project:
+
+    Read the data into a Pandas DataFrame.
+    Use a Filter to remove outliers in the data.
+    Combine the data using Pandas Merge.
+    Sort the data by rainfall and temperature.
+    Use the Seaborn package to create a regression plot.
+
+While you are watching me work on each step, you will get a cloud desktop with all the required software pre-installed. 
+This will allow you to follow along the instructions to complete the above mentioned tasks. After all, we learn best with active, hands-on learning

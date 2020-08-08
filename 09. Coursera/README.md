@@ -25,3 +25,4 @@
 ### Folder 23 -----> Create Python Linux script to generate a disk usage report
 ### Folder 24 -----> Class creation in object oriented Python
 ### Folder 25 -----> Big-O time complexity in Python code
+### Folder 26 -----> Merge, sort and filter data in Python Pandas

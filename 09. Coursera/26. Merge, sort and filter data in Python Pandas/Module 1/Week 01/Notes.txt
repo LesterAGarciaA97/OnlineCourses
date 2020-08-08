@@ -1,0 +1,15 @@
+Use a filter to remove outliers
+
+For this we will use a query to eliminate aoutliers in temperature
+and in rainfall
+This is used to quit negative values
+
+Combine data using Pandas merge
+1. Merge two DF
+2. Use Pandas merge with an outer join
+3. Print the merged DF
+
+Sort the data by rainfall and temperature
+
+Use seaborn package to create a regression plot
+
