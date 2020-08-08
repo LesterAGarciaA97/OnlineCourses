@@ -1,0 +1,41 @@
+#suplementos {
+    background-color: #252D39;
+    padding: 20px 0px;
+}
+
+#suplementos h1 {
+    font-size: 24px;
+    color: #fff;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+
+/* #suplementos img {
+    border: 2px solid #fff;
+    -o-object-fit: cover;
+    object-fit: cover;
+    height: 200px;
+} */
+
+#suplementos img {
+    border: 2px solid #fff;
+    -o-object-fit: cover;
+    object-fit: cover;
+    min-height: 220px;
+    max-height: 250px;
+    height: auto;
+}
+
+@media (min-width: 767px) and (max-width: 992px) {
+    #suplementos {
+        padding: 15px;
+    }
+}
+
+@media (max-width: 767px) {
+    #suplementos {
+        padding: 15px;
+    }
+}

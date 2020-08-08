@@ -1,0 +1,143 @@
+.content-gente-flash {
+    /* background-color: #AF315B; */
+    background-color: #ee008c;
+    position: relative;
+    padding: 17.5px 15px;
+}
+
+.content-gente-flash .card-note {
+    margin-bottom: 5px;
+}
+
+.content-gente-flash .main-note .card-note img {
+    max-height: 540px;
+    height: 540px;
+}
+
+.content-gente-flash .logo-section {
+    position: absolute;
+    width: 150px;
+    z-index: 1;
+    top: 0px;
+    left: 0;
+}
+
+.content-gente-flash .secundary-notes .card-note img {
+    max-height: 267.5px;
+    height: 267.5px;
+}
+
+.content-gente-flash .card-note:after {
+    content: "";
+    z-index: 1;
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.content-gente-flash .card-note img {
+    width: 100%;
+    transition: 1s all ease-in-out;
+    -o-object-fit: cover;
+    object-fit: cover;
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+}
+
+.content-gente-flash .card-note:hover img {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.content-gente-flash .card-note .text-container {
+    z-index: 2;
+    position: absolute;
+    bottom: -1px;
+    left: 0;
+    right: 0;
+    color: #fff;
+    display: block;
+    width: 100%;
+    transition: .3s all ease-in-out;
+    padding: 15px;
+    /* background: linear-gradient(to bottom, transparent 0%, rgba(0, 0, 0, .9) 100%);
+    background: -moz-linear-gradient(top, transparent 0%, transparent 18%, rgba(0, 0, 0, 0.8) 99%, rgba(0, 0, 0, 0.8) 100%);
+    background: -webkit-linear-gradient(top, transparent 0%, transparent 18%, rgba(0, 0, 0, 0.8) 99%, rgba(0, 0, 0, 0.8) 100%);
+    background: -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(18%, transparent), color-stop(99%, rgba(0, 0, 0, 0.8)), to(rgba(0, 0, 0, 0.8)));
+    background: -o-linear-gradient(top, transparent 0%, transparent 18%, rgba(0, 0, 0, 0.8) 99%, rgba(0, 0, 0, 0.8) 100%);
+    background: linear-gradient(to bottom, transparent 0%, transparent 18%, rgba(0, 0, 0, 0.8) 99%, rgba(0, 0, 0, 0.8) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#cc000000', GradientType=0); */
+    background: linear-gradient(to bottom, transparent 0%, rgba(0, 0, 0, .9) 100%);
+}
+
+.content-gente-flash .card-note .text-container h1 {
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.content-gente-flash .card-note .text-container h3 {
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+.content-gente-flash .col-dark{
+    background: #04020c;
+    height:540px;
+}
+.content-gente-flash .col-dark .card-note{
+    border-bottom: 2px solid #ffffff;
+
+}
+.content-gente-flash .col-dark .card-note h4{
+    font-style: italic;
+    font-size: 20px;
+    /* font-weight: bold; */
+    color: #E12747;
+}
+
+@media (min-width: 767px) and (max-width: 992px) {
+    .content-gente-flash {
+        padding: 15px;
+    }
+    .content-gente-flash .main-note {
+        padding-bottom: 5px;
+    }
+    .content-gente-flash .card-note .text-container h1 {
+        font-size: 22px;
+    }
+    .content-gente-flash .padding-bottom5 {
+        padding-bottom: 5px;
+    }
+    .content-gente-flash .logo-section {
+        width: 120px;
+    }
+}
+
+@media (max-width: 767px) {
+    .content-gente-flash {
+        padding: 15px;
+    }
+    .content-gente-flash .main-note {
+        padding-bottom: 5px;
+    }
+    .content-gente-flash .main-note .card-note {
+        padding-bottom: 5px;
+    }
+    .content-gente-flash .padding-bottom5 {
+        padding-bottom: 5px;
+    }
+    .content-gente-flash .logo-section {
+        width: 100px;
+    }
+    .content-gente-flash .card-note .text-container h1,
+    .content-gente-flash .card-note .text-container h3 {
+        font-size: 20px;
+    }
+}
