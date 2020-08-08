@@ -1,0 +1,103 @@
+LibreOffice is the most common alternative
+
+Offimatic software
+(Writer, Calc, Impress and Base)
+
+
+Photoshop --> Gimp
+
+
+Browsers
+Firefox, Opera Chronium
+
+
+Windows media Player --> VLC
+
+
+Adobe reader --> Okular, Evince, Adobe Reader
+
+Microsoft outlook --> Evolution, Geary, Kmail, Thunderbird
+
+
+Even more Linux Software
+Microsoft Office:
+* Libre Office
+* Open Office
+* Calligra
+* Google Docs
+* Office 365
+* Zoho Docs
+
+Microsoft Outlook
+* Evolution
+* Thuunderbird
+* Kmail
+* Geary
+* Zimbra
+
+Notepad/Wordpad
+* gedit
+* jEdit
+* Kate
+* NEdit
+* Scribes
+* Sublime Text
+
+Internet explorer
+* Chrome
+* Firefox
+* Opera
+* Epiphany
+* Konqueror
+
+Photoshop
+* Gimp
+* Inkscape
+* Krita
+* MyPaint
+* Pinta
+* Pixlr
+
+Movie maker
+* OpenShot
+* Kdenlive
+* Shotcut
+* VideoLAN movie creator
+* Cinelerra
+* Open Movie Editor
+
+Windows media player
+* VLC
+* Mplayer
+* Parole Media Player
+* SMPlayer
+* KPlayer
+
+Adobe Reader
+* Okular
+* Evince
+* Foxit Reader
+* Adobe reader (For Linux)
+
+Windows photo viewer
+* digiKam
+* Shotwell
+* F-Spot
+* gThumb
+
+Yahoo Messenger/ AOL Instant messenger
+* Pindgin
+* EEmpathy
+* Kopete
+* Gajim
+* Skype
+
+Nero burning Rom
+* Nero linux
+* Brasero
+* K3b
+* Xfburn
+* GnomeBaker
+* X-CS-Roast
+
+To use linux in windows user Virtualbox

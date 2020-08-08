@@ -1,0 +1,24 @@
+ If you ever wanted to try Linux, but were afraid you wouldn't be able to use your favorite software, programs, or applications, take this course.
+
+If you have applications that you rely on every day, you want to be sure those applications or equivalent ones are available on Linux before you invest any time learning about it.
+
+In this course you will be introduced to some of the most popular applications available for Linux. These applications allow you to browse the web, watch movies, listen to music, create presentations, and more. If you are curious about what Linux has to offer, enroll in this course today.
+
+Bonus Video - Learn How to Install Ubuntu Linux without Overwriting Your Current OS or Losing Any Data
+
+If you don’t have dedicated hardware to run Linux, that’s totally fine. There’s no need to buy another computer or wipe your current one just so you can take Linux out for a test drive. Using this bonus video, you will learn how to install virtualization software so you can run Linux on your current system without having to delete your current operating system or lose any of your precious data. Don’t worry — the virtualization software works on both Windows and Mac computers.
+
+You’ll also be guided step-by-step through an installation of Ubuntu. Along the way you’ll learn the differences between installing Linux in a virtual environment and a physical environment. That way you’ll be able to install Linux anywhere you want.
+
+Click "Start Learning Now" to discover what applications are available for the Linux Operating System.
+Lo que aprenderás
+
+    By the end of this course you will have alternatives for the most common Windows applications that are available for the Linux operating system.
+
+¿Hay requisitos para realizar el curso?
+
+    A desire to learn.
+
+¿Para quién es este curso?
+
+    Anyone with a desire to learn what Linux has to offer.
