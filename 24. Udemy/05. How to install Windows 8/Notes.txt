@@ -1,0 +1,10 @@
+Facts about Windows 8
+
+Windows 8 operating system was released by Microsoft in the later part of 2012
+
+Windows 8 has mainstream support until January of 2018, and will continue with extended support January of 2023
+
+Winows 8 has been used by many OEMs like Dell, HP, Lenovo, ASUS and Acer
+
+You need to purchase a lincese of Windows 8 to use it
+

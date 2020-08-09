@@ -1,0 +1,27 @@
+.customer-module-caurosel-wrapper .image-wrapper{width:100%;height:auto;background-position:left center;background-repeat:no-repeat;background-size:cover;min-height:500px}
+.customer-module-caurosel-wrapper .content-wrapper{position:absolute;top:0;left:0;width:70%;max-width:40%;padding:0 40px;padding-top:70px;height:100%}
+.customer-module-caurosel-wrapper .content-wrapper.rightPush{left:auto;right:0}
+.customer-module-caurosel-wrapper .content-wrapper.dark-bg{background-color:rgba(11,11,11,0.7)}
+.customer-module-caurosel-wrapper .content-wrapper.dark-bg *{color:#f8f9fb}
+.customer-module-caurosel-wrapper .content-wrapper.light-bg{background-color:rgba(255,255,255,0.9)}
+.customer-module-caurosel-wrapper .content-wrapper.light-bg *{color:#565656}
+.content-heading{font-size:33px;font-family:'metropolislight'}
+.content-description{font-size:16px;font-family:'metropolislight'}
+.content-wrapper img{display:block;margin-top:35px;max-width:200px;max-height:66px}
+.content-cta,.content-cta:hover,.content-cta:focus{display:inline-block;border-radius:3px;padding:5px 10px;font-size:16px;margin-top:25px;text-decoration:none;font-family:'metropolislight'}
+.customer-module-caurosel-wrapper .content-wrapper.dark-bg .content-cta{border:1px solid #fff;color:#fff !important;font-family:'metropolislight'}
+.customer-module-caurosel-wrapper .content-wrapper.light-bg .content-cta{border:1px solid #1a428a;color:#1a428a !important}
+.content-cta:hover,.customer-module-caurosel-wrapper .content-wrapper.light-bg .content-cta:hover{background-color:#1e428a;border-color:#1e428a !important;color:#fff !important}
+.customer-module-caurosel-wrapper ol.carousel-indicators{margin:0;margin-left:-30%}
+.customer-module-caurosel-wrapper .carousel-indicators li,.customer-module-caurosel-wrapper .carousel-indicators li.active{width:30px;height:7px;border:0;border-radius:0;margin:1px}
+.darkBg-indicators li{background:#505050;opacity:.9}
+.darkBg-indicators li.active{background:#00aeef}
+.lightBg-indicators li{background:#505050;opacity:.9}
+.lightBg-indicators li.active{background:#00aeef}
+.view-all,.view-all:hover{display:block;font-size:16px;width:100%;text-align:center;color:#1e428a;text-decoration:none;margin:15px 0;font-family:'metropolislight'}
+.view-all:hover{color:#0094d2}
+@media(max-width:768px){.customer-module-caurosel-wrapper .content-wrapper{top:0;right:0;max-width:100%;width:100%}
+.customer-module-caurosel-wrapper .content-wrapper{padding:20px;padding-top:70px}
+}
+@media(max-width:800px) and (min-width:768px){.customer-module-caurosel-wrapper .content-wrapper{height:auto}
+}

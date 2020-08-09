@@ -1,0 +1,29 @@
+Windows 8 Installation Walkthrough URLs:
+
+Windows 8 details of support (and other home operating systems from Microsoft):
+http://windows.microsoft.com/en-us/windows/lifecycle
+
+Windows 8 version differences chart:
+https://en.wikipedia.org/wiki/Windows_8_editions#Comparison_chart
+*Note - this is a publicly maintained and updated site, so there's a change information
+could be inaccurate.  It still a useful tool to reference the differences between the 
+different Windows 8 offerings
+
+Virtualization Software - VMware player from VMware:
+www.vmware.com
+
+Virtualization Software - Virtual Box:
+www.virtualbox.org
+
+Review more about features and obtain some support:
+http://windows.microsoft.com/en-us/windows/support#1TC=windows-8
+
+Microsoft community forums:
+http://answers.microsoft.com/en-us/windows/forum/windows_8?tab=Threads
+
+Security Software:  Mcafee - www.mcafee.com
+Security Software:  Norton - www.norton.com
+Security Software:  AVG - www.avg.com
+
+
+
