@@ -1,0 +1,27 @@
+[MÚSICA] [MÚSICA] Con esta unidad comentaremos los conceptos legales
+relacionados con el ordenador. Un elemento de protección que
+se utiliza es la ley de marcas, que pretende que el software
+no sea copiado por un tercero. Otro elemento de protección
+son los derechos de autor, incluidos dentro de la ley
+de propiedad intelectual. Los derechos de explotación de un software ordenador duran toda la vida del
+autor y 70 años después de su muerte. El titular de un programa hará
+indicar de forma visible o insertar dentro del programa el
+símbolo de Copyright, juntamente con el nombre del titular,
+año y lugar de la divulgación. El autor ha de estar inscripto en la
+Sociedad General de Autores y Editores del Ministerio de Cultura. Esta medida impedirá a cualquier
+persona o empresa alegar que desconocía el derecho exclusivo de
+quien públicamente así lo comunica. Una licencia de software es
+un contrato entre el autor y el usuario para utilizar el software
+cumpliendo una serie de términos y condiciones establecidas
+dentro de sus cláusulas. Adquirir, copiar, compartir o dejar programas sin la licencia
+correspondiente supone un delito contra la propiedad intelectual del
+Software que está penalizada por la ley. Las licencias se pueden clasificar
+en cuatro tipos, el Freeware o dominio público, son los programas que
+pueden ser distribuidos gratuitamente. El Shareware son los programas que
+pueden ser adquiridos gratuitamente para ser utilizados durante un periodo
+limitado de tiempo a modo de prueba. Al final de este periodo hay que contactar
+con el distribuidor del producto para pagar por su uso o
+eliminarlo del ordenador. El Software de propiedad es el que se ha
+de pagar y está protegido contra copia, modificación y redistribución. El código abierto ofrece un acceso
+gratuito al código fuente del producto. La idea es que cualquiera lo pueda
+modificar para que evolucione y mejore. [AUDIO_EN_BLANCO]

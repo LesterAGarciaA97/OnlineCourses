@@ -24,3 +24,280 @@ Tipos de ordenador
 * Ordenadores portátiles = Peso y tamaño reducido
 * Servidores = Proporcionan servicios a otros computadores
 * Otros: Tablets, smartphones, etc.
+
+En otras palabras, llamamos ordenador a un sistema informático compuesto por un ordenador, 
+dispositivos de entrada y de salida y el usuario.
+
+Dispositivos de entrada = Permiten dar órdenes al ordenador
+Dispositivos de salida = convierten las respuestas
+
+Hardware = Parte física o tangible del ordenador
+Software = Todo lo interno
+
+Existen dos tipos de hardware:
+* Elementos internos --> Procesador, discos, motherboard
+* Elementos externos --> Periféricos, Monitor, impresora, etc.
+
+Principales compenentes internos de un computador son:
+* Placa base / Placa madre
+* Procesador (GPU - Unidad Central de Procesamiento)
+* Memoria RAM 
+* Tarjeta gráfica
+* Tarjeta de sonido
+* Tarjeta de red
+* Disco duro
+
+Los elementos externos se clasifican en 3:
+* Periféricos de entrada (Teclado, Mouse, cámara, etc)
+* De salida (Monitor, impresora)
+* De entrada/salida (USB)
+
+Puertos: Permiten conexión de dispositivos externos al ordenador
+Existen diferentes tipos de puertos:
+* Puerto serie: Enviar y recibir 1 solo bit a la vez
+* Puerto paralelo
+* Puert de red
+* Puerto USB (Universal Serial Bus) --> Plug and play
+* FireWire: Permite entrada y salida de datos a gran velocidad
+
+Prestaciones
+* Procesador
+* Velocidad de la CPU: Megaherzios (MHz)
+* Memoria RAM: Gigabytes (Gb)
+* Velocidad de acceso al disco duro
+
+Tipos de memoria:
+* Memoria RAM (Random Access Memory) Memoria de acceso aleatorio
+* Memoria ROM (Read Only Memory)
+* VDRAM es una memoria RAM de alta velocidad exclusiva a ver imágenes en pantalla
+
+Medidas de memoria
+* 1 Bit: Unidad mínima de información (0 o 1)
+* 1 byte (1 carácter) = 8 bits (Desde 00000000 hasta 11111111)
+* Crecen en 1024 por ser sistema binario
+* 1 kb (quilobyte) = 1024 bytes
+* 1 Mb (megabyte = 1024 Kb
+* 1 Gb (gigabyte) = 1024 Mb
+* 1 Tb (Terabyte) = 1024 Gb
+
+Dispositivos de almacenamiento
+* Disco duro
+* CD-ROM o DVD-ROM
+* Unidad flash USB (lápiz USB)
+* Unidades de red
+* Almacenaje online
+
+Software = Conjuntos de instrucciones que indica al ordenador que hacer
+
+Existen dos tipos de software:
+* Software de sistema operativo = Facilita el uso del sistema
+	- El sistema operativo
+	- Controladores o drivers
+* Software de aplicación
+	- Aplicaciones ofimáticas
+
+Accesibilidad
+Incluye ayudas como tipografías de alto contraste, lupa, lectores de pantalla, reconocimiento de voz, etc.
+
+Ejemplos:
+* Lupa
+* Narrador
+* Reconocimiento de voz de Windows
+* Teclado en pantalla
+
+---------------------------------------------------------------------------------------------
+
+Conceptos: Redes
+* Tipos de redes
+* Transferencia de datos
+
+Tipos de redes
+* LAN (Red de área local) Local Area Network
+* WAN (Red de área amplia) Wide Area Network 
+
+Internet es un conjuntos de redes unidas en todo el mundo, es una red de redes
+Insernet ofrece muchos servicios:
+* World Wide Web (www)
+* Correo electrónico (e-mail)
+* Comprar, contratar hoteles o vuelos, hacer trámites en la administración pública sin salir de casa
+* Comunidades virtuales
+* Almacenaje en línea (la nube)
+* y muchos más...
+
+Trasnferencia de datos = Envio de bytes mediante el uso de alguna tecnología
+* Tasa de transferencia (bps/Kbps/Mbbps)
+* Descarga o bajada / Carga o subida
+* Tipos de conexión a internet:
+	- ADSL
+	- Cable
+	- Vía satélite
+	- Redes inañámbricas
+
+---------------------------------------------------------------------------------------------
+
+El uso de las TIC en la vida cotidiana
+* Mundo electrónico
+* Comunicación
+* Salud
+* Medio ambiente
+
+Mundo electrónico
+* Las TIC: Tecnologías de la información y de la comunicación
+* Internet = Infraestructura básica de una nueva sociedad
+* Internet permite un acceso rápido y desde casa a servicios:
+	- Trabajar en casa
+	- Recibir información y hacer consultas al profesor
+	- Se puede pedir cita médica
+	- Comprar y reservar viajes
+	- Servicios bancarios
+	- Acceder a servicios de la administración publica
+	- Están disponibles las 24h todo el año
+
+Servicios de internet
+* Comercio electrónico
+* Banca electrónica
+* E-gobierno
+* E-learning
+* Teletrabajo
+
+Comercio electrónico
+Ventajas para el comprador:
+* Abaratamiento de la compra, ya que se elimina intermediarios
+* Reducción del tiempo invertido en la selección del producto
+* Elección de las modalidades de pago
+* La comodidad de ralizar la transacción desde casa
+Ventajas para el proveedor:
+* Reducción de costos de documentación
+* Reducción de costos de soporte al cliente
+* Mejor acceso a clientes poteciales
+* Pretigio
+* Apertura a mercados
+* Mejora de clientes (satisfacción)
+
+E-learning
+* Aprendizaje basado en la web
+* Aplicable en el ámbito educativo, profesional y empresarial
+* Facilita la incorporación de nuevos contenidos
+* Permite el trabajo y la intereacción en grupos
+* Se puede compaginar con la vida laboral y social
+* La organización de los cursos es más fácil y más flexible
+* Facilita el mantenimiento, actualización y diistribución de los contenidos
+* Se pueden capacitar más alumnos en menos tiempo
+
+Beneficios de teletrabajo para la empresa:
+* Contratar personal calificado sin importar donde viven
+* El espacio necesario de oficina se reduce
+* Flexibilidad laboral
+
+Beneficios para el teletrabajador
+* Flexibilidad para trabajar dónde y cuándo quiera
+* Poder compaginar la vida profesional con la familiar
+* Amplía las posibilidades laborales a personas con problemas de movilidad
+* Poder vvir lejos de los centros empresariales
+
+Inconvenientes del teletrabajo para la empresa:
+* Desestructuración corporativa
+* Deficiencias en intercambio de información
+* Demora de toma de decisiones
+* Peligro de ruptura de la fidelidad hacia la empresa
+* Peligro que la información salga de la empresa para caer en manos de la competencia
+
+Inconvenientes para el trabajador
+* El único inconveniente sería la posible pérdida de contacto humano
+
+Comunicación
+* Correo eléctronico
+* Mensajería instantánea (MI)
+* Comunidades virtuales (redes sociales)
+* Blog
+* VoIP
+* RSS
+
+
+Salud: ergonomía
+* Sentarse de lado a la ventana
+* La silla ha de ser ergonómica
+* La pantalla:
+	- Escritura oscura sobre fondo claro
+	- Inclinada hacia atrás
+	- La primera línea ha ce estar por debajo de los ojos
+* El ratón debe estar cerca del teclado
+* Los ojos
+* Los hombros y la espalda
+* Las manos
+* Los codos
+* Las rodillas
+* Los pies
+
+Las consecuencias pueden ir a contracturas musculares, vista cansada, y otras molestias crónicas
+
+
+Medio ambiente
+* Guardar y enviar documentos en soporte informático y no impresos
+* Reciclar cartuchos de tinta y el papel
+* Reciclar dispositivos
+
+---------------------------------------------------------------------------------------------
+
+Conceptos: Seguridad
+* Identidad / autenticación
+A más carácteres y cobinaciones de letras y números, más segura es
+* Seguridad de datos (Copias de seguridad)
+* Virus informáticos
+
+¿Qué hacen los virus informáticos?
+* Cosumen recursos
+* Eliminan archivos
+* Se activan en una fecha determinada
+* Envian publicidad
+* Propagarse
+* Recogen información personal
+
+¿Cómo se propagan?
+* Navegando por internet
+* A través del correo
+* Compartiendo programas
+* Instalando programas
+
+¿Cómo actuán?
+* Se crea
+* Contagia
+* Incubación
+* Replicación
+* Ataque
+
+¿Síntomas?
+* Lentitud
+* Disco duro trabaja más de la cuenta
+* Aumenta el tamaño de los archivos
+* Se reduce la memoria
+* Mensajes extraños en pantalla
+* Aparecen mensajes extraños
+* El sistema no arranca
+* Aparecen o desaparecen archivos
+* Programas que no se ejecutan
+* Aparecen archivos con el mismo nombre que otros
+* Reducción espacio en discos
+* El sistema no reconoce alguna unidad de disco
+
+Para estar protegidos es indispensable instalar un antivirus
+* Detectar
+* Desinfectar
+* Proteger
+* Prevenir
+
+---------------------------------------------------------------------------------------------
+
+Conceptos: Legislación
+* Ley de marcas = Software no sea copiado por un 3ro
+* Derechos de autor
+* Derechos de explotación
+* Copyright
+* Sociedad General de Autores y Editores
+* Licencia
+
+Licencias:
+* Freeware (Dominio público)
+* Shareware
+* Software de propiedad
+* Código abierto (Open Source)

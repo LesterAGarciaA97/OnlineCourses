@@ -1,0 +1,53 @@
+[AUDIO_EN_BLANCO] [MÚSICA] Con esta unidad, nos familiarizaremos con los
+conceptos relacionados con la seguridad. Una de las posibles amenazas sobre la
+seguridad de los datos almacenados puede provenir de personas que tienen
+interés en obtenerlas ilícitamente o, incluso, destruirlas. Para evitarlo,
+se impide el acceso de extraños mediante el uso de usuario y contraseña. Contra más caracteres tenga la contraseña,
+más segura será, y también se aumenta la seguridad si contiene una combinación
+de letras y números, y otros caracteres. Las copias de seguridad son un
+aspecto importante de la seguridad. Si no se tiene copia de
+soporte de la información, puede que se pierda información valiosa. De cara a evitar el acceso no autorizado
+a nuestro ordenador desde internet, es conveniente el uso de
+cortafuegos para controlar las comunicaciones del ordenador,
+permitiéndolas o prohibiéndolas. Una de las mayores preocupaciones de
+la mayoría de usuarios son los virus. Un virus es un programa que
+se instala en el ordenador, sin el conocimiento del usuario y
+contra su voluntad, con el fin de llevar a término una serie de actividades
+perjudiciales para el ordenador. Vamos a ver qué hacen los virus,
+cómo actúan y cómo nos podemos proteger. Los virus consumen recursos,
+eliminan información, se activan en una fecha determinada,
+envían publicidad, se propagan a través de ordenadores,
+o recogen información personal. Los virus se propagan a través de cualquier sistema de acceso a
+nuestro ordenador, navegando por internet, a través del correo, compartiendo
+programas, o instalando programas. Los virus tienen un proceso de creación,
+incubación y reproducción. El virus se crea como subprograma
+o microprograma ejecutable. Después, se deja ir en la red o
+se copia dentro de un archivo. Las vías de contagio son
+principalmente los lápices USB, programas copiados, internet,
+o el correo electrónico. Normalmente, los virus siguen una serie
+de instrucciones programadas como ocultarse y reproducirse, mientras se
+cumplan unas determinadas condiciones. Los virus se replican, es decir, hacen una copia de ellos mismos
+que se situará en otro fichero. Cuando se cumplen las condiciones
+previstas por el creador del virus, éste pasa al ataque. Hay síntomas que pueden indicar la
+presencia de virus informáticos. Por ejemplo,
+se hace más lenta la tarea del ordenador, el disco duro trabaja más de la cuenta,
+aumenta el tamaño de los archivos, se reduce la memoria disponible,
+aparecen en pantalla mensajes extraños, el sistema no arranca,
+aparecen o desaparecen algunos archivos, algunos programas no se pueden ejecutar,
+aparecen nuevos archivos con el mismo nombre que otros,
+se reduce el espacio disponible en los discos, o el sistema no
+reconoce alguna unidad de disco. Cualquier comportamiento no normal,
+nos ha de hacer sospechar. Para estar protegidos,
+es indispensable instalar un antivirus. Los objetivos de estos son, detectar
+la presencia de virus en los archivos, desinfectar todos aquellos
+archivos que contengan virus, y proteger el ordenador ante
+futuros ataques de los virus. La mejor actitud para evitar los
+efectos de los virus es la prevención. Además de utilizar un
+antivirus actualizado, es conveniente ir con
+cuidado con los lápices USB, con los mensajes de correo electrónico
+de remitente conocido o desconocido, y con los mensaje que navegando por
+internet nos ofrecen alguna cosa, nos piden información personal o
+que instalemos algún software. En el mercado hay muchos antivirus y la
+mayoría dispone de versiones gratuitas, pero no dan una protección
+tan completa como la de pago. En el web de Microsoft, encontraréis los
+antivirus recomendados por Microsoft, según el sistema operativo que tengáis. [AUDIO_EN_BLANCO] [AUDIO_EN_BLANCO]
