@@ -1,0 +1,12 @@
+Introduction to Python
+
+Now we will build (project goals). We will accomplish it by completing each task in the project:
+
+    How Python is Used - You will listen to an overview of how Python is used. You will then do your own exploration using the web.
+    Python Input and variables - You will get started with the Visual Studio Code IDE and create your first variable and populate it using an input statement.
+    Python Decisions - You will use decision constructs to check the input (a user's guess) against a randomly generated number.
+    Python Loops - You will use a loop to allow the user to guess multiple times.
+    Python Functions - You will build a Python function to allow the computer to guess at the randomly generated number. You will learn the structure of a function and learn how to call it.
+
+While you are watching me work on each step, you will get a cloud desktop with all the required software pre-installed. 
+This will allow you to follow along the instructions to complete the above mentioned tasks. After all, we learn best with active, hands-on learning

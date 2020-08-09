@@ -1,0 +1,14 @@
+Python is one of the many programming language used today
+
+Google, Amazon and IBM use Python
+
+Web applications, Artifical Intelligence and Data minig
+
+Popular because it simplicity in sintax and the set of libraries you can use
+
+python.org
+
+Python input and variable
+
+To make comments use # symbole at the beggining
+
