@@ -8,3 +8,4 @@
 ### Folder 06 -----> Learn Firefox
 ### Folder 07 -----> Learn Brackets - The open source text editor
 ### Folder 08 -----> Windows 10 essentials
+### Folder 09 -----> Devtools pro - The basics of Chrome developer tools

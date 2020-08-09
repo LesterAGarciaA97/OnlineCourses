@@ -1,0 +1,18 @@
+View, view source
+
+
+View, developer tools 
+To see all the content of a page
+
+Elements panel
+DevTools at inspect menu
+Console Run JS
+Basic debugging using breakpoints
+Snippets = console on steroids
+
+Cookies and local storage with the application tab
+Network calls
+Page load speed with audits
+Performance, memory and secutiry
+The most useful keyboard shorcuts
+Styling editors
