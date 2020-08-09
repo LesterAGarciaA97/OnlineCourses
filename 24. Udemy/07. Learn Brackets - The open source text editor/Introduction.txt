@@ -1,0 +1,34 @@
+This comprehensive course explores Brackets, the open source code editor by Adobe.
+
+We will go from A to Z with Brackets in this tutorial series, first learning some of the back story behind it, then installing it, and finally becoming acquainted with its many features.
+
+You will learn:
+
+• How to install Brackets on your PC or Mac
+• How to open and save files in Brackets
+• How to add new Projects to Brackets
+• How to install brackets plugins
+• How to use the brackets live editor
+• How to use Brackets live preview
+• How to take advantage of Quick Docs to rapidly prototype CSS
+
+Brackets has many practical features. This tutorial series will cover everything you need to get fully set up with Brackets. You'll learn managing files and projects, as well as navigation. You'll also install powerful plugins using the power of Brackets' growing community.
+
+Brackets' unique features will also be explored in this tutorial. Use live preview to edit your CSS in Brackets and see it update in real time. The live editor will also let you write CSS styles faster than you ever thought possible.
+
+
+
+Lo que aprenderás
+
+    Download and install Brackets
+    Use brackets to edit documents
+    Install and remove plugins and themes
+
+¿Hay requisitos para realizar el curso?
+
+    This course is appropriate for anyone. No preparation is required
+
+¿Para quién es este curso?
+
+    This course is appropriate for absolute code beginners!
+    It is also appropriate for people who are familiar with a different editor like Sublime and want to learn a new one
