@@ -7,3 +7,4 @@
 ### Folder 05 -----> How to install Windows 8
 ### Folder 06 -----> Learn Firefox
 ### Folder 07 -----> Learn Brackets - The open source text editor
+### Folder 08 -----> Windows 10 essentials
