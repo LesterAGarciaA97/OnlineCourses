@@ -1,0 +1,26 @@
+Automatically process requests and retunr web pages
+
+Task2: Create a Home Page for the Web Application
+1. Create indes.html file as the home page
+2. Add a CSS style sheet to center the page
+3. Test the page by accessing it from Command Line
+4. Test the page using the Browser
+
+Task3: Add CGI to allow Dynamic Web Pages
+1. Modify the request handler to use CGIHTTPRequestHandler
+2. Add a directory to the webb structure to house the Pyton script
+3. Test the server
+
+Task4: Create a Python Script to create a Time-Stamped list of random numbers
+1. Create a Python script to provide Random numbers and time stamp
+2. Place the script in the proper directory on the server
+3. Test the script outside of the server environment
+4. Start the server and access the script
+
+
+Task5: Add routing by implementing the do_Get method
+1. Route the path from '/' to index.html
+2. Route the path from 'page' to cgi-bin/page.py
+3. Test the paths using curl
+4. Test the routes using browser and links
+
