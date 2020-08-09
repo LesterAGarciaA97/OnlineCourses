@@ -1,0 +1,12 @@
+Create a Python Application using MySQL
+
+Now we will work on Create a Python Application using MySQL. We will accomplish it by completing each task in the project:
+
+    Read Data from a File for MySQL insertion.
+    Create the MySQL Database.
+    Insert Data into the MySQL Database Table.
+    Retrieve data from the MySQL Table using Select.
+    Change a table Entry using Update.
+
+While you are watching me work on each step, you will get a cloud desktop with all the required software pre-installed. 
+This will allow you to follow along the instructions to complete the above mentioned tasks. After all, we learn best with active, hands-on learning

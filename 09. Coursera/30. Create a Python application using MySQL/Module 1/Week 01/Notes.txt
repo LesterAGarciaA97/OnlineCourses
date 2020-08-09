@@ -1,0 +1,26 @@
+Read data from a file
+
+Task2: Create the MySQL Database
+1. Create connection to MySQL
+2. Name the database
+3. Check the database for existence
+4. If no database exists, create one
+
+Task3: Populate the database table using insert
+1. Create the db
+2. Iterate
+3. Use INSERT to insert pairs
+4. Commit the insert
+5. Check the rows affected
+
+Task4: Query the DB table using select statement
+1. Use the SELECT to retrieve all rows from table
+2. Select 
+3. Process the result and print each row
+4. Use SELECT to retrieve a single entry
+
+Task5: Update table
+1. Update a single doc in the table
+2. Print the modified count
+3. Print the updated row
+
