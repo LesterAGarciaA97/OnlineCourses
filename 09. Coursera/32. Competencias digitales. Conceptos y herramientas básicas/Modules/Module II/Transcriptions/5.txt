@@ -1,0 +1,85 @@
+[AUDIO_EN_BLANCO] [MÚSICA] En esta unidad, nos familizaremos con el
+uso de una aplicación. Como ejemplo, veremos las aplicaciones
+de textos, bloc de notas, WordPad y Microsoft Word. En el primer apartado, veremos cómo
+se abre y cierra una aplicación. En el segundo apartado, veremos cómo se crea un documento y
+cómo abrimos un documento you creado. En el tercer apartado, veremos cómo
+seleccionar un texto, cómo duplicarlo, moverlo y borrarlo y cómo
+modificar su formato. Y para acabar,
+veremos cómo se guarda un documento. Windows tiene incorporados dos editores
+de texto, el bloc de notas y WordPad. Con estas aplicaciones tenéis
+la posibilidad de editar texto de manera rápida y sencilla. El bloc de notas es la
+aplicación para editar texto más simple que podéis encontrar, you que solo podéis escribir texto y
+grabarlo con el formato básico .txt. La encontraréis en todos los programas, carpeta Accesorios, tenemos bloc de notas. Dispone de una barra de
+menús con muy pocas órdenes. Podemos crear o abrir un documento,
+guardarlo, y tenemos también los formatos básicos,
+tipo de letra, tamaño, negrita y cursiva, que afectan, eso sí,
+a todo el documento, no solo a una parte. Sirve para hacer anotaciones,
+pero no para editar un texto más formal. Para editar un texto, podéis utilizar
+aplicaciones de pago como Microsoft Word o de software libre como LibreOffice. O también la aplicación que
+incorpora Windows, WordPad. También la encontraréis dentro
+de la carpeta de Accesorios. Aquí la tenemos. Esta aplicación de texto no tiene tantas
+opciones como una aplicación de pago, pero las suficientes para
+una edición sencilla. Su funcionamiento es el mismo
+que el de cualquier aplicación, tiene una barra de acceso rápido
+con algunas opciones básicas, unos botones de control como
+cualquier ventana para maximizar, minimizar o cerrar la aplicación,
+y una cinta de opciones con botones que corresponden a las
+tareas que puede hacer la aplicación. Para crear un documento nuevo, podéis
+hacerlo con la opción Nuevo de la primera ficha, o con el botón Nuevo
+de la barra de Acceso rápido. Si no lo tenéis,
+podéis pedirlo con el botón desplegable. En este caso, aquí, Nuevo,
+you lo tenemos disponible. Para abrir documentos you existentes, utilizad la opción Abrir
+de la primera ficha. O el botón Abrir de la
+barra de Acceso rápido. Si no la tenéis, igual que el botón nuevo,
+podemos pedirlo. [AUDIO_EN_BLANCO] Cuando pedimos Nuevo, por la ficha o por el botón,
+aparecerá un cuadro de diálogo donde podréis buscar el documento
+en las diferentes unidades y carpetas, mediante el panel de la izquierda. Por ejemplo, vamos al Escritorio y aquí encontramos este documento
+que es el que queremos abrir. Para abrirlo,
+simplemente hay que hacerle un doble clic. Para seleccionar una parte del texto, tenéis que colocar el cursor al final o al
+principio de lo que se quiere seleccionar. Y manteniendo presionado el botón
+del ratón, arrastrar y soltar el botón cuando el texto que queráis
+seleccionar quede resaltado en negativo. Nos colocamos, apretamos el botón y
+arrastramos hasta donde queramos. Ahora podemos hacerle
+modificaciones de formato, borrar ese texto,
+sustituir tecleando, etcétera. Otras maneras de seleccionar
+son las siguientes. Si queremos seleccionar una palabra,
+le hacemos un doble clic. Si queremos seleccionar una línea,
+le hacemos un clic a su izquierda, siempre cuando veamos que el cursor
+se transforma en una flecha. Si queremos seleccionar un párrafo entero,
+le hacemos doble clic a su izquierda. También puede hacerse con un
+triple clic dentro del párrafo. Para seleccionar todo el documento, nos colocamos a su izquierda
+y hacemos tres clics. También podéis seleccionar todo el
+documento con el botón Seleccionar todo, que encontraréis en la ficha Inicio. [AUDIO_EN_BLANCO] Para duplicar texto, usad los botones del grupo Portapapeles,
+en la ficha Inicio. Y seguid los pasos siguientes. Primero, seleccionad el texto que
+queráis copiar, clicad el botón Copiar. Una copia del texto seleccionado
+queda guardada en el Portapapeles. Situad el cursor donde queráis copiar
+el texto y clicad en esa posición. Por último, clicamos el botón Pegar e
+Insertar contenido del Portapapeles. [AUDIO_EN_BLANCO] También podéis
+usar el botón derecho del ratón, que muestra las opciones Copiar y Pegar. Para mover un texto, haced lo mismo, pero usando el botón Cortar
+en lugar del botón Copiar. Para copiar o mover un texto
+de un documento a otro, seguid los pasos anteriores y utilizad
+la barra de estado de Windows para pasar de uno a otro documento que
+previamente teníamos abiertos. Para borrar texto, simplemente seleccionadlo y
+presionad la tecla Suprimir. Para dar formato al texto seleccionado, usad los botones de los grupos
+Fuente y Párrafo de la ficha Inicio. Usad el grupo Fuente para
+escoger el tipo de letra, su estilo, su tamaño y su color. Así como algún otro formato más. Usad el grupo Párrafo para
+determinar la alineación, el sangrado. [SONIDO] O marcar con una viñeta o una numeración los
+párrafos seleccionados. Todo lo que vamos haciendo
+en cualquier aplicación queda guardado en la memoria RAM. Si el ordenador se cuelga o se queda sin
+corriente eléctrica, esta RAM se vacía y, por lo tanto, perderemos toda la información que
+hemos introducido o modificado. Para evitar esta pérdida, nos hemos de acostumbrar a dar la orden
+de guardar lo más a menudo posible. Para guardar,
+usad la opción Guardar de la primera ficha o el botón Guardar de la
+barra de acceso rápido. Aparecerá una ventana donde podréis
+determinar el nombre del archivo, por ejemplo, ponemos prueba, su formato. Normalmente dejamos el que
+tiene estipulado como estándar. Y donde guardarlo. Abriendo carpetas,
+podréis indicar que guarde en una subcarpeta o si queréis guardar el archivo
+en otra unidad, por ejemplo, en un USB, lo podéis indicar con el ícono
+correspondiente del panel de la izquierda. [AUDIO_EN_BLANCO] [AUDIO_EN_BLANCO] Y fijaos cómo el nombre
+you aparece en la barra de título. Esta ventana de guardar, solo aparece la
+primera vez que se guarda el documento. Al volver a guardar, you no pregunta nada
+porque you sabe el nombre del documento, el formato que le hemos pedido
+y la ubicación del documento. La opción Guardar como hace que vuelva
+a aparecer la ventana de guardar, para permitir guardar este
+documento con otro nombre, con otro formato o en otra ubicación. Nos sirve para duplicar ese
+documento o cambiarle el formato. [AUDIO_EN_BLANCO] [AUDIO_EN_BLANCO]

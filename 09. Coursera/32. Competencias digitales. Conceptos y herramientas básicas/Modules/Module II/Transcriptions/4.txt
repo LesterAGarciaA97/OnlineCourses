@@ -1,0 +1,70 @@
+[AUDIO_EN_BLANCO] [MÚSICA] Con esta unidad, veremos algunas de las muchas utilidades
+que nos ofrece el sistema operativo. Veremos, por ejemplo, cómo comprimir
+archivos para ahorrar espacio, cómo capturar la pantalla
+para tenerla como imagen, cómo dar formato a un lápiz USB, cómo hacer el mantenimiento del
+sistema para su buen funcionamiento, o cómo utilizar el control parental
+para controlar el tiempo de uso y el contenido al que pueden acceder
+los usuarios de nuestro ordenador. Cuando queréis enviar archivos
+por correo electrónico, os podéis encontrar con el problema
+de que ocupen demasiado espacio. La solución es comprimir los archivos
+para que ocupen menos espacio. Hay diferentes aplicaciones que hacen
+esta tarea, como 7-Zip o Winrar. Todas tienen un funcionamiento similar. Lo más práctico es utilizar la
+herramienta de compresión de Windows. Para comprimir un archivo o una carpeta,
+solo hay que seleccionarlo, y con el botón derecho, escoger la opción
+Enviar a, Carpeta comprimida,en zip. Creará un archivo en el mismo
+directorio con un ícono en forma de carpeta con una cremallera,
+o con el ícono de la aplicación utilizada. Si utilizáis aplicaciones de compresión,
+tendréis la ventaja de poder especificar el grado de compresión y la posibilidad
+de ponerle una contraseña de acceso. Para descomprimir el archivo,
+seleccionadlo, y con el botón derecho
+buscar la opción Extraer. [SONIDO] Capturar significa guardar en el portapapeles
+como archivo de imagen, lo que se ve en la pantalla del ordenador. Para hacerlo,
+utilizad la tecla Imprimir pantalla. Abrid cualquier aplicación
+y clicad su botón Pegar. Vamos, como ejemplo, a capturar la pantalla y pegarla
+en un documento de Word. Presionamos la tecla Imprimir pantalla, nos vamos a la aplicación Word,
+y presionamos el botón Pegar. you tenemos como imagen la
+captura de la pantalla. [SONIDO] Para capturar solo la imagen de la ventana
+activa, por ejemplo esta ventana, presionad, a la vez,
+las teclas Alt e Imprimir pantalla. Presionamos las dos teclas,
+vamos a la aplicación, nos colocamos, y pegamos. Solo hemos insertado la
+imagen de la ventana activa. Si solo queréis capturar una parte de
+la pantalla, una ventana, un ícono, varios íconos, un trozo cualquiera, podéis utilizar la
+aplicación Recortes que incorpora Windows. La encontraréis en el botón Iniciar,
+Todos los programas, carpeta Accesorios,
+y aquí tenéis la aplicación Recortes. Una vez abierta, seleccionamos
+la parte que queremos capturar, y you podemos guardar esta
+imagen o ir a la aplicación correspondiente e insertar
+con el botón Pegar. Los discos extraíbles o USB,
+vienen formateados, pero si hay que dar formato a alguno, recordad que al hacerlo se destruirá
+toda la información que contenga. Algunos tienen una lengüeta que, según
+su posición, indica si se puede grabar. Por tanto, antes de formatearlo,
+os tenéis que asegurar que esta lengüeta esté en la posición correcta, es decir,
+que no esté protegido contraescritura. Para dar formato a un disco extraíble,
+haremos lo siguiente. Abrimos el ícono Equipo, clicamos con el
+botón derecho sobre el ícono del USB. Seleccionamos la opción Formatear,
+y nos aparecerá una ventana donde podremos determinar
+las características del formato. Las que vienen dadas por defecto,
+suelen ser correctas. Clicamos sobre el botón Iniciar,
+y el disco se formateará. Con la opción Formato rápido, activada,
+solo se borrarán los archivos. Si no está activada, también anulará
+los sectores defectuosos del disco, pero tardará más en formatear. Es una manera de limpiar
+totalmente el USB. Para extraer un USB hay
+que hacerlo con seguridad, y para ello, disponemos de este
+ícono en la barra de tareas, que al desplegarlo nos
+muestra la opción de expulsar el USB que tenemos inserido. Con cierta frecuencia, hay que
+hacer un mantenimiento del sistema. En primer lugar, es muy conveniente tener instalado
+un antivirus y que esté actualizado. También, debemos actualizar el
+sistema para solucionar posibles fallos del sistema y posibles
+vulnerabilidades de seguridad. Podemos hacerlo con el panel de control,
+Windows Update. Lo encontraremos en Todos los programas, aquí tenemos la aplicación o
+Panel de control, Windows Update. En la ventana que aparece, veremos
+si hay actualizaciones disponibles. Si las hubiera, clicad en su enlace
+para que Windows haga la actualización. También hay que facilitar el
+buen funcionamiento del disco. Para ello, abrid Equipo,
+clicad con el botón derecho sobre la unidad que queréis analizar,
+y pedid la opción Propiedades. Aquí podéis hacer varias cosas. Por ejemplo, liberar espacio,
+con el botón Liberar espacio, de la pestaña general; podéis también hacer un ScanDisk para
+comprobar si hay errores en el disco. Para ello, clicad en la pestaña
+Herramientas, el botón Comprobar ahora. También en esta pestaña
+podréis desfragmentar el disco para ordenar, reordenar,
+el espacio ocupado. [SONIDO] [AUDIO_EN_BLANCO] [AUDIO_EN_BLANCO]

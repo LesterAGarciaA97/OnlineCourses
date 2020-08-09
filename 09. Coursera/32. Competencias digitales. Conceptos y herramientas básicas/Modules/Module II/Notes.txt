@@ -1,0 +1,76 @@
+Bloque 2: Uso del ordenador
+* Sistema operativo
+* Organización de archivos
+* Utilidades
+* Edición de textos
+* Gestión de la impresión
+----------------------------------------------------------------------------------------
+
+Sietema operativo
+* Primeros pasos
+* Configuración
+* Trabajar con íconos
+* Trabajar con ventanas
+
+El ordenador siempre hace lo que nosotros le pedimos
+
+* Si algo falla, el ordenador no tiene la culpa, sino nosotros
+
+1. Encender
+2. Cuentas de usuario
+3. Escritorio
+
+Boton izquierdo del ratón:
+* Un clic
+* Doble clic
+* Arrastrar (Clic presionado)
+
+Botón derecho
+* Menú especial
+
+Rueda o scroll
+
+División del teclado
+Parte superior:
+Teclas de función
+Parte alfanúmerico
+Teclas de control o teclas de desplazamiento
+Teclado numético
+
+----------------------------------------------------------------------------------------
+
+Uso de archivos
+* Conceptos
+* Archivos y carpetas
+
+El disco tiene una estructura de árbol
+Directorio raíz
+
+Al buscar el * indica todos los carácteres y el ? indica solo un carácter para hacer la búsqueda
+
+----------------------------------------------------------------------------------------
+
+Utilidades
+* Compresión de archivos
+* Capturar pantalla
+* Dar formato USB
+* Mantenimiento
+* Control parental
+
+----------------------------------------------------------------------------------------
+
+Edición de textos
+Word, wordpad y bloc de notas
+
+----------------------------------------------------------------------------------------
+
+Gestión de la impresión
+* Opciones de impresión
+* Impresión
+
+Dispositivos e impresoras
+clic derecho . Establecer como impresora predeterminada
+
+Las impresoras son Plug and play
+
+----------------------------------------------------------------------------------------
