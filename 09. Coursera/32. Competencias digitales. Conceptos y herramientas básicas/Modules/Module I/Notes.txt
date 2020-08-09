@@ -1,0 +1,26 @@
+Conceptos y uso del ordenador
+
+Bloque 1: Conceptos
+* El ordenador
+* Redes de información
+* El uso de las TIC (Tecnologías de la información y comunicación) en la vida cotidiana
+* Seguridad
+* Legislación
+---------------------------------------------------------------------------------------------
+
+El ordenador
+
+* Identificar las partes principales del ordenador
+* Hardware
+* Memoria y almacenamiento
+* Software
+* Accesibilidad
+
+---------------------------------------------------------------------------------------------
+
+Tipos de ordenador
+
+* Ordenadores de sobremesa = Se utilizan ara trabajar en un lugar fijo y su tamaño es grande
+* Ordenadores portátiles = Peso y tamaño reducido
+* Servidores = Proporcionan servicios a otros computadores
+* Otros: Tablets, smartphones, etc.

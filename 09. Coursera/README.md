@@ -31,3 +31,15 @@
 ### Folder 29 -----> Create a Python application using PyMongo and MongoDB database
 ### Folder 30 -----> Create a Python application using MySQL
 ### Folder 31 -----> Introduction to Python
+### Folder 32 -----> Competencias digitales. Conceptos y herramientas básicas
+### Folder 33 -----> HTML, CSS, and Javascript for Web Developers
+### Folder 34 -----> Explorando la energía sustentable
+### Folder 35 -----> ¿Cómo (nos) cambia la tecnología?
+### Folder 36 -----> Competencias digitales. Herramientas de ofimática (Microsoft Word, Excel, PowerPoint)
+### Folder 37 -----> COVID-19: What you need to know (CME Eligible)
+### Folder 38 -----> Software testing and automation
+### Folder 39 -----> Programming with Google Go
+### Folder 40 -----> Google IT support
+### Folder 41 -----> AWS Fundamentals
+### Folder 42 -----> Object oriented programming in Java
+### Folder 43 -----> Open source software development, Linux and Git

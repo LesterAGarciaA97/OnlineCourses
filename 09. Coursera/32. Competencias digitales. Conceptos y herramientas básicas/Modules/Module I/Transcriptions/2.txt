@@ -1,0 +1,162 @@
+[AUDIO_EN_BLANCO] [MÚSICA] Con esta unidad nos familiarizaremos con los conceptos
+relacionados con el ordenador. En el primer apartado, identificaremos
+las partes principales del ordenador. En el segundo apartado, Hardware, veremos
+los elementos físicos de un ordenador. En el tercer apartado,
+veremos qué es la memoria y qué tipos hay. Y cómo se almacena la información. En el cuarto apartado, veremos los
+diferentes software que podemos utilizar para realizar las diferentes tareas
+que queremos hacer con el ordenador. Y en el quinto apartado, veremos las herramientas que
+facilitan la accesibilidad. El computador más conocido es el que
+se llama ordenador personal o PC. Un ordenador personal permite hacer tareas
+muy diferentes, como escribir una carta, dibujar, retocar fotografías,
+hacer cálculos, buscar información, comunicarnos con otras personas, jugar,
+escuchar música, aprender y muchas más. En la vida cotidiana nos encontramos
+con tres tipos de ordenadores, ordenadores de sobremesa,
+que se utilizan para trabajar en un lugar fijo y tienen un tamaño grande
+para que el usuario pueda incorporar nuevos elementos o sustituir los que
+tiene por otros de más potencia. También tenemos ordenadores portátiles,
+son ordenadores compactos, optimizados para viajar. A causa de esta reducción de peso y
+tamaño, no disponemos de componentes, como sí encontramos los de
+sobremesa o son de menor potencia. También tenemos los servidores,
+que son computadores que proporcionan servicios a otros
+computadores llamados clientes. Los encontramos en
+empresas e instituciones. Hoy en día encontraremos otros aparatos
+que en realidad son ordenadores, por ejemplo, las tablets,
+que son pequeños ordenadores portátiles con los que se puede interactuar
+a través de una pantalla táctil. Están optimizados para consumir menos
+energía, pero son menos potentes. O los smartphones o
+teléfonos inteligentes, que son teléfonos móviles
+con pantalla táctil y a los que se les ha añadido
+funciones de un ordenador personal. También podemos decir que es
+un ordenador de bolsillo, al cual se le ha añadido las
+funciones de un teléfono móvil. Lo que coloquialmente llamamos ordenador, en realidad es un sistema informático
+compuesto por un ordenador, dispositivos de entrada y
+dispositivos de salida. Más la persona que lo utiliza, el usuario. Los dispositivos de entrada son los
+que permiten al usuario dar órdenes o enviar datos al ordenador. Los dispositivos de salida son los que
+traducen la información digital contenida en el ordenador a un lenguaje comprensible
+por el usuario en forma de sonidos, imágenes y textos. Un ordenador está formado por un conjunto
+de elementos clasificados en dos grupos, hardware y software. El hardware es la parte física del
+ordenador, es decir, los circuitos, cables, discos, monitor,
+teclado, el ratón. El software es la parte lógica del
+ordenador, el sistema operativo, las aplicaciones,
+y los controladores de dispositivos, o drivers, que os permitirán
+interactuar con el hardware. Los datos, ficheros de texto, imágenes,
+vídeos, música se consideran software. Hay dos tipos de hardware,
+los elementos internos, los que están dentro de la torre, como
+por ejemplo, el procesador, el disco duro o la placa madre; y los elementos
+externos o periféricos, que son los que están conectados a la
+torre mediante cables o señales ópticas o de radio, como por ejemplo,
+el monitor o la impresora. Los principales componentes internos
+de un ordenador son la placa base, también llamada placa madre,
+es el elemento sobre el cual se conecta el microprocesador, la memoria RAM,
+y las tarjetas gráfica y de sonido. El procesador es la parte más
+importante de un ordenador, también se le llama CPU,
+unidad central de procesamiento, hace todos los cálculos y controla
+el funcionamiento del PC. Es el cerebro del ordenador. La memoria RAM es otro elemento. El tamaño de esta memoria determina la velocidad y la capacidad
+de trabajo del ordenador. La tarjeta gráfica, que genera las imágenes en el monitor;
+o tenemos también la tarjeta de sonido, que permite reproducir cualquier señal
+de audio; la tarjeta de red, que permite la conexión a internet y la comunicación
+entre los diferentes dispositivos. Y por último tenemos el disco duro, que es
+un dispositivo de almacenamiento de datos. Los elementos externos o periféricos
+se clasifican en tres tipos. Los periféricos de entrada, que permiten
+al usuario dar órdenes o enviar datos al ordenador, por ejemplo,
+teclado, el ratón y la cámara web. Los periféricos de salida, que traducen
+la información digital contenida en el ordenador a un lenguaje comprensible
+por el usuario, por ejemplo, el monitor y la impresora. Y por último, los periféricos de
+entrada y salida, que permiten, a la vez, la introducción
+de información al ordenador y la salida de esta
+información hacia el usuario. Por ejemplo, la memoria USB. Un puerto es la interficie que permite
+conectar diferentes tipos de dispositivos, como monitores, impresoras,
+discos duros externos, etcétera. Hay de diferentes tipos. El puerto serie, que puede enviar
+y recibir solo un bit a la vez. Se utiliza, por ejemplo,
+para conectar el teclado y el ratón. También tenemos el puerto paralelo, que
+nos permite enviar diversos bits a la vez. Se utiliza, por ejemplo,
+para conectar la impresora. La mayoría de ordenadores
+actuales you no los llevan. Ahora tenemos el puerto de red, que es una interficie que permite
+comunicarse a través de una red, el puerto USB, universal serial bus,
+que sustituye a los puertos serie y paralelo porque es más rápido y
+permite conectar más de un dispositivo. Este puerto es completamente plug and
+play, es decir, solo conectando el
+dispositivo con el ordenador conectado, el dispositivo es reconocido e
+instalado de manera inmediata. Solo es necesario que estemos
+conectados a internet. Por último tenemos el FireWire, que permite entrada y salida
+de datos a gran velocidad. Se acostumbra a utilizar para la conexión
+de dispositivos de audio y vídeo digital. Vamos a ver algunas cosas
+que tenemos que mirar cuando hemos de escoger un ordenador. Lo primero que tenemos que
+mirar es el procesador. Se puede decir que es el que
+marca la velocidad del ordenador. La velocidad de la CPU
+se mide en megahercios. Es recomendable disponer de una
+gran cantidad de memoria RAM. Cuando se abre un programa o un documento,
+la información se copia en la memoria RAM. A más RAM, más aplicaciones
+podremos utilizar a la vez. Y más rápido trabajaremos. Se mide en gigabytes. Otro factor importante es la
+velocidad de acceso al disco duro. Esta velocidad es más importante que
+la capacidad de almacenamiento que tenga un disco. Cuando hablamos de memoria, nos podemos
+referir a la memoria de trabajo, memoria que necesita el ordenador para
+arrancar o para abrir una aplicación, o a la memoria de
+almacenamiento de archivos. Hay diferentes tipos de memoria,
+veamos los más importantes. La memoria RAM,
+memoria de acceso aleatorio. Es una memoria volátil, porque los datos almacenados se
+pierden al apagar el ordenador. El tamaño de la memoria RAM determina
+la rapidez y la capacidad de trabajo del ordenador. Cuando se abre un programa o un documento,
+la información se copia en la memoria RAM. La memoria ROM, memoria de solo lectura, contiene instrucciones o datos que
+se pueden leer pero no modificar. Es utilizada casi siempre
+por el sistema operativo. La Video RAM, memoria de vídeo,
+es una memoria RAM de alta velocidad dedicada exclusivamente a la
+visualización de imágenes por pantalla. El ordenador lo único que entiende
+son dos estados encendido y apagado. Cualquiera de estos dos estados forman la
+unidad mínima de información con la cual trabaja un ordenador y se llama bit. Un bit representa un
+valor lógico o binario que solo puede contener dos valores 1 o 0,
+verdadero o falso. Para representar un caracter, letra,
+número, signo de puntuación o símbolo utilizamos la combinación de
+8 bits y le llamamos byte. Tenemos 256 combinaciones de unos y
+ceros desde 8 ceros hasta 8 unos, de esta manera podemos
+representar 256 caracteres. A partir de aquí, todos los
+conceptos son mútliples del byte. Y van creciendo de una progresión
+de 1024 en 1024 porque estamos trabajando con un sistema binario. De todas maneras, por comodidad acostumbramos a redondear a
+1000 para hacer rápidamente los cálculos. De esta manera 1024 bytes son 1 kilobyte, 1024 kilobytes son 1 megabyte,
+1024 megabyte son 1 gigabyte, y 1024 gigabyte son 1 terabyte. El software y los archivos los
+hemos de poner en algun sitio. Para ello tenemos los
+dispositivos de almacenamiento. El principal dispositivo de
+almacenamiento es el disco duro, todos los ordenadores llevan un disco duro
+interno pero también los hay externos. Estos son muy útiles para hacer copias de
+seguridad y poder trasladar información. Otros dispositivos de almacenamiento
+son el CD ROM, o el DVD ROM. Actualmente se están sustituyendo por
+los discos duros externos y los USB. Las unidades flash USB o
+lápiz USB son pequeños dispositivos externos que se pueden
+conectar directamente a un puerto USB. Podemos decir que es un
+pequeño disco duro externo. También tenemos las unidades red,
+si vuestro ordenador está conectado a una internet podréis guardar
+archivos en el servidor. Recientemente apareció una nueva manera de
+almacenamiento, el almacenamiento online. Hay webs que permiten a los usuarios
+almacenar archivos online, es decir podéis enviar archivos al web
+y de esta manera los podréis visualizar y descargar desde cualquier
+ordenador con conexión a internet. El software es un conjunto de
+instrucciones que indica al ordenador qué ha de hacer. Hay dos tipos de software,
+el software de sistema operativo, que es el software que actúa como intermediario
+entre el usuario y el ordenador, su objetivo principal es facilitar
+el uso del sistema informático. Los más conocidos son el sistema
+operativo que es el programa principal de control del PC, por ejemplo Windows con sus versiones XP, 7, 8, y 10. Posiblemente al visualizar este
+vídeo you existe una nueva versión. Macintosh OS y Linux. Y los controladores o drivers que son
+utilizados, son utilidades que permiten hacer tareas concretas, como por
+ejemplo el driver de vuestra impresora. El otro tipo de software es
+el software de aplicación. Las aplicaciones son herramientas que
+utiliza el usuario para hacer su trabajo. Las más conocidas son las relacionadas
+con las tareas de oficina, por ello se llaman
+aplicaciones ofimáticas. Pueden venir en paquetes de aplicaciones
+que hacen tareas diferentes. Por ejemplo,
+Microsoft Office tiene entre otras aplicaciones como Word para hacer textos,
+Excel para cálculos y gráficos, Access para bases de datos y
+Powerpoint para las presentaciones. La mayoría de aplicaciones son de pago, pero encontraréis por internet
+aplicaciones similares que son gratuitas. Las llamamos software libre. En informática la accesibilidad
+incluye ayudas como las tipografías de alto contraste,
+gran tamaño, magnificadores de pantalla, lectores y revisores de pantalla,
+programas de reconocimiento de voz, teclados adaptados, y otros dispositivos
+especiales de entrada de información. Algunas aplicaciones de accesibilidad las
+encontraréis en la carpeta accesibilidad de Windows en el listado de
+aplicaciones del menú inicial. Con la lupa, las personas que
+tienen algún tipo de disfunción visual pueden ampliar la
+visualización de la pantalla. El narrador es un lector
+de pantalla básico que lee en voz alta el texto
+que aparece en pantalla. El reconocimiento de voz de Windows
+permite controlar el equipo, con la voz podéis abrir menús, clicar botones, dictar texto o enviar
+mensajes de correo por la voz. Y también podéis pedir un teclado
+en pantalla para escribir clicando con el ratón o otro dispositivo. [AUDIO_EN_BLANCO]
