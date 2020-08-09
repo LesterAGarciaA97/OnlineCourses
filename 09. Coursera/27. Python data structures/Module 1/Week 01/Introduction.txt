@@ -1,0 +1,12 @@
+Python Data Structures
+
+Now we will work on Python data structures. We will accomplish it by completing each task in the project:
+
+    Read the CSV file into a List Data Structure
+    Uniquify the data using the Set Data Structure
+    Create the Dictionary of Words and Definitions
+    Create a word List based on the set of Keys
+    Create the quiz using function that returns a Tuple.
+
+While you are watching me work on each step, you will get a cloud desktop with all the required software pre-installed. 
+This will allow you to follow along the instructions to complete the above mentioned tasks. After all, we learn best with active, hands-on learning

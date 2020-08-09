@@ -1,0 +1,40 @@
+List, Set, Tuple, Dictionary
+
+List, Set and Dictionary are multiple
+Tuple is inmutable, once created cannot be modified
+
+Set is similar to a list, but cannot contain duplicates
+
+Dictionary is used to store keyvalue pairs
+
+Task1: Read file into list
+1. A list is one of the mutable data structures
+2.Populate a List from a comma separated file
+3. Print the list
+
+Task2: Use a set
+1. The set is another mutable data structure
+2. Similar to a list, but no duplicates are allowed
+3. Use the list to create a set
+4. Write the set to a file
+
+Task3: Create Dictionary
+1. A dictionary is mutable
+2. A tuple is inmutable
+3. Create a function to return a tuple-word and
+   definition from the list
+4. Use the function to populate the Dictionary
+
+
+Task4: Create List
+1. Write a function to retrieve a definition and word from de Dictionary
+2. Return the word and definition as a tuple
+3. Get the set of keys from the Dictionary; the word list
+
+Task5: Use Tuple
+1. Implement a While Loop to present words, definition choices
+2. Use the function to retrieve the word, definition tuple from the dictionary
+3. Shuffle the choices
+4. Present the word and choices to the user
+5. Check the answer
+
