@@ -1,0 +1,120 @@
+Introduction to HTML5
+
+Development environment
+* GitHub account
+* Google Chrome Browser CDT (Chrome Developer Tools)
+* Sublime Text 3 or any code editor
+* Git
+* Browser Sync
+
+Development Environment Setup, Part 3: Github and Browser Sync
+
+StackOverflow
+codepe.io
+
+---------------------------------------------------------------------------------------------
+
+Lecture 1: What is HTML?
+Hyper Text Markup Language
+
+Hypertext = text that contains links to other texts
+Hypermedia plays a big role today and is a extension to hypertext
+
+Markup = Content
+
+Language = Implied that has a special sintax
+
+3 technologies of web:
+HTML provides the structure, the components
+CSS provides style
+JavaScript pprovides behavior, functionality
+
+Conclusion:
+HTML...
+* Annotates content
+* Define document structure
+
+---------------------------------------------------------------------------------------------
+
+Relevant history of HTML
+Befoore 1997 Not driven by standards
+Around 1997 HTML 4.0 & HTML 4.01 (World Wide Web consortium)
+2000 XHTML 1.0
+2004 WHATWG:HTML (Web Hypertext Application Technology Group)
+2007 WHATWG & W3C start to work together
+2011 to now is what we know
+
+HTML5
+W3C = Standard
+
+HTML
+WHATWG = Evolving
+
+---------------------------------------------------------------------------------------------
+
+Lecture 3: Anatomy of an HTML Tag
+<p> --> Opening tag 
+... --> Content
+</p> --> Closing tag
+
+p is the element name 
+
+<br> <br> Line break and horizontal rule only have opening tag
+
+id="myId"
+Where id is de Attribute name and " " is the attribute value
+
+No space is not allow <> and the text
+Attributes can only be used in opening tags
+value in quotes = value of the attribute
+
+
+---------------------------------------------------------------------------------------------
+
+Basic HTML structure
+
+---------------------------------------------------------------------------------------------
+
+HTML Content Models
+* Block-Level Elements
+
+* Inline Elements
+
+---------------------------------------------------------------------------------------------
+
+Semantic = Relating to meaning in language or logic
+
+Semantic htm element = Element that implies some meaning to the content
+
+Headings go 1 to 6
+H1 max
+H6 min
+
+H1 is crucial to SEO
+
+---------------------------------------------------------------------------------------------
+
+Lists
+<ul>
+<li> = Line in a list
+
+---------------------------------------------------------------------------------------------
+
+HTML Character Entity references
+
+Characters you should always escape
+Instead < use &lt;
+Instead > use &gt;
+Instead & use &amp;
+
+---------------------------------------------------------------------------------------------
+
+SPA = Single Page Application
+
+---------------------------------------------------------------------------------------------
+
+Displaying images
+
+---------------------------------------------------------------------------------------------
+
+
