@@ -1,0 +1,94 @@
+[MÚSICA] Para aplicar los formatos también
+podemos utilizar la ficha Diseño. Aquí, fijaos cómo a la derecha tenemos
+los botones de sombreado para pintar el fondo o determinar
+las líneas de la tabla. Pero también disponemos de los estilos
+de tabla, que son autoformatos, es decir,
+yo puedo elegir uno de los formatos que me muestra y así no tener
+que modificarlos a mano. Disponéis de diferentes tipos de formatos, es simplemente cuestión de
+buscar el que más nos interese. Después le haremos pequeños retoques
+para adaptarlo a nuestro gusto. A la izquierda tenemos otras opciones que, sobre todo,
+nos pueden ser útiles las dos primeras. Estas dos primeras, si están activadas,
+Fila de encabezado o Primera columna, indican que esa primera línea y
+esa primera columna son títulos. Entonces, de cara a los formatos,
+los trabajará de manera diferente. Simplemente es importante para
+autoformatos o para ordenaciones porque, por ejemplo, si ordenamos una tabla no nos
+interesa que la línea, la primera línea, la ordene por orden alfabético, sino
+que la deje siempre como primera línea. En este caso, debe estar activado
+la opción Fila de encabezado. Si queremos modificar la altura de las
+líneas o la anchura de las columnas, lo podemos hacer arrastrando estas líneas, por ejemplo, nos colocamos al
+final de la segunda línea. Cuando nos aparece esta doble flecha,
+la podemos arrastrar y determinar la altura de esta fila o de varias
+filas si las tenemos seleccionadas. Lo mismo ocurrirá con las columnas,
+nos ponemos a la derecha de alguna columna y
+arrastrando determinamos su anchura. [SONIDO] Esta altura y anchura la podemos determinar
+también con la ficha Presentación. Fijaos en el grupo Tamaño de celda, que contiene la orden de Altura
+de fila o Anchura de columna. Podemos indicar en centímetros
+la altura y anchura exacta para cada una de las
+columnas o para todas. También podemos utilizar estos dos botones
+de Distribuir, que lo que hacen es adaptar todas las filas y todas las
+columnas para que sean iguales. También podemos modificar, en principio
+las anchuras, con el botón Autoajustar. Aquí encontramos las órdenes que
+nos permiten ajustar la anchura de las columnas de manera que se adapten
+al contenido de la tabla, a la ventana, es decir, a la anchura dedicada a texto,
+o que tengan una anchura fija, la que determinemos aquí con los
+botones de altura y anchura. En el grupo Filas y columnas encontraremos las opciones que nos permiten
+añadir o eliminar filas y columnas. Por ejemplo, después de esta línea, Didáctica Ordenadores,
+queremos añadir una nueva línea, en este caso,
+elegiríamos el botón Insertar debajo. Podemos añadir una línea por encima o
+por debajo de la línea seleccionada. Utilizamos el botón y nos
+aparece una nueva línea debajo de la fila seleccionada. Para eliminar cualquier
+fila o cualquier columna, la seleccionamos y botón de Eliminar. Aquí nos permitirá eliminar celdas,
+columnas o filas. Incluso podremos eliminar toda la tabla. En este caso, elegimos Eliminar filas. Lo mismo que hemos añadido filas, podemos
+añadir en cualquier momento una columna. Lo seleccionamos y aquí tenemos los dos botones Insertar a izquierda o
+a derecha, dependiendo donde lo queramos. Por ejemplo, insertamos a la izquierda. Tenemos una nueva columna y
+redistribuye el resto de columnas. Para eliminarla, igual que hemos
+eliminado la fila, la seleccionamos, botón de Eliminar y en este
+caso Eliminar columnas. [SONIDO] Fijaos que si nos dedicamos
+a añadir y sobre todo a eliminar, la anchura de esta tabla se ha modificado. Recordad que tenéis el botón Autoajustar
+para volver a ponerla como queramos. A la ventana, por ejemplo,
+para aprovechar toda la anchura o al contenido para que se adapte al
+texto que hay dentro de esas casillas. O fijo,
+si nos interesa que todas sean iguales. Ahora vamos a dejarlo con Ajustar a la
+ventana, para aprovechar bien el espacio. Las alineaciones del contenido de las
+celdas podemos determinarlas con los botones de alineación de la ficha Inicio,
+como lo hacemos para cualquier texto, pero mejor aprovechar las opciones que
+nos muestra la ficha de Presentación. Aquí tenemos un grupo Alineación, que nos dará más opciones que las
+que tenemos en la ficha Inicio. Por ejemplo, si os fijáis en
+estos botones de Alineación, podemos alinear tanto
+horizontalmente como verticalmente. Por ejemplo, vamos a seleccionar esta
+primera fila y le pedimos Alineación vertical centrada y horizontal centrada,
+sería este botón del centro. De esta manera,
+hemos alineado no solo horizontalmente, sino también verticalmente. Depende de lo que queramos,
+utilizaremos una alineación u otra. Es decir, tenemos más opciones
+que para un texto normal. [SONIDO] Hay más opciones en esta ficha, vamos a ver un
+par más que pueden ser útiles. Tenemos las de combinación y
+división aquí en el grupo Combinar. Por ejemplo,
+si me coloco dentro de la celda de Gastos y hago clic en el botón Dividir celdas,
+me permitirá transformar esta celda en varias,
+preguntándome si lo quiero hacer en columnas o en filas, es decir,
+tal como está por defecto. Crearía esta casilla, la transformaría en
+dos casillas dentro de la misma casilla. Vamos a probarlo, Aceptar. Y tenemos aquí en realidad dos casillas,
+ésta es una, ésta es otra. Si ponemos las líneas
+lo veremos más claro. Vamos a poner los bordes verticales y fijaos como lo que antes era una sola celda,
+ahora son dos. La hemos transformado en dos columnas,
+pero podíamos transformarlo en dos filas. Para volver al origen,
+seleccionamos estas dos celdas en la ficha Presentación y
+utilizamos el botón Combinar celdas. Vuelve a ser una sola fila,
+una sola celda. Si volvemos a dividir y esta vez en lugar
+de dos columnas por una fila, le pedimos una columna y dos filas, lo transformará
+en dos filas en lugar de en dos columnas. Aquí tenemos las dos filas. Y siempre tendremos la opción de
+Combinar para volver al origen. [SONIDO] Aparte de estos botones de combinación, otro botón que es muy
+importante sería el de Ordenar. Una vez esté dentro de la tabla,
+no es necesario que la seleccione, solo que esté dentro, puedo utilizar
+el botón Ordenar y preguntará por qué columnas queremos ordenarlo. Si nuestra tabla tiene una fila de
+títulos, como es el caso, lo mejor es, aquí abajo, activar que la lista será
+con encabezado, de manera que así you sabe que esa primera fila son títulos
+y los podremos utilizar para ordenar. En este caso, le podemos pedir
+que me los ordene por año, con tipo ascendente o descendente y
+en el caso de que sean del mismo año, que los ordene por departamento. Puedo poner hasta tres criterios,
+por ejemplo, dentro del departamento,
+pues por conceptos. Aceptamos y you tenemos ordenado
+esta tabla 2006, 2014, 2015. Dentro de todas las filas del 2014
+ordenado por departamento, Didáctica, Informática y dentro del mismo
+departamento por concepto, la L de Libros, la M, O, T, los tres criterios de
+ordenación que hemos indicado. [AUDIO_EN_BLANCO]

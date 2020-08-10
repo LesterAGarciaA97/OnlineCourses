@@ -1,0 +1,71 @@
+[MÚSICA] Con esta unidad, Objetos, aprenderemos a trabajar con
+tablas dibujos, imágenes y gráficos. En el apartado Tablas veremos cómo crearlas y todas las
+modificaciones que podemos hacer. En el apartado Dibujos, imágenes y gráficos veremos cómo insertar
+en el documento cualquier imagen que tengamos en nuestro ordenador o las que
+nos proporciona la aplicación o Internet. También veremos cómo añadir
+figuras geométricas o gráficos. En el apartado Importar objetos veremos
+cómo podemos añadir al documento objetos de otras aplicaciones,
+como por ejemplo una hoja de cálculo. En este vídeo vamos
+a trabajar con los objetos, es decir, aquello que podemos añadir
+al documento aparte del texto tecleado. Para añadir cualquier cosa que no sea
+texto nos dirigiremos a la ficha Insertar. Aquí encontraremos diferentes opciones,
+por ejemplo, podemos añadir tablas, podemos añadir imágenes,
+podemos añadir SmartArt, es decir, esquemas, organigramas,
+o podemos añadir gráficos. El primer objeto con el que
+trabajaremos serán las tablas. Para tener una tabla, primero buscamos
+una línea donde no haya texto, nos vamos al botón Tabla y al desplegarlo
+nos muestra las diferentes opciones. Lo más rápido es arrastrar para marcar
+cuántas filas y columnas queremos crear. Aparte de esta opción, también podemos
+utilizar la opción de Insertar tabla. Esta opción nos preguntará cuántas
+columnas queremos y cuántas filas. Normalmente no hace falta indicar el
+número de filas, you que irán apareciendo. Lo veremos enseguida. Aparte del número de columnas y filas,
+podemos determinar la anchura de las columnas, podemos
+determinar con el Ajustar al contenido, que la anchura de estas columnas
+se adapten a su contenido, a aquello que vamos escribiendo,
+o que se adapten a la ventana, de manera que tenga la misma anchura
+que el espacio dedicado al texto. Una vez elegidas las opciones,
+aceptamos y you tenemos la tabla, en este caso,
+una tabla de cuatro columnas y dos filas. you podemos introducir el texto. Para saltar de un campo a otro lo
+hacemos con la tecla Tabulador, vamos rellenando, llegamos a la
+última casilla de la primera línea, y al presionar la tecla Tabulador pasa a
+la siguiente línea y seguimos escribiendo. Una vez hemos llegado a la última
+casilla no hay más líneas, pero al presionar la tecla Tabulador vemos que
+automáticamente aparece una nueva línea. Por eso decía anteriormente que no
+es necesario que especifiquemos cuántas filas queremos,
+you irán apareciendo según la necesidad. Si tenemos un texto tabulado podemos
+transformarlo en una tabla, por ejemplo, aquí tenemos este texto tabulado,
+lo seleccionamos y lo transformaremos en una tabla
+simplemente pidiendo una tabla. Vamos a la ficha Insertar, botón Tabla, Insertar tabla y you hemos transformado
+este texto tabulado en una tabla. Antes de trabajar con los formatos veremos cómo seleccionar toda
+la tabla o parte de esta tabla. Vamos a ver esta tabla. Fijaos que si nos colocamos dentro de la
+tabla, nos aparece en la esquina superior izquierda un cuadradito que,
+al clicarlo, selecciona toda la tabla. Esta sería la manera más cómoda de
+seleccionar correctamente toda la tabla. Si queremos seleccionar varias celdas,
+simplemente nos colocamos dentro de la primera que queramos
+seleccionar y arrastramos. [SONIDO] Para selecciona una fila,
+por ejemplo, el título, nos colocamos a su izquierda
+y con un clic seleccionamos esta línea. Si queremos seleccionar varias líneas, nos
+colocamos a la izquierda de la primera y, arrastrando hacia abajo,
+seleccionamos tantas filas como queramos. De la misma manera
+seleccionaremos columnas. Nos colocamos al principio de la columna,
+y cuando aparece esta flechita negra, hacemos un clic y selecciona la columna. Si queremos varias columnas,
+lo mismo, arrastrando. [SONIDO] Aparte de con el ratón, también
+podemos utilizar el botón de Selección. Una vez estamos dentro de una tabla, nos
+aparecen dos fichas contextuales nuevas. Si nos fijamos, a la derecha de
+Vista tenemos Diseño y Presentación. Aquí tendremos todas las órdenes que
+necesitaremos para trabajar con tablas. Si vamos a la ficha Presentación
+encontraremos el primer botón Seleccionar, y aquí nos mostrará las
+diferentes opciones de selección, tanto celda como columna,
+fila o toda la tabla. Para dar formato al contenido de la tabla, lo haremos de la misma manera que lo
+hacemos para un texto normal, es decir, utilizaremos las órdenes que
+encontramos en la ficha Inicio, dentro de los grupos Fuente y Párrafo,
+exactamente igual que cualquier texto. Tenemos los estilos, tipografía,
+tamaño, color de letra, alineaciones, color de fondo. Por ejemplo,
+con el botón de Fondo podemos aplicar un color de fondo a las casillas
+y con el botón de Bordes, determinar cómo queremos las líneas que
+envuelven a cada una de las casillas. Lo mejor es utilizar la
+opción de Bordes y Sombreado, y allí especificar
+exactamente lo que queremos. Por ejemplo, una cuadrícula con una línea de guiones en la parte externa,
+en la parte interna una línea normal, el color que queramos, exactamente
+igual que para cualquier texto. No tenemos que aprender nada nuevo para
+dar formato al contenido de una tabla. [AUDIO_EN_BLANCO]

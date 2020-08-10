@@ -1,0 +1,39 @@
+[MÚSICA] Ahora, vamos a trabajar con las etiquetas. Para hacer etiquetas, lo primero que
+necesitamos es un documento en blanco. Vamos a Archivo, clicamos Nuevo, Documento en blanco,
+y nos vamos a la ficha correspondiente. En el botón de Iniciar combinación,
+elegiremos Etiquetas, y nos preguntará qué tipo de
+etiquetas vamos a utilizar. Primero, buscamos la marca de etiquetas
+que utilizamos, disponemos de diferentes marcas,
+y para cada marca los diferentes modelos. Elegimos el tipo de
+etiqueta que disponemos, y you podríamos hacer clic en Aceptar. Si el tipo de etiquetas que
+tenemos no aparece en esta lista, lo podéis guardar con el
+botón Nueva etiqueta. Clicando este botón nos preguntará
+qué tipo de etiqueta tenemos. Indicaríamos los márgenes del papel, las distancias entre etiquetas,
+el número de etiquetas horizontalmente y verticalmente, el ancho de la página,
+el alto de la página, es cuestión de coger la regla e
+ir midiendo todo lo que nos pide. Una vez indicado, quedará guardado
+como un tipo más de etiquetas. Ahora elegimos esta, aceptamos,
+y you nos genera un documento, una página con el espacio de
+cada una de las etiquetas. [SONIDO] El siguiente paso, igual que en las cartas,
+sería elegir los destinatarios. Como you los tenemos, usamos la lista existente,
+y le indicamos dónde se encuentra. you tenemos preparado el documento,
+falta colocar los campos. En la primera etiqueta,
+utilizamos el botón Insertar campo para ir añadiendo los datos
+que queremos que aparezcan en la etiqueta, por ejemplo el nombre, espacio, apellidos, echamos otra línea, la dirección
+y así todo lo que necesitemos. Estos códigos que vamos
+colocando los podemos formatear seleccionando el código o los códigos,
+por ejemplo, vamos a poner la dirección en negrita,
+selecciono el código de dirección y con la ficha inicio,
+como cualquier texto, lo pongo en negrita. Estos formatos los puedo
+modificar cuando quiera. Volvemos a la ficha de Correspondencia. Una vez generada esta primera etiqueta,
+fijaos la siguiente, eso simplemente pone próximo registro. Si ahora hacemos un clic en el botón
+Actualizar etiquetas, aplicará el mismo formato,
+los mismos datos para todas las etiquetas. Cualquier modificación que hagáis siempre
+se hará sobre la primera etiqueta. Y una vez hecho,
+botón de Actualizar etiquetas, para que ese cambio afecte
+a todas las etiquetas. you está definida,
+podemos igual que en las cartas, utilizar el botón Vista previa
+para visualizar cómo quedaría. Si todo está bien, you podremos finalizar imprimiendo o editando los
+documentos individuales. El proceso, lo habéis visto, es el mismo que para cartas con alguna
+pequeña modificación como el formato de las etiquetas y la utilización
+del botón Actualizar etiquetas.

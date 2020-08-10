@@ -1,0 +1,52 @@
+[MÚSICA] Con esta unidad, trabajaremos una función muy específica,
+la combinación de correspondencia. En el apartado crear una lista,
+veremos cómo definir la base de datos que contendrá los datos que varían en cada
+documento, es decir, los destinatarios. En el segundo apartado, veremos cómo crear una carta y cómo
+combinarla con la base de datos. En el tercer apartado, veremos cómo crear un documento
+para imprimir las etiquetas. Para combinar correspondencia,
+necesitaremos dos documentos. Un primer documento donde diseñaremos
+la carta, las etiquetas o los sobres. Y un segundo documento que contendrá
+los datos de los destinatarios. Todo lo que necesitemos para combinar
+correspondencia lo encontraremos en la ficha Correspondencia. Si la base de datos con los
+destinatarios you la tenemos hecha, pudimos haberla hecho con cualquier
+programa como Access o Excel, o incluso con el mismo Word, lo buscaremos
+con el botón Seleccionar destinatarios. Aquí encontraremos la opción
+Usar una lista existente. La activamos y nos preguntará
+dónde está el documento. Normalmente, busca en la carpeta
+Mis archivos de origen de datos, si no, buscamos a ver dónde está. Lo ideal sería dejarlo
+siempre esa base de datos en esta carpeta para tener
+un acceso más rápido. [SONIDO] Abrimos ese documento, no mostrará ningún dato, si queremos verlo necesitamos el
+botón Editar lista de destinatarios. Clicamos este botón y nos
+muestra la base de datos. Todos estos son los
+destinatarios de la carta, etiquetas o sobres que vamos a crear. Esta ventana trabaja como
+una base de datos sencilla, pero con las utilidades más normales. Por ejemplo, podemos en esta columna
+desactivar algún destinatario, o en la parte inferior ordenar esta base
+de datos según los campos que queramos, o filtrar, es decir, pedirle que solo haga esas cartas, etiquetas o
+sobres para un determinado departamento. Por ejemplo, pondríamos aquí Física y solo
+crearía las cartas, etiquetas o sobres para los destinatarios del
+departamento de Física. Otra opción que también puede ser
+útil es esta de Buscar duplicados. Si clicáis y no aparece
+nada en la ventana, nos está indicando que no
+hay ningún dato duplicado. No está de más hacer la comprobación. Una vez you hemos comprobado
+que los datos están bien, you podremos pasar a crear la carta,
+las etiquetas o los sobres. Si no tenemos una lista de destinatarios,
+podemos crearla con el mismo Word. El botón de Seleccionar destinatarios, tenemos la opción
+Escribir una nueva lista. Aquí nos aparecerá la base de datos,
+pero vacía. Simplemente rellenamos los
+campos que nos ofrece, [SONIDO] y creamos nuevos registros
+con el botón Nueva entrada. [SONIDO] Word nos ofrece una serie de campos you
+predefinidos como tratamiento, nombre, apellidos, pero podéis personalizarlo
+con el botón Personalizar columnas. Clicamos este botón, nos aparecen
+los campos que nos ofrece Word, estos campos podemos eliminarlos
+si no nos interesan, o agregar nuevos campos, y un nuevo
+campo que me interese, por ejemplo, aquí no tengo el campo Departamento,
+pues puedo poner Departamento. you tengo un nuevo campo que
+no tenía esta base de datos. La posición de los campos la
+podéis determinar con los botones de subir y bajar. O cualquier campo que queráis aprovechar, podéis modificar su nombre
+con el botón Cambiar nombre. Fijaos cómo ahora you tenemos un
+nuevo campo que no aparecía antes. Lo ideal es crearlo con un programa
+más preparado para bases de datos como Excel o Access, pero si no,
+podemos hacerlo perfectamente con Word. Esta base de datos que estamos creando,
+la guardará dentro de la carpeta de Mis archivos de datos o,
+si lo preferís, en cualquier otra carpeta. Pero por defecto,
+siempre en Mis archivos de datos. [AUDIO_EN_BLANCO]

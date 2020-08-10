@@ -1,0 +1,87 @@
+[MÚSICA] Ahora, vamos a ver cómo crear una carta. Al principio la carta la escribiremos
+en Word como cualquier otro documento, en este caso, you tengo la carta
+preparada, vamos a abrirla. Aquí tenemos la carta. Nuestra carta,
+como va dirigida a varios destinatarios, nos interesa que en cada una
+de ellas aparezca el nombre, los apellidos,
+y el departamento del destinatario. Esa será la diferencia
+en todas las cartas. Primer lugar, vamos a la ficha Correspondencia,
+e indicamos que queremos hacer una carta. Para ello, nos vamos al botón Iniciar
+combinación de correspondencia, aquí indicamos qué tipo de documento
+estamos creando, podemos hacer una carta, un mensaje de correo electrónico,
+un sobre, etiqueta, etcétera. En este caso, queremos hacer una carta. Elegimos Cartas, y elegimos con el
+botón Seleccionar destinatarios, los destinatarios. Como you la tenemos hecha, vamos
+a buscarla, Usar una lista existente, y you está preparada. Word you sabe que este documento es
+una carta, y qué destinatarios tiene. Ahora, falta que incluyamos los campos allí donde nos interese que
+el valor sea diferente. Por ejemplo, aquí tenemos el nombre, buscamos el botón
+Insertar campo combinado, y nos aparecerán los nombres de los
+campos de nuestra base de datos. En este caso,
+queremos que inserte el campo Nombre, nos pone el código con el nombre
+del campo, hacemos lo mismo con los apellidos, y con el departamento. Así insertaríamos todos los
+campos que necesitemos. Donde hay un código de campo,
+el valor variará en cada carta. Es decir, tendremos una carta para cada
+uno de los destinatarios de nuestra base de datos. you tenemos la carta totalmente diseñada. Si queremos comprobar cómo quedaría, tenemos este grupo de Vista
+previa de resultados, clicando su botón Vista previa,
+nos muestra la primera carta. Fijaos como ha puesto los nombres del
+primer registro de nuestra base de datos, nombre, apellidos, y departamento. Con los botones de navegación,
+podemos ir viendo el resto de cartas. Va modificando los datos de cada carta. Si clicamos el botón de
+Ver el último registro, veremos que tengo 100 cartas diferentes. Si todo es correcto,
+you nos falta solo finalizar, aquí tenemos el botón Finalizar
+y combinar, que nos permite imprimir estas cartas,
+Editar documentos individuales, es decir,
+crear un documento con todas las cartas, y en ese documento hacer las
+modificaciones que consideremos oportunas para algún destinatario,
+o enviarlo por correo electrónico. Y aquí se acabaría el
+trabajo de edición de cartas. Si escogemos Imprimir,
+lo imprimirá directamente, si escogemos, Editar documentos individuales,
+nos preguntará si queremos todas las cartas, solo el registro actual,
+o desde qué carta hasta qué carta. Si pedimos todos, por ejemplo,
+lo que hace es crear un nuevo documento, fijaos en el título, Cartas1, un nuevo
+documento Word con todas las cartas. Si miramos la barra de estado de Word
+vemos como estamos viendo la página 1 de 100. Es decir, en realidad tenemos 100 páginas,
+100 cartas. Como os dije antes, la ventaja de hacer,
+de escoger esta opción, es que podremos, para alguna carta concreta,
+hacer las modificaciones que haga falta. Si yo quiero señalar algún trozo concreto,
+puedo señalarlo, hacer las modificaciones que quiera, que, de manera que
+afecten solo a esa carta, no a todas. Este documento de cartas,
+una vez modificado, podemos guardarlo o no, no importa,
+si hemos hecho muchas modificaciones quizás merezca la pena guardarlo,
+pero sino, tampoco es necesario. Si yo cierro este documento y no lo
+guardo, como tengo la carta original, este documento donde yo
+he diseñado la carta, puedo crear las nuevas
+cartas en cualquier momento. Lo importante, eso sí, es que no
+perdamos nunca los dos documentos. Tenemos este documento de carta,
+y el documento de base de datos, donde están los destinatarios. Si queremos que Word nos ayude en el
+proceso de crear la correspondencia, podemos utilizar su asistente. Lo encontraremos en el botón Iniciar
+combinación de correspondencia, al final, vemos la opción Paso a paso
+por el asistente, que nos abre una ventana a la derecha, que si os
+fijáis, en la parte inferior indica que tenemos que realizar seis pasos,
+son los seis pasos con los que nos irá preguntando todo lo que
+necesita para crear esta correspondencia. Primer paso, qué tipo de correspondencia
+queremos hacer, si queremos cartas, mensajes de correo, etiquetas, sobres,
+etcétera, en este caso, elegimos Cartas. Siguiente paso,
+dónde está el documento original, es decir, qué documento utilizaremos,
+en este caso, para hacer las cartas. Si you lo hemos abierto, dejamos la opción
+Utilizar documento actual, si no lo hemos abierto, elegiremos la de Documento
+existente, y abriremos esa carta. En el tercer paso, nos pregunta
+dónde están los destinatarios, podemos utilizar una lista que you tenemos
+preparada, o los contactos de Outlook, o escribir una nueva lista. Como you la tenemos hecha, escogemos la
+primera opción, Utilizar lista existente, y con el botón Examinar, indicamos
+dónde está esa lista, en qué documento. Comprobamos que los datos sean correctos,
+entramos, ordenamos, si es necesario, y you está. you tenemos el tercer paso hecho. Vamos al cuarto paso. Aquí es donde escribimos la carta. Básicamente, lo que haremos es con el, con la opción Más elementos,
+añadir los campos. En este caso, donde tiene que
+ir el nombre, seleccionamos, y con Más elementos, incluimos el campo
+Nombre de la lista de destinatarios. Luego, podemos ir añadiendo
+el resto de campos. Tenemos los apellidos, y el departamento. Y you tenemos añadidos todos
+los campos de esta carta. Seguimos con el quinto paso,
+y éste sería la vista previa, es decir, nos está mostrando las diferentes
+cartas para que las comprobemos. Si queremos modificar alguna carta,
+nos vamos a Editar lista destinatarios, y realizar los cambios que queramos. you tenemos la carta hecha comprobada,
+vamos al último paso. Simplemente, elegiremos si
+queremos imprimir directamente, o editar las cartas una a una. De esta manera, con este asistente,
+nos ha ido ayudando, indicando, sobre todo,
+qué funciones podemos modificar. Podéis elegir hacerlo como
+lo habíamos hecho antes, con los botones de Correspondencia,
+Iniciación, Seleccionar destinatarios, Editar, Vista previa,
+Finalizar, o utilizar el asistente que siempre será más cómodo
+porque nos indica los pasos a realizar. De las dos maneras el
+resultado es el mismo. [AUDIO_EN_BLANCO]

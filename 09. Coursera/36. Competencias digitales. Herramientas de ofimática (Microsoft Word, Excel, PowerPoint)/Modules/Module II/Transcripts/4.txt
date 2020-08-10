@@ -1,0 +1,87 @@
+[MÚSICA] Otro tipo de objeto que solemos añadir en
+un documento de texto son las imágenes. En la ficha Insertar encontramos
+dos botones de imágenes, imágenes que se correspondería
+a nuestras imágenes, las que tenemos guardadas en el disco
+duro o en cualquier otra unidad, y las imágenes en línea que son las
+que podemos buscar por internet. Vamos a añadir una imagen que tenemos
+guardada en nuestro disco duro. Nos colocamos allí donde
+queremos que aparezca la imagen, clicamos el botón Imágenes y buscamos ese
+documento, en este caso, el logo de Word. Lo insertamos y you tenemos
+la imagen colocada. [SONIDO] Podemos utilizar los botones de Alineación de la ficha Inicio
+para colocar esta imagen a la izquierda, al centro o a la derecha,
+sería la manera más cómoda. Si esta imagen queremos que
+sea más grande o más pequeña, simplemente la cogemos por uno de
+los puntos de selección, arrastramos y hacemos que la imagen sea más grande o
+más pequeña arrastrando hacia el interior. Podemos también modificar el tamaño por los botones internos,
+por ejemplo, este de la derecha, pero tened cuidado porque lo que
+hacemos es deformar la imagen. Lo ideal sería siempre modificar el
+tamaño por los botones de la esquina. Así, la reducción o ampliación
+siempre es proporcional. También podéis utilizar este icono de curva que permite,
+arrastrando, girar la imagen. [SONIDO] Una vez colocada y determinado el tamaño,
+podemos utilizar la ficha Formato que aparece siempre
+que tengamos seleccionada una imagen, y allí dispondremos de
+diferentes opciones de formato. Por ejemplo, en Estilos, le podéis aplicar algún estilo que
+modifique la estética de esa imagen. Por ejemplo, un soporte metálico para
+enmarcarlo, hay diferentes estilos. [SONIDO] En este mismo grupo encontraréis otros
+efectos en el botón Efectos de la imagen, que permitirá aplicar sombras,
+reflexiones o iluminados, efectos de tres dimensiones,
+por ejemplo, elegimos este. [SONIDO], podéis aplicar diferentes estilos,
+diferentes formatos. Al insertar una imagen, fijaos que en el cuadro de diálogo nos da tres
+opciones dentro del botón Insertar. Estas opciones son importantes. En principio, por defecto,
+mientras no digamos lo contrario, utiliza la opción Insertar, es decir,
+guarda esa imagen dentro del documento. Pero nosotros podemos
+escoger estas otras dos. Si en lugar de Insertar
+elegimos Vincular al archivo, lo que le decimos es que no guarde
+la imagen dentro del documento, sino simplemente la ruta para
+encontrar este documento. La imagen la veremos,
+pero la imagen no queda guardada dentro, por lo tanto, no ocupa espacio. Eso sí, tenemos el inconveniente de que
+si se elimina la imagen del disco duro, también quedará eliminada del documento. Por último, nos quedaría la de Insertar
+y Vincular que haría las dos cosas, insertaría y, por tanto,
+guardaría la imagen dentro del documento, pero la vincularía con el archivo
+original, de manera que si ese archivo, esa imagen se modifica
+con cualquier programa, automáticamente al abrir el documento
+de Word se actualizaría la imagen. Si no disponemos de la
+imagen que queremos colocar, podemos utilizar el botón
+de Imágenes en línea. Este botón nos mostrará el cuadro
+de diálogo de imágenes de Bing, en el cual podemos escribir
+lo que queremos buscar, y nos mostrará una serie de
+imágenes sobre el tema escogido. Una vez encontradas,
+podéis seleccionarlas, filtrarlas por tamaño, por ejemplo,
+nos interesa una imagen pequeña. Por el tipo, si queremos una foto o
+un dibujo, o por el tipo de color. En este caso,
+hemos pedido imágenes pequeñas. Una vez localice esas imágenes, la elegiremos y con el botón
+Insertar la colocaremos. Estas imágenes que hemos colocado las
+podemos mover simplemente cogiéndolas por el interior, arrastramos y
+podemos colocarla en otras posiciones. Se comporta como si fuera una letra,
+por lo tanto, siempre se colocará dentro de una línea
+lo cual puede ser un inconveniente. Cuando queráis mover las imágenes
+libremente, mejor utilizar las opciones de Ajuste de texto que
+encontraréis en la ficha Formato. Aquí tenéis el botón Ajustar texto,
+lo desplegamos, y aparte del formato estándar
+en línea con el texto disponemos de varios formatos más,
+cuadrado, estrecho, transparente, arriba y abajo, son maneras diferentes
+de comportarse respecto al texto. Por ejemplo,
+utilizamos cuadrado y de esta manera lo que decimos es que el texto
+quede alrededor de la imagen, que la imagen no pise nunca el texto,
+es decir, que se haga sitio. De esta manera, podemos colocar libremente
+una imagen allí donde queramos, cosa que no podíamos hacer cuando
+era en línea con el texto. [SONIDO] Para borrar una imagen, como siempre, tecla de Suprimir,
+una vez seleccionada, tecla de Suprimir y desaparece la imagen. También podemos dibujar en el documento. En la ficha Insertar
+encontraremos el botón Formas con diferentes formas geométricas,
+por ejemplo, un rectángulo, seleccionamos la imagen,
+la forma que queramos añadir, y la dibujamos dentro del documento
+arrastrando el botón del ratón. Así podemos ir añadiendo
+las formas que queramos. No hace falta volver a insertar en el
+momento que hemos añadido una forma, igual que pasa con las imágenes,
+nos aparece la ficha Formato, y ahí encontraréis el desplegable
+con todas las formas disponibles. Podemos elegir cualquier otra
+forma y dibujarla en el documento. En las formas podéis añadir texto, simplemente seleccionáis y escribís
+el texto que queréis poner. Ese texto lo podéis modificar
+como cualquier texto normal, con las opciones de Formato de
+fuente párrafo de la ficha Inicio. También tanto las imágenes
+como las formas, dispondréis de diferentes botones de formato en
+la ficha Formato, como el relleno, el contorno, efectos, dirección de texto,
+estilos you predefinidos, estilos de forma, diferentes
+formatos que podemos ir aplicando. Es conveniente echar un vistazo e
+ir probando todos esos formatos, tanto para las imágenes
+como para las formas. [AUDIO EN BLANCO]

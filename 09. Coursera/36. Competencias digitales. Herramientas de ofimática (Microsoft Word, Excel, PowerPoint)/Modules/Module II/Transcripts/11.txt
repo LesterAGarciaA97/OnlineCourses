@@ -1,0 +1,98 @@
+[MÚSICA] [MÚSICA] En esta actividad de repaso vamos
+a trabajar pues varios formatos, sobre todo los formatos más básicos cómo
+insertar una imagen o incluso un gráfico, cómo enmarcar un título,
+opciones muy básicas con las que conseguiremos que el
+texto quede estéticamente mejor. Lo primero que haría siempre es
+seleccionar todo el texto y aplicar aquellos formatos que viera que
+afectan a la mayoría del texto. Para ello iría al tipo de fuente,
+elegiría la fuente que quisiera utilizar, por ejemplo Calibri,
+el tamaño de letra que me interese, puede ser 12. Me iría a la alineación para
+pedirle una alineación justificada, la mayor parte de la carrera así. La mayor parte del texto cree que tenga
+un interlineado de 1,5 para que no queden las líneas tan juntas y que haya un
+espaciado, una separación entre párrafos. Para ello me voy al indicador de
+cuadro de diálogo de párrafo y le pido el interlineado de 1,5 y un espaciado
+por ejemplo de 6 anterior y 6 posterior. Y you tengo un texto más o
+menos agradable a la lectura, que nos facilite un poco mejor la lectura. Ahora vamos parte a parte. Primero el título, selecciono el título,
+lo quiero centrado, botón de centrar, lo quiero enmarcado, vamos a buscar
+bordes y sombreado directamente. Lo quiero con una línea doble,
+busco la línea doble. you la tengo aquí. Aprovecho que estoy aquí para sombrear. Ficha de sombreado, le ponemos un relleno [INAUDIBLE]
+La letra la puedo poner you que es un
+título en negrita, y más grande. Recordad siempre que cuando
+utilizamos interlineados de 1,5 al enmarcar nos quedará
+espacio por debajo. En este caso para el título le
+quitaría este interlineado, lo dejaría sencillo y así you tengo el
+mismo espacio por encima y por debajo. Que no quiero que el texto
+esté tan junto a las líneas, utilizando el botón de bordes y
+sombreado busco el botón opciones y aquí en superior inferior indico que
+me lo separe más o menos del texto. you tengo el título que
+queda bastante bien, vamos a ponerlo un poco más grande quizás. you tenemos el título. Vamos a por el primer subtítulo
+por ejemplo, lo seleccionamos, simplemente lo queremos centrado,
+negrita, un poco más grande, y subrayado con un subrayado punteado. Por tanto, busco el botón de
+subrayado y elijo punteado. you tenemos otro título. En el primer párrafo de texto
+solo tenemos la palabra Aristóteles que es diferente,
+que es negrita y cursiva, lo pedimos. Y aquí tenemos una imagen, que es la cara que es una de las
+formas que nos ofrece Office. Nos vamos a la ficha insertar, buscamos el botón de formas y
+buscamos la forma que nos interese. En este caso la cara. Una vez elegida la dibujamos
+más o menos donde debe ir. [SONIDO] Y como es lógico, esta forma tapa al
+texto porque la he dibujado entonces, pero para eso tenemos el botón
+ajustar texto de la ficha formato, ficha que nos aparece cuando seleccionamos
+una forma o una imagen, y aquí pediremos simplemente cuadrado para que esta imagen
+obligue al texto a adaptarse a su espacio. you está.
+A partir de ahora esta imagen cuando yo la mueva you se hará sitio,
+procurará nota para el texto. En este párrafo también vemos en el
+ejemplo que la señal está más junta, simplemente vamos al interlineado
+y le pedimos sencillo y you está. Siguiente título, Nacimiento del
+empirismo, aquí pues más o menos como el anterior, tiene las mismas opciones,
+por lo tanto para qué voy a perder tiempo. Selecciono el título anterior,
+hago clic en el botón copiar formato, me voy a la izquierda
+del título Nacimiento, hago clic y you le aplica
+los mismos formatos. Utilizad siempre que podáis este botón
+porque os va a ahorrar mucho trabajo. Seguimos. Venimos ahora aquí este párrafo,
+este párrafo aparte de que queremos
+estos nombres subrayados, los subrayamos, you está,
+como hemos utilizado antes el punteado le ha quedado como subrayado
+por defecto, buscamos el normal. Ahora nos colocamos aquí adentro y
+queremos que este párrafo sea más estrecho, las líneas más juntas y
+con dos líneas aquí a la derecha. Líneas más juntas, you lo hemos hecho
+antes, sencillo, interlineado sencillo. Que sea más estrecho,
+para eso está el sangrado, si yo le aplico una sangría por ejemplo
+de 2 centímetros por la izquierda, y 2 por la derecha you tengo
+el párrafo más estrecho. Qué me falta, las dos líneas,
+esos son bordes. Voy a bordes y sombreado y hago
+clic a izquierda y derecha. En realidad queremos las líneas punteadas, busco la línea que yo quiero
+y vuelvo a hacer clic. you tengo línea izquierda y derecha. you puedo seguir. Siguiente párrafo, tenemos las líneas
+más juntas y además la primera línea empieza donde empieza el texto pero
+el resto de líneas empiezan más adentro. Eso es un sangrado francés. Aparte tenemos investigación
+científica moderna con doble subrayado, seleccionamos botón de
+subrayado y doble subrayado. Ahora nos colocamos en este párrafo, pedimos el interlineado sencillo
+para que las líneas estén más juntas y el sangrado francés que lo
+encontraremos aquí en sangría especial. Podemos indicar cuántos
+centímetros queremos o dejarlo lo que nos da por defecto. Aceptamos, Y you lo tenemos. Siguiente título, va centrado, va enmarcado, bordes externos por ejemplo. Nos ha puesto unas líneas punteadas por lo
+tanto debo volver a bordes y sombreado y aquí indicarles que quiero una línea
+normal, quiero que este título sea más estrecho, o sea el marco
+sea más estrecho, ¿cómo lo hago? En realidad el marco no tengo que tocarlo,
+lo que tengo que tocar es el párrafo. El marco lo que hace es enmarcar
+el párrafo entero haya texto o no. Pues si quiero el párrafo más estrecho utilizaré los sangrados,
+en este caso pondría pues un sangrado más o menos mirando a la
+regla de unos 5 centímetros. Y you tengo el marco más estrecho. Siempre que queráis un título enmarcado
+más estrecho jugáis con la sangría. Seguimos, aquí simplemente tenemos El origen de las especies que es en
+cursiva, un poquito más grande, etcétera. you está. Nos queda el último título que también lo
+queremos centrado, en negrita más grande, y en este caso no queremos borde,
+simplemente un sombreado. Con el bote de pintura lo
+sombreamos y you está. Si este espacio no nos gusta, este espacio
+inferior de más, recordad que simplemente le quitáis el interlineado de 1,5,
+lo ponéis en sencillo y you está. you solo nos queda bueno, a parte de que el último párrafo tiene
+una primera línea un poco más adentro, es decir tiene un sangrado especial
+de primera línea, vamos al indicador de párrafo y aquí escogemos el sangrado
+especial primera línea, you está. Nos falta la gráfica,
+igual cómo ha sido insertado la cara, es decir una forma o podemos
+insertar una imagen, igualmente podemos insertar un
+gráfico con el botón gráfico. Word nos da unos datos que podemos
+modificar o poner los nuestros, en este caso vamos a dejar estos y una
+vez you tengamos los datos correctos, clic fuera de esta hoja de datos, vemos el texto y you solo falta
+colocar bien esta gráfica. La seleccionamos, y en la ficha formato encontraremos la
+opción ajustar texto igual que teníamos en el caso de las formas o las imágenes
+y le pediremos cuadrado, ¿para qué? Para poder desplazar esa imagen, esa gráfica libremente y
+que nunca pise el texto. Tenemos cuadrado,
+y lo arrastramos donde queramos colocarla. Vamos a hacerla un poco más pequeña
+arrastrando por uno de los puntos de la esquina y you tenemos la gráfica colocada. Y la actividad acabada. [MÚSICA] [MÚSICA]

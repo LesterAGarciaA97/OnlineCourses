@@ -1,0 +1,33 @@
+[MÚSICA] Por último, vamos a ver cómo podemos insertar dentro del documento de Word
+un documento por ejemplo de Excel. La ficha insertar hacia el
+final dentro del grupo texto, encontraréis el botón objeto. Este botón me permite añadir
+documentos de Powerpoint, de Excel, de Graph,
+de diferentes documentos. Podemos crear un nuevo documento y después poner los datos o aprovechar
+un documento que you tenemos. En este caso vamos a colocar un documento
+de Excel que you tenemos hecho, vamos a la pestaña crear desde un archivo,
+con el botón examinar buscamos el archivo, en este caso un documento de Excel,
+lo insertamos. Fijaos que al igual que las imágenes
+tenemos la opción de vincular, si activamos esta opción, cualquier modificación que se haga en
+este documento de Excel, automáticamente se actualizará en el documento de Word,
+lo cual es bastante útil. Aceptamos. Y nos ha colocado el documento de Excel
+en la posición donde estaba el cursor. Fijaos cómo en este caso me ha
+colocado el documento de Excel dentro de la forma de rectángulo
+que había dibujado anteriormente. ¿Por qué ha ocurrido? Simplemente a la hora
+de insertar ese objeto, no me he fijado donde tenía el cursor. Aquí la importancia de antes
+de pedir cualquier formato, cualquier orden,
+comprobemos siempre dónde está el cursor. Una vez colocada esta tabla,
+si quiero hacer alguna modificación, lo único que hay que hacer es hacerle
+un doble clic, automáticamente abrirá ese documento con el programa que
+lo ha generado, en este caso el Excel. Podremos modificar lo que queramos,
+y al cerrar este documento de Excel volvemos al documento de Word. De la misma manera que he añadido
+un documento de Excel you creado, puedo crear uno nuevo desde
+aquí con el botón objeto, en este caso pestaña de crear nuevo,
+indicamos con qué programa queremos generar ese
+documento, hoja de cálculo de Excel, y creará un documento de Excel
+nuevo donde yo pondré los datos. [SONIDO] Aquí tenemos un documento de Excel nuevo colocado
+dentro del documento de Word. Igual que en el otro caso con un
+doble clic, regreso a Excel, hago las modificaciones pertinentes y haciendo
+un clic fuera vuelvo al documento de Word. Podemos inserir otras cosas, otros
+objetos, pero básicamente serían estos. Podéis ir probando otros
+objetos que disponemos en esta pestaña,
+en esta ficha de insertar. [AUDIO_EN_BLANCO]
