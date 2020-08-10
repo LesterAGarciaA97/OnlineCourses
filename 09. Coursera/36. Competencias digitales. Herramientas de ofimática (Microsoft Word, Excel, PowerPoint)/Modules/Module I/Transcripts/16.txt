@@ -1,0 +1,57 @@
+[MÚSICA] Ahora vamos a trabajar con
+los formatos de página, es decir formatos que
+afectan a todo el documento. No formatos que afecten como hasta
+ahora a un párrafo concreto, a una palabra concreta,
+a un trozo de texto concreto. Estos formatos los encontraremos dentro
+de la ficha insertar y la ficha formato. Ejemplo, si vamos a la ficha formato,
+aquí encontraremos el primer grupo configurar página
+con la mayor parte de órdenes. Algunas you las conocemos de cuando
+vimos la ventana de impresión, pero también las podemos especificar aquí. Tenemos los márgenes, la orientación
+de la página, el tamaño del papel, estas tres opciones you las vimos
+con la ventana de impresión. Normalmente you lo
+especificamos en esa ventana. Aquí encontramos alguna orden más,
+veremos por ejemplo la opción de saltos. Esta opción me permite hacer
+que un párrafo concreto comience en la siguiente página. Por ejemplo, aquí tarjeta de red,
+no quiero que esté dentro de esta página sino que siempre sea a comienzo de página,
+quiero cortar la página por aquí. Me coloco donde empieza ese párrafo
+y con el botón saltos pido página, salto de página. El texto quedará desplazado hacia la
+siguiente página y aunque añada más texto, veremos como al momento que
+utilizo la siguiente página, el párrafo marcado con el salto
+continúa siendo principio de página. Si pedimos el botón mostrar todo, veremos como indica el
+corte con esta marca. Una línea punteada con el texto,
+salto de página. Esta marca nos es útil para en
+cualquier documento saber si hay o no un salto de página en esa posición, la podéis borrar de la misma manera
+que borraríamos cualquier texto. Me coloco a la izquierda y tecla de
+suprimir o la derecha y tecla de borrar. Otro formato de página muy útil es
+el encabezado de pie de página. Este formato me permite
+añadir un texto o una imagen en la cabecera y en el pie
+de cada una de las páginas. Por ejemplo, el título del documento en la
+parte superior y la numeración de páginas en la parte inferior. Para ello, nos vamos a la ficha insertar y aquí encontraremos el grupo
+encabezado y pie de página. Dentro de este grupo,
+tenemos el acceso al encabezado o al pie, los dos trabajan de la misma manera,
+la única diferencia es la posición. Incluso tenemos la opción
+de enumerar las páginas. Vamos ahora al encabezado,
+me da varias opciones, lo ideal es ir directamente a editar
+encabezado y nos aparece el cursor en la posición del encabezado, que es esta
+zona superior dentro del margen superior destinada a que añadamos cualquier texto
+que se repetirá en todas las páginas. Por ejemplo, escribimos el
+título del documento, CDL, de esta manera este título
+aparecerá en todas las páginas. Si nos desplazamos a la
+parte inferior veremos cómo también se ha
+activado el pie de página. Aquí por ejemplo podría
+numerar las páginas. Fijaos que ha aparecido una nueva ficha,
+la ficha diseño porque estamos dentro del encabezado
+del pie, con las diferentes opciones. Aquí por ejemplo encontraremos el botón
+número de página, que me permitirá enumerar estas páginas al principio,
+al final, donde queramos. Por ejemplo me interesaría que la enumeración apareciera
+en la parte inferior. Al final de la página me da la opción
+de ponerlo a la izquierda, al centro o a la derecha, elijo por ejemplo derecha
+y you tengo todas las páginas numeradas. Me aparece el número 3, porque en este momento estoy
+visualizando la página número 3. Si quiero cambiar el formato
+de esta numeración, el mismo botón del número de página contiene
+la opción formaato de número de página. Aquí podré escoger entre diferentes
+formatos, arábico, letras, mayúsculas, por ejemplo vamos a ponerlo en
+letras mayúsculas, aceptar. Y aquí vamos viendo como
+numera con letras las páginas. Para volver al texto, simplemente doble clic dentro del
+texto y you volvemos a entrar. Fijaos cómo el encabezado y el pie aparecerá en gris para indicar que
+no es una parte de texto normal. La de abajo también la tendremos en gris. [AUDIO_EN_BLANCO]

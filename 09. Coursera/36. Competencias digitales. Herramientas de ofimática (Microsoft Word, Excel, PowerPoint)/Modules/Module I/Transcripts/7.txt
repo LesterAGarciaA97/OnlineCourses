@@ -1,0 +1,79 @@
+[MÚSICA] Ahora vamos a ver cómo
+imprimir un documento de Word. En la barra de acceso rápido,
+encontraremos el botón impresión rápida. Si clicamos este botón, imprimirá una
+copia de todas las páginas del documento. Si es lo que queremos,
+sería la solución más rápida. Si en cambio lo que me
+interesa es ver cómo queda impreso este documento, o quiero modificar
+alguna configuración de impresión, en este caso, lo mejor es ir a la ficha
+archivo y pedir la opción imprimir. De esta manera, me mostrará las páginas del documento en versión reducida
+para que podamos ver cómo nos quedaría. Fijaos que la parte inferior tenemos
+una barra de porcentaje que podemos modificar y por lo tanto visualizar
+el documento en mayor o menor tamaño. Si utilizamos un porcentaje bajo,
+nos mostrará varias páginas a la vez. Podemos utilizar la barra de
+desplazamiento de la derecha para ir viendo las diferentes
+páginas del documento y comprobar que todo sea correcto. Si todo es correcto, haríamos clic en el botón imprimir
+y se imprimiría este documento. Si queremos modificar las
+configuraciones de impresión, utilizaremos las opciones de esta ventana. Por ejemplo,
+a la derecha del botón de imprimir indicaremos las copias que
+queremos del documento. Debajo del botón imprimir podemos indicar
+a qué impresora queremos imprimir. Debajo de esta opción,
+vemos un enlace propiedades de impresora y nos mostrará un cuadro de diálogo
+con la configuración de la impresora. Este cuadro de diálogo dependerá del
+tipo de impresora que hayamos escogido, según qué impresoras podremos
+especificar unas cosas u otras. [SONIDO] Después encontramos el resto de configuraciones,
+por ejemplo la opción para indicar qué páginas debe imprimir
+podemos imprimir todas las páginas, imprimir solo la página
+actual y varias opciones más. Debajo de esta opción encontramos
+la casilla de páginas para indicar qué páginas
+concretas queremos imprimir. Por ejemplo si yo solo quiero imprimir
+la página 9, lo indico en este campo. Si quiero imprimir varias páginas,
+lo indicaremos de la siguiente manera, si son páginas correlativas,
+lo indicamos poniendo la primera un guión y la última,
+en este caso imprimiría de la 3 a la 9. Pero imaginemos que queremos imprimir
+desde la 3 a la 9 pero también la 12, en este caso lo separaremos con una coma,
+una coma 12, y ahora imprimiría desde
+la página 3 a la 9 y la página 12. Fijaos que si nos ponemos encima del
+campo, nos indica cómo escribirlo. A continuación podremos indicar si la impresión la hacemos a una
+cara o a doble cara, dependiendo de la impresora tenemos que hacerlo
+manualmente o podrá ser automático. Después tenemos esta opción,
+que nos permite indicar cómo imprimir un documento
+cuando pedimos varias copias, es decir si queremos
+intercalar las páginas o no. Después tenemos la opción de orientación donde indicaremos
+si queremos imprimir verticalmente o horizontalmente. [SONIDO] También podemos indicar el tipo
+de papel que utilizaremos para imprimir. Normalmente será DIN A-4 pero
+disponemos de otros tipos de papel. Si el papel que utilizamos
+no aparece en este listado, utilizaremos la opción más
+tamaños de papel y aquí indicaremos exactamente el tamaño
+del papel que estamos utilizando. La siguiente opción nos permite
+indicar los márgenes del documento, vamos a hacer la preliminar un poco más
+grande para que la veamos mejor, you estamos en la barra de zoom, leamos para
+que veamos una página o casi una página, pasamos de página para
+ver un poco más de texto. Fijaos como esta página como el resto
+de páginas tiene un margen superior, un margen izquierdo, un margen derecho y
+un margen inferior donde Word no escribe. Estos márgenes los podemos
+modificar con esta opción. Nos da una serie de opciones
+posibles pero lo mejor es ir directamente a la opción márgenes
+personalizados y indicar nosotros en estas casillas márgenes superior
+izquierdo, inferior derecho, exactamente qué centímetros
+queremos de márgenes en cada lado. Por ejemplo,
+vamos a poner un margen superior de unos 6 centímetros. Si no queréis clicar
+tantas veces el botoncito, podéis escribir directamente en la
+casilla por ejemplo el margen inferior lo quiero de 5 centímetros,
+escribo el 5 y you me lo aceptará. El izquierdo vamos a ponerlo más pequeño,
+por lo menos 2 centímetros, y el derecho lo ponemos de 4. Vamos a ver lo que ha ocurrido, aceptar, fijaos como el margen superior
+ha aumentado, el izquierdo ha disminuido, el derecho ha aumentado
+y el inferior también ha aumentado. O sea nosotros podemos
+determinar con estos márgenes qué espacio dedicamos al texto. Por último, tenemos la opción de páginas por hoja, que nos permite indicar cuántas páginas
+queremos imprimir en cada hoja de papel. 4 páginas por hoja,
+6 por hoja, las que queramos. [SONIDO] Igual que nos ocurría en la impresora que teníamos este
+enlace de propiedades de la impresora, con las configuraciones nos pasa lo mismo,
+tenemos un enlace configurar página, que nos muestra un cuadro de diálogo con estas
+opciones que you hemos visto y alguna más, quizás no sea tan importante pero que
+en algún momento podemos necesitar. Si no vemos la opción en estas casillas,
+buscamos configurar página y en estas 3 pestañas miramos a ver qué opción nos
+permite hacer lo que pensamos pedir. Por ejemplo, en la ficha de diseño encontramos la opción primera página
+diferente que veremos más adelante, que nos permite indicar que
+en la primera página no ponga la numeración o los encabezados o
+pies de página que hayamos pedido. De esta manera hemos configurado
+la impresión y si en la preliminar lo vemos todo correcto,
+you podemos imprimir con el botón. [AUDIO_EN_BLANCO]

@@ -1,0 +1,90 @@
+[MÚSICA] Ahora vamos a trabajar con las tabulaciones. Las tabulaciones nos
+permiten colocar texto en diferentes posiciones
+de una misma línea. Por ejemplo, queremos hacer una lista de
+materiales con su precio y su cantidad. Queremos que Material esté
+en una determinada posición, que Precios esté un poco más adentro,
+por ejemplo, a siete centímetros, y Cantidad un poco
+más adelante, cada cosa en su sitio. Para hacerlo, antes de escribir el texto, indicamos con la tecla Tabulación que
+vamos a colocarlo en otra posición. Le damos a la tecla, fijaos,
+hace un salto predeterminado, no nos preocupa si esa es la distancia
+correcta o no, luego la modificaremos. Y you podemos escribir. En este caso, pondríamos Material. La siguiente palabra sería el Precio, indicamos que hay un salto con la tecla
+Tabulador, y escribimos la palabra. La siguiente palabra sería Cantidad
+y también debe haber un salto, debe estar en otra posición,
+tecla Tabulador, fijaos que se ha desplazado muy poco,
+no nos importa. Luego lo arreglaremos. Ahora, ponemos aquí la
+palabra para Cantidad, y you tenemos la primera línea hecha. Pasamos de línea y seguimos
+haciendo lo mismo. Cada vez que queremos escribir
+un determinado texto, primero pulsamos la tecla
+Tabulador y you podemos escribir. Por ejemplo, Sillas, Tabulador, ponemos un precio, 75, Tabulador, Cantidad, 75 sillas, pasamos de línea, Tabulador para el nuevo material,
+ponemos Mesas, Tabulador, el precio 100, Tabulador, Cantidad, 5. Fijaos que no quedan donde
+realmente yo querría ponerlos, pero eso no nos tiene que importar. Lo importante es que solo toquemos una vez
+la tecla Tabulador para indicar el salto, no nos importa dónde lo coloque. Si queréis ver con seguridad que no hayáis hecho más tabuladores de la cuenta o
+menos, lo ideal es que trabajéis con la opción de Mostrar todo activada. Lo activamos aquí en el grupo de Párrafo,
+y así vemos dónde hemos tabulado. Aquí entre Precio y Cantidad casi no se
+ve, tenemos poco espacio, pero existe. Si viéramos dos flechas en algún sitio,
+deberíamos borrar alguna. Una vez lo tenemos introducido,
+you podemos seleccionar ese texto. Tened cuidado de seleccionar muy bien, no seleccionéis ni de más ni de menos,
+porque si no después os daría problemas. Una vez está bien seleccionado, vamos a decirle dónde queremos
+cada una de estas palabras. Para ello, nos vamos al indicador de
+cuadro de diálogo del grupo Párrafo, damos clic, y en la parte inferior
+encontraremos el botón Tabulaciones. Entramos y en este cuadro
+de diálogo indicaremos dónde queremos las tabulaciones. Tenemos la casilla de posición,
+por ejemplo, los materiales lo quiero a dos
+centímetros, pongo la posición, dos. En el apartado de alineación indico cómo
+quiero que estén alineados estos textos, es decir, estos materiales, en principio
+por la izquierda you me va bien, y si quiero algún relleno hasta
+esa posición, en este caso, a la izquierda del material no quiero
+ningún relleno, lo dejo en ninguno. you he acabado, no haré Aceptar,
+haré Establecer. Si doy Aceptar desaparecerá
+el cuadro de diálogo, tendría que volver a entrar para
+hacer el resto de opciones. Damos, hacemos clic en Establecer,
+de esta manera you tenemos aquí creado una marca de tabulación
+y podemos seguir haciendo más. Ahora vamos a poner la marca del Precio. El precio lo quiero poner pues en
+la posición de seis centímetros. Clicamos, seis centímetros, todos los
+precios los quiero alineados a la derecha, marco la alineación, derecha,
+y el relleno en este caso sí me interesaría que me ponga unos
+puntos entre Material y Precio. Aquí en Relleno lo indico, marco los
+puntos, segunda opción, y Establecer. you tengo dos marcas de tabulación. Vamos a por la última, la de la Cantidad. La quiero en la posición de diez
+centímetros, indicamos posición. ¿Qué alineación me interesa? En este caso, para variar,
+ponemos Centrado. Relleno, pues ponemos la cuarta opción. Establecer, y you tengo las tres
+marcas de tabulación, es decir, cada cosa en su sitio. Aceptamos y aquí tenéis el
+texto perfectamente tabulado, los materiales en la misma posición
+y alineados a la izquierda, los precios alineados a la derecha y con
+su punteado, y las cantidades centradas. Para cualquier modificación, por ejemplo,
+Cantidad me queda un poco desplazado, seguramente me quedaría mejor
+a nueve centímetros, selecciono, recordar de seleccionar bien,
+ni más ni menos. Vuelvo al cuadro de diálogo,
+vuelvo a Tabulaciones, aquí tengo la marca de los materiales,
+en lugar de 10 ponemos nueve, indicamos que seguimos
+queriéndolo centrado, con la opción cuarta de relleno,
+y establecemos. La marca de 10 continúa existiendo, la puedo eliminar seleccionándola y
+haciendo clic en el botón Eliminar. Aceptamos, y you hemos
+desplazado esta cantidad. Si os fijáis en la regla, veréis cómo han aparecido unas marcas
+que son las marcas de tabulación. Fijaos en el dos, tenemos una marca, parece una L, que significa que
+es una alineación izquierda. En la posición de seis centímetros
+tenemos una alineación derecha, la línea vertical es la que nos indica
+qué tipo de alineación tenemos. Y la marca de nueve centímetros
+tiene una alineación centrada. Igual que lo hemos hecho con
+el botón de Tabulaciones, las tabulaciones podemos hacerlas
+con la regla directamente. Vamos a ver cómo lo haríamos. Deshacemos lo que hemos hecho para
+volver otra vez a tener el texto sin las tabulaciones, siguen
+estando marcadas con su flecha, pero nos faltan las posiciones. Vemos la regla que está limpia. ¿Cómo pongo las tabulaciones con la regla? Fijaos en la regla de la izquierda. En la parte superior, tenemos esta casilla que es un botón,
+que es el botón de Tabulaciones. Haciendo clic en este botón me van
+apareciendo las diferentes tabulaciones, además de los sangrados. Busco la tabulación que me interesa, en el caso de Material,
+me interesa una tabulación izquierda. Voy haciendo clic hasta que aparece. Una vez que la tengo me coloco en
+la regla y hago clic en la posición que me interesa, en este caso,
+dos centímetros. Y you me ha colocado esta tabulación. Para el Precio necesitaba
+una alineación derecha. La busco primero en el botón
+y la coloco en la regla. Y para Cantidad,
+me interesaba una centrada, aquí está, la coloco en nueve centímetros. Lo único que no puedo
+determinar es el relleno. Si quiero relleno,
+puedo ir a buscar Tabulaciones, y aquí me aparecerán todas las tabulaciones
+que acabo de hacer en la regla. Modifico lo que haga falta,
+y you estará arreglado. Fijaos que tenemos un
+botón Eliminar todas, que este nos será muy
+útil sobre todo cuando hayamos seleccionado mal y se nos haya
+destrozado todas las tabulaciones, nos aparezcan tabulaciones de un tipo
+por un lado, en otras líneas diferentes. Cualquier problema que
+tengáis con las tabulaciones, lo mejor es este botón,
+Eliminar todas, y volverlas a hacer. you tenemos el texto totalmente tabulado. Podéis elegir cualquiera de las dos
+opciones, o por botón o por regla, lo que os sea más cómodo. [AUDIO EN BLANCO]

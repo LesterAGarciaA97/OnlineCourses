@@ -1,0 +1,82 @@
+[MÚSICA] Con esta unidad nos familiarizaremos
+con el uso de la aplicación. En el primer apartado, primeros pasos, veremos cómo abrir y cerrar la aplicación,
+cómo abrir y cerrar documentos, cómo crear nuevos documentos y
+cómo guardar nuestros documentos. También veremos las diferentes partes
+de la ventana y sus funciones. En el segundo apartado, configuración
+del entorno, veremos cómo modificar la visualización del documento y cómo
+modificar las preferencias del documento. En el tercer apartado,
+operaciones básicas, veremos cómo introducir texto,
+cómo seleccionarlo, modificarlo, copiarlo, borrar una parte y
+cómo buscar determinado texto. En el cuarto apartado veremos cómo utilizar el corrector
+ortográfico y gramatical. Y en el quinto apartado veremos
+cómo imprimir, número de copias, orientación, márgenes del
+documento y mucho más. Vamos a empezar a trabajar,
+buscamos la aplicación en el botón inicio. Aquí nos aparecen todos los programas. Una vez localizada, clicamos. Nos aparece la pantalla
+de inicio del Word, donde nos permite elegir qué tipo de
+documento queremos crear, un documento en blanco o utilizar cualquiera de
+las plantillas que nos ofrece Word. En este caso,
+vamos a abrir un documento en blanco. Y you tenemos el Word abierto. you que vamos a utilizarlo a menudo,
+lo que podemos hacer es anclar este programa
+en la barra de tareas. Para ello, simplemente nos dirigimos al
+botón de Inicio, buscamos la aplicación, le hacemos clic con el botón derecho
+y aquí encontraremos la opción Más y dentro la opción
+Anclar a la Barra de Tareas. De esta manera, vemos cómo en la barra
+de tareas nos aparece el ícono de Word y siempre lo tendremos disponible. Vamos a comprobarlo, cerramos la
+aplicación como cualquier ventana, hacemos clic en la cruz y aunque
+hayamos cerrado la aplicación, siempre la tendremos disponible
+en esta barra de tareas. Hacemos clic y volvemos
+a abrir la aplicación. Vamos a ver lo que tenemos
+en la ventana de Word. En la parte superior, como en cualquier
+ventana, veremos la barra de título con el nombre del documento y a la
+derecha los botones de Minimizar, Maximizar, Restaurar y
+Cerrar el documento. Debajo de esta barra de título
+tenemos la cinta de opciones, en ella encontraremos todas las opciones que
+nos proporciona Word para trabajar. Estas opciones están clasificadas
+por fichas, según el tipo de opción. Tenemos la ficha de Inicio,
+Insertar, Diseño, según lo que queramos hacer,
+utilizaremos una u otra ficha. Dentro de cada ficha
+encontraremos diferentes grupos, por ejemplo, en Inicio tenemos el grupo
+Portapapeles con las órdenes propias de Copiar, Pegar, etcétera. En el grupo Fuente encontraremos
+las órdenes de Formato, Formato de letra y así en cada grupo
+iremos viendo órdenes específicas. Encima de la cinta de opciones
+encontramos la barra de acceso rápido, en este caso con tres opciones,
+Guardar, Deshacer y Rehacer. Esta barra nos es muy útil porque podemos
+añadirle los botones que queramos. Normalmente lo que hacemos es añadir
+aquellos botones que más utilizamos, de manera que no tengamos que ir buscando
+en la cinta de opciones dónde está esa opción. Este último botón, que vemos en la
+barra de acceso rápido, nos muestra una serie de opciones que podemos añadir,
+por ejemplo, puedo añadir la opción Abrir, que me permitirá abrir documentos,
+le hago un clic y you tenemos un nuevo botón añadido
+a esta barra de acceso rápido. A parte de estos botones,
+de estas opciones que nos permite añadir, tenemos la opción Más Comandos, que nos
+da acceso a todas las órdenes de Word, las que you tenemos en la cinta
+de opciones y algunas más. En la parte superior elegimos qué
+tipo de órdenes queremos buscar, por ficha o simplemente que
+nos las muestre todas, en este caso elegiríamos
+Todos los comandos, y aquí nos mostraría ordenado alfabéticamente
+todas las opciones que podemos añadir. Por ejemplo,
+quiero añadir la opción Color 3D, la selecciono,
+le hago un clic al botón agregar y aquí a la derecha you veo
+que me ha añadido esta opción. Vamos a comprobarlo,
+aceptar y you tenemos aquí el botón. Tenemos, hemos añadido un nuevo
+botón a la barra de estado. Si lo queremos eliminar,
+volvemos a este botón, si es uno de los, de las opciones que nos
+muestra al principio, la desactivamos y, si no, volvemos a Más Comandos, a la derecha elijo el botón que
+quiero eliminar y lo quito. [SONIDO] Os aconsejaría que pusiereis en
+esta barra las opciones Nuevo, Abrir, Guardar, Ortografía y Gramática y en principio con éstas sería suficiente. A partir de aquí, en Más Comandos buscad las opciones que
+más utilizáis y las podéis ir añadiendo. Debajo de la cinta de opciones
+y a la izquierda de la ventana tenemos las reglas. Estas reglas nos indican el
+espacio destinado a texto y nos permiten aplicar los sangrados
+de párrafo y las tabulaciones. Si no os aparecen estas reglas,
+las podéis activar desde la ficha Vista. En esta ficha encontraremos opciones que nos permiten mostrar
+u ocultar partes de la ventana. Aquí encontramos dentro del grupo Mostrar, el botón Regla,
+si no tuviéramos la regla visible, estaría desactivado, simplemente lo
+activamos y you muestra esas dos reglas. A la derecha de la pantalla encontramos
+la barra de desplazamiento, que nos permite visualizar las
+diferentes partes del documento. En la parte inferior nos encontramos con
+la barra de Estado, donde a la izquierda nos da información como número de páginas
+o el total de páginas, el número de palabras que tiene el documento y el
+idioma utilizado para la corrección. A la derecha de esta barra de Estado,
+encontramos los botones de Vistas para indicar cómo queremos mostrar
+el documento y la barra de Zoom que nos permitirá ampliar o
+reducir la vista del documento. [AUDIO_EN_BLANCO]

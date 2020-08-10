@@ -1,0 +1,106 @@
+[MÚSICA] Cuando trabajamos con documentos grandes,
+nos podemos encontrar con varios párrafos que tienen el mismo formato. Por ejemplo, imaginemos un
+documento que contiene 50 títulos, esos 50 títulos tienen el mismo formato, una determinada letra,
+un determinado tamaño, color, etcétera. Es muy pesado tener que aplicar
+a cada nuevo título esos formatos y además debemos recordar exactamente qué
+formatos eran para que todos sean iguales. Todo eso nos lo puede ahorrar
+el uso de los estilos. Fijaos en la ficha Inicio, grupo Estilos,
+nos ofrece una serie de estilos. Si me pongo encima de cualquiera de ellos, modifica el párrafo que tenga
+seleccionado en ese momento. Fijaos que queda marcado el estilo Normal,
+en principio cualquier documento, mientras no digamos lo contrario,
+le aplicará el estilo Normal. Este estilo tiene unas características,
+un tipo de letra, un tamaño, los estilos, a mí lo que me interesa es aplicar a unos determinados párrafos,
+un determinado estilo. Por ejemplo, subo para arriba,
+aquí tengo el título, El ordenador, me coloco dentro o selecciono el título,
+cualquiera de las dos opciones es válida y en los botones de Estilo busco
+el estilo que a mí me interese. Despliego el cuadro y por ejemplo,
+elijo el estilo Título, hago clic y a este párrafo le he
+aplicado una serie de formatos. Si yo busco el siguiente título,
+Hardware, por ejemplo, me coloco en este título,
+indico que me interesa el estilo Título y you lo aplica y así para los 50 títulos,
+todos los títulos que tenga. Me ahorro trabajo porque you no tengo
+que estar aplicando los formatos, me aseguro que todos los títulos
+sean iguales y sobre todo, si yo quiero modificar los títulos,
+no tengo por qué modificar uno por uno. Imaginemos que yo quiero que estos títulos
+tengan una línea debajo del título. Buscaré un título, cualquiera de ellos,
+coloco en este título, voy a los botones de Estilo,
+busco el estilo, hago clic con el botón
+derecho y pido Modificar. En el cuadro de diálogo de Estilos
+hago las modificaciones necesarias, tenemos las básicas en esta parte
+superior, tipo de letra, el tamaño, los estilos o el color y
+si no utilizo el botón Formato que tengo en la parte inferior,
+que me da acceso a todos los formatos. Por ejemplo,
+el que me interesa ahora es el de Borde. Pido, indico que quiero una
+línea en la parte inferior, acepto y you lo tenemos, Aceptar. Me ha colocado esa línea debajo del
+título, pero no solo en este título, sino en todos los párrafos
+que tengan este formato. Vamos a comprobarlo. Subimos, fijaos cómo el
+título Ordenador también. Si tenía 50 títulos,
+los 50 títulos han sido modificados. Fijaos, el texto normal tiene una alineación izquierda y a mí me
+interesaría que estuviera justificado. Mientras no apliquemos ningún estilo,
+todos los párrafos del documento tendrán asignado el estilo Normal,
+por lo tanto, si yo modifico este estilo Normal,
+botón derecho, Modificar, vamos a cambiarle de
+tipo de letra, ponemos Calibri, tamaño 10, aceptamos. Fijaos que no importa donde
+estuviéramos colocados, no ha modificado un párrafo solo,
+sino todos los párrafos del documento, excepto los que tienen asignado otro
+estilo, en este caso los dos títulos. Por lo tanto, hemos de tener presente
+que el estilo Normal afecta a todo el documento, menos los que nosotros
+hayamos indicado que tienen otro estilo. A parte de los estilos
+que nos ofrece Word, nosotros podemos crear los
+estilos que necesitemos. Por ejemplo, vamos a crear un estilo
+que haga que el texto esté enmarcado, que sea más estrecho y con un font,
+un estilo que llamaremos Especial. Para hacerlo nos vamos al indicador de
+cuadro de diálogo del grupo de Estilos, hacemos clic y nos aparece
+el listado de estilos, que es lo mismo que los botones de la
+parte superior pero en forma de listado, también podemos utilizarlo
+y en la parte inferior encontraremos el botón Nuevo estilo,
+hacemos clic en este botón, aparece el cuadro de diálogo de Estilos
+que hemos visto cuando modificábamos. Y lo primero,
+le ponemos el nombre Especial. El tipo de estilo sería Párrafo,
+no es necesario modificarlo, basado en, indica que cogerá los formatos del estilo, en este caso Normal,
+más las modificaciones que hagamos. Estilo del párrafo siguiente,
+aquí indicaríamos si el siguiente párrafo, cuando haga un punto y aparte dentro de
+este párrafo, tendría el mismo formato, en este caso formato Especial,
+o debería ser el normal, lo podemos indicar tranquilamente aquí. Vamos a suponer que este formato
+Especial es propio para un solo párrafo, por lo tanto, lo ideal sería
+que el siguiente fuera Normal. Buscamos y lo indicamos. ¿Cómo queremos este párrafo? Lo queremos con la alineación justificada, lo queremos con unos bordes,
+nos vamos a Formato, pedimos Borde y le pedimos,
+por ejemplo, Cuadro. También quiero que sea más estrecho,
+por lo tanto, me voy a Párrafo, hago un sangrado de dos centímetros
+por la izquierda, dos por la derecha. Además quiero que sea cursiva. Una vez le he dado todo los formatos que
+quiero aplicar a este tipo de párrafo, aceptamos y you tenemos modificado
+este párrafo, pero además, fijaos en la parte superior cómo nos ha aparecido
+el nuevo estilo, el estilo Especial. Por lo tanto, a partir de ahora en
+cualquier momento estoy trabajando con el texto y digo, este párrafo,
+este párrafo debería ser especial, me coloco dentro, clic en el estilo
+Especial y you está modificado. Y así cada vez que encuentre un párrafo
+al cual le quiera aplicar ese estilo. A partir de ahora, cuando queramos hacer
+alguna modificación en un párrafo al cual se le ha aplicado un estilo, hay que
+tener presente que estas modificaciones hay que hacerlas en el estilo no con los
+botones normales de Formato, es decir, hay que ir a buscar ese estilo,
+con el botón derecho pedir Modificar. De esta manera modificaremos
+no solo ese párrafo, sino todos los párrafos que
+tengan asignado ese estilo. Si por error nos hemos equivocado, por ejemplo, aquí este párrafo que
+tiene asignado el estilo Especial le pido centrado, solo he modificado
+este párrafo, no los demás. Si me doy cuenta de que quería
+realizar ese cambio para todos, simplemente me vuelvo a buscar el estilo,
+botón derecho y aquí encontraremos la opción
+Actualizar el nombre del estilo, para que coincida con la selección,
+pues, los cambios que he hecho, los aplicará al resto de párrafos
+que tengan ese mismo estilo. Tanto las modificaciones
+que hacemos en los estilos como los nuevos estilos que hemos creado,
+solo existen en este documento. Normalmente estos estilos,
+sobre todo los que creamos, nos pueden ser útiles en otros documentos,
+para ello lo que hay que hacer es guardar estos estilos en la plantilla
+Normal, de manera que cada vez que cree un nuevo documento,
+you me aparezcan dentro de los estilos. Para ello, en la ventana de Estilos
+tenéis en la parte inferior este botón, Administrar estilos, nos permitirá indicar que
+queréis guardar estos estilos. En la parte inferior del cuadro de diálogo
+tenéis el botón Importar o exportar, nos abre la ventana de Organizador y aquí
+buscamos los estilos que hemos creado. Por ejemplo, Especial y lo seleccionamos y con el botón Copiar
+lo pasamos a la plantilla Normal. De esta manera, este estilo nuevo que
+hasta ahora solo estaba en este documento, aparecerá en cualquier documento
+nuevo que creemos a partir de ahora. Cerramos, vamos a pedir un
+documento nuevo y así lo veremos. Hacemos uno nuevo. Fijaos cómo dentro de los
+estilos you me aparece Especial, a partir de ahora tendré este estilo
+disponible en cualquier nuevo documento.

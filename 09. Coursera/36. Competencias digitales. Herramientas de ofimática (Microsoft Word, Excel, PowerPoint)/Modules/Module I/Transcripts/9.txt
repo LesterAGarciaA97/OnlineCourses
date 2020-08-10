@@ -1,0 +1,138 @@
+[MÚSICA] Ahora vamos a trabajar con los formatos de
+párrafo, es decir, aquellos que afectarán mínimo a un párrafo,
+aunque yo seleccione una sola palabra, cualquier formato de este grupo Párrafo,
+lo aplicará al párrafo entero. Si queremos saber dónde empieza
+y dónde acaba un párrafo, podemos utilizar el botón Mostrar todo,
+que nos enseñará una marca allí donde
+acaba cada uno de los párrafos. Si en algún momento queremos hacer
+un salto de línea sin que se cree un nuevo párrafo, lo podemos hacer con la
+combinación de teclas Mayúsculas e Intro. Coloco al final este párrafo por ejemplo,
+hago Mayúsculas Intro, he pasado de línea, pero todavía
+estoy dentro del mismo párrafo. Si selecciono este párrafo haciéndole
+doble clic a la izquierda, veré cómo esta nueva línea continúa
+estando dentro de este párrafo. El salto de línea lo marca
+con un símbolo diferente. El primer formato de párrafo que
+debemos conocer es la alineación. Para ello, tenemos estos cuatro botones,
+Alineación a la izquierda, al centro, a la derecha o justificación. En principio, lo ideal sería utilizar este cuarto botón
+para todo el texto o la mayoría del texto. Esta opción hace que el texto
+esté perfectamente recto a izquierda y a derecha. Fijaos cómo, por defecto,
+el texto nos aparece recto a la izquierda, pero no a la derecha. La derecha depende de las letras
+que tengamos, o mejor dicho, de las palabras que tengamos en esa línea
+por estar más adentro o más afuera. Si yo selecciono todo el documento,
+puedo aplicar este formato de alineación
+justificada y me aseguro que todo el texto lo tengamos perfectamente
+recto a izquierda y a derecha. Después, para el resto de texto,
+iremos seleccionando diferentes partes y aplicando alineaciones
+diferentes si es necesario. Por ejemplo, el título El ordenador,
+me interesaría mucho más tenerlo centrado. Selecciono este título y lo centro. Segundo, lo pongo en alineación,
+y él centrará al texto. Normalmente, utilizaremos el de
+Justificar para la mayoría de texto, y el de Centrar pues para
+algún texto como el título. En algún caso puede ser útil la
+alineación a la derecha, por ejemplo, cuando queremos poner la fecha,
+nos quedaría bien aquí a la derecha. El de la alineación a la izquierda nos lo dejaría tal como estaba por defecto,
+perfectamente recto a la izquierda, de cualquier manera a la derecha,
+pero you no es tan útil. Mejor los otros tres
+botones de alineación. Aparte de la alineación,
+otra opción que nos es muy útil es el Interlineado, es decir,
+la separación entre líneas. Si nos fijamos en este documento, todas
+las líneas están quizás demasiado juntas, puede hacerse pesada la lectura. Lo ideal sería tenerlas más separadas. Vamos a seleccionar todo el documento, para que todo el documento tenga una
+separación de entre líneas un poco mayor. Buscamos el botón de Interlineado,
+lo tenemos aquí a continuación de los de alineación, ahora mismo está
+con un interlineado de uno, de una línea, podemos poner uno
+coma cinco, sería lo ideal, dos, dos y medio, quizás éstas serían
+demasiado separadas para un texto normal, depende de lo que necesitemos. Lo más usual es utilizar uno coma
+cinco como separación entre líneas. Y así tenemos el texto con las líneas suficientemente separadas
+para que la lectura sea más cómoda. Dentro de este botón, también tenemos
+una opción, opciones de interlineado, que nos hace aparecer el
+cuadro de diálogo de Párrafo, donde podemos también indicar el
+interlineado como lo hemos hecho antes, uno, uno coma cinco, dos, lo que queramos. Pero, además, nos ofrece otra posibilidad de separación
+que es el espaciado anterior y posterior. Estas separaciones afectan
+al párrafo entero, es decir, nos indican qué separación habrá entre
+ese párrafo y el anterior y el posterior. Por ejemplo, si indicamos aquí
+que queremos una separación de seis puntos respecto
+al párrafo anterior, y de seis puntos respecto al
+párrafo posterior, tendremos una separación mayor entre los párrafos que
+no solo la de la separación entre líneas. Aceptamos y vemos cómo esta separación
+que tenemos aquí entre párrafos nos permite visualizar fácilmente
+cada uno de los párrafos. Vemos claramente dónde empieza un
+párrafo y dónde acaba ese párrafo. Para separaciones jugaremos
+con esas dos opciones. Recordad siempre las diferencia entre
+las dos, una cosa será el interlineado que determinará la separación entre
+líneas, y otra cosa será el espaciado anterior y posterior que determinará
+la separación entre los párrafos. También podemos marcar el
+inicio de los párrafos con un símbolo o con una numeración. Por ejemplo,
+vamos a buscar un texto, este. Tenemos aquí tres párrafos,
+explica mis tres cosas concretas, y nos iría muy bien marcarlos con un
+símbolo, un punto o cualquier otra marca. Para ello, tenemos el botón de Viñetas. Clicamos en este botón,
+y nos ofrecerá varios símbolos, elegimos el símbolo que nos interese,
+y le aplica este símbolo a cada uno de los párrafos, es decir,
+a cada uno de los inicios de párrafo. Automáticamente, si miráis la regla, le
+ha aplicado una sangría especial francesa para que quede el texto perfectamente
+recto y separado de las marcas. Aparte de las marcas que nos ofrece, podéis pedir otras marcas con
+esta opción Definir nueva viñeta. Aquí encontraréis el botón Símbolo, que
+nos permitirá elegir otro tipo de símbolo. Por ejemplo,
+escogemos el rombo, aceptamos, y hemos sustituido el símbolo por otro. De la misma manera que
+podemos marcar con símbolos, podemos también marcar con números,
+es decir, podemos numerar esos párrafos. En este caso,
+utilizaríamos el botón Numeración. Aquí tenemos diferentes tipos
+de numeración, números arábigos, números romanos, letras,
+el que nos apetezca. Elegimos el primero, por ejemplo, y en lugar de marcar
+con símbolos nos marca con números. El hecho de haber números
+hace que nos pueda entrar la duda de si yo añado un párrafo entremedio,
+¿qué ocurrirá con la numeración? Cualquier párrafo que añadáis
+dentro de una lista numerada, automáticamente se renumera. Por ejemplo, si me coloco en la del
+segundo párrafo, hago un Intro, y fijaos que el nuevo párrafo
+queda numerado y renumera los siguientes párrafos, o sea, que no tenemos
+que preocuparnos por esa numeración. Lo mismo pasará si borramos
+cualquiera de estos párrafos. Selecciono este párrafo,
+lo suprimo, y Servidores vuelve a ser el párrafo tres cuando antes
+teníamos que era el párrafo cuatro. Igual que para los símbolos,
+dentro del botón de Numeración encontraremos
+la opción de Establecer valor de numeración,
+que nos da alguna posibilidad más, por ejemplo, por qué número
+queremos que empiece la lista. Si teníamos una lista antes que esta, podríamos activar esta opción,
+Continuar a partir de la lista anterior, y si la lista anterior acababa en cuatro,
+esta empezará por cinco. O puede ser una lista totalmente
+independiente, pero que queramos que empiece por un determinado número,
+lo indicaremos aquí en Establecer valor. Por ejemplo,
+ahora Le decimos que empiece por 5. you tenemos la lista enumerada
+empezando por el número 5. Para acabar con los formatos básicos de
+párrafo, vamos a ver estos dos últimos que son el Sombreado y los Bordes. Estos formatos me permiten
+pintar el fondo de un párrafo o enmarcar un determinado
+párrafo o varios párrafos. Por ejemplo, vamos a buscar título. Tenemos seleccionado el título
+El ordenador, lo hemos centrado, le hemos puesto un tamaño mayor para que
+destaque el título, ponemos en negrita, pero ahora queremos que este título
+quede pintado con un fondo de color. Selecciono el párrafo o recordar que
+siempre las órdenes de párrafo afectan a todo el párrafo, por lo tanto no
+sería ni necesario seleccionarlo, podríamos hacer simplemente
+un clic dentro del párrafo, lo que queráis, o clic dentro del párrafo
+o seleccionáis el párrafo entero. Si utilizo el botón Sombreado, me permitirá pintar el fondo
+del color que yo quiera. Por ejemplo, hemos pintado de azul. Si quiero enmarcar este título,
+entonces utilizaré el botón de bordes, aquí me
+permitirá indicar qué tipo de borde, es decir, dónde quiero líneas,
+abajo, arriba, a la izquierda, a la derecha,
+quitar las líneas si las he puesto, ponerle todas las líneas alrededor, solo
+bordes externos cuando tengamos más de un párrafo, solo bordes internos,
+lo que queramos. Si vemos claramente lo que queremos,
+lo pedimos y you está. El más normal sería utilizar
+el de todos los bordes. Si no lo tenemos muy claro todavía cómo lo
+queremos, lo mejor sería ir a la última opción Bordes y sombreado y aquí en el cuadro de diálogo de Bordes, especificar
+tranquilamente lo que queremos hacer. Por ejemplo, empezaríamos por la izquierda
+y veríamos qué queremos, ¿un cuadro? Un cuadro, pero con sombra o con un
+pequeño efecto de tres dimensiones, o personalizado, es decir, decir yo
+dónde quiero cada una de las líneas. Elegimos el normal, sería un cuadro,
+y después seguimos por orden. Aquí en el campo Estilo, decidiremos
+qué tipo de línea queremos, normal, punteada, con guiones. Tenemos diferentes tipos. Por ejemplo,
+vamos a elegir una línea doble. Sigo buscando y la siguiente
+opción es la de color, es decir, pinto el borde del color que yo quiera. Y por último,
+elijo el grosor de los bordes. Vamos a hacerlo un poco más grueso
+para que se destaque y se vea bien. Aquí en la vista previa
+nos muestra cómo quedaría. Esta vista previa
+aprovechadla para indicar si en alguno de los lados
+queréis o no línea. Fijaos que para cada uno hay un botoncito. Si yo clico este botón,
+quita la línea superior. Si vuelvo a clicar, la vuelve a poner. También lo podéis hacer haciendo
+clic directamente sobre la línea. Hago clic y pone o quita
+la línea de ese lado. Una vez you todo hecho,
+vemos claramente que está el borde como nosotros queremos,
+you podemos aceptar, you tenemos el párrafo
+enmarcado y con un fondo. [AUDIO_EN_BLANCO]

@@ -1,0 +1,37 @@
+[MÚSICA] Disponemos de varias maneras de
+visualizar el documento. Las tres más usuales las
+encontraremos en la barra de Estado, son estos tres botones
+que tenemos a la derecha. Disponemos de la vista Diseño de
+Impresión, que es la que tenemos activada por defecto, donde nos muestra
+todo el contenido del documento, pero también podemos activar otras vistas,
+como por ejemplo, la vista de Lectura, que nos permitirá leer más cómodamente
+el documento, sin necesidad de ver los botones y por lo tanto,
+de disponer más espacio para la lectura. Para salir de esta vista,
+presionar la tecla Escape. Volveremos otra vez a la
+vista de Diseño de Impresión. También disponéis de otro
+botón de vista de Diseño Web, que utilizaremos cuando queramos
+guardar este documento como página web. Normalmente trabajaremos con
+la vista Diseño de Impresión. A la derecha de los botones de vistas
+encontraremos la barra de Zoom, que nos permitirá ampliar o reducir
+la visualización del documento. Podemos hacerlo arrastrando
+la marca de la barra o clicando los botones de menos y más. No hay que confundir este
+porcentaje de visualización con el porcentaje de impresión,
+aquí simplemente visualizamos más grande o más pequeño el texto, pero
+siempre se imprimiría de la misma manera. Para modificar el porcentaje de impresión,
+lo haremos con las opciones de impresión. A parte de la barra de Zoom, podemos utilizar las opciones que
+encontraremos en la ficha Vista. Aquí vemos un grupo, Zoom,
+dedicado a esta función. Si clicamos, por ejemplo, el primer botón,
+Zoom, nos permitirá indicar el porcentaje. En este caso podríamos poner 80%. [SONIDO] A parte de
+indicar ese porcentaje, nos da a otras opciones, como por ejemplo,
+que se adapte al ancho de la página. O al ancho del texto. O que nos muestre toda la página. También podemos especificar que nos
+muestre varias páginas a la vez, mostrando este botón, indicamos
+cuántas páginas queremos visualizar. Con el botón 100% volvemos
+a la visualización normal. La aplicación está configurada para que
+se comporte de una determinada manera. Esta configuración la
+encontraremos en la ficha Archivo, concretamente, en la opción Opciones. Aquí veremos las preferencias de la
+aplicación, clasificadas por temas, General, Mostrar, Revisión,
+Guardar, Idioma Seleccionado, dependiendo de lo que queramos modificar,
+utilizaremos una de estas categorías. Es conveniente echar un vistazo
+a las diferentes categorías y sus opciones, para ver cuál de
+ellas nos puede ser útil modificar. Durante este curso, you iremos
+viendo algunas de estas opciones. [AUDIO_EN_BLANCO]

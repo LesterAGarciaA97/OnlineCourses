@@ -1,0 +1,101 @@
+[MÚSICA] Una vez familiarizados con la ventana de la
+aplicación, vamos a ponernos a trabajar. Una vez abierta la aplicación,
+you podemos empezar a escribir. Tecleamos lo que queremos escribir,
+y si cometemos algún tipo de error, utilizamos la tecla de borrar que
+encontraremos encima de la tecla intro. Esta tecla borra los caracteres situados
+a la izquierda del punto de inserción. El punto de inserción nos lo
+indica esta línea intermitente que encontramos siempre en la pantalla. Esta línea indica dónde podemos escribir. Si nos fijamos, al colocarnos por debajo
+de este texto que acabo de escribir, donde no hay nada, si hago clic aquí,
+no aparece el punto de inserción. Por lo tanto aquí no puedo escribir, escribiré en esta zona en el
+momento que llegue a esta zona. ¿Cómo llego? Escribiendo. Yo continúo escribiendo, cuando quiera
+hacer un punto y aparte presiono la tecla intro, automáticamente pasará a
+la siguiente línea y continúo escribiendo. Yo podría presionar la
+tecla intro varias veces, hasta llegar a una determinada
+posición y escribir allí. Siempre que podáis evitar
+hacer estos intros, porque tarde o temprano
+podría darnos problemas. Para hacer esta separación entre los
+párrafos, you utilizaremos unas opciones de párrafos preparadas para tal función
+y que veremos un poco más adelante. Si abrimos un documento
+que you contiene texto, fijaos que el punto de inserción nos
+aparece al principio de este texto. Por lo tanto, si yo escribiera en este
+momento, escribiría en esa posición. Por lo tanto, debería antes de empezar
+a teclear, fijarme donde quiero escribir. Busco esa posición y le hago clic, de esta manera coloco el punto
+de inserción en esta posición. you puedo escribir el texto que quiero
+añadir, y lo haré donde realmente quería. Por ejemplo, tenemos aquí una
+palabra información está mal escrita y queremos corregirla, nos colocamos a la
+derecha de la letra que tiene el error, la borramos con la tecla de borrar,
+y you podemos escribirla correctamente. Podemos colocarnos en cualquier
+posición del documento, siempre y cuando recordad que haya texto. Igual que utilizamos la tecla de borrar,
+también podemos utilizar la tecla suprimir, la función es la
+misma pero lo hace de manera diferente. Si nos fijamos, la tecla de borrar borra lo que hay
+a la izquierda del punto de inserción. En cambio, si utilizo la tecla suprimir, lo que borra es lo que hay a la
+derecha del punto de inserción. Podéis utilizar cualquiera
+de las dos teclas, pero tened presente esta diferencia. Para eliminar lo que hemos escrito, también podemos utilizar
+a veces el botón deshacer. En la barra de acceso rápido lo
+encontraremos, aquí a continuación del botón de guardar, si hago clic a este
+botón deshace lo que acabo de hacer. Puedo seguir presionando
+este botón y va hacia atrás, deshaciendo poco a poco todo
+lo que he ido haciendo. En el momento que utilizo este botón,
+me aparece el botón de rehacer, que recupera lo que acabo de deshacer. Aparte de los caracteres
+que nos ofrece el teclado, disponemos de muchos más caracteres. Por ejemplo, yo quiero poner a la derecha de la palabra ordenador,
+el símbolo de Copyright. Coloco el punto de inserción en esa
+posición, y me voy a la ficha insertar. Aquí al final de esta ficha
+encontraré el botón símbolo. Este botón me ofrece diferentes caracteres por ejemplo el símbolo de Copyright,
+simplemente lo escojo y lo coloca. Este símbolo es simplemente
+un caracter más, se comporta exactamente
+igual que una letra. Fijaos que aparte de los
+símbolos que nos ofrece, tenemos una opción al final,
+nos indica que hay más símbolos. Clicamos esta opción y aquí
+encontraremos los símbolos disponibles. Para cada tipo de letra disponemos
+de diferentes símbolos. Podemos utilizar cualquiera de
+ellas con este campo de fuente. Aquí eligiríamos la letra que queremos
+utilizar y veríamos sus caracteres, tanto letras como números
+u otros caracteres. Os aconsejaría si queréis obtener
+bastantes caracteres, que os fijaréis en la parte final en el listado,
+en los tipos Wingdings. Aquí encontraréis muchos símbolos
+que os pueden ser útiles. Por ejemplo el símbolo de un teléfono, lo seleccionamos y con el
+botón insertar lo colocamos. Si solo queremos colocar ese símbolo, you podemos cerrar este cuadro de diálogo
+y sino, podemos añadir otros símbolos. Seleccionamos el símbolo correspondiente,
+insertamos. Cuando acabemos,
+cerramos el cuadro de diálogo. Aquí teneís los símbolos
+que hemos colocado. Para dar órdenes utilizaremos los
+diferentes botones que nos ofrece la cinta de opciones. Pero, en muchos casos el cambio que quiero realizar
+afecta a solo una parte del texto. En estos casos, lo que primero debemos
+hacer es seleccionar, es decir, avisarle sobre qué trozo quiero
+hacer las modificaciones. Para seleccionar cualquier parte de texto, me coloco al principio de
+aquello que quiero seleccionar. Una vez colocado, presiono el botón del
+ratón y sin soltar este botón arrastro el ratón hasta la posición que me indica
+el final de lo que quiero seleccionar. you tengo esta parte de texto
+seleccionada y si le pido algún formato por ejemplo,
+afectará solo a esta parte. De esta manera puedo seleccionar
+cualquier parte del texto, desde una simple letra hasta una palabra, una frase, incluso todo el texto. Hay diferencias técnicas de selección
+que nos pueden ayudar un poco a hacerlo más rápido, por ejemplo si yo
+quiero seleccionar una palabra, basta con que me coloque en medio de
+esa palabra y le haga un doble clic. Por ejemplo ordenador, le hago un doble
+clic y selecciona la palabra entera. También puedo seleccionar una línea, para seleccionar una línea
+me coloco a su izquierda y en el momento en que me aparezca
+la flecha, you puedo hacer un clic. La línea queda seleccionada. Si en lugar de un clic hago dos,
+lo que seleccionará es el párrafo entero. Y si hago tres, selecciona todo el texto. Para seleccionar todo el texto, también
+podéis utilizar el botón seleccionar que tenéis en la ficha inicio al final, aquí
+encontraréis la opción seleccionar todo. Lo más rápido es hacer los
+tres clic que os he indicado a la izquierda de
+cualquiera de las líneas. Cuando tengáis algún trozo de
+texto seleccionado, mucho cuidado, no toquéis el teclado, you que Word lo que pensará es que queréis sustituir ese texto
+seleccionado por lo que estáis tecleando. Si ahora toco cualquier tecla,
+desaparece el texto que habías seleccionado y aparece
+lo que estoy tecleando. Por suerte tenemos el botón de
+deshacer y volvemos a tener todo el texto como antes. [SONIDO] Si queréis seleccionar un trozo muy grande,
+no es cómodo ir arrastrando por ejemplo, si yo me
+coloco aquí y empiezo a seleccionar, pero quiero seleccionar varias páginas, cuando llego abajo,
+él irá buscando el resto de las páginas, pero de una manera demasiado rápida que no
+me permite ver donde acabo de seleccionar. En estos casos,
+es útil utilizar la tecla de mayúsculas. Para ello, me coloco al principio
+de aquello que quiero seleccionar, hago un clic, y busco con la barra de
+desplazamiento el final de la selección. Por ejemplo,
+hasta aquí al final de tarjeta de red. Me coloco en esa posición y con la tecla
+de mayúsculas presionada, hago un clic. De esta manera he seleccionado un trozo
+muy largo y de una manera cómoda. Si lo que queremos seleccionar es una
+imagen, simplemente, por ejemplo en la primera página hay una imagen, la
+buscamos, simplemente le hacéis un clic. Cualquier imagen al hacerle
+un clic queda seleccionada, y lo sabemos porque nos la marca
+con estos puntos alrededor. [AUDIO_EN_BLANCO]

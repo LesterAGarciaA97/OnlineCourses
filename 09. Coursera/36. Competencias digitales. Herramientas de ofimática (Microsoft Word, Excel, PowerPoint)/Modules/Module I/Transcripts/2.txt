@@ -1,0 +1,78 @@
+[MÚSICA] Una vez familiarizados con la ventana de Word,
+vamos a empezar a trabajar. Vamos a abrir un documento. La orden de abrir la encontraremos
+en la ficha archivo, y aquí nos permitirá elegir
+entre documentos recientes, documentos que tengamos guardados en la
+nube, o guardados en nuestro ordenador. En este caso elijo este PC y abro el documento carta,
+y you tenemos el documento abierto. Para desplazamientos,
+podemos ir viendo todo el documento. Podemos abrir más de un documento,
+volvemos a la ficha archivo, opción abrir, este PC, y abrimos ahora, por ejemplo,
+el documento Módulo 1 Conceptos. [AUDIO_EN_BLANCO] Siempre visualizamos el último documento abierto,
+pero si nos dirigimos a la barra de estado, en el icono
+correspondiente a Word, nos mostrará los diferentes
+documentos que tenemos abiertos. Nos situamos sobre el que queremos
+visualizar, y lo activamos. De esta manera pasamos fácilmente
+de un documento a otro. Podemos visualizar los dos documentos
+a la vez con la ficha vista. Aquí encontraremos la
+opción organizar todo. esta opción muestra cada uno
+de los documentos abiertos, de manera que yo pueda visualizar
+diferentes partes de un documento, sin perder la visualización del otro. De esta manera, podremos comparar diferentes partes de
+los documentos, o también me puede ser útil para copiar y pegar diferentes partes
+de un texto de un documento a otro. Una vez he acabado, puedo volver
+a visualizar un solo documento, simplemente maximizando la ventana. you sólo tengo visible un documento. Para cerrar el documento, podemos
+utilizar, como en cualquier ventana, el botón de cerrar. Haciéndole click, cierra el documento. Lo que tenemos que tener presente es,
+que si sólo tenemos un documento abierto, al hacer click en
+este botón, cerrará también la aplicación. En este caso, lo mejor es utilizar la opción de cerrrar
+que encontraremos en la ficha archivo. Haciendo click en esta opción, cerramos
+el documento, pero no la aplicación. De esta manera puedo abrir otro documento, o crear un nuevo documento sin necesidad
+de volver abrir la aplicación. Mejor acostumbrarse a utilizar
+esta opción de la ficha archivo. Para crear un nuevo documento, utilizaremos el botón nuevo
+de la barra de acceso rápido. Nos creará un documento en blanco. Aparte de esta opción, encontraremos
+en la ficha archivo la opción nuevo, que nos preguntará qué tipo
+de documento queremos crear. podemos crear un documento en blanco, o aprovechar alguna de las
+plantillas que nos proporciona Word. Por ejemplo, utilizamos la plantilla de
+bienvenido, y nos crea un documento nuevo, pero con algunos objetos you creados,
+y algunos textos incluidos. Nosotros a partir de aquí podemos hacer
+las modificaciones que tengamos que hacer. Para no perder el trabajo
+realizado en el documento, debemos cada cierto tiempo
+guardar este documento. Para ello, disponemos en la barra
+de acceso rápido del botón guardar. Este botón nos preguntará
+dónde queremos guardarlo. Podemos guardarlo en la nube,
+o en nuestro ordenador. Lo más práctico es utilizar la opción
+examinar, con la que podremos determinar exactamente dónde queremos
+guardar este documento. La parte superior nos indica
+dónde quedará guardado, en este caso en la carpeta de Documentos. pero nosotros podremos
+indicar a la izquierda, dónde queremos guardar este documento. Lo podemos guardar en cualquier
+carpeta de nuestro ordenador. Una vez indicada la ubicación, en la casilla nombre de archivo,
+escribiremos el nombre de ese documento, por ejemplo, Carta 2. Debajo de este nombre encontraréis
+otra opción útil, que es el tipo, con la que determinaremos qué tipo
+de formato tendrá este documento. Lo normal es escoger la que viene por
+defecto, que es Documento de Word. Pero aquí encontraréis
+diferentes opciones. Una vez elegida la ubicación,
+el nombre y el tipo de archivo, clickamos al botón de guardar,
+y you tenemos guardado el documento. Cada cierto tiempo volveremos a hacer
+click en el botón de guardar, y guardará los cambios
+hechos hasta ese momento. Así como la primera vez nos preguntaba
+dónde queríamos guardar ese documento, a partir de ahora you nunca más volverá
+a preguntarlo, porque you sabe cuál es la ubicación de este documento,
+cuál es su nombre, y cuál es su formato. En la ficha archivo,
+aparte de la opción de guardar, encontraréis la opción guardar como. Esta opción me permite hacer una copia
+del documento que tenemos abierto. En este caso, nos mostraría otra ves el cuadro de diálogo de guardar,
+y aquí podríamos modificar cualquiera de las opciones que hemos
+determinado cuando guardamos el documento. Podemos cambiarle el nombre,
+podemos cambiarle la ubicación, o podemos cambiarle el
+formato de documento. De esta manera,
+creamos una copia del documento, con otro nombre, en otra ubicación,
+o con otro formato. Cualquier duda que podáis tener
+sobre el uso de la aplicación, podéis aprovechar la ayuda que nos ofrece. La encontraréis en la ficha archivo. En la parte superior derecha
+veréis el botón ayuda, fijaos que lo que hace es
+conectarse vía online. Para mostrarnos la ayuda,
+aquí simplemente en la casilla de buscar, escribiremos aquello que queramos saber,
+por ejemplo, información sobre cómo imprimir, y nos mostrará toda la información
+disponible sobre ese tema. Por ejemplo,
+imprimir un documento en Word, hago click, y tendremos la explicación
+detallada de cómo hacerlo. A partir de la versión 2016 de Office, también podemos pedir ayuda
+en la cinta de opciones. Fijaos que después de
+la última ficha vista, encontramos el campo qué desea hacer. Escribiendo aquí lo que queremos saber, nos aparecerá la opción obtenga ayuda
+sobre aquello que hemos escrito. De esta manera accedemos
+a la opción de imprimir, igual que hemos hecho
+desde la ficha archivo. [AUDIO_EN_BLANCO]

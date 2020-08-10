@@ -1,0 +1,136 @@
+[MÚSICA] [MÚSICA] El objetivo de
+la primera actividad de esta primera unidad es practicar
+el uso de las opciones de formato. Trabajaremos las opciones que
+se encuentran en el grupo fuente y en el grupo párrafo de la ficha inicio. Aquí encontraremos prácticamente todas las
+opciones de formato que más utilizaremos. Para arreglar el texto si queremos
+ahorrar un poco de tiempo, lo ideal sería primero aplicar los formatos
+que afecten a mayor parte del texto. Para ello seleccionamos todo el documento,
+simplemente tres clics a su izquierda y comprobamos qué formatos
+son los más básicos. Por ejemplo la mayor parte del
+texto nos interesará tenerlo ajustado tanto por la izquierda como por
+la derecha, por lo tanto justificado. En cuanto a la separación
+entre párrafos y líneas, pues iríamos al indicador del cuadro
+de diálogo y aquí podríamos especificar como estándar para la mayoría de los
+párrafos, un espaciado anterior de 6 puntos y uno posterior de 6,
+así como un interlineado de 1,5 líneas. Esto lo podemos considerar como un
+formato estándar de cualquier texto que queramos presentar. Aceptamos, you tenemos todo el texto,
+con ese interlineado y esas separaciones. Después you iremos arreglando
+algunas cosas con calma. Por ejemplo, el título, Windows,
+no lo queremos justificado, lo queremos centrado. Seleccionamos el título, lo centramos, y además lo queremos enmarcado con un
+fondo y con una letra de color rojo. Tenemos el botón de color de fuente,
+aquí escogemos el rojo, vemos que en el pdf os he dejado Windows
+está un poco más grueso por lo tanto es negrita, así queda un poquito más grueso
+y es una letra un poquito más grande. Podemos aumentar el tamaño, indicando el tamaño de la letra o utilizando
+los botones de aumentar o disminuir. Podemos dejarlo por ejemplo en 16 puntos. Ahora nos queda enmarcar este título,
+para enmarcar un título se podría hacer con una tabla,
+se podría hacer dibujando un recuadro. Lo más práctico es hacerlo utilizando
+la opción de bordes y sombreado. Utilizamos el botón de bordes,
+indicamos qué tipo de bordes queremos. En este caso nos puede servir o
+todos los bordes o bordes externos. you tenemos enmarcado el título. Si queremos pintarlo utilizamos
+el bote de pintura directamente. Utilizamos el color que queramos. Si nos fijamos en el documento,
+vemos que el marco tiene una línea doble, para especificar detalles
+you sobre este marco lo mejor es ir al botón de bordes y utilizar
+la última opción bordes y sombreado, que contiene todas las opciones posibles. Aquí por ejemplo encontraremos
+las opciones de estilo, entre las cuales nos
+aparece la de doble línea. La elegimos,
+una vez elegida le decimos que la queremos en cuadros, es decir en los cuatro lados,
+y si hiciera falta, no es el caso pues cambiaríamos el
+color o el grosor de las líneas. Aceptamos y you tenemos
+el título enmarcado. Fijaos en un pequeño detalle,
+cuando enmarcamos un título, muchas veces veremos que en la parte
+inferior hay más espacio que en la parte superior, esto no es culpa del marco. Es culpa del interlineado
+que hemos elegido, recordad que hemos elegido un
+interlineado de 1,5 líneas. Ese 0,5 demás que nos añade,
+nos lo añade por debajo. Y aquí es donde nos aparece este espacio. Acostumbraos a cuando
+queráis enmarcar un título utilizar para ese título
+el interlineado simple. Cogemos interlineado sencillo y you habrá el mismo espacio
+por encima que por debajo. Que en realidad yo quiero que las líneas
+superior e inferior no estén tan juntas, para eso buscaremos en la
+opción de bordes y sombreado concretamente el botón opciones es una
+opción que queda un poco escondida y aquí tenemos la distancia desde
+el texto superior o inferior. Si aquí por ejemplo ponemos 8
+puntos respecto a la línea superior y 8 puntos respecto a la línea inferior,
+estamos separando el texto de las líneas. Aceptamos, volvemos a aceptar
+y you lo hemos arreglado. Acostumbraos a enmarcar
+con las ordenes de borde. Mejor que tablas, aunque parece
+que con tablas sería más rápido. Tarde o temprano nos será más útil. Seguimos arreglando, vemos formatos sencillos como por ejemplo que sistemas
+operativos está en negrita y cursiva. Lo seleccionamos, pedimos negrita,
+pedimos cursiva y you está solucionado. Lo mismo tenemos aquí
+en sistema operativo, en este caso es subrayado y cursiva. En este caso para este párrafo que
+puedo seleccionar o simplemente hacer un clic dentro, cualquier orden
+que vayáis a utilizar de párrafo no es necesario que seleccionéis el párrafo,
+con un simple clic dentro es suficiente. Vamos a hacerlo más estrecho,
+¿cómo se hace más estrecho? Simplemente utilizando unas sangrías. Problema, tenemos sangría izquierda con
+los botones pero no sangría derecha, por lo tanto mejor ir al
+indicador de cuadro de diálogo, aquí sabemos que está todo y aquí sí que
+encontramos sangría izquierda y derecha. En este caso le podemos poner una
+sangría izquierda derecha de unos 2 centímetros y con esto lo que hacemos
+que el párrafo sea más estrecho. Además queremos que tenga una doble línea
+izquierda y derecha, eso es un borde. Igual que hemos hecho el marco
+arriba pero en este caso con solo 2 líneas en lugar de 4. Nos vamos al botón de bordes, podemos ir directamente
+a bordes y sombreado, y aquí en el esquema que tenemos a la derecha
+indicaremos dónde queremos las líneas. Antes eso sí, escogemos el tipo de línea. En este caso quiero una línea doble, la escojo, al escogerla me la ha
+puesto en todos, pues quitamos simplemente haciendo un clic donde no
+queramos o haciendo clic donde queramos. you tenemos 2 líneas,
+la izquierda y la derecha. you tenemos arreglado ese párrafo. Fijaos que las líneas de este
+párrafo están muy juntas, eso lo hace el interlineado. Si ahora vamos a buscar el interlineado le ponemos sencillo y you tenemos una
+separación más pequeña entre líneas. Siguiente párrafo,
+Windows es el sistema operativo, qué tiene de especial, aparte que
+Microsoft lo queremos en cursiva, tenemos que la primera línea
+comienza donde comienzan todos los párrafos pero las otras
+líneas comienzan un poco más adentro. Eso es un sangrado,
+pero un sangrado especial. Para ello nos vamos al indicador del
+cuadro de diálogo y buscamos dentro de sangría el apartado especial y aquí
+pedimos primera línea o francesa. Dependiendo de si queremos que la primera
+comience más adentro sería primera línea o que el resto de líneas empiecen más
+adentro, eso sería sangrado francés. En este caso queremos
+una sangría francesa, podemos indicar los centímetros exactos
+que queremos que haga, y aceptamos. Y you lo tenemos. Lo que no haremos nunca es colocarnos
+aquí al final, hacer un intro y después jugar con la sangría a la izquierda que
+es lo primero que se nos podría ocurrir. Vamos ahora con el título de Word. Pues lo mismo que antes, nos colocamos
+en el título, centramos el título, lo enmarcamos, queremos,
+si vamos directamente a bordes y sombreado iremos más rápido
+porque así lo especificaremos todo. Por ejemplo que queremos una línea triple, you nos indica que van en todos lados,
+perfecto, no tenemos que tocar nada más. Aceptamos, y ahora viene el problema
+Queremos que este párrafo sea, que ese marco sea estrecho,
+¿cómo lo hacemos? No es una cuestión del marco,
+es una cuestión del párrafo. Todos los párrafos por defecto,
+ocupan la anchura del texto. Toda esta anchura que tenemos aquí es la
+anchura que él utiliza para el marco, por lo tanto, si ese párrafo fuera más
+estrecho, el marco también lo sería. Eso nos indica que la solución para hacer
+ese marco más estrecho simplemente, utilizar un sangrado izquierda y derecha, de manera que este
+párrafo sea más estrecho. ¿Cómo lo sabemos? Pues lo podemos hacer un poco a ojo. Podemos poner un margen izquierda
+de 4 centímetros y otro margen derecho de 4 centímetros para que
+continúe centrado, que sean iguales. Aceptamos, si vemos que es demasiado
+ancho, pues le ponemos más. Si os queréis ahorrar el trabajo de ella,
+haciendo pruebas, lo mejor sería fijarse en la
+regla antes de pedirlo. En este caso, no tengo yo aquí la regla,
+vamos a vista. Le pido la regla, y fijaos cómo, si yo
+tengo ese texto para hacer más estrecho, si me fijo en la regla,
+aquí veo cómo tengo que hacer un margen de hasta 6 centímetros para
+que me quede más o menos como quiero. Seguimos con el siguiente párrafo, es sólo
+la primera línea la que va más adentro que el resto, por lo tanto,
+es un sangrado especial de primera línea. Sólo la primera línea la ponemos un
+centímetro por ejemplo, más dentro. you está solucionado. Word lo queremos subrayado, lo queremos
+en negrita, lo queremos en cursiva. Pedimos los formatos que queramos
+para cualquier parte del texto. Aquí por ejemplo, tenemos carta comercial,
+que es subrayado. Pero si yo subrayo directamente,
+me subraya también el espacio y en el ejemplo que os he puesto,
+el espacio no está subrayado. No tenéis que subrayar primero
+carta y después comercial. Seleccionáis carta comercial y
+en el despegable del subrayado, escogéis el tipo de subrayado que queráis. Aquí el nos muestra unos cuántos,
+sino más subrayados, buscamos el estilo y fijaos cómo tenemos uno, aparte de las
+diferentes líneas de, solo palabras. Este no subraya los espacios. Para diseño de una factura,
+queríamos uno doble. Seleccionamos desde texto. Desplegamos el botón subrayado y
+directamente escogemos el subrayado doble. Tenemos también la corrección ortográfica, que lo queríamos con
+un subrayado punteado. Desplegamos, lo escogemos y lo
+mismo para diseño de tablas. Y con esto you tenemos el texto arreglado. Bueno, nos faltaría aquí, la palabra word
+del título que fuera del color azul. Lo pintamos de azul, lo ponemos en negrita para que destaque
+más y lo hacemos un poquito más grande. Fijaos como nos pasa igual que antes. Demasiado espacio en la parte inferior. Eliminamos el interlineado de 1,5,
+lo dejamos en sencillo y si queremos que no esté el texto tan
+cerca de las líneas superior e inferior, vamos a bordes ese sombreado, pedimos
+opciones y aquí especificamos por ejemplo, 8 puntos arriba you abajo. Fijaos que tenemos izquierdo
+y derecho pero olvidarlo. Si yo quiero separar el texto
+de la banda izquierda o derecha, you lo haré con el sangrado
+como he hecho antes. Y ahora sí,
+you tenemos el ejercicio hecho. [MÚSICA] [AUDIO_EN_BLANCO]

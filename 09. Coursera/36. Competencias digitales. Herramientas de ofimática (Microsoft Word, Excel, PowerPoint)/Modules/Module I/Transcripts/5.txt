@@ -1,0 +1,90 @@
+[MÚSICA] Como en cualquier otra aplicación,
+en Word podemos copiar cualquier parte del texto y pegarla
+en otra parte del documento. Para hacerlo, primero seleccionamos
+el texto que queremos copiar. Por ejemplo, este primer párrafo. Y en la ficha Inicio encontraremos
+el grupo Portapapeles con los botones que nos permiten copiar
+y pegar cualquier parte del texto. En este caso,
+utilizaremos el botón Copiar. Hacemos un clic,
+él memoriza el texto, me desplazo hasta la posición donde quiero colocarlo,
+hago un clic y utilizo el botón Pegar. De esta manera, el texto que tenía en la parte superior
+lo tengo duplicado en esta posición. Si lo que quería no era hacer una copia,
+sino trasladar este texto, el procedimiento será el
+mismo: Selecciono el texto, pero en lugar el botón Copiar
+utilizaré el botón Cortar. Hago clic en el botón,
+el texto seleccionado desaparece me coloco en la posición donde debe ir,
+hago un clic y utilizo el botón Pegar. you tengo ese texto que
+estaba en la parte superior lo tengo en la parte
+inferior de la página. Cualquier texto que tenga
+seleccionado simplemente Copiar y Pegar o Cortar y Pegar,
+dependiendo de lo que quiera hacer y habré duplicado ese
+texto o movido ese texto. [AUDIO_EN_BLANCO] También puede hacerse sin necesidad de esos botones
+utilizando el botón derecho del ratón. Una vez seleccionado el texto,
+le hacemos clic dentro de la selección con el botón derecho y nos aparecerán
+las órdenes de Copiar y Cortar. Por ejemplo, copio este texto me desplazo, me coloco en esta posición hago clic con el botón derecho
+y utilizo el botón de pegado. Fijaos que hay diferentes
+botones utilizaremos el primero you veremos más
+adelante el resto de botones. Podéis utilizar el botón derecho del
+ratón o los botones de la ficha Inicio. Este proceso lo podéis hacer
+también entre varios documentos o incluso entre un documento de Word
+y un documento de otra aplicación, siempre y cuando esa aplicación
+acepte el texto que hemos copiado. Word nos ofrece la posibilidad de
+buscar cualquier parte del texto. Una palabra o una frase y, a la vez, también nos permite sustituir esa palabra
+o frase encontrada por otro texto. Estas herramientas las
+encontraréis en la ficha Inicio. Al final de esta ficha encontraremos
+los botones Buscar y Reemplazar. Si buscamos una determinada palabra o
+frase, hacemos clic en el botón de Buscar y escribimos en la ventana que nos
+aparece a la izquierda el texto a buscar. En este caso hemos escrito "ordenador". Automáticamente, nos
+muestra marcado en el texto todas las veces que aparece esta palabra. También nos la muestra en
+la ventana de la izquierda. Si os fijáis yo puedo ir
+a cualquier parte del texto que contenga esta palabra seguramente
+haciendo clic en la frase encontrada. Y puedo ir comprobando si
+es la que me interesa o no. [AUDIO_EN_BLANCO] Si lo que quiero no es buscar esa palabra,
+sino sustituirla por otra, por ejemplo, yo quiero sustituir la palabra
+"ordenador" por la palabra "computador", entonces utilizaré el botón de Reemplazar. Hago clic en el botón de Reemplazar,
+y me aparece un cuadro de diálogo donde escribiré la palabra a buscar dentro de la
+casilla Buscar y la palabra por la cual queremos sustituirla dentro
+de la casilla Reemplazar. En este caso, queríamos sustituir
+"ordenador" por "computador". Una vez hecho, podemos o hacer
+clic en el botón Reemplazar todos, y sin preguntar nada hará
+todas las sustituciones. Si queremos ir comprobando una por una si
+realmente nos interesa sustituir o no en ese caso, mejor utilizar el botón
+Buscar siguiente [AUDIO_EN_BLANCO] para que nos la vaya mostrando. Por ejemplo, aquí tenemos que me ha
+encontrado la palabra "ordenador" pero en realidad es la palabra "ordenadores"
+y no me interesa sustituirla. Hago clic en el botón Buscar
+siguiente y continúa buscando. Cuando quiera sustituir la que encuentra
+hago clic en el botón Reemplazar. Reemplazará la palabra
+y buscará la siguiente. Si estoy seguro que son todas
+las que quiero reemplazar, directamente Reemplazar todos. Nos indicará cuántos cambios ha
+realizado y le daremos la conformidad. En este caso nos pregunta si queremos
+continuar la búsqueda desde el principio. Eso significa que cuando hemos empezado la búsqueda no estábamos
+situados al principio del documento. Y él las búsquedas las hace
+a partir del punto de inserción. En este caso, ha hecho todas las
+búsquedas hasta el final pero, como sabe que le queda una parte en la
+parte superior, nos pide la confirmación. Normalmente le diríamos que sí y you habremos finalizado
+todas las sustituciones. En este caso vemos que ha
+sustituido 43 palabras donde ponía "ordenador" y
+ha puesto "computador". Aceptamos y podemos cerrar
+este cuadro de diálogo. Fijaos que ahora nos aparece la palabra "computador" allí
+donde estaba la palabra "ordenador". [AUDIO_EN_BLANCO] Dentro del cuadro de diálogo de
+Reemplazar hay una opción que nos puede ser muy útil que es este botón Más. Si yo lo activo,
+me ofrece más posibilidades. Por ejemplo, fijaos en esta primera:
+Coincidir mayúsculas y minúsculas. ¿Qué significa? Tal como he hecho el reemplazo me ha sustituido todas las palabras
+"ordenador" por "computador", sin fijarse si estas estaban
+escritas en mayúsculas o minúsculas. Por ejemplo, la primera "ordenador"
+del título El Ordenador, la o estaba en mayúsculas. La ha sustituido por la
+palabra "computador" pero ha mantenido la
+primera letra en mayúscula. Si yo activo esta opción,
+al hacer el reemplazo le estoy diciendo que solo
+debe hacer la sustitución si coinciden cada una de las
+letras en mayúsculas o minúsculas. En este caso,
+si yo le digo que busque "computador" y la c la pongo en minúsculas y
+las sustituya por "ordenador" le digo que sustituya todos los casos,
+Reemplazar todos. ¿Quiere continuar desde el principio? Sí.
+Me dice que ha hecho 51 reemplazos, Aceptar. Cerramos el cuadro y vamos a ver cómo en realidad todas las palabras
+"computador" las ha ido sustituyendo. En cambio, la primera, "Computador"
+no la ha sustituido por "ordenador". ¿Por qué? Porque la primera letra estaba en
+mayúsculas, y yo, cuando le he pedido cómo sustituirlo, lo tenía escrito de
+esta manera, sin la C mayúscula. El hecho de haber activado la opción
+Coincidir mayúsculas y minúsculas le obliga a que, si no coincide
+totalmente, no haga la sustitución. Por lo tanto, solo ha sustituido
+aquellas palabras "computador" que estaban escritas todo en minúsculas. [AUDIO_EN_BLANCO]

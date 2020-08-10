@@ -1,0 +1,52 @@
+[MÚSICA] Mientras no digamos lo contrario,
+Word hace una corrección ortográfica y gramatical del texto,
+tal y como vamos escribiendo. Por ejemplo, tenemos aquí la palabra
+información marcada con una línea roja, esta línea roja nos indica
+que hay un error ortográfico. En cambio, la palabra aprender tiene una línea azul que indica
+que hay un error gramatical. Para solucionar estos errores,
+lo más sencillo y rápido sería colocarse encima del error, hacer clic con el botón
+derecho, y escoger la solución correcta. No siempre nos mostrará
+la información correcta, pero la mayor parte de las veces sí. Si no está,
+tendremos que solucionarlo a mano. Por ejemplo, corregimos este error, escogemos información, con acento,
+y lo tenemos solucionado. Con aprender hacemos lo mismo,
+botón derecho, y nos dice que hay varias posibilidades, nosotros
+tendremos que escoger la correcta. En esta caso, sería que haya un espacio
+entre la coma y los tres puntos. [SONIDO] Ordenador también tiene un error, vamos a ver cuál puede ser, botón derecho,
+y el error es que le falta la coma. Esta sería la manera más sencilla
+de solucionar estos errores. Vamos a deshacerlos. Utilizar el botón derecho es la
+manera más rápida y sencilla de hacer correcciones ortográficas y gramaticales,
+pero podemos hacerlo de otra manera. Podemos utilizar un botón
+de la cinta de opciones. Si nos vamos a la ficha revisar,
+encontraremos este botón al principio, clicamos el botón ortografía y gramática,
+y Word inicia la corrección, encuentra la primera
+palabra con algún error, y nos lo muestra en la ventana de la
+derecha con las posibles soluciones. Elegimos la solución correcta, y clicamos
+el botón cambiar para que lo solucione. Fijaos que también tenemos el
+botón cambiar todo, este botón nos permite hacer este mismo cambio en
+todas las ocurrencias de este error. Si esta palabra la tenemos también mal
+escrita en otras partes del documento, también hará la corrección sin necesidad
+de preguntarnos si la hace o no la hace. Si vemos que la palabra es correcta,
+que no es ningún error, podemos hacer clic al botón omitir, de esta manera,
+quitará la marca y seguirá buscando. El botón omitir todo,
+nos serviría para decirle que you no nos lo vuelva a preguntar
+si vuelve a encontrar ese mismo error, you que hemos visto que
+no era ningún error. Por último, tenemos el botón agregar,
+que nos permite añadir esta palabra al diccionario
+de Word, en el caso que esta palabra sea correcta, de esta manera, nunca más
+nos volverá a avisar de este error. En este caso, podemos clicar el botón
+cambiar para que nos la cambie, y continuará la corrección,
+busca el siguiente error, y nos avisa, si lo queremos omitir, omitimos,
+no lo tocará, y continuará buscando. Word, hace la corrección en el idioma escogido a la hora de
+hacer la instalación. Si queremos hacer la corrección
+en cualquier otro idioma, seleccionaremos el texto, todo, o la
+parte que esté escrita en otro idioma, y buscaremos en la ficha
+revisar el botón idioma. Aquí encontramos la opción
+establecer idioma de corrección, que nos permite escoger el idioma. Fijaos que la lista de idiomas es muy
+larga, pero solo unos cuantos aparecen marcados con un símbolo a,b,c. Este símbolo nos indica que este
+diccionario lo tenemos instalado, por lo tanto, podemos utilizar ese
+diccionario para las correcciones, lo que no podemos utilizar
+es cualquier otro. Por ejemplo, en este caso,
+si yo eligiera el diccionario eslovaco, no funcionaría porque no
+lo tenemos instalado. Simplemente, elegimos el idioma, aceptar, y haría la corrección utilizando
+el diccionario de ese idioma. Fijaos en la barra de estado, cómo nos indica el idioma escogido
+para el texto seleccionado. [AUDIO_EN_BLANCO]

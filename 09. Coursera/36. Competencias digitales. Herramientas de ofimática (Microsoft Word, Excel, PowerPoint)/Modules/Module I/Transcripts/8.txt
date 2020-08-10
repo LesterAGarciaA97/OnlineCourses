@@ -1,0 +1,130 @@
+[MÚSICA] En esta unidad aprenderemos
+a arreglar el texto. Primero, veremos los
+formatos básicos de texto. Estos formatos afectan a cualquier
+parte del texto que previamente hemos seleccionado, letras, palabras,
+párrafos, o todo el documento. Trabajaremos las opciones que nos ofrece
+Word para modificar la estética del texto, como por ejemplo, la tipografía, el tamaño
+de la letra, o el color de la letra. También veremos cómo podemos copiar
+el formato de un texto seleccionado para aplicarlo a otras partes del texto,
+esto nos puede ahorrar mucho trabajo. Una vez vistos los
+formatos básicos de texto, pasaremos a los formatos de párrafo. Veremos, por ejemplo, cómo determinar
+la separación entre líneas, entre párrafos, su alineación, cómo enmarcarlos,
+o cómo ponerle viñetas, o numeración. En el apartado Utilizar tabulaciones, veremos cómo colocar texto dentro
+de una misma línea en posiciones concretas para hacer, por ejemplo,
+una lista de materiales y precios. En el apartado Estilos,
+aprenderemos a crear y utilizar estilos. Veremos cómo podemos memorizar un
+conjunto de formatos para asignarlos a cualquier otra parte del
+texto o de otro documento. En el último apartado,
+Formato de documentos, veremos las opciones que afectan,
+en principio, a todo el documento, como por ejemplo, el tipo de papel
+que vamos a utilizar para imprimir, la orientación,
+y los márgenes de las hojas. También veremos cómo
+insertar saltos de página, y cómo crear encabezados y pie de página,
+o numerar las páginas del documento. Ahora, vamos a trabajar con los formatos,
+es decir, vamos a arreglar el texto
+que you tenemos escrito. Antes de tocar ninguna opción de formato,
+recordad de seleccionar previamente el texto a modificar,
+sea una letra, una palabra, una frase, varias líneas,
+siempre seleccionaremos aquello que queremos modificar antes
+de dar cualquier orden de formato. Básicamente, estas
+órdenes las encontraremos en los dos grupos de la ficha Inicio,
+Fuente y Párrafo. Las opciones de Fuente las podremos aplicar a cualquier parte del
+texto, desde una letra a todo el texto. En cambio, las órdenes de párrafo
+afectarán mínimo a un párrafo. Es decir, si yo he seleccionado
+esta palabra y le pido cualquiera de los formatos de párrafo, no modificará
+esta palabra, sino el párrafo entero. Primero, vamos a ver
+las opciones de fuente. Comprobemos que tenemos una parte de
+texto seleccionada, en este caso va a ser el ordenador,
+y empezamos por la primera opción, Fuente, donde indicaremos el tipo de
+letra que queremos utilizar. Disponemos de una lista con
+diferentes tipos de letra según el caso en el que nos encontremos. Lo ideal es echar un
+vistazo a esta tipografía para ver qué tipos de letras
+nos pueden ser útiles. Normalmente, se suelen utilizar como
+letras normales la Calibri y la Arial, de todas maneras, esto you es una
+cuestión más de modas que otra cosa. Eso sí, para un texto normal,
+que haya que leer, evitar utilizar letras
+demasiado artísticas, you que no facilitan
+precisamente la lectura. Después, encontramos el botón de Tamaño, podemos hacer que esta letra
+sea más grande o más pequeña, como tamaños estándar se suele
+utilizar el 12 o también el 11, otros tamaños, you, 14 alguna vez,
+pero la mayoría del resto de tamaños you pueden ser demasiado grandes o
+demasiado pequeños para un texto normal. En cambio, sí que nos pueden ser útiles
+tamaños grandes, pues por ejemplo, para un título. En este caso, El ordenador,
+me quedaría bien con un tamaño superior. A la derecha de este botón encontraréis
+dos botones también con la misma función, un botón para aumentar el tamaño,
+y otro botón para disminuir. [SONIDO] A continuación, tenemos el botón de cambiar mayúsculas
+y minúsculas, que me permite transformar todo texto seleccionado
+en minúsculas, todo en mayúsculas, tipo de oración, mayúsculas cada palabra,
+alternar mayúsculas, minúsculas, depende de lo que necesitemos. Uno de los que nos puede ir bastante
+bien es el de tipo oración, si yo selecciono un texto, todo el texto, una parte, y pido tipo oración,
+esté escrito como esté escrito, después de cada punto la primera letra irá
+en mayúsculas y el resto en minúsculas. A veces,
+nos olvidamos de quitar el Bloq mayúsculas y a lo que nos damos cuenta, you hemos
+escrito bastante texto todo en mayúsculas y no es lo que queríamos; en ese caso,
+seleccionaríamos ese texto, pediríamos tipo oración y you
+lo tendríamos solucionado. Debajo del tipo de letra encontraremos
+tres botones de estilo, Negrita, Cursiva, y Subrayado, son los estilos básicos
+para resaltar alguna parte del texto. Negrita pone un poco más gruesa la letra, cursiva la inclina,
+y subrayado la subraya. Fijaos que el botón de subrayado
+dispone de un triangulito al lado, lo cual nos indica que
+hay varias opciones. Si clicamos ese triángulo,
+veremos los diferentes tipos de subrayado que puedo pedir, y además, podré
+especificar qué color de subrayado quiero. [SONIDO] A continuación,
+vemos el botón Tachado, simplemente hace lo que dice su nombre,
+tacha el texto seleccionado. Estos dos botones los veremos
+a continuación, seguimos con el siguiente, el de Efectos, nos permite dar un
+toque artístico al texto seleccionado. Por ejemplo, elegimos este, útil para, sobre todo para títulos,
+o para algún cartel que queramos hacer. También podemos resaltar lo que hacemos
+con los fluorescentes en un papel, marcando con un color de
+fondo una parte del texto. Por último,
+tenemos el botón de Color de letra, donde podremos pintar la
+letra del color que deseemos. También, a parte de la paleta de
+colores que nos ofrece, disponemos de la opción Más colores, especificar
+exactamente qué color deseamos, también podemos aplicar un degradado. [SONIDO] Si queremos limpiar de formato un texto, podemos utilizar este último
+botón de la primera fila, Borrar todo formato,
+y nos dejará el texto limpio. Hacemos clic en este botón,
+y elimina todos los formatos. Fijaos que hay un formato que no elimina,
+es el de resaltar. Este tendréis que quitarlo con el mismo
+botón con el cual lo habéis pedido, y aquí indicar sin color. Nos hemos dejado dos botones, Subíndice, y Superíndice,
+porque son un poco diferentes. Estos dos botones nos permiten
+hacer que el texto seleccionado sea más pequeño y sea posicionado un
+poco más arriba o un poco más abajo. que la letra anterior. Por ejemplo, si yo en algún caso
+escribo metros cuadrados escribiría m2. Este 2 lo seleccionaría y, como quiero que sea cuadrado y no un 2, lo
+tengo que poner más arriba y más pequeño. Para eso disponemos de estos dos botones. En este caso,
+sería el segundo, superíndice. Hago clic, y él hace que ese carácter, ese número, sea más pequeño y esté
+en una posición algo superior. Aparte de estas opciones, hay alguna más. Pocas, pero hay alguna más. Siempre que veamos en un grupo
+de botones este botoncito, al hacerle clic nos muestra todas
+las opciones de este grupo. Fijaos cómo tenemos tipo de letra,
+los estilos de cursiva y negrita, el tamaño, los subrayados, los efectos. Pero con alguno más. Por ejemplo, aquí en avanzado podríamos
+especificar el escalado de la letra, el espaciado de la letra, si queremos
+comprimir o expandir las letras para que estén más juntas o más separadas,
+la posición, elevada o bajada, varias opciones que
+en algún caso pueden sernos útiles. Si lo encontramos en los botones,
+perfecto. Si no, buscamos en este botoncito, para que nos muestre el cuadro de diálogo
+con realmente todas las opciones. En este caso de fuente. Algunas veces, nos vamos a encontrar con partes del
+texto que tienen el mismo formato. Entonces, podríamos ir aplicando
+ese formato trozo a trozo, pero lo más práctico es utilizar una
+herramienta que nos propone Word que es este botón de copiar formato. Lo encontramos en el grupo de
+Portapapeles de la ficha Inicio. Este botón, lo que hace es copiar los
+formatos del texto seleccionado y aplicar todos los formatos que tenga ese
+texto a otro trozo de texto. Por ejemplo,
+yo voy a seleccionar este párrafo, le aplico unos formatos,
+un tipo de letra, un tamaño, un color de letra, un estilo,
+como por ejemplo cursiva. Es decir, aplico una serie de formatos. Resulta que para otro párrafo por ejemplo,
+este de aquí, cuando empezamos a trabajar, o cualquier otro trozo de texto,
+quiero aplicarle el mismo formato. No tengo que volver a aplicarlos. Simplemente, selecciono el párrafo
+que you contiene esos formatos, clico el botón Copiar formato, y
+selecciono el trozo que quiera modificar. En este caso, este párrafo, y automáticamente le aplicará los mismos
+formatos que al párrafo anterior. Si esto lo quiero hacer con bastantes
+párrafos, bastantes trozos de texto, no hace falta que vaya
+continuamente copiando y aplicando. Puedo seleccionar un párrafo que
+contenga unos determinados formatos y clicar no una vez,
+sino dos el botón de Copiar formato. Le hacemos un doble clic,
+de manera que el botón queda activado, queda fijo, y voy buscando los
+diferentes trozos Por ejemplo, selecciono este trozo y le
+aplica todos los formatos. Y así podría seguir aplicando
+a diferentes sitios, sin necesidad de volver a tocar
+el botón Copiar formato. Eso sí: una vez haya acabado, tengo que
+desactivar este botón haciéndole un clic. Ahora you puedo seleccionar normalmente. Esta opción me ahorra mucho trabajo cuando
+tengo formatos repetidos y, sobre todo, me aseguro de que sean los mismos formatos,
+que no me olvide alguno de ellos. [AUDIO_EN_BLANCO] [AUDIO_EN_BLANCO]
