@@ -1,0 +1,64 @@
+[SOUND]
+>> CSS works by associating
+rules with HTML elements. These rules govern how the content of
+specified elements should be displayed. And while styling an entire web page
+could be a pretty complex process, defining a simple CSS rule
+is fairly straightforward. So, let's go over that. A CSS rule consists of selector,
+in this case it's a p, the paragraph tag, which is basically saying that whatever
+rules I'm about to give should apply to the content of every single paragraph
+tag in the entire HTML page. The selector is followed by open and
+close curly braces. Inside of those braces,
+we have CSS declaration. And it consist of two parts,
+the property and the value. Property name is something that's
+predefined by CSS specification, and for every property there is a set
+number of pre-defined values. Or in the case of numerical values, set number of type of numerical
+values that is pre-defined. Now, every property in the value
+is separated by a colon, and is terminated by a semicolon. Now, technically speaking,
+a semicolon is not a requirement, but it's a best practice, and
+you should always, always use it. Now, as I told you, a CSS rule can
+consist of several declarations. For example, in this case we're specifying
+the contents of the paragraph tags in our HTML page should have a particular
+color, a particular font size, and also be a particular width,
+meaning the paragraph itself, the content, should take up 200 pixels. Now, the collection of these CSS
+rules is what's called a style sheet. Now, technically speaking, you don't have to have anything in the
+style sheet to be called a style sheet. An empty style sheet,
+it technically is a style sheet as well. But it's just not a very useful one. So, obviously, you would have
+at least one CSS rule in there. But, typically,
+you have way more than just one. Okay, here I am in sublime text and I'm
+looking at a file called css-syntax.html and it's located in
+the examples/Lecture12 folder. Let me give you a quick rundown of
+the structure of the HTML that we have. So, in this HTML document we have
+a heading, h1, a couple of h2s, and a couple of paragraphs in between
+signified by the p paragraph tag. And what we'll want to do is give
+these elements some custom styling. So, I'm going to place the styling, our style sheet, straight in the head
+section of our HTML document. Now, in later lecture we'll talk about
+where CSS styles should really go for a real world website. But for now, for convenience sake, we'll just put it
+straight in the head part of the document. So, here we see a paragraph
+tag that's being targeted. And we're going to change it's color to
+blue, font size to 20, and width 200, which means it will contain an area
+of the screen that's 200 pixels wide. Our heading one tag, h1,
+we're going to give it a color of green, we'll bump up it's font
+size a little bit and we'll also tell it to align itself
+in the middle of the screen. So, let's take a look at what this
+page looks like in the browser. As you could see, our h1 tag is in
+the middle of the screen, and it's green. And the two paragraphs that we have are
+blue and only take up around 200 pixels. And already, right away,
+you could see the power of CSS. We only specified
+the paragraph tagged once, and yet every paragraph in the document
+is styled exactly the same. So, it affords us consistency and
+also efficiency is writing CSS code. Now, I do want to point out one quick but
+important thing. If you take a look at this subheading 1,
+and then subheading 2, you can see that it is bold and it's a little
+bit bigger than the regular text would be. Now, where did that style come from? I certainly never specified what
+kind of styling to apply to, essentially, what is an h2 tag. Well, that styling came
+from the browser itself. Every browser comes with some default
+styles that it applies to different HTML elements. And h1, h2, and so on, and different other elements are very
+commonly styled by the browser itself. So, a lot of the times it's your
+job to really reset, or override, these styles and put the styles in that
+you would like your webpage to have. So, to summarize,
+we went over the syntax of a CSS rule. We talked about the selector part,
+declaration part and the property value pair. We also talked about combining the CSS
+rules into one to create a style sheet. Next, we're going to zero in on the one
+part of the CSS rule declaration, and that is the selector. We're going to talk about
+different types of selectors. In particular, element,
+class and ID selectors.

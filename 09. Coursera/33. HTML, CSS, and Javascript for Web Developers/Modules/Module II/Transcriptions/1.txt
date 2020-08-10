@@ -1,0 +1,53 @@
+[MUSIC] I mentioned before that on the web,
+content is king. It's all about content. And we spoke about the fact that HTML
+defines the structure of that content. So if all you wanted was raw content, you could take HTML files,
+upload them to a server, and you're done. However, that would be a huge mistake. Because while content is king, how
+users absorb and relate to that content largely depends on our experience of
+consuming the presentation of it. If there was a lot of noise around me and you could barely hear me, the content
+of the course would be the same, but the experience consuming the presentation
+of that content would be quite different. To use the house analogy,
+nobody likes to live in a house without nicely painted drywall covering
+installation and support beams. It's the difference between feeling
+sheltered from outside elements and feeling at home. The point I'm trying to make, is when it comes to a real world website,
+structure alone is just not enough. It's not good enough to
+just leave a scaffolding, a server side framework provided
+out of the box, to see the data. You need to style your content in a way
+that's pleasing and useful to the user. The use of color, positioning, size,
+among other things, is all part of that. Cascading style sheets, or CSS, is the technology that provides
+the styling capability. CSS is an incredibly powerful technology. It can take the same HTML structure and present it in such drastically different
+ways that you would never even guess that the underlying structure of
+the content are exactly the same ones. Let me show you a website that doesn't
+only illustrate this point, but should also amaze you as well. So the website I wanted to show
+you is csszengarden.com, and the idea of this website is simple. Designers and web developers
+from all over the world get to submit their own designs for
+the website csszengarden.com. So they get to redesign the website
+itself csszengarden.com. There's only one catch. They cannot change any of the HTML. The HTML stays exactly the same and the
+CSS file, or files, is what they provide. So the only thing they
+change is the styling. They don't change the structure or
+the content of the HTML at all, in any shape or form. So the website then goes ahead and
+showcases its designs on csszengarden.com. And they have over 200 designs submitted
+now and hosted on this website. So what I want to do is just to give you
+an appreciation of what styling can do to a website, through the same content,
+through the same HTML structure, is to demo and just basically showcase
+a couple of these designs to you. So what I did was, I pre-opened a few of them in a few tabs
+in my browser and I want to show you. So, this is the same website. This is the website you're looking at,
+it's the HTML and the custom CSS for this particular look. So, let me just scroll up and
+down to show you what that looks like. And let's go to this one. So this is, again, the exact same website. The only difference is the CSS
+styling that got applied to it. This is the same website, again,
+with different CSS styling applied to it. Now granted, the designers are also
+able to apply their imagery as well. But the the styling is so drastically
+different than from the original one. And there's, again, over 200
+different styles, different designers that submitted different styles, so
+you could certainly go take a look. And this one is very creative. It's actually made in the form of a comic. And the text is real, it's selectable,
+so this is still the same exact HTML. And this one probably will blow you away. Look at this, it's so cool. There's actually animation's going on and
+it's all done with CSS. And, again,
+it's exactly the same HTML structure. And exactly the same content, you just
+see different styles applied to them. Is this neat or what? So the point of this short lecture was
+that CSS is an incredibly powerful technology that can not only style your
+content, but also also create a particular user experience that you would
+want your users to have. And the second point was
+that user experience over your content matters, right? Remember the difference between listening
+to something that you could barely hear, and listening to something that you
+actually enjoy and can understand. So user experience of content matters. So all that's left is to figure
+out how to write CSS code. So next we'll start exploring
+the syntax of CSS and we'll explore the anatomy of a CSS rule.

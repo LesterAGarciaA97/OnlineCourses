@@ -1,0 +1,50 @@
+Module 2 - Week 2
+
+Introduction to CSS3
+CSS = Cascading Style Sheets
+
+Power of CSS
+
+CSS is a powerful technology
+Is useful to create a unique user experience
+
+
+Anatomy of a CSS Rule
+
+Selector = the object that will be applied de rule
+Declaration
+   Property 
+   Value
+
+* Zero or more declarations are allowed
+* The collection of these rules is called a Stylesheet
+
+Element, class and ID selectors
+
+Element selectro is used specifyng the object
+
+Class selector is used with a . at the beggining
+
+Define a class = .blue
+Use a class = class="blue"
+
+class define with .
+id define with #
+
+
+Combining selectors
+Element with class selector (selectro.class)
+Child selector (selector > selector)
+Descendant selector (Selector selector)
+
+
+Pseudo-Class Selectors
+selector:pseudo-class
+
+:link
+:visited
+:hover
+:active
+:nth-child
+
+-------------------------------------------------------------------------------------------
