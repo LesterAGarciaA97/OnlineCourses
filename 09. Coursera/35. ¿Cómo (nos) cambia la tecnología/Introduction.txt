@@ -1,0 +1,131 @@
+[MUSIC] Bienvenidos a una nueva sesión
+de introducción a la tecnología. El día de hoy vamos a hablar
+respecto a tecnoética. Pero, ¿por qué esto es importante
+en un curso de tecnología? Vamos a hacernos muchas preguntas el día
+de hoy para poder empezar a comprender cuáles son los sentidos, significados y
+políticas que esconden las tecnologías. Preguntas como,
+¿pueden ser las tecnologías neutras? ¿Tiene la tecnología valores en sí misma? ¿Quiénes pueden dar
+valores a la tecnología? ¿Y qué valores le asignamos
+a esta tecnología? Son las claves para poder empezar
+a comprender que la tecnología no es meramente un conjunto de
+artefactos o ideas o procesos. Sino que es también algo muy humano. A través de la tecnología
+nosotros transmitimos valores y esos son los que vamos a tratar de
+aprender a escudriñar en esta sesión. Primero, existe una visión tradicional
+de que la tecnología es neutra. Cabe decir que existen
+distintos autores al respecto, y hay gente que piensa que
+es así como gente que no. Por ejemplo, Pursell dice que la
+tecnología es un medio y no es un fin. Kranzberg nos dice que la tecnología no es
+buena ni es mala, pero tampoco es neutral. Y en cambio Ellul nos dice,
+no importa cómo se utilice, tiene de por sí consecuencias
+negativas o positivas. Cómo podemos entonces interpretar la tecnología desde el punto
+de vista de los valores. Tenemos que tener en cuenta las acciones
+o contextos que la tecnología genera. Van a ser positivos o negativos para
+distintos grupos, grupos de interés, personas, situaciones,
+o incluso para otras tecnologías. Eso hace que tengamos que fijarnos
+delicadamente en estas relaciones que son no únicamente filosóficas. Sino que también afectan en cómo nosotros
+tomamos decisiones y en cómo éstas nos van a poder construir una realidad distinta. Ante eso, pensemos en una típica idea
+que es la neutralidad de la red. La neutralidad de la red
+corresponde a una política general. En la cual los estados intentan que
+los proveedores no puedan intervenir a los paquetes que se
+transfieren hacia los usuarios. Aparte tiene un montón
+de otras consecuencias. Pero lo cierto es que esa
+idea genera tensiones. Tensiones que son difíciles de visualizar
+pero que claramente podemos distinguir grupos de interés al respecto. Un grupo va a pensar que desde
+un punto de vista estatista. La autoridad le inquieta que las entidades
+privadas puedan controlar información que circula y se deposita
+los sistemas informáticos, tanto privados como públicos. Por otro parte, desde un punto
+de vista liberal y capitalista. A los partidarios de la libre concurrencia
+les inquieta la posición dominante de las empresas, que bien pueden ser
+consideradas monopolios de facto. Esto va a poner competencia las distintas visiones que pueden
+converger en ciertas acciones y otras no. Pero que al fin y al cabo van
+a generar una realidad donde algunos van a poder hacer
+unas cosas y otros no. Esto hace que la tecnología sea necesaria,
+entonces, observarla políticamente. Un muy conocido paper,
+en esta área, es de Langdon Winner que en los años 80 escribe un paper
+llamado ¿Tienen los artefactos política? En su argumentación, distingue dos grandes
+enfoques que podemos utilizar para poder comprender esta complejidad. Un enfoque dice que implica
+el proceso tecnológico como el proceso de transformación,
+donde van apareciendo estos valores. Y es fundamental en la determinación
+de la política de un artefacto, dotándose progresivamentee de valores. O sea cuando va ocurriendo el proceso
+tecnológico en sus distintas etapas, los distintos agentes que actúen
+sobre esa tecnología en ese proceso, van dotándolo de valores. Otro enfoque distinto es
+visualizar que los artefactos se correlacionan con tipos particulares
+de relaciones políticas. Esto refiere que los artefactos
+son inherentemente políticos. Y eso también ocurre en
+otro tipo de connotaciones. Porque aunque el proceso pueda verse como
+algo muy estandarizado y muy neutro. Vamos a observar que los usos de la
+tecnología para los cuales fueron creados, ciertamente tienen valores
+positivos o negativos. Pensemos, por ejemplo, en la cadena de producción de
+cualquier tipo de arma de fuego. Podemos observar como desde su extracción
+como metales, hasta su comercialización, van a haber distintos agentes
+que van a dotarlo de valores. Pero al fin y al cabo un arma de fuego
+la podemos utilizar como para cazar, como para otras cosas no muy buenas. Otro ejemplo muy local es el
+sistema de transporte público. Podemos observar el sistema de transporte
+público desde ambas perspectivas. Desde el proceso de diseño hasta su
+implementación, como también de qué significa para distintos autores el
+que exista el transporte público. El transporte público va a permitir o a
+aumentar que las personas se empoderen de espacios comunes. Va a disminuir que la gente camine,
+va a recuperar el encuentro entre personas en el espacio público y va a disminuir
+los tiempos para recuperar tiempo. Pero también va a afectar
+al medio ambiente. Porque por lo general estos son
+elementos que van a poder generar contaminación tanto química,
+atmosférica, acústica, etc. De aquí que las personas o ciudadanos
+son clave para interpretar la tecnología y esa interpretación es lo
+que vamos a entender como tecnoética. Que es un campo interdisciplinario
+que se ocupa de estudiar los factores éticos y morales
+de las tecnologías. Busca un uso ético de la tecnología a
+través de estos análisis, y va a guiar los principios de desarrollo y aplicación
+para el beneficio de toda la sociedad. Al respecto, podemos observar
+distintas corrientes que observa la tecnología desde distintas perspectivas. Por ejemplo, determinista,
+constructivista, o sistémica. Cada una de ellas va a tener
+distitnos valores iniciales desde donde se para el
+analista o el ciudadano. Para poder observar si la
+tecnología nos va a determinar, o sea va a ser ella la que nos va
+a decir cómo vivimos nuestras vidas. Como por ejemplo pasa en
+ciertos fragmentos de Un Mundo Feliz de Aldous Huxley. Puede ser una tecnología constructivista. O sea la sociedad va transformando
+la tecnología y ella es la que va construyendo y elaborando, no simplemente las tecnologías
+sino también sus significados. Y enfoques sistémicos, en que observamos
+que la tecnología forma una ecosfera, una tecnosfera,
+como existe la biosfera que nos rodea. Al respecto de esto las problemáticas tecnoéticas han ido aumentando y
+transformándose a través del tiempo. Y tienen que ver con las tecnologías
+contingentes a distintos momentos. Al comienzo o inicialmente hay preguntas
+respecto a la industrialización, infraestructura y colonialismo. Pero después estas discusiones han
+ido evolucionando en la tecnoética. Hacia la eugenesia, los experimentos
+médicos, las exploraciones espaciales, los usos de la energía atómica,
+son propios de mediados del siglo XX. En tiempos actuales, las discusiones
+de tecnoética se centran en piratería, copyright, en el proyecto
+del genoma humano. En temas de privacidad versus seguridad,
+periodismo ciudadano, democracia efectiva o incluso educación. Y discusiones futuras que están comenzando
+ahora, tienen que ver con la inteligencia artificial, la vida subplanetaria,
+la longevidad, el transhumanismo. Este tipo de de discusiones
+que también es cultural, van a ser formas de ir comprendiendo
+y aceptando tecnologías. Dado que a medida que
+transcurre el tiempo, nuevas tecnologías se van
+insertando a nuestra forma de vida. Y esas transformaciones culturales
+tienen que tener reflexiones adecuadas respecto a qué aceptamos y qué
+no, como sociedad, de la tecnología. Un ejemplo, al respecto, que nos va
+a permitir visualizar de cómo se percibe una tecnología antes de que esta
+existiese en el día a día es la robótica. Hoy existen robots en distintas escalas,
+robot tanto pequeños y humanoides como robots que
+hacen acciones y que no lo parecen. Isaac Asimov un científico y literato
+de ciencia ficción del siglo XX, reflexionó fuertemente al respecto. En uno de sus libros él propone las tres
+leyes de la robótica, las cuales son. Que un robot no pueda hacer
+daño a un ser humano, o por inacción permitir
+que un humano sufra daño. La segunda es que un robot debe obedecer
+las órdenes dadas por los seres humanos, excepto si estas órdenes entrasen
+en conflicto de la primera ley. La tercera es que un robot debe proteger
+su propia existencia en la medida de que esta protección no entre en
+conflicto con la primera o segunda ley. Estas leyes, que vienen desde la ficción,
+establecen un estándar ético. No para las acciones humanas
+sobre la tecnología, sino para la tecnología en sí misma. Cuáles tienen que ser los
+valores que tenga la tecnología en su toma de decisiones. O sea estos autómatas, cómo ellos van a reaccionar frente al daño entre
+humanos o sobre el daño a ellos mismos. Y esto nos hace visualizar que
+no simplemente tenemos que darle ética a las acciones de los
+humanos sobre la tecnología. Sino que en cada decisión
+tecnológica discutir cuáles van a hacer los valores en juego. En resumen, la sesión de hoy,
+hemos analizado la idea de tecnoética. Diferentes visiones y valores
+que tiene la tecnoética siguiendo el ejemplo de Winner de 1986. Como estas problemáticas tecnoéticas
+se resuelven en la comunidad. Por último, un ejemplo muy importante y
+muy característico respecto a valores de la tecnología en sí misma,
+que son las leyes de la robótica Asimov. Que nos permiten visualizar cómo nuestras
+decisiones transforman la realidad, y los límites éticos que damos a ella.
