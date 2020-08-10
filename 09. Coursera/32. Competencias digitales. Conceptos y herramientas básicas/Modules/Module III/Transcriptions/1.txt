@@ -1,0 +1,56 @@
+[MÚSICA] Con esta unidad nos familiarizaremos con
+conceptos relacionados con internet y repasaremos algunos temas de seguridad. En el primer apartado
+trabajaremos conceptos de internet como las www,
+el hipertexto, los enlaces, los navegadores, el correo electrónico,
+la dirección web o las cookies. En el segundo apartado trabajaremos
+conceptos relacionados con la seguridad en internet,
+como los webs protegidos, los certificados digitales,
+los virus o los cortafuegos. Y en el tercer apartado veremos los
+derechos de los ciudadanos cuando utilizan los servicios de internet,
+y os daremos algunos consejos. Vamos a ver qué es internet y
+algunos conceptos relacionados. Internet es un conjunto descentralizado
+de redes de comunicación interconectadas que
+utilizan protocolos TCP/IP. En realidad,
+lo que hacemos es conectar ordenadores de todo el mundo aprovechando
+la red telefónica. Internet empezó a funcionar
+a principio los años 90. El protocolo TCP/IP representa las
+reglas de comunicación para internet. Podríamos decir que es el lenguaje
+que utilizan los ordenadores para comunicarse con internet. IP o dirección IP es un nombre
+que identifica inequívocamente un dispositivo conectado a la red,
+es decir es el DNI del ordenador. Internet nos ofrece muchos servicios
+diferentes, navegación por páginas web, correo electrónico,
+transmisión de archivos, conversaciones en línea,
+mensajería instantánea, acceso remoto a otros dispositivos,
+juegos en línea y muchos más. WWW es la famosa telaraña mundial,
+que nos permite visualizar información de todo el mundo,
+es el servicio de páginas web. Es el servicio que tiene más usuarios y que ha contribuido más
+a popularizar el uso de internet. Hipertexto es el método para
+presentar la información en documentos o páginas web con
+enlaces links a otros documentos. Los navegadores son lectores
+de hipertexto a los cuales se han incorporado los diferentes
+protocolos de los servicios de internet. Son las aplicaciones que nos permiten
+acceder a internet y a sus servicios. Las más conocidos son Internet Explorer,
+Mozilla Firefox, y Google Chrome. La dirección de internet o URL es la ruta para encontrar la página web
+que queremos visualizar. Vamos a ver qué hay en una dirección web. Dado que no podemos poner
+espacios en una dirección web, separamos las palabras con
+puntos e indicamos que entramos en una carpeta con barras diagonales. En esta dirección, www.microsoft.com es el
+nombre del dominio donde nos conectamos. Office es el nombre de la carpeta
+donde se encuentra la página y productos.htm es el archivo o
+página web que queremos visualizar. La primera parte de la dirección
+http:// es el protocolo, es decir indica el tipo de
+servicio al que nos conectamos. Http indica que nos
+conectamos a un servicio web, donde encontraremos información. En la actualidad prácticamente todos los servicios de internet
+utilizan este protocolo, y por tanto no hace falta escribirlo,
+el navegador you lo da por supuesto. Www es el dominio de tercer nivel, es el nombre del servidor donde
+se encuentra la página web. La mayoría de empresas e instituciones
+ponen este nombre a su ordenador que hace de servidor de internet. Microsoft es el dominio de segundo nivel, que generalmente es el nombre
+de la empresa o la institución. Com es el dominio de primer nivel,
+indica el tipo de contenido del web, com significa comercial, edu educación,
+y así encontramos diferentes siglas. Cuando son dos letras indica
+el ámbito geográfico, es decir si encontramos es,
+indica que el web está en España. Si pone fr, indica que está en Francia,
+y así para cada país del mundo. Si no escribimos nada más, nos contaríamos
+a la página principal del web que estamos pidiendo, si escribimos más indicamos
+qué página concreta queremos visualizar. En el ejemplo estamos pidiendo
+la página products.htm que se encuentra en la carpeta office
+del servidor de Microsoft.

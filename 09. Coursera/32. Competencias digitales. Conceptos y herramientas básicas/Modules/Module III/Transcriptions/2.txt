@@ -1,0 +1,30 @@
+[MÚSICA] Ahora veremos algunos conceptos
+relacionados con la seguridad. Los sitios web protegidos
+utilizan el protocolo https en lugar de http, indicando que la
+trasferencia de datos es segura. Se puede ver en la dirección, así como en el candado cerrado que
+aparece a la izquierda de la dirección. Se utilizan, por ejemplo, en páginas donde hay que introducir el número de
+tarjeta de crédito para hacer pagos. Este protocolo garantiza que terceros no
+puedan ver los datos que introducimos. Algunos trámites hechos por Internet
+implican una transacción de datos que conviene proteger y autentificar. La función de los certificados digitales
+es asegurar la integridad del contenido y la autentificación del
+remitente y el receptor. Adjuntando la firma
+digital a los mensajes, conseguimos que el receptor este seguro
+que el mensaje proviene de la persona que se indica en el remitente y que el mensaje
+no se ha alterado durante la transmisión. Encriptar o cifrar información es codificarla para evitar que
+personas no deseadas accedan a ella. Una de las vías más habituales de
+contagio de virus es Internet, a través del correo electrónico
+o desde las páginas web. Por eso es indispensable tener
+un antivirus actualizado que minimice el riesgo. Un cortafuegos es un elemento de
+hardware o software utilizado en una red de equipos informáticos para controlar
+las comunicaciones del ordenador, permitiéndolas o prohibiéndolas,
+según lo que se determine. Permite evitar accesos no deseados. Cada vez más páginas piden una identificación
+para acceder a su contenido. De esta manera solo podrán acceder
+mediante el nombre de usuario y una clave de acceso los
+usuarios autorizados. A la hora de crear la clave de acceso,
+evitad utilizar palabras fácilmente deducibles, nuestro nombre de usuario,
+el nombre de la empresa, etcétera. Es aconsejable que tenga
+al menos ocho caracteres y utilizar combinaciones de letras,
+números y otros caracteres. Con el control parental, podremos configurar el acceso a los
+contenidos de las páginas web. Hay que tener mucho cuidado
+a la hora de dar información personal en una página web. Comprobad que sea un sitio web protegido y no deis ninguna información que
+no sea estrictamente necesaria. [AUDIO_EN_BLANCO]

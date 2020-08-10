@@ -1,0 +1,91 @@
+Semana 3
+
+Conceptos y terminología
+Internet
+* Conceptos / terminología
+* Consideraciones sobre seguridad
+* Los derechos de los ciudadanos al comprar a través de internet
+
+Conceptos
+¿Que es internet?
+Internet es un conjunto descentralizado de redes de comunicación
+interconectadas que utilizan protocolos TCIP
+
+En otras palabras, son muchos ordenadores conectados a través de red telefónica
+
+TCP/IP = Lenguaje de los ordenadores para conectarse a internet
+
+Servicios de internet:
+* Navegación por páginas web
+* Acceso remoto
+* Correo
+* Juegos
+* etc.
+
+WWW (World Wide Web) = Telaraña mundial
+
+Hipertexto
+Navegadores = lectores de hipertexto
+
+Dirección de internet URL
+Componentes de una URL
+http:// = Protocolo = Tipo de servicio al que nos conectamos
+www = nombre del servidor = Dominio de tercer nivel
+microsoft = Nombre del dominio = Dominio de segundo nivel
+.com País o contenido = Dominio de primer nivel (com = comercial)
+/office/product.htm = Ruta completa
+
+-------------------------------------------------------------------------------------------
+
+Consideraciones sobre seguridad
+
+Sitio web protegido utiliza el protocolo es el HTTPS (Transferencia de datos segura)
+
+Certificado digital = Asegurar la integridad del contenido y autentificación del remitente y receptor
+
+Cifrado (Encriptación)
+
+Los virus se contagian más fácil a través de internet
+
+Cortafuegos (firewall)
+
+Nombre de usuario y clave de acceso (al menos 8 carácteres y combinar letras numeros y símbolos)
+
+Control parental = Controlar acceso a páginas web
+
+Tener cuidado al brindar información personal en la web
+
+-------------------------------------------------------------------------------------------
+
+Los derechos ciudadanos al comprar a través de internet
+
+* Residiendo en el mismo país que la empresa vendedora, la jurisdicción será la misma que al comprar
+en una tienda tradicional
+* Si la compra es al extranjero, pueden existir incompatibilidades entre leyes de los dos países
+* Reclamos
+
+Consejos:
+* Antivirus instalado, cortafuegos activado y SO actualizado
+* Comprar en páginas de empresas conocidad, que nos den confianza
+* Comprar en páginas con certificados de seguridad
+* No utilizar ordenadores públicos
+* Leer SIEMPRE "la letra pequeña"
+* No hace trasacciones en correo eléctronic
+* Pagar siempre con tarjetas de crédito u otros métodos de pago en línea
+* Revisar transacciones hechas
+* Guardar e imprimir los compprobantes de la operación
+
+-------------------------------------------------------------------------------------------
+
+Parte 1
+Navegación
+
+* Uso del navegador
+* Usos de sitios web
+* Gurdar e imprimir
+
+Barra de navegación o barra de direcciones
+Barra de menús
+
+Parte 2
+Uso del navegador

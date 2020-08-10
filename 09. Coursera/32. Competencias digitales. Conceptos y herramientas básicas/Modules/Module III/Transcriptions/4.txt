@@ -1,0 +1,103 @@
+[SONIDO] Con esta unidad nos familiarizaremos
+con el uso del navegador. En el primer apartado aprenderemos
+a utilizar la aplicación que nos permite navegar por internet. En el segundo apartado veremos
+cómo rellenar formularios web, cómo buscar información y cómo buscar
+los servicios que nos ofrece internet. Y en el tercer apartado veremos cómo
+guardar una página web en nuestro disco, cómo copiar información de una página web, cómo descargar archivos y cómo
+imprimir el contenido de una página. Vamos a empezar a trabajar con
+el navegador Internet Explorer. Como cualquier aplicación,
+la encontraremos en el botón Inicio. En versiones anteriores al Windows 10, lo
+encontraréis directamente en Aplicaciones, pero con el sistema operativo
+Windows 10 ha habido un cambio de navegador y ahora en lugar de
+utilizar Internet Explorer, Microsoft propone utilizar el navegador Edge. De todas maneras, con Windows 10 igualmente tenemos
+disponible el Internet Explorer. Lo encontraremos dentro de la
+carpeta de Accesorios de Windows, aquí aparece Internet Explorer, lo
+abrimos y you podemos empezar a navegar. En principio sería aconsejable, pasarse you directamente a Edge,
+si disponéis de Windows 10. Tarde o temprano quedará
+obsoleto el Internet Explorer. En pantalla, en la parte superior nos encontraremos
+como partes principales la barra de direcciones, donde veremos la dirección
+de la página que estamos visualizando o escribiremos la dirección de la
+página a la que no queremos conectar. En su derecha veremos
+una o varias etiquetas que corresponde a cada una de las páginas
+que tenemos abiertas en este momento. A la derecha de esta barra superior, veremos tres botones que nos
+permiten ir a la página principal, a la página de inicio del navegador en
+cualquier momento, mostrar los favoritos o el historial de navegación y acceder a
+las herramientas básicas de la aplicación. Aparte de estos tres botones,
+podemos acceder a muchas más opciones. En realidad disponemos de una barra de
+menús que no es visible de entrada pero que podemos activar haciendo clic
+con el botón derecho del ratón en la parte superior. Hacemos clic y aparece el menú
+contextual en el cual podemos pedir que nos añada una serie
+de barras de entrada. La primera que necesitaríamos
+sería la barra de menús, el resto más adelante iremos viendo
+si alguna de ellas nos interesa. Pedimos la barra de menús y ahora,
+debajo de la barra de direcciones veremos todos los menús con todas las órdenes
+que podemos pedir a la aplicación. Por ejemplo tenemos en el menú,
+Ayuda, la última opción acerca de Internet Explorer que nos permitirá
+saber qué versión estamos utilizando. En este caso, estamos utilizando la
+versión de Internet Explorer 11. Microsoft va actualizando estas,
+todas sus aplicaciones. En principio cualquier nueva
+actualización habrá algunos cambios pero el funcionamiento
+básicamente sería el mismo. Para visitar una página web,
+si sabemos su dirección, la escribiremos en la
+barra de direcciones. Por ejemplo vamos a visitar la página
+web de la Universidad Autónoma, escribimos la dirección. Fijaos que si you hemos
+visitado esta dirección, you normalmente la acaba completando. Una vez escrita, hacemos clic a la lupa de esta barra de
+direcciones o presionamos la tecla Intro. Nos aparece la nueva página que sustituye
+la página que estábamos visualizando. Dentro de una página encontraremos
+textos e imágenes básicamente y enlaces que nos
+enviarán a otras páginas. ¿Cómo detectamos estos enlaces? Pues simplemente colocándonos encima
+de cualquier texto o cualquier imagen y si aparece una mano,
+nos indica que eso no es sólo un texto, no sólo una imagen sino también es
+un enlace hacia otra página web. Por ejemplo vamos a hacer clic aquí en la,
+en esta foto y nos dirijimos a otra página. Podemos consultarla y si queremos
+regresar donde estábamos, utilizaremos los dos botones que hay a la
+izquierda de la barra de direcciones que nos permiten ir hacia
+atrás o hacia adelante dentro de las páginas web que
+acabamos de visitar en este momento. Si vamos hacia atrás,
+regresamos a la página donde estábamos. Si le damos adelante,
+volvemos a la que hemos visto. Nos podemos ir desplazando
+sólo por las páginas que hemos visualizado en esta sesión. Fijaos que al hacer clic en esta imagen,
+me ha sustituído la página inicial de la Universidad Autónoma
+por otra página con otra información. En cambio si hago clic en este enlace,
+Masters y Postgrados la página inicial de la Universidad
+Autónoma, fijaros arriba, continúa abierta y me abre una nueva pestaña con
+la página web que acabo de pedir. O sea dependiendo de cómo
+esté programado el enlace, sustituirá la página actual por la que
+pedimos, o nos abrirá una nueva pestaña de manera que continúo teniendo
+la página donde estaba, abierta. Esto me es muy cómodo para por ejemplo,
+dejo esta información abierta, vuelvo a la página de la Autónoma
+y busco otra información. En cualquier momento puedo regresar
+a esta página por que no la he perdido, no la he cerrado. Una vez he acabado con esta página, you no la necesito, simplemente la cierro
+por la cruz que tiene su etiqueta. Si veo que hay un enlace como el
+que acabamos de ver de la foto, que me sustituye la página por otra
+y no me interesa, si no que prefiero que no la sustituya si no que cree
+una nueva etiqueta, lo puedo forzar you que no lo hace directamente, haciendo
+clic en el enlace con el botón derecho. Me aparece el menú contextual y
+aquí encontraré una orden que pone, abrir vínculo en una nueva pestaña. Esta es la que me interesa,
+le hago clic y you tengo la página que he pedido en una nueva
+pestaña sin perder la anterior. El hecho de trabajar en
+pestañas es muy cómodo, me permite tener varias páginas
+abiertas y no tener que ir navegando hacia atrás y hacia adelante o
+intentar recordar en qué página estaba. Si alguna página véis que no se carga bien
+porque hay algun problema de conexión o cualquier otro problema,
+o algunas imágenes no se han cargado, fijaos en la barra de direcciones que
+encontraréis el botón Actualizar. Esta flecha curva, haciendo clic,
+lo que hace es volver a cargar esa página. Normalmente no solemos utilizarlo, pero
+de vez en cuando nos encontraremos alguna página que no se ha cargado bien, clic en
+este botón y you se cargará correctamente. Si queremos acceder a páginas que
+hemos visitado recientemente, podemos hacerlo con este desplegable
+que tenemos en la barra de direcciones. Aquí nos mostrará las direcciones
+que hemos visitado últimamente, de manera que no haga falta escribirlas. Buscamos clic y me dirigirá
+a la página que me interesa. También podemos visualizar
+páginas recientes y no tan recientes con el botón
+de Favoritos e Historial. Este botón que tenemos aquí a la
+derecha en forma de estrella, le hago clic y pido el historial. En la pestaña Historial visualizaré
+todas las páginas que he visitado hoy, ayer, antes de ayer,
+hace una semana o dos semanas. Todo lo que vamos visitando queda guardado
+en este Historial de manera que yo pueda acceder incluso a webs que he visitado,
+hace bastante tiempo. [SONIDO] Si tenéis alguna duda sobre el
+funcionamiento de la aplicación podéis, como en cualquier otra aplicación pedir la
+ayuda que encontraréis en el menú Ayuda. Aquí tenemos ayuda
+a Internet Explorer o F1 y nos mostrará la ayuda
+de esta aplicación. Escribiremos la información que queramos conocer y you nos irá explicando
+lo que podemos hacer. [AUDIO_EN_BLANCO] [AUDIO_EN_BLANCO]
