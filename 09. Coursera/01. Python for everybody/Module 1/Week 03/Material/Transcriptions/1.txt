@@ -1,0 +1,34 @@
+Entonces tu probablemente estas viendo
+tu primera tarea en esta clase, la primera tarea calificable,
+llamada Hello World. Imprimir hello world. Por supuesto, esto es 
+algo tradicional, y es la primera tarea aqui en la semana 3,
+vas a aquí, tu vas a hacer click aquí para escribir hello word,
+este es el video que tu estas viendo justo ahora. entonces mientras tu das click en tu tarea 
+hello world, esta usa una tecnologia llama herramientas de aprendizaje de interoperabilidad 
+para conectar la firma en el. Y luego da click en Open Tool, y
+esto abrira una nueva ventana Y basicamente, esto ya esta configurado
+para que tenga una resultado deseada, tiene el enunciado del problema arriba en la
+esquian superior izquierda, resultado deseado. Estos botones de ver notas, 
+significa que puedo verm podemos ver tus notas, el equipo de docencia puede ver
+tus notas, puede ver tu código. Este es nuestro botón de configuración. Así que puedes ignorar estos botones. El Reset Code es, generalmente te doy
+un código que no funciona, ese tipo de alusión a lo que esta pasando. Este es el código predeterminado,
+haré clic en Check Code, y veras que hay un 
+error. Error de análisis sintáctico. Entrada erronea en la línea 2. Si miramos la línea 2, ups!, 
+eso debería ser una t en vez de una q. Y si le digo que imprima, y
+si lo hago bien, puedo verificar el código. Y ahora el resultado es el correcto. Ahora, mientras vayas avanzando 
+con  esto, veras que aquí hay una lógica que si 
+tratas de engañar para lograr el resultado esperado. Si imprimes el resultado deseado,
+no podras, la aplicación intentará de encontrar esas pequeñas formas con
+las que puedas estar haciendo trampa para alcanzar el resultado. Nuevamente te recuerdo, que lo
+que realmente queremos es que aprendas como ejecutar Python en tu computadora y
+uses este calificador. ¿Cierto?, 
+Usa esto para copiar información en el calificador. Pero puedes, muchas de las personas que tienen,
+iPads o celulares, o iPhones, o tablas o loquesea, hacen todo aquí. Y
+la belleza de esto es que recuerda tu código. Así que si te sales, selecciono Exit y
+luego regreso, puedo volver a la Semana 3, y
+vuelvo a Hello World, verás, y abro la herramienta, 
+recuerda mi código. Como puedes ver, esta implícito
+cada vez que seleccionas Check Code, implicitamente guarda
+el código que has desarrollado. Y por supuesto, no necesitas 
+esta primera línea, eso es un comentario. Sin problemas. Presionas Exit. La pantalla se cierra, y puedes
+continuar con el resto de tu trabajo.
