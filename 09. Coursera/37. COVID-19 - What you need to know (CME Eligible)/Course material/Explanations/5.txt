@@ -1,0 +1,46 @@
+Quiz Explanations: Beating Coronavirus: Flatten the Curve, Raise the Line
+
+#1 Which of the following best describes an epidemic curve?
+
+    A plot of the number of cases over time.
+    A plot of the number of deaths over time.
+    A plot of the number of viral particles over time.
+    A plot of number of specimens tested over time.
+
+Explanation: An epidemic curve is a plot of the number of all cases over time. It may correlate with the number of deaths and the number of specimens tested over time (but doesn't always).
+
+#2 What happens when an epidemic curve rises above the healthcare capacity line?
+
+    The incubation period increases.
+    The incubation period decreases.
+    The mortality rate increases.
+    The mortality rate decreases.
+
+Explanation: The mortality rate increases when an epidemic curve rises above the healthcare capacity line.
+
+#3 Which of the following can help to "flatten the curve"?
+
+    Closing schools
+    Closing non-essential businesses
+    Closing sporting events
+    All of the above
+
+Explanation: Closing schools, non-essential businesses, and sporting events are all ways to help flatten the epidemic curve.
+
+#4 What's meant by the phrase "raise the line"?
+
+    Increasing the number of patients with COVID-19.
+    Decreasing the number of patients with COVID-19.
+    Increasing the healthcare capacity.
+    Decreasing the healthcare capacity.
+
+Explanation: Raise the line refers to increasing healthcare capacity.
+
+#5 Which of the following is an example of something that can "raise the line"?
+
+    Offering more online medical education and telemedicine opportunities.
+    Increasing the number of healthcare workers in hospitals and clinics.
+    Cancelling or postponing elective medical procedures.
+    All of the above
+
+Explanation: Offering more online medical education and telemedicine opportunities, increasing the number of healthcare workers in hospitals and clinics, and cancelling or postponing elective medical procedures, are all ways to help "raise the line" on healthcare capacity.

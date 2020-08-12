@@ -1,0 +1,254 @@
+Covid-19 o enfermedad por coronavirus
+descubierto en 2019 es el causante de una pandemia global. El Covid-19 lo provoca
+un virus llamado SARS-CoV-2 o síndrome respiratorio agudo grave
+coronavirus tipo 2 porque es genéticamente similar
+al coronavirus del SARS, responsable de la epidemia 
+de SARS en 2002. Los coronavirus que circulan entre humanos
+son generalmente benignos, produciendo aproximadamente una cuarta parte
+de los resfriados. En el Covid-19 lo que ocurrió fue que,
+había coronavirus circulando inicialmente entre murciélagos, que son reservorios naturales
+que al parecer mutaron y empezaron a causar
+enfermedad en humanos. El brote comenzó en China, pero desde entonces
+se ha extendido por todo el mundo. Hasta el 1 de mayo de 2020 unos 5 meses
+ desde el brote ha habido más de 3.329.740 casos confirmados de Covid-19 y 237.647 muertes lo que indica una tasa de mortalidad
+de aproximadamente 7%. Sin embargo, estudios actuales sugieren
+que la tasa de mortalidad real es probablemente más baja, 
+alrededor de 0,7%. La razón es que hay muchos casos
+de Covid-19 no diagnosticados, lo que hace mayor el número real de casos,
+muchos de ellos son portadores asintomáticos. De hecho, el Instituto Nacional de Alergia
+y Enfermedades Infecciosas, estima que entre el 25 y el 50% de los casos
+pueden ser asintomáticos. Durante esta pandemia 
+hay que aprender muchas lecciones de como diferentes países
+ han respondido a la enfermedad. Para ver esto, vamos a usar 
+una curva epidémica que muestra el número de nuevos casos
+en un país díariamente. La línea horizontal representa la capacidad
+del sistema de sanidad de ese país. La capacidad sanitaria incluye
+cosas como el número de camas, ventiladores, el número de sanitarios
+ y recursos, equipos de protección personal
+disponibles. Generalmente, el sistema sanitario trabaja cerca de su capacidad máxima. Entonces, cuando ocurre una pandemia
+como la del Covid-19, un aumento pequeño en el número de pacientes puede saturar el sistema. Así que las dos estrategias para contrarrestar
+ este problema son aplanar la curva y aumentar la línea. Aplanar la curva consiste en disminuir
+el número total de personas que enferman, y disminuir la velocidad de enfermar mientras que aumentar la línea,
+significa aumentar la capacidad del sistema sanitario. Veamos cómo diferentes países
+aplican estas dos estrategias empezando con China,
+el primer país en enfrentarse al Covid-19 China informó a la OMS
+del Covid-19 el 31 de diciembre de 2019. Unas semanas después, el 24 de enero,
+China intentó aplanar la curva agresivamente, estableciendo una cuarentena estricta
+en la provincia de Hubei, y luego con cuarentenas similares
+en otras regiones de China. Las autoridades forzaron a los habitantes 
+a quedarse en sus hogares, excepto en actividades esenciales como
+ir a la farmacia o al mercado. Los negocios no esenciales 
+y las escuelas se cerraron, el transporte público se cerró
+y las carreteras entre ciudades se bloquearon Además, algunas comunidades
+emplearon sistemas con una sola entrada y salida, donde todos
+ eran revisados para descartar síntomas de Covid-19. Si alguien en la población daba un resultado positivo
+la población entera quedaba en cuarentena. Esto afectó a 15 ciudades y alrededor
+ de 57 millones de personas. Las medidas fueron rápidamente promulgadas 
+e impuestas estrictamente 12 días después, el 5 de febrero
+el crecimiento exponencial se rompió y el número de casos nuevos
+empezó a disminuir. Mientras tanto, debido al número de casos
+existentes hasta ese momento China hizo esfuerzos por aumentar la línea. Construyeron varios hospitales
+dedicados a pacientes de Covid-19 y llevaron médicos y enfermeras desde
+otras regiones menos afectadas para dotar estos hospitales, y los mantuvo protegidos 
+con buenos PPE de la cabeza a los pies. En marzo, la economía comenzó 
+a a volver a la normalidad China comenzó a ver más casos de Covid-19
+en viajeros que en sus ciudadanos. Ahora, vamos a Corea del Sur
+que tomó una estrategia diferente pero igual de efectiva.
+Para aplanar la curva, implementaron pruebas masivas,
+gratuitas, fáciles y accesibles. Ofrecieron lugares de diagnóstico
+donde las personas podían hacerse la prueba sin salir de su coche. También tenían zonas para pruebas,
+en las que la persona entraba en la sala, se hacía la prueba y salía. Corea del Sur hacía
+ 15.000 pruebas al día y hasta el 29 de abril, habían hecho pruebas
+a alrededor de 601.000 personas en una población de 51 millones,
+equivalente a 1 de cada 85 personas. Las personas positivas
+se enviaron a un hospital si sus síntomas eran severos, o a instalaciones de cuarentena
+si eran más leves. Al mismo tiempo los sanitarios
+buscaron casos para detectar individuos 
+que podrían haber estado expuestos al virus. Debido a que Corea del Sur conocía 
+quien tenía y no tenía Covid-19 y dónde habían estado,
+la cuarentena se realizó a nivel de individuos enfermos,
+en lugar de a toda la sociedad como en China. Dada la advertencia que Corea del Sur 
+ tenía de la enfermedad y el gran esfuerzo por identificar casos, el sistema sanitario
+estaba muy bien preparado para los pacientes y tenían recursos
+para mantener a los trabajadores sanitarios a salvo. Ahora, veamos Estados Unidos, que tiene
+el mayor número de casos en el mundo y donde el número de casos 
+aumenta rápidamente. En cuanto a las pruebas,
+basado en cifras del 29 de abril, Estados Unidos se queda atrás con alrededor 
+de 520.000 personas analizadas que corresponde a 1 de cada 629 personas. 7.5 veces menos que en Corea. A pesar de que los dos países tuvieron
+su primer caso confirmado el 19 de enero, uno en Washington, y el otro en Seúl, Corea. Lamentablemente, los datos de EE.UU. no incluye
+las pruebas realizadas por empresas privadas. Pero a finales de abril se notificó que las pruebas
+eran inadecuadas en la mayoría de las zonas de EE.UU, necesitando varios días para
+obtener resultados,o no existían. Además de la ausencia
+de pruebas generalizadas para identificar a los individuos que necesitan ser aislados, sólo algunos estados ordenaron cuarentena, incluso cuando se ha aplicado,
+el cumplimiento ha sido mínimo. Así que, sin un mandato a nivel federal,
+o la obligación de una cuarentena, ha sido un gran esfuerzo de cada 
+estado principalmente voluntario. En cuanto a elevar la línea, los trabajadores 
+de la salud no cuentan con la protección adecuada, especialmente
+ máscaras N95 para estar seguros. Y como resultado, cientos de médicos y enfermeras se han enfermado
+o han sido puestos en cuarentena. Mientras tanto, las camas disponibles
+en unidades de cuidados intensivos han empezado a agotarse
+y lo ventiladores son escasos, así como los medicamentos
+como la hidroxicoloquina. Lamentablemente, en el contexto
+ de recursos sanitarios escasos, sabemos que las tasas de mortalidad 
+ pueden ser bastante altas. Ahora, la buena noticia. Una cuarentena estricta 
+—es decir: obligatoria, no voluntaria—, atendida por la mayoría, puede
+ detener la propagación de Covid-19 en cuestión de días, incluso en un país 
+ con un crecimiento exponencial como EE.UU. Para mostrar cómo funciona, empecemos
+con una comunidad que ya ha visto un crecimiento exponencial
+ de casos de COVID-19. La mayoría de las personas con COVID-19 
+tienen síntomas leves o lo han contraído recientemente y no tienen síntomas todavía. Hay dos opciones en este momento. La primera opción es continuar
+con un distanciamiento social voluntario donde algunos se adhieren mientras otros 
+siguen organizando fiestas en la piscina, mantienen negocios abiertos,
+e invitan familiares a cenar. En ese escenario, incluso con la mejor
+ intención y precauciones de limpieza en las dos semanas siguientes,
+los casos crecerán exponencialmente haciendo que los hospitales se llenen
+ de pacientes, y que muchas personas mueran. Pero ahora considera la opción dos: en esta opción, hay una cuarentena obligada, en la que absolutamente todos
+están confinados en sus casas. Si eso sucediera, el virus podría
+ extenderse por contacto dentro del hogar pero más allá, la transmisión se detendría 
+abruptamente, mientras estas personas se recuperan. Sin acceso a nuevos huéspedes,
+el virus básicamente no tiene a dónde ir, al cabo de dos semanas, el número
+de nuevos casos empieza a disminuir. Eso significa que el sistema
+ de salud no colapsa y las tasas de mortalidad disminuyan porque quien
+ necesite atención médica puede recibirla. Este enfoque y línea de tiempo se basan en datos reales de Hubei
+ donde se implementó la segunda opción. La tasa de casos nuevos disminuyó 
+ a los pocos días del confinamiento, Y como hay un lapso entre el momento
+ de enfermarse y el de ir al médico, esa disminución se vio dos semanas
+ después en términos de menos casos nuevos acudiendo al hospital. La conclusión es,
+el distanciamiento social voluntario es tan efectivo como el número 
+de personas que lo practican. Si no se adhieren suficientes personas,
+entonces el virus puede continuar propagándose y la pandemia se prolongará
+resultando en mayor mortalidad. Hasta el primero de mayo,
+por diferentes razones especialmente económicas, muchos países
+ como también varios estados de EE.UU están bajo presión para levantar 
+las restricciones lo antes posible. Pero si las medidas de distanciamiento
+ social se relajan demasiado rápido, podríamos experimentar una segunda ola,
+incluso mayor de individuos infectados. Esto es exactamente lo que encontramos
+ en 1918 con la pandemia de la influenza, comúnmente conocida como la gripe española. Esa pandemia fue causada por una cepa
+ del virus de la influenza H1N1 e infectó al rededor de 500 millones 
+de personas en el mundo y mató a 50 millones. La pandemia de la gripe española
+ocurrió en tres oleadas. La primera fue en marzo de 1918,
+la segunda ola fue en otoño de 1918 y la tercera ola fue en ese invierno
+y en primavera de 1919, De hecho, la segunda oleada
+fue más mortal que la inicial, al parecer debido al hecho de que
+ se propagaba en trenes llenos de gente y en hospitales y campos
+durante la primera guerra mundial. De hecho, aunque la tercera ola
+no fue tan letal como la segunda, si fue más severa que la original. También es importante recordar que
+en 1918, los trabajadores de la salud estaban muy limitados y prácticamente
+ no existían las pruebas de diagnóstico, ni las vacunas, medicamentos
+ antivirales ni antibióticos. Y aunque algunas ciudades
+forzaron medidas como cerrar escuelas, prohibir reuniones públicas,
+no fue un esfuerzo nacional generalizado En conclusión, para el Covid-19
+tenemos más herramientas disponibles pero es claro lo que pasa cuando
+ nos empezamos a reunir en grupos. La posibilidad de brotes
+y un aumento general, vuelve a subir. Y si el virus se vuelve a disparar en otoño
+ o invierno, durante o cerca del pico de la temporada de gripe estacional,
+las consecuencias pueden ser más devastadoras. En términos de mortalidad, los datos muestran
+que las tasas de mortalidad del Covid-19 son diferentes por grupos. Si se divide por grupos por edad, se puede ver que la tasa de mortalidad
+es relativamente baja si tienes menos de 60 años, con muy pocas muertes
+registradas en niños menores de 9 años. Pero luego empieza
+ a escalar para los mayores, quienes son los que están en alto riesgo. La tasa de mortalidad es mayor 
+para personas con hipertensión, diabetes, enfermedades cardiovasculares,
+enfermedades respiratorias crónicas y cáncer, en relación 
+a las personas sin estas condiciones. Los mayores generalmente
+tienen alguna de estas condiciones, por lo que no es sorprendente
+ que vayan de la mano. Aunque los niños tienen menos probabilidad
+de desarrollar una enfermedad grave, podrían propagar el virus, e incluso pueden ser más contagiosos
+que los adultos, pues usualmente tienen peores hábitos de higiene. Sin embargo, en ciertos casos,
+los niños pueden presentar Síndrome Inflamatorio Multisistémico
+Pediátrico, en el que los vasos sanguíneos especialmente los que suministran 
+al corazón, se inflaman y se dilatan. En jóvenes adultos, el Covid-19
+puede aumentar el riesgo de ictus causando inflamación de los vasos 
+sanguíneos que abastecen al cerebro. Otro grupo, son las embarazadas,
+y aunque los datos son escasos, parece las embarazadas sanas no están en alto
+ riesgo de desarrollar enfermedad grave. Y hasta la fecha, no han habido casos
+ reportados de transmisión intrauterina de Covid-19. El virus tampoco se detectó 
+en la leche materna de un pequeño grupo de madres con COVID-19. Y en cuanto a la lactancia,
+el riesgo principal serían las gotículas y no a través de la leche materna en sí. En general, en base a los datos actuales, más del 80% de los pacientes
+con Covid-19 tienen una infección leve; y algunos no presentan ningún síntoma. Otros pacientes pueden presentar
+síntomas leves como fiebre, tos y falta de aire. Otros síntomas incluyen fatiga y pérdida 
+temporal del sentido del gusto y el olfato. Los problemas serios incluyen la neumonía y si hay daño pulmonar severo,
+puede cause 'Síndrome respiratorio agudo', que ocurre cuando la inflamación en los pulmones es tan grave que se acumula líquido 
+alrededor y dentro de los pulmones. La infección severa puede causar shock
+ séptico, que se produce cuando la presión disminuye rápidamente y a la sangre
+ en los órganos le falta oxigeno. El SDRA y el shock son la causa
+ principal de muerte por esta infección. Finalmente, vale aclarar que incluso 
+las personas que no mueren de Covid-19 incluyendo a los individuos jóvenes y saludables,
+pueden desarrollar fibrosis pulmonar, una enfermedad crónica que puede afectar 
+seriamente la calidad de vida de una persona. Además de causar esta enfermedad,
+los coronavirus se propagan rápidamente. Cada vez es más claro que la propagación
+ocurre en gran parte gracias a las personas pre-sintomáticas, que son quienes
+están en el periodo de incubación, muchos de los cuales no están en alto riesgo. También se propaga a través de aquellos 
+con síntomas, cuando estos tosen o estornudan y liberan 
+gotitas que contienen el virus. Estas gotas pueden caer en la boca,
+nariz y ojos de otras personas, conocido como la zona T, y eso permite
+al virus entrar en una nueva persona. Los coronavirus usualmente no 
+se propagan por largas distancias en el aire pero pueden ser arrojados de una persona 
+a otra en pequeñas gotas de saliva cuando alguien tose o estornuda. Estudios recientes sugieren que 
+las gotas de SARS COV2 en el aire pueden ser infecciosas hasta tres horas. Adicionalmente, el virus SARS COV2,
+puede sobrevivir en las superficies. Puede sobrevivir hasta 8 horas
+en el látex y el aluminio, hasta 24 horas en el cartón,
+hasta 3 días en encimeras, plástico y acero inoxidable
+y hasta 5 días en el vidrio y la madera. Puedes infectarte tocando estas
+ superficies y después tocarte tu zona T. Es por eso que debes lavar tus manos
+con agua y jabón frecuentemente, o limpiarlas con un desinfectante
+ de manos a base de alcohol. Además, asegúrate de limpiar y esterilizar
+las superficies que se tocan con frecuencia, como teléfonos, teclados, manijas de puertas
+y asientos de inodoro con toallitas desinfectantes Una vez que una persona se infecta,
+desarrollará síntomas en alrededor de 5 días. Esto se conoce como 'período de incubación'. Hay un debate sobre qué tanto se
+ está propagando por personas asintomáticas o pre-sintomáticas, que son quienes
+están en periodo de incubación, y puede ser aún mas
+de lo que se pensaba inicialmente. Los virus tienen un número reproductivo
+ o R0, basado en qué tan rápido se propagan y el contagio entre personas se ha confirmado
+tanto dentro como fuera de China. Un R0 de 1 significa que una persona 
+infectada, contagia a una nueva persona. Un R0 de 2 significa que una persona
+contagia a dos y así sucesivamente Si el R0 está por debajo de 1,
+la infección desaparece si es de 1 se mantiene constante,
+y si está por encima de 1 continúa extendiéndose El estimado actual para Covid-19 
+es un R0 de 2 a 2.5. Como punto de comparación, el R0 del virus
+ de la gripe es de alrededor de 1.3. Por lo tanto el Covid-19
+se propaga un poco más fácil. Para confirmar el diagnóstico, una reacción 
+en cadena de polimerasa de transcripción inversa o prueba de RT-PCR puede detectar
+ cantidades muy pequeñas de ARN viral. Cabe mencionar, que al principio
+de la enfermedad la RT-PCR puede no detectar la infección en su totalidad,
+lo que significa que no es muy sensible. Si se sospecha una enfermedad pulmonar
+grave se puede hacer una tomografía de tórax para ayudar a detectar
+ la presencia de una neumonía viral. Algunos nuevos métodos de pruebas rápidas para COVID-19 puede tener 
+ resultados en minutos. Una de ellas es la amplificación isotérmica,
+que también comprueba el ARN viral. La otra es una prueba
+ serológica rápida que busca los anticuerpos creados por el sistema
+ inmunológico para luchar contra el virus. Ya que esta prueba detecta
+ los anticuerpos hechos por el cuerpo, puede detectar infecciones anteriores
+aún cuando el virus haya desaparecido. Finalmente, también es importante buscar
+otras causas de síntomas similares haciendo, por ejemplo,
+una prueba rápida de gripe, o un panel viral respiratorio para buscar 
+ causas alternativas de los síntomas. En cuanto al tratamiento, las personas 
+con síntomas leves deben aislarse en casa para recuperarse con descanso y fluidos. Para aquellos con síntomas severos,
+el tratamiento se centra en los cuidados como el suministro de fluidos, oxígeno
+y asistencia respiratoria para los más enfermos. También hay datos previos
+que muestran que el Remdesivir, un antiviral usado anteriormente contra
+ el Ébola, puede ayudar a acortar la duración de los síntomas, aunque sin una mejora
+significativa en el tiempo de recuperación. Sin embargo, un ensayo controlado
+ aleatorio en Hubei no demostró beneficios estadísticos significativos 
+del Remdesivir vs. el placebo. Otros medicamentos usados
+ para intentar tratar casos severos de Covid-19 incluyen una combinación
+de Lopinavir y Ritonavir, que son antiretrovirales,
+como lo es la cloroquina o hidroxicloroquina, que son usadas
+para tratar la malaria. Un ensayo demostró la efectividad del uso en conjunto
+de hidroxicloroquina y azitromicina. El 22 de marzo, la OMS lanzó un mega ensayo global para probar 
+algunos de estos prometedores medicamentos, y el primero de mayo, la FDA, o Administración
+de Alimentos y Medicamentos aprobó el uso de emergencia de Remdesivir para
+ los hospitalizados con enfermedades severas. Sin embargo, esto no significa 
+una aprobación formal, que requeriría un nivel más alto de revisión. Países de todo el mundo
+ están desarrollando vacunas y se estima que estarán disponibles en 2021 Como resumen rápido, cinco meses después
+del inicio de la pandemia de Covid-19 los países han tenido niveles variados de éxito conteniendo la enfermedad. Es decir, aplanando la curva y elevando la línea. Algunos países como China y Corea del Sur
+han disminuido el número de casos nuevos, mientras que 
+en EE.UU, el número continúa en aumento. Una cuarentena obligatoria a nivel federal
+para imponer el distanciamiento social, pruebas masivas y rastreo de contactos, son claves
+para prevenir la propagación de la enfermedad. Elevar la línea se puede lograr
+entrenando a más personal sanitario de primera línea,
+construyendo más hospitales y suministrando equipos de protección
+adecuados para los trabajadores. Los tratamientos se centran
+en cuidados paleativos, y varios medicamentos están en ensayos clínicos. Puede que haya una vacuna en el 2021. Mientras tanto,
+la mejor estrategia es la prevención. Esto incluye permanecer aislados,
+lavarse las manos cuidadosamente y evitar tocarse la cara en la zona T. Si eres un trabajador sanitario,
+debes usar equipo de protección personal.

@@ -1,0 +1,45 @@
+Imaging Features of COVID-19
+
+Imaging Features of COVID19  
+
+As of March 16th, so in just the first three months of the outbreak, there have been 167,511 cases of COVID-19 and 6,606 deaths, working out to a mortality rate of 3.9%. On top of that, every case of COVID-19 leads to roughly 2.3 new cases, meaning that the outbreak is still spreading. Many countries have been affected, and there are numerous cases of community spread, meaning that individuals are getting sick without being around any sick contacts or having traveled to outbreak areas. In that context, healthcare workers need diagnostic tools to investigate cases of potential COVID-19 that are both sensitive and specific.
+
+The gold standard for diagnosis of COVID-19 is RT-PCR, or reverse transcription polymerase chain reaction. In the early days of the epidemic in China RT-PCR was only 30 to 70% sensitive whereas chest CT was reportedly much more sensitive in that context.  However, more recent data from the US labs at the University of Washington suggests that second-generation COVID RT-PCR tests are faring much better, with 95%+ sensitivity. Despite its usefulness in the early days of the epidemic in China, Chest CT findings are no longer part of the diagnostic criteria for COVID.   
+
+There are still clearly issues with access to RT-PCR and related wait times in the US and elsewhere.  Nevertheless, over the past several weeks, several major US radiology societies have come out with statements making it clear that CT should be used sparingly in COVID and only when it will impact management.  
+
+However, because there will be certain cases when imaging is indicated, as well as patients imaged for other reasons whose scans reveal findings potentially suggestive of COVID, it is essential that healthcare providers be familiar with the imaging features of the infection.
+
+Typically, when a patient has symptoms of COVID-19, like fever, cough, or shortness of breath, they may get a chest X-ray. The most common abnormal finding is “ground glass” opacities, meaning that some portions of the lungs look like a “hazy” shade of gray instead of being black with fine white lung markings for blood vessels. It looks a bit like frosted glass, like a window in the wintertime. It is important to note, however, that chest X-rays are not very sensitive for COVID-19 and can yield false negatives.
+
+Now compared to chest X-rays, chest CT gives a much more detailed view. The most common CT finding in COVID-19 are those ground-glass opacities scattered throughout the lungs. They represent tiny air-sacs or alveoli getting filled with fluid, and turning a shade of grey on a CT scan. 
+
+In severe or more advanced infections, more and more fluid will accumulate in the lobes of the lungs, so the ground glass appearance will progress to a solid white “consolidation.” 
+
+Finally, there’s a finding called the “crazy paving” pattern due to swelling of the interstitial space along the walls of the lung lobules. This makes the walls look thicker, like white lines against the hazy, ground glass background. The appearance is similar to irregular shaped stones used to pave a street, hence the name “crazy paving.” 
+
+These three CT findings - ground glass opacities, consolidations, and crazy paving patterns, can be seen in isolation or in combination with one another.  Ground glass is usually the first sign and is followed later by one or both of the others.
+
+These findings usually occur in multiple lobes throughout both lungs, and more commonly affect the outermost or periphery of the lungs. Having said that, in mild or recovering cases of COVID-19, the findings can be isolated to just one lobe.
+
+It’s no surprise then, that disease severity is proportionate to the lung findings. The sickest individuals typically have the most severe findings on chest CT. And as patients improve, there’s gradual resolution of the ground glass and consolidations. 
+
+Now, it’s worth mentioning that there are some key CT findings that are usually not seen in n COVID-19, or at least seen less often. You don’t usually see pleural effusions, which are fluid collections in the pleural space right outside of the lungs. These are more common in conditions like congestive heart failure and bacterial pneumonia. You also don’t see large lymph nodes in the mediastinum or near the hilum or central part of the lung, which are often seen in other types of pneumonia.  Finally, you don’t typically see lung cavities, which usually develop in bacterial and fungal pneumonia due to necrosis of the lung tissue later turning into an air-filled cavity.  
+
+Now, even though a chest CT is very sensitive for COVID-19, the key findings, ground glass opacities, consolidations, and crazy paving, can also be seen with other causes of viral pneumonia like influenza and adenovirus. They can also be seen in a variety of non-infectious conditions. That means that chest CT is sensitive, but not very specific for COVID-19, and that individuals with these findings should get further clinical evaluation and laboratory tests done to exclude other causes. 
+
+So as a quick recap.  Chest CT is sensitive for severe cases of COVID but not specific for COVID and should be performed only when the referring physician feels it will impact management.d. The key findings on chest CT include ground glass opacities, consolidations, and crazy paving. Individuals presenting to hospitals with these chest CT findings may need isolation, and should get thorough confirmatory testing and appropriate treatment.  
+
+For up-to-date guidance and resources related to radiologic screenings, please visit the Radiological Society of North America at www.RSNA.org and the American College of Radiology at www.ACR.org. 
+
+Authors: Daniel J Durand, MD Chief Innovation Officer Chair, Department of Radiology, LifeBridge Health System
+
+Reviewers: Rishi Desai, MD, MPH, Yifan Xiao, MD, Brent Savoie, MD, JD Section Chief, Cardiothoracic Imaging, Department of Radiology, Vanderbilt University School of Medicine
+
+LifeBridge Health Innovation & Radiology: Jian Zhang, MD, Shuja Rayaz, MD, Sreenath Jagannathan, DO
+
+Acknowledgements: David Bluemke MD, PhD, MsB, Professor, Department of Radiology, University of Wisconsin School of Medicine and Public Health
+
+Editor, RADIOLOGY: Clifford R. Weiss, MD, Associate Professor, Department of Radiology, The Johns Hopkins University School of Medicine
+
+Deputy Editor, RADIOLOGY: Michael Kuo, MD, Professor, Director Medical AI Lab Program at HKU, Department of Diagnostic Radiology, The University of Hong Kong

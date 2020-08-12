@@ -1,0 +1,28 @@
+Polymerase Chain Reaction (PCR) and Reverse-Transcriptase PCR (RT-PCR): Quiz Explanations
+
+#1 Which of the following describes the role of polymerase chain reaction?
+
+    To increase the amount of genetic material present
+    To decrease the amount of genetic material present
+    To increase the amount of viral protein present
+    To decrease the amount of viral protein present
+
+Explanation: Polymerase chain reaction (PCR) is a molecular biology technique used to amplify or increase the amount of genetic material present.
+
+#2 What are the three key steps that occur in a full cycle of PCR?
+
+    Entry, replication, and budding
+    Heating, latching, and cooling
+    Denaturation, annealing, and extension
+    Entry, replication, and budding
+
+Explanation: The three key steps in a cycle of PCR are denaturation of double-stranded DNA, annealing of primers to the single-stranded DNA, and extension of single-stranded DNA by Taq polymerase to become double-stranded DNA.
+
+#3 In addition to the steps needed in PCR, what is an additional step that's required in RT-PCR?
+
+    Reverse transcriptase generates RNA from cDNA
+    Reverse transcriptase generates cDNA from RNA
+    Taq polymerase generates RNA from cDNA
+    Taq polymerase generates cDNA from RNA.
+
+Explanation:In RT-PCR the additional step is that reverse transcriptase first generates cDNA from RNA, and then the steps of PCR are followed.

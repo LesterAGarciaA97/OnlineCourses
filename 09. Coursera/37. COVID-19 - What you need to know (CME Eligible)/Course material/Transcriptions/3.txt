@@ -1,0 +1,60 @@
+A partir del 16 de marzo y en tan solo los primeros tres meses 
+ del brote, ha habido 167,511 casos de COVID-19 y 6.606 muertes, una tasa de mortalidad de 3.9%. Además de eso, cada caso de COVID-19 se transmite 
+a otras 2.3 personas, lo que significa que el brote 
+ todavía continua extendiéndose. Se han afectado muchos países 
+ y hay numerosos casos 
+ de propagación comunitaria, lo que significa que los individuos enferman sin estar cerca de algun contacto enfermo o sin haber viajado a áreas 
+identificadas como zonas de brote En ese contexto, los sanitarios necesitan herramientas de diagnóstico 
+ para investigar los casos potenciales de COVID-19 que sean a la vez sensibles 
+ y específicas. El estándar de oro para el diagnóstico 
+ de COVID-19 es RT-PCR, o la transcripción inversa 
+de la reacción en cadena de polimerasa. En los primeros días en la epidemia
+ en China, la RT-PCR era sensible solo 30-70%, mientras que la TAC de Tórax era más sensible en aquel contexto, 
+de acuerdo a los informes. Sin embargo, los datos 
+ más recientes de laboratorios de EEUU de la Universidad de Washington sugiere que la RT-PCR COVID de segunda generación
+ funciona mucho mejor con una sensibilidad
+ de 95% o más. A pesar de su utilidad en los primeros días de la epidemia 
+ en China, los hallazgos de la TAC de tórax 
+no son parte de los criterios de diagnóstico
+ de COVID. Todavía hay claros problemas
+ de acceso a RT-PCR, y el tiempo de espera relacionado con la prueba
+ en EEUU y otros lugares. Sin embargo, en las últimas semanas, sociedades importantes
+ de radiología estadounidenses han hecho declaraciones dejando claro que la TAC de tórax debe usarse con moderación, y sólo cuando es útil 
+para el manejo del paciente. Sin embargo, habrá casos en los que la imagen estará indicada, 
+así como en otros pacientes
+ por otras razones aunque los hallazgos posteriores 
+sugieran COVID, Es esencial que los sanitarios estén familiarizados con las características 
+ de imagénes de la infección. Típicamente, cuando un paciente 
+ tiene síntomas de COVID-19, como fiebre, tos y dificultad para respirar, pueden hacer una radiografía de tórax. El hallazgo anormal más común son opacidades en vidrio esmerilado, lo que significa que hay zonas del pulmón, con un tono gris brumoso, en lugar de ser negro con marcas blancas finas 
+de vasos sanguíneos. Parece vidrio esmerilado, como las ventanas en invierno. Sin embargo, es importante tener en cuenta que los rayos X no son muy sensibles para COVID-19 y pueden dar 
+falsos negativos. Ahora, en comparación con las radiografías
+ de tórax, el TAC proporciona una imagen 
+más detallada. Los hallazgos más comunes en TAC son opacidades en vidrio esmerilado diseminadas en ambos pulmones. Representan los pequeños sacos de aire
+ o alvéolos llenándose de líquido y volviéndose grises en la TAC. En infecciones severas o más avanzadas, se acumula más líquido en los lóbulos pulmonares y la imagen de vidrio esmerilado progresa hasta consolidarse. Sin embargo, hay un hallazgo 
+ llamado patrón empedrado debido a la inflamación del espacio intersticial de las paredes de los lóbulos pulmonares. Esto hace que las paredes se vean
+ más gruesas como líneas blancas sobre 
+un fondo de vidrio esmerilado. Parecen piedras de forma irregular de las utilizadas en el pavimento de calles. Estos 3 hallazgos de TAC; opacidades en vidrio esmerilado, consolidaciones
+ y patrón empedrado, pueden verse de forma aislada o en combinacion. El patrón de vidrio esmerilado 
+suele ser el primer signo seguido de uno o de los otros dos. Estos hallazgos generalmente 
+se encuentran en múltiples lóbulos de ambos pulmones y frecuentemente se afecta más la periferia del pulmón. Una vez dicho esto, en casos leves o recuperados de COVID-19 los hallazgos pueden verse
+ aislados en un solo lóbulo. Entonces no sorprende que la severidad de la enfermedad sea proporcional a los hallazgos
+ de la TAC Los individuos más enfermos suelen tener hallazgos más severos en el TAC. A medida que los pacientes
+ mejoran, se produce una resolución progresiva del patrón de vidrio esmerilado
+ y de la consolidación. Ahora, es importante mencionar que hay algunos hallazgos claves
+ en la TAC que habitualmente no se ven en COVID-19 o se ven con menos frecuencia No se ven derrames pulmonares, que son colecciones de liquido en el espacio pleural 
+fuera de los pulmones Son mas comunes en enfermedades como la insuficienciafa cardíaca congestiva
+ y neumonias bacterianas Tampoco es frecuente ver 
+ganglios linfáticos agrandados en mediastino, cerca del hilio o en la parte central de los pulmones y que aparecen en otros tipos de neumonía Finalmente, no se ven cavidades pulmonares que generalmente 
+aparecen en neumonías bacterianas o micóticas
+ debido a la necrosis del tejido pulmonar en una cavidad
+ llena de aire Ahora bien, aunque la TAC es muy sensible para diagnosticar COVID-19 los hallazgos característicos 
+como opacidades en vidrio esmerilado consolidaciones y patrón de empedrado pueden verse también por otras tipos de neumonía viral como influenza
+ y adenovirus También se ven en otras enfermedades no infecciosas, esto significa que la TAC es sensible pero no muy especifica para COVID-19 Y los individuos con estos hallazgos
+ deben tener además una exploración clínica y pruebas de laboratorio 
+para excluir otras causas Muy bien, como resumen rápido, La TAC de tórax es sensible 
+en casos severos COVID pero no es especifica
+ para COVID en si, y debe realizarse solo cuando el medico que lo solicita piensa que mejorará
+ el manejo del paciente Los hallazgos claves la TAC de tórax incluye opacidades
+ en vidrio esmerilado, consolidaciones y patrones de empedrado. Individuos que van al hospital con estos hallazgos en la TAC 
+pueden necesitar aislamiento y hay que realizar pruebas de confirmación
+ y tratamientos adecuados

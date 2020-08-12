@@ -1,0 +1,196 @@
+COVID-19
+
+COVID-19 (Coronavirus Disease 19) 
+
+COVID-19, or coronavirus disease discovered in 2019, is responsible for a global pandemic. COVID-19 is caused by a virus called SARS CoV-2, or severe acute respiratory syndrome coronavirus 2, because it’s genetically similar to the SARS coronavirus which was responsible for the SARS outbreak in 2002. 
+
+Now, coronaviruses that circulate among humans are typically benign, and they cause about a quarter of all common cold illnesses. In COVID-19 what happened is that there was a coronaviruses initially circulating among bats, which are a natural animal reservoir, that seems to have mutated and ultimately started causing disease in humans. The outbreak began in China, but has since spread around the world. 
+
+As of May 1st  2020, or roughly 5 months into the outbreak, there have been over 3,329, 740 confirmed cases of COVID-19 and 237,647 deaths, resulting in a fatality rate of approximately 7%. However, current studies suggest that the actual fatality rate is likely to be lower, around 0.7%. The reason for this is that there are a lot of undiagnosed COVID 19 cases which makes the actual number of cases go up.  Many of these are asymptomatic carriers; in fact the National Institute of Allergy and Infectious Diseases, has estimated that 25 to 50 % of the cases may remain asymptomatic.  During this worldwide  pandemic, there are many lessons to be learned from how different countries have responded to the disease. 
+
+To explore that, let’s use an epidemic curve which shows the number of new cases in a country seen each day. The horizontal line represents the capacity of the healthcare system within that country. Health care capacity accounts for things like the number of beds and ventilators as well as the number of healthcare workers and resources like personal protective equipment or PPE they have available. Usually, the healthcare system is working near full capacity, so when a pandemic like COVID-19 breaks out, even a relatively small increase in the number of patients can overwhelm the healthcare system. So the 2 strategies to tackle this problem are to flatten the curve and raise the line. Flattening the curve is focused on diminishing the total number of people that get sick and slows down the rate at which new people get sick, while raising the line helps to actually increase healthcare capacity. 
+
+Let’s take a look at how different countries apply these two strategies, starting with China, the first country to deal with COVID 19. China informed the World Health Organization about COVID-19 on Dec 31, 2019. A few weeks later, on January 24th, China aggressively tried to flatten the curve by placing a major lock down in the Hubei province, and then issued a similar lockdown in other regions within China. Authorities forced residents to stay at home except for essential activities like going to the pharmacy or getting groceries. Non-essential businesses and schools were shut down, public transportations was shut down, and roads between cities were blocked off. Going even further, some communities enforced a system by which there was only one entrance and exit and everyone passing through was screened for symptoms of COVID 19. If anyone in the community tested positive, the entire community might be quarantined. In all, this affected 15 cities and about 57 million people. The measures were swiftly enacted and strictly enforced, and twelve days later, on February 5th, the exponential growth broke and the number of new cases started to fall off. 
+
+Meanwhile given how many cases there already were at that point, China made efforts to raise the line. They built multiple hospitals dedicated to COVID-19 patients, and flew in doctors and nurses from less affected regions of the country to staff these hospitals and kept them protected with well designed PPE that covered them from head to toe. By March, the economy began to return to normal and China was seeing more cases of COVID-19 from travelers then from their citizens.
+
+Now, let’s look at South Korea, which took a slightly different, yet equally effective strategy. To flatten the curve, they implemented mass testing that was free, easy, and accessible. They offered drive-through testing stations, where people were tested inside their car. They also had phone booth-like testing areas where the person walks in, gets tested, and walks out. South Korea was performing 15,000 tests per day and by  April 29th , they had tested around 601,000 people out of a population of 51 million, which works out to 1 out of 85 people. People who tested positive were either sent to a hospital if their symptoms were severe, or to a quarantine facility if the symptoms were more mild. At the same time public health workers conducted contact tracing for every case, to track down individuals that might have been exposed to the virus. 
+
+Because South Korea had such a thorough understanding of who did and didn’t have COVID-19, and where they had been, the lockdown was effectively done at the level of the sick individual, rather than at the societal level like in China. Given the forewarning that South Korea had about the disease and the aggressive efforts around case-identification, their healthcare system was well prepared for the patients and had the resources to keep healthcare workers safe.  
+
+Next, let’s look at the United States which has the most cases in the entire world and where the number of cases continues to rise quickly. In terms of testing, based on the  April 29th data, the US lags far behind with only about 520,000 people tested, which works out to 1 out every 629 people, roughly 7.5 times less than South Korea - despite both countries having their first confirmed case on Jan 19th, one in the state of Washington and other in Seoul, Korea. Unfortunately, the US data doesn’t include testing done by private companies, but as of late April, testing has been well-documented to be inadequate in most parts of the US, requiring days to get a result or being unavailable altogether. 
+
+In addition to the absence of widespread testing to identify which individuals need to be isolated, only some US states have mandated a lockdown, and even when it’s been applied, there has been minimal enforcement. So in sum, without a federal mandate or enforcement of a lock down, it’s been largely a scattered state-by-state effort that has largely been voluntary. 
+
+In terms of raising the line, healthcare workers have generally had inadequate PPE - especially N95s - to feel safe, and as a result hundreds of physicians and nurses have gotten ill or been quarantined. Meanwhile, intensive care units, or ICU, beds have started to run out, ventilators are in short supply, and there have been runs on medications like hydroxychloroquine. Unfortunately, in the context of having scarce healthcare resources, we know that mortality rates can be quite high. 
+
+Now here’s the good news. A complete lockdown, meaning one that’s enforced rather than voluntary so that the maximum number of people abide by it, can stop the spread of COVID-19 within a matter of days, even in a country that is seeing exponential growth like the US. 
+
+To show how this works, let’s start with a community that’s already seeing an exponential growth in COVID-19 cases. Most folks with COVID-19 have mild symptoms, or have just gotten it and haven’t even begun showing symptoms yet. There are two options at this point. 
+
+Option 1 is to let things continue with a voluntary social distancing policy where some adhere to it, while others continue to throw pool parties, keep businesses open, and invite relatives over for dinner. In that scenario, even with the best of intentions and cleaning precautions, over the next 2 weeks there’s still going to be an exponential growth in cases, causing hospitals to fill up with patients, and many people will die. But now consider option 2. In option 2, there’s an enforced lockdown with absolutely everyone confined to their home. If that were to happen, the virus could spread to household contacts, but after that,  the transmission would abruptly end. As these infected people recover, with no access to new hosts, the virus basically has no place to go and within 2 weeks the number of new cases starts to fall. Fewer cases means that the healthcare system doesn’t get overwhelmed and the mortality rates fall because everyone who needs care can get it. 
+
+This approach and timeline is based on real data from Hubei where they implemented option 2. The rate of new cases decreased within a few days of the lock down, and because there’s a lag between people getting sick and going to the doctor, that decrease was seen about two weeks later in terms of fewer new cases coming to the hospital. 
+
+The Bottom line  is voluntary social distancing is only as effective as the number of people who are practicing it. If enough people don’t adhere, then the virus can continue to spread, and the pandemic drags out, ultimately resulting in more deaths.
+
+Now, as of May 1st, for a variety of reasons, especially economic ones, many countries around the world as well as many US states are under pressure to ease any restrictions enforced as soon as possible.  However, if social distancing measures are relaxed too quickly, we might experience a second, even larger  wave of infected individuals. 
+
+This is exactly what we encountered in 1918 with the influenza pandemic, commonly known as “Spanish flu pandemic”. That pandemic was caused by a strain of the H1N1 influenza virus and infected about 500 million people worldwide, and killed 50 million people. Now, the spanish flu pandemic occurred in three waves, the first wave was in March of 1918, the second wave was in the autumn of 1918, and the third wave was in the winter and spring of 1919. In fact, the second wave was more deadly than the initial one, presumably due to the fact that it was spreading on crowded trains, and in field hospitals and camps during World War I. In fact, even though the third wave was less deadly than the second one, it was still more severe than the original. 
+
+Now, it’s also important to remember that in 1918, healthcare workers were limited, and viral diagnostic tests, vaccines, antiviral drugs, and antibiotics were basically nonexistent. And although some cities enforced measures such as shutting down schools and prohibiting public gatherings, it wasn’t a widespread national effort
+
+Bottom line, for COVID-19 we have more tools available, but the lessons are clear for what happens when we start to congregate in groups. The chance for outbreaks and an overall surge goes back up, and if the virus does spike again in fall or winter, during or near the peak of the seasonal flu season, the consequences could be even more devastating. 
+
+Now, in terms of mortality, the data shows that COVID-19 mortality rates differ by group. So for example, if you split things out by age you can see from this table the fatality rate is relatively low if you’re below 60, with few deaths seen in children 9 and younger, but then starts to really climb up for the elderly, so they’re really the ones at highest risk. Similarly, the fatality rate is higher for folks with hypertension, diabetes, cardiovascular disease, chronic respiratory disease, and cancer, relative to folks without any of these conditions. And of course the elderly are more likely to have a lot of these conditions so it’s not surprising that they go hand-in-hand. 
+
+Now, although children are less likely to develop a severe disease, they can definitely spread the virus and actually, they can be even more contagious than adults since they usually practice worse hygiene habits. However, in rare cases, children can get pediatric inflammatory multisystem syndrome, or PIMS, where the blood vessels, especially those that supply the heart, become inflamed and dilated.  In young adults, COVID 19 can increase the risk of strokes by causing inflammation of the large blood vessels that supply the brain.  
+
+One other group is pregnant people, and the data has been sparse, but it seems like healthy pregnant people are not at high risk for developing serious disease, and to date there haven’t been reported cases of intrauterine transmission of COVID-19. The virus also wasn’t detected in the breastmilk of a small group of mothers with COVID-19. And in terms of breastfeeding the main risk would still be from droplets, rather than through the breastmilk itself.
+
+Now overall, based on the current data, over 80% of the patients with COVID-19 have a mild infection, and some people don’t develop any symptoms at all. For others, they can develop mild symptoms like fever, cough, and shortness of breath. Other symptoms include fatigue, and things like loss of smell and taste. Serious problems include pneumonia,
+
+and if there’s severe lung damage, that can cause acute respiratory distress syndrome, or ARDS, which occurs when the lung inflammation is so severe that fluid builds up around and within the lungs. The severe infection can cause septic shock, which happens when the blood pressure falls dramatically and the body’s organs are starved for oxygen. ARDS and shock are the main cause of death for people with the infection. 
+
+Finally, it’s worth noting that even folks that don’t die from COVID-19, including young and healthy individuals, can go on to develop pulmonary fibrosis - a chronic lung condition that can severely impair a person’s quality of life. 
+
+In addition to causing disease, coronaviruses can spread quickly. It’s increasingly clear that a lot of spread is occurring through presymptomatic people - folks that are in the incubation period, many of whom are not at high-risk themselves. It also spreads from those with symptoms, like when people cough or sneeze, and tiny droplets containing the virus are released. These droplets can land on another person’s mouth, nose, or eyes, known as the T-zone, and that allows the virus to enter a new person. Coronaviruses don’t usually spread over long distances in the air, but they can get flung from one person to another on tiny droplets of saliva, when someone’s coughing or sneezing. Recent studies suggest that SARS-CoV-2 airborne droplets can remain infectious for up to three hours.
+
+In addition, the SARS-CoV2 virus can also survive on surfaces. It can survive up to 8 hours on latex and aluminum, up to 24 hours on cardboard, up to 3 days on countertops, plastic, and stainless steel, and up to 5 days on wood and glass. You can get infected by touching these surfaces and then touching your T-zone. That’s why you should wash your hands with soap and water frequently or clean them with an alcohol-based hand rub. Also make sure you clean and sterilize frequently touched surfaces like phones, keyboards, door handles and toilet seats with alcohol based cleaning wipes. 
+
+Once a person is infected, symptoms develop about 5 days later. This is called the incubation period. Now there’s debate about how much asymptomatic people or presymptomatic people - those who are  in the incubation period - are spreading the disease, and it may be much more than what was originally thought. 
+
+Viruses are given a reproductive number or R-naught based on how quickly they spread, and person to person transmission has been confirmed both in and outside of China. An R-naught of 1 means that an infected person passes it on to 1 new person, an R-naught of 2 means that 1 person spreads it to 2 new people, and so forth. If the R-naught is below 1, the infection peters out, if it’s 1 it stays steady, and if it’s above 1, then it continues to spread. The current estimate for COVID-19 is an R-naught of 2 to 2.5. As a point of comparison, the R-naught of the flu virus is about 1.3, so COVID-19 spreads quite a bit more easily.
+
+To confirm the diagnosis, a reverse transcription polymerase chain reaction or rt-PCR test can be done, which can detect very small amounts of viral RNA. It’s worth mentioning, however, that early in the disease, the rt-PCR can often miss the infection altogether - meaning that it’s not very sensitive. So if severe pulmonary disease is suspected, a chest CT can be done to help detect the presence of a viral pneumonia. Next, newer rapid testing methods for COVID 19 can get the results within minutes. One of these is isothermal amplification which also checks for viral RNA. The other is rapid serological testing which checks for the antibodies created by the immune system to fight the virus. Since it’s checking for the antibodies made by the body, it can detect previous infections even after the virus is gone. Finally, it’s also important to look for other causes of similar symptoms; by doing things for example, like a quick flu test or a respiratory viral panel to look for alternative causes of the symptoms.
+
+In terms of treatment, individuals with mild symptoms should isolate themselves at home so they can improve with rest and fluids. For those with severe symptoms, treatment is focused on supportive care such as providing fluids, oxygen, and ventilatory support for really ill people. 
+
+There’s early data showing that remdesivir, an antiviral drug previously used against Ebola, can help shorten the duration of symptoms, though, without significantly improving recovery time. However, a randomized control trial in Hubei did not show statistically significant benefits of remdesivir compared to placebo. Other medications that have been used to try to treat severe COVID-19 include a combination of lopinavir and ritonavir, both of which are antiretroviral drugs, as well as chloroquine or hydroxychloroquine which are usually used to treat malaria, with one trial showing effectiveness of hydroxychloroquine and azithromycin being used together. On March 22nd, the WHO launched a global megatrial to test some of these promising medications. And on May 1st, the US Food and Drug Administration, or FDA, approved the emergency use of remdesivir for those hospitalized with severe disease. However, this does not equal formal approval, which would require a higher level of review. Vaccines are also being developed by countries around the world and it’s estimated that they’ll be available in 2021.  
+
+To recap, 5 months after the start of the COVID 19 pandemic, countries around the world have had varying levels of success in containing the disease.  This is done by flattening the curve and raising the line.  Some countries like China and South Korea have decreased the number of new cases, while in the US, the number continues to rise. A mandated lockdown - at a federal level to enforce social distancing, mass testing, and contact tracing are key components to preventing the spread of the disease, while raising the line can be accomplished by training more frontline healthcare workers, building more hospitals, and providing hospital staff with adequate PPE. Treatments are focused on supportive care, and a number of medications are in clinical trials. There may be a vaccine ready in 2021. For individuals, the best strategy is prevention -- this includes staying isolated, careful hand washing, and avoiding touching your T-zone. If you’re a healthcare worker, you should use personal protective equipment.  
+
+This video is dedicated to the memory of Dr. Li Wenliang who courageously raised the alarm about COVID-19 in the early days of the outbreak.
+
+Author:  Yifan Xiao, MD, Viviana Popa, MD, Antonia Syrnioti, MD, Maria Emfietzoglou, MD
+
+Editor: Rishi Desai, MD, MPH
+Citations:
+
+Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19). Retrieved March 10, 2020, from
+
+https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf
+
+Vital Surveillances: The Epidemiological Characteristics of an Outbreak of 2019 Novel Coronavirus Diseases (COVID-19) — China, 2020. Retrieved March 10, 2020, from
+
+http://weekly.chinacdc.cn/en/article/id/e53946e2-c6c4-41e9-9a9b-fea8db1a8f51
+
+Confirmed 2019-nCoV Cases Globally. (2020). Retrieved from https://www.cdc.gov/coronavirus/2019-ncov/locations-confirmed-cases.html#map
+
+Letko, M., & Munster, V. (2020). Functional assessment of cell entry and receptor usage for lineage B β-coronaviruses, including 2019-nCoV. doi: 10.1101/2020.01.22.915660
+
+WHO. (2020). 
+
+Novel coronavirus (NCoV 2019) Situation report 22. Retrieved from https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200211-sitrep-22-ncov.pdf?sfvrsn=fb6d49b1_2
+
+SARS. (2005, May 3). Retrieved February 11, 2020, from https://www.cdc.gov/sars/about/faq.html#global
+
+Middle East respiratory syndrome coronavirus (MERS-CoV). (2020, January 23). Retrieved February 11, 2020, from https://www.who.int/emergencies/mers-cov/en/
+
+Cost of the Ebola Epidemic Error processing. (2019, March 8). Retrieved February 11, 2020, from https://www.cdc.gov/vhf/ebola/history/2014-2016-outbreak/cost-of-ebola.html?CDC_AA_refVal=https://www.cdc.gov/vhf/ebola/outbreaks/2014-west-africa/cost-of-ebola.html
+
+Song, Z., Xu, Y., Bao, L., Zhang, L., Yu, P., Qu, Y., … Qin, C. (2019). From SARS to MERS, Thrusting Coronaviruses into the Spotlight. Viruses, 11(1), 59. doi: 10.3390/v11010059
+
+Wu, J. T., Leung, K., & Leung, G. M. (2020). Nowcasting and forecasting the potential domestic and international spread of the 2019-nCoV outbreak originating in Wuhan, China: a modelling study. The Lancet. doi: 10.1016/s0140-6736(20)30260-9
+
+Li, Q., Guan, X., Wu, P., Wang, X., Zhou, L., Tong, Y., … Feng, Z. (2020). Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia. New England Journal of Medicine. doi: 10.1056/nejmoa2001316
+
+Guan, W.-J., Ni, Z.-Y., Hu, Y., Liang, W.-H., Ou, C.-Q., He, J.-X., … Zhong, N.-S. (2020). Clinical characteristics of 2019 novel coronavirus infection in China. doi: 10.1101/2020.02.06.20020974
+
+Real-Time RT-PCR Panel for Detection 2019-nCoV. (2020, February 5). Retrieved February 11, 2020, from https://www.cdc.gov/coronavirus/2019-ncov/lab/rt-pcr-detection-instructions.html
+
+Wang, M., Cao, R., Zhang, L. et al. Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro. Cell Res (2020). https://doi.org/10.1038/s41422-020-0282-0
+
+Holshue, M. L., Debolt, C., Lindquist, S., Lofy, K. H., Wiesman, J., Bruce, H., … Pillai, S. K. (2020). First Case of 2019 Novel Coronavirus in the United States. New England Journal of Medicine. doi: 10.1056/nejmoa2001191
+
+Grady, D. (2020, February 6). China Begins Testing an Antiviral Drug in Coronavirus Patients. Retrieved February 11, 2020, from https://www.nytimes.com/2020/02/06/health/coronavirus-treatments.html
+
+Prevention, Treatment of Novel Coronavirus (2019-nCoV). (2020, February 8). Retrieved February 11, 2020, from https://www.cdc.gov/coronavirus/2019-ncov/about/prevention-treatment.html
+
+Temperature and Relative Humidity on Coronavirus Survival on Surfaces. Applied and Environmental Microbiology, 76(9), 2712–2717. doi: 10.1128/aem.02291-09
+
+When and How to Wash Your Hands. (2019, October 3). Retrieved February 11, 2020, from https://www.cdc.gov/handwashing/when-how-handwashing.html
+
+Prevention, Treatment of Novel Coronavirus (2019-nCoV). (2020, February 8). Retrieved February 11, 2020, from https://www.cdc.gov/coronavirus/2019-ncov/about/prevention-treatment.html
+
+Advice on the use of masks the community, during home care and in health care settings in the context of the novel coronavirus (2019-nCoV) outbreak. (2020, January 29). Retrieved February 11, 2020, from https://www.who.int/publications-detail/advice-on-the-use-of-masks-the-community-during-home-care-and-in-health-care-settings-in-the-context-of-the-novel-coronavirus-(2019-ncov)-outbreak
+
+Chen, N., Zhou, M., Dong, X., Qu, J., Gong, F., Han, Y., … Zhang, L. (2020). Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. The Lancet. doi: 10.1016/s0140-6736(20)30211-7
+
+Huang, C., Wang, Y., Li, X., Ren, L., Zhao, J., Hu, Y., … Cao, B. (2020). Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. The Lancet. doi: 10.1016/s0140-6736(20)30183-5
+
+Inadequate plumbing systems likely contributed to SARS transmission (2003, September 26). Retrieved February 11, 2020, from https://www.who.int/mediacentre/news/releases/2003/pr70/en/
+
+Novel coronavirus (NCoV 2019) Situation report 49. Retrieved from 
+
+https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200309-sitrep-49-covid-19.pdf?sfvrsn=70dabe61_2
+
+WHO Director-General's opening remarks at the media briefing on COVID-19 - 9 March 2020. (n.d.). Retrieved March 9, 2020, from https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---9-march-2020
+
+Information for Specific Groups. (2020, March 7). Retrieved March 9, 2020, from https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/index.html
+
+Pandemic Preparedness Resources. (2020, February 15). Retrieved March 9, 2020, from https://www.cdc.gov/coronavirus/2019-ncov/php/pandemic-preparedness-resources.html
+
+What to do if you are sick with coronavirus disease 2019 (COVID-19). Retrieved March 9, 2020, from https://www.cdc.gov/coronavirus/2019-ncov/downloads/sick-with-2019-nCoV-fact-sheet.pdf
+
+Questions and Answers on the COVID-19: OIE - World Organisation for Animal Health. (n.d.). Retrieved March 10, 2020, from https://www.oie.int/en/scientific-expertise/specific-information-and-recommendations/questions-and-answers-on-2019novel-coronavirus/
+
+Tindale, L., Coombe M., Stockdale, J., Garlock, E., Lau W., Saraswat M., … Colijn, C. (2020).  Transmission interval estimates suggest pre-symptomatic spread of COVID-19. medRxiv preprint doi: https://doi.org/10.1101/2020.03.03.20029983
+
+Tapiwa, G., Cécile, K., Dongxuan, C., Andrea, T., Christel, F., Jacco, W., and Niel, H., Estimating the generation interval for COVID-19 based on symptom onset data. medRxiv preprint doi: 
+
+https://doi.org/10.1101/2020.03.05.20031815. 
+
+129001. (2020, April 1). COVID-19 Anosmia Reporting Tool for Clinicians. Retrieved April 1, 2020, from https://www.entnet.org/content/reporting-tool-patients-anosmia-related-covid-19
+
+139939. (2020, March 26). AAO-HNS: Anosmia, Hyposmia, and Dysgeusia Symptoms of Coronavirus Disease. Retrieved April 1, 2020, from https://www.entnet.org/content/aao-hns-anosmia-hyposmia-and-dysgeusia-symptoms-coronavirus-disease
+
+Cohen, J., & Kupferschmidt, K. (2020, March 20). Countries test tactics in 'war' against COVID-19. Retrieved April 1, 2020, from https://science.sciencemag.org/content/367/6484/1287.full
+
+Coronavirus Cases. (n.d.). Retrieved April 1, 2020, from https://www.worldometers.info/coronavirus/coronavirus-cases/
+
+COVID-19: Five Contrasting Public Health Responses to the Epidemic - Blog. (2020, March 17). Retrieved April 1, 2020, from https://www.isglobal.org/en/healthisglobal/-/custom-blog-portlet/covid-19-cinco-respuestas-de-salud-publica-diferentes-ante-la-epidemia/2877257/0
+
+Doremalen, N. V., Bushmaker, T., Morris, D. H., Holbrook, M. G., Gamble, A., Williamson, B. N., … Munster, V. J. (2020). Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1. New England Journal of Medicine. doi: 10.1056/nejmc2004973
+
+Griffiths, J. (2020, January 27). Wuhan coronavirus: Thousands of cases confirmed as China goes into emergency mode. Retrieved April 1, 2020, from https://www.cnn.com/2020/01/26/asia/wuhan-coronavirus-update-intl-hnk/index.html
+
+Hermesauto. (2020, February 4). China shuts down city of Wenzhou, far from virus epicentre. Retrieved April 1, 2020, from https://www.straitstimes.com/asia/east-asia/china-shuts-down-city-of-wenzhou-far-from-virus-epicentre
+
+Hermesauto. (2020, March 3). South Korea launches 'drive-thru' coronavirus testing facilities as demand soars. Retrieved April 1, 2020, from https://www.straitstimes.com/asia/east-asia/south-korea-launches-drive-thru-coronavirus-testing-facilities-as-demand-soars
+
+Hermesauto. (2020, March 17). South Korea dials up coronavirus testing with hospital 'phone booths'. Retrieved April 1, 2020, from https://www.straitstimes.com/asia/east-asia/south-korea-dials-up-coronavirus-testing-with-hospital-phone-booths
+
+Lisa Schnirring | News Editor | CIDRAP News  | Mar 12, 2020. (2020, March 12). ECDC: COVID-19 not containable, set to overwhelm hospitals. Retrieved April 1, 2020, from http://www.cidrap.umn.edu/news-perspective/2020/03/ecdc-covid-19-not-containable-set-overwhelm-hospitals
+
+Ortiz-Ospina, E. (n.d.). Coronavirus Testing – Source Data. Retrieved April 1, 2020, from https://ourworldindata.org/coronavirus-testing-source-data
+
+US Historical Data. (n.d.). Retrieved April 1, 2020, from https://covidtracking.com/data/us-daily/
+
+Wuhan lockdown 'unprecedented', shows commitment to contain virus: WHO representative in China. (2020, January 23). Retrieved April 1, 2020, from https://www.reuters.com/article/us-china-health-who-idUSKBN1ZM1G9
+
+So, P. by W., & 27, A. (2020, April 27). South Korea: coronavirus total test cases 2020. Retrieved April 29 from https://www.statista.com/statistics/1102818/south-korea-covid-19-test-total-number/
+
+Woodward, A. (2020, April 15). 'Between 25% and 50%' of people who get the coronavirus may show no symptoms, Fauci says. Here's the latest research on asymptomatic carriers. Retrieved May 1 from https://www.businessinsider.sg/coronavirus-carriers-transmit-without-symptoms-what-to-know-2020-4
+
+Fisher, M. (2020, April 23). R0, the Messy Metric That May Soon Shape Our Lives, Explained. Retrieved May 1 from https://www.nytimes.com/2020/04/23/world/europe/coronavirus-R0-explainer.html
+
+Coronavirus (COVID-19) Update: FDA Issues Emergency Use Authorization for Potential COVID-19 Treatment. Retrieved May 1 from https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-issues-emergency-use-authorization-potential-covid-19-treatment 
+
+Xu, S., & Li, Y. (2020). Beware of the second wave of COVID-19. The Lancet, 395(10233), 1321-1322. doi: 10.1016/s0140-6736(20)30845-x
+
+1918 Pandemic Influenza: Three Waves. (2018, May 11). Retrieved May 4, 2020, from https://www.cdc.gov/flu/pandemic-resources/1918-commemoration/three-waves.htm 
+
+Screenshots below come from: Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19). Retrieved March 10, 2020, from
+
+https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf

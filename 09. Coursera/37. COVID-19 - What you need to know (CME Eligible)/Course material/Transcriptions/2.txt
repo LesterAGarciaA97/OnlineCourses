@@ -1,0 +1,66 @@
+Nuestro ADN contiene cantidad de información, perfectamente apilada y comprimida espacios increíblemente pequeños que caben
+ dentro del núcleo de una célula. Una sola molécula de ADN tiene 2 cadenas, que se envuelven entre sí formando
+ una doble hélice. Cada cadena individual de ADN 
+está compuesta por una secuencia de 4 tipos 
+de nucleótidos, que son letras individuales o bloques de construcción de ADN. Los nucleótidos del ADN están compuestos un azúcar, desoxirribosa, un fosfato, y una de cuatro nucleobases: adenina, citosina, guanina y timina, o ACGT para abreviar. Los nucleótidos de una hebra
+ o un lado forman enlaces de hidrógeno para unir los nucleótidos complementarios 
+de la otra cadena. Específicamente, A se une con T 
+a través de dos enlaces de hidrógeno, y C se une con G a mediante 3 enlaces. Además, las cadenas de ADN
+ tienen una dirección, lo que significa que uno de ellos
+ va desde la posición 3' inicial hacia 5' final, mientras que la otra lo hace desde la posición 5' inicial hacia
+ la posición 3' al final. Como una especie de dos serpientes 
+enroscadas mirando en direcciones diferentes. Cada proteína de nuestro cuerpo 
+está codificada por combinaciones de solo
+ cuatro nucleótidos. Cuando hay errores la información genética, 
+es cuando ocurren las enfermedades. Y digamos la verdad, estamos 
+interesados siempre en saber lo que hay escrito
+ en nuestro ADN. La reacción en cadena de la polimerasa, 
+o PCR para abreviar, es una técnica utilizada en biología molecular para amplificar
+ un segmento de ADN. Retrocedamos un paso para entender, una sola copia de ADN no es mucho, entonces, para trabajar con ADN, básicamente tenemos muchas copias para que sea más fácil de analizar. Por ejemplo, si queremos verlo , podemos usar una técnica llamada 
+electroforesis en gel. La PCR se basa en la replicación del ADN, un proceso que nuestras células
+usan normalmente para duplicar su material genético antes de dividirse en dos células
+ hijas idénticas. En primer lugar, necesitamos una máquina llamada termociclador, ahí es donde ocurre la magia del PCR. Piensa en ello como un caldero lleno de una solución donde los "magos" 
+en genética echan los ingredientes. El ingrediente es el ADN 
+que queremos multiplicar, una enzima llamada Taq polimerasa, iniciadores específicos 
+para unirse al ADN, y una mezcla de nucleótidos 
+libres, A, T, C y G. Se pone todo en el termociclador, agita su varita mágica, y el proceso comienza. Entonces tenemos una larga molécula de ADN
+ de doble cadena, y estamos interesados en una parte. Estos dos hebras serían las plantilla, el primer paso de la PCR 
+es la desnaturalización, lo que significa que calentamos 
+nuestros ingredientes hasta los 96ºC, casi tan caliente como agua hirviendo. Este calor rompe todo y abre los enlaces entre las dos 
+cadenas de ADN, para que puedan separarse las hebras. El segundo paso se llama alineamiento, aquí necesitamos los iniciadores, para nuestra secuencia resaltada, los iniciadores son como esto: 3'- CGGATAC-5' y 5'-AGGTCAC-3' Durante el alineamiento, enfriamos todo hasta 55ºC, esto permite que los iniciadores se unan a las secuencias complementarias
+ de las cadenas de ADN. El tercer paso se llama extensión, necesitamos que el entorno
+sea lo mejor posible para que la polimerasa Taq 
+haga su trabajo. de hecho, la polimerasa Taq 
+es una enzima genial. La obtenemos de una bacteria
+ llamada Thermus aquaticus que crece en aguas geotérmicas. La polimerasa Taq puede no solo soportar el calor durante
+ la desnaturalización del PCR, sino que funciona mejor alrededor
+ de 72ºC. Entonces, durante la extensión,
+ calentamos todo de nuevo hasta 72º C, enganchamos la polimerasa Taq 
+a los iniciadores, agregamos algunos nucleótidos libres, las nuevas cadenas de ADN se ensamblan. Eso es todo lo que hay que hacer. Un ciclo completo dura 
+aproximadamente 10 minutos. Al final, hemos duplicado la cantidad
+ de ADN porque cada cadena de la plantilla de ADN
+ es ahora una nueva cadena doble. Después, el ciclo continua estos tres pasos un par de docenas de veces 
+después de cada paso, y se obtiene una la cantidad de ADN 
+duplicada en cada ciclo. 2 hebras, luego 4, 8, 16, 32, 64, 128, y así sucesivamente. Entonces, la PCR multiplica el ADN
+ exponencialmente, después de unas 6 horas y 40 ciclos, teóricamente obtendremos 2 elevado a la potencia de 40, o 1,099,511,627,776 copias. Esto es más fácil de recordar como una gran cantidad de ADN
+ que podemos analizar más a fondo. Hay muchas variantes del proceso de PCR, vamos a hablar de uno que se ha usado recientemente para diagnosticar
+ infecciones víricas. Específicamente, si quisieras diagnosticar a alguien con COVID-19. Para eso, recogerías una muestra faríngeo nasal, que consiste en coger un hisopo largo con un extremo blando, y girarlo dentro de una de las fosas
+ nasales para obtener suficiente secreción
+ para analizar. Obtener una buena muestra es crucial, así que asegúrese de hacerlo bien. Si no se encuentra el virus en el hisopo, la PCR no podrá detectarlo. Para diagnosticar COVID-19, 
+lo que se busca es un virus llamado síndrome respiratorio agudo severo, Coronavirus 2 o SARS-CoV-2. Ahora, el SARS-CoV-2 es un virus de ARN , no ADN. Entonces para detectarlo, se necesita un tipo específico de PCR llamado transcriptasa inversa PCR
+ o RT-PCR para abreviar. Esta técnica es un algo diferente, comienza con ARN en lugar de ADN. Si recuerdas, una diferencia entre ARN y ADN es que el ARN no tiene timina, sino uracilo. Sin embargo, el ARN es complementario
+ al ADN, por tanto, si una cadena de ARN
+ tiene una secuencia de nucleótidos 3'-AAG UCC AGU-5', entonces el ADN complementario o cadena de ADNc complementaria sería 5'-TTC AGG TCA-3'. Para realizar RT-PCR, algunas 
+de las muestras de la torunda faríngea nasal 
+se agrega a una solución que contiene una enzima llamada 
+transcriptasa inversa, nucleótidos e iniciadores 
+son complementarios a la secuencia objetivo específica
+ de SARS-CoV-2. Si el ARN viral está presente, el iniciador se une a la cadena de ARN
+ y luego la transcriptasa inversa sintetiza 
+una cadena de ADNc. Una vez que tenemos el ADNc, los pasos de RT-PCR son prácticamente
+ los mismos del PCR. La polimerasa Taq se usa para amplificar el ADNc a través de la desnaturalización, alineación y extension. Después de varias ciclos , si había SARS-CoV-2 ARN en la muestra original, se amplificará el ADN de esa muestra y se podrá detectar. Como resumen rápido, la reacción
+ en cadena de la polimerasa es una técnica utilizada para multiplicar masivamente el ADN y que pueda ser analizado usando
+ otras técnicas. Se necesita un termociclador con la muestra de ADN a multiplicar, polimerasa Taq termoestable, iniciadores con los que seleccionamos
+ lo que vamos a multiplicar, y nucleótidos libres de los cuatro tipos,
+ A, T, C y G. El primer paso es la desnaturalización, después alineación, y finalmente extension. La PCR duplica en cada ciclo
+ la cantidad de ADN estamos interesados en examinar.

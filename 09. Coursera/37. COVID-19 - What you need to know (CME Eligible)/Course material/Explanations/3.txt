@@ -1,0 +1,46 @@
+Quiz Explanations: Imaging Features of COVID-19
+
+#1 In China, what was found to be the sensitivity of RT-PCR early on in the disease process?
+
+    Below 30%
+    30-70%
+    70-95%
+    Above 95%
+
+Explanation: In studies done on the COVID-19 outbreak in China, the sensitivity of RT-PCR done early in the disease process was between 30 and 70%. Currently WHO and CDC guidelines recommend testing for other causes of respiratory illness, and if the chances of COVID-19 remain high, to consider retesting using RT-PCR from multiple respiratory sites or at a later time.
+
+#2 In China, what was found to be the sensitivity of Chest CT early on in the disease process?
+
+    Below 30%
+    30-70%
+    70-95%
+    Above 95%
+
+Explanation: In studies done on the COVID-19 outbreak in China, the sensitivity of chest CT done early in the disease process was above 95%.
+
+#3 What are some chest CT findings that are typically seen in patients with COVID-19?
+
+    Ground glass opacities
+    Consolidations
+    Crazy paving
+    All of the above
+
+Explanation: Three key chest CT findings typically seen in patients with COVID-19 are ground glass opacities, consolidations, and crazy paving.
+
+#4 Which of the following is usually the earliest sign of COVID-19 disease on chest CT?
+
+    Ground glass opacities
+    Consolidations
+    Crazy paving
+    Hilar adenopathy
+
+Explanation: The earliest chest CT finding that's usually seen in patients with COVID-19 is ground glass opacities.
+
+#5 What are some chest CT findings that are typically absent in patients with COVID-19?
+
+    Pleural effusions
+    Hilar adenopathy
+    Lung cavities
+    All of the above
+
+Explanation: Three key chest CT findings that are typically absent in patients with COVID-19 are pleural effusions, hilar adenopathy, and lung cavities.

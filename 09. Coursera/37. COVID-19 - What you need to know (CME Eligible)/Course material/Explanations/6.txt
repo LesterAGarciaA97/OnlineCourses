@@ -1,0 +1,82 @@
+Final Quiz Explanations
+
+#1 Which of the following are the most classic symptoms of COVID-19?
+
+    Fever, headache, and neck stiffness
+    Fever, cough, and shortness of breath
+    Fatigue, nausea, and vomiting
+    Fatigue, headache, and diarrhea
+
+Explanation: Fever, cough, and shortness of breath are the three most classic symptoms of COVID-19.
+
+#2 Which of the following is a major cause of death among patients with COVID-19?
+
+    Acute respiratory distress syndrome
+    Renal Failure
+    Hepatic encephalopathy
+    Brain herniation
+
+Explanation: Acute respiratory distress syndrome and septic shock are the major causes of death among patients with COVID-19.
+
+#3 Which of the following individuals is most likely to have the highest mortality risk from COVID-19?
+
+    8 year old boy with a peanut allergy
+    23 year old man with chronic migraines
+    43 year old woman with gout
+    82 year old woman with congestive heart failure
+
+Explanation: Individuals over age 60 years old as well as those with comorbid conditions like cardiovascular disease are at the highest risk of mortality from COVID-19. The 82 year old woman meets both of these criteria and therefore has the highest mortality risk.
+
+#4 What is the median incubation time of COVID-19?
+
+    1 day
+    5 days
+    10 days
+    14 days
+
+Explanation: The median incubation time of COVID-19 is 5 days.
+
+#5 Which of the following can play a role in how coronaviruses get transmitted?
+
+    Coughing
+    Contaminated surfaces
+    Sneezing
+    All of the above
+
+Explanation: Coronaviruses can get transmitted by coughing or sneezing as well as by someone touching contaminated surfaces.
+
+#6 How is a diagnosis of COVID-19 most commonly confirmed?
+
+    RT-PCR Testing
+    Chest CT scan
+    Viral culture testing
+    Bacterial culture testing
+
+Explanation: A diagnosis of COVID-19 is most commonly confirmed using RT-PCR testing.
+
+#7 As of April 2020, when is a COVID-19 vaccine expected to be widely available to the general public?
+
+    Later in the year 2020
+    In the year 2021
+    In the year 2022
+    In the year 2023
+
+Explanation: A COVID-19 vaccine is expected to be available in 2021.
+
+#8 Which of the following explains why early in the disease RT-PCR can be negative even in patients that really do have COVID-19?
+
+    The test has a high sensitivity
+    The test has a high sensitivity
+    The test has a low sensitivity
+    The test has a low specificity
+
+Explanation: RT-PCR has a low sensitivity early on in the disease, which is why the test can be negative even in patients that really do have COVID-19. Currently WHO and CDC guidelines recommend testing for other causes of respiratory illness, and if the chances of COVID-19 remain high, to consider retesting using RT-PCR from multiple respiratory sites or at a later time.
+
+#9 Which of the following are CDC-recommended ways for healthy individuals to avoid getting COVID-19?
+
+    Staying 3 feet or 1 meter away from people with symptoms
+    Wearing a surgical mask when you're in public
+    Washing your hands with soap and water
+    Touching your eyes, but not touching your nose or mouth
+
+Explanation: To prevent getting COVID-19, the CDC recommends individuals wash their hands with soap and water, stay at least 6 feet or 2 meters (not 3 feet or 1 meter) away from people with symptoms, and refrain from touching their eyes, nose, or mouth. The CDC does not recommend that healthy individuals wear a surgical mask, which are intended for health care workers. The CDC recently recommended individuals wear a cloth face covering when in public.
