@@ -43,3 +43,5 @@
 ### Folder 41 -----> AWS Fundamentals
 ### Folder 42 -----> Object oriented programming in Java
 ### Folder 43 -----> Open source software development, Linux and Git
+### Folder 44 -----> Programming with Cloud IoT platforms
+### Folder 45 -----> Develop and deploy Windows applications on Google Cloud Platform
