@@ -1,0 +1,112 @@
+What exactly is Google Cloud Platform? How is it organized, and
+what makes it unique? In this module,
+we'll orient you to the basics. >> Hi, I'm Nigel Armstrong,
+presenting on behalf of Google. In this module, we'll introduce
+Google Cloud, with a particular focus on how the platform is an excellent
+place to render your Windows workloads. Google has a huge expertise
+in running software at scale. You'll be familiar with Google Search,
+Maps, Gmail, and G Suite, YouTube, Photos. These and many more applications
+are part of everyone's day-to-day life through the Google Chrome browser and
+Android cell phone. And now Google has shared its high
+quality infrastructure with the rest of us with Google Cloud Platform. You'll be able to provision your virtual
+machines in Google's datacenters, and connect them over Google's
+private global fiber network. Google Cloud Platform is a great place for people who rely on Microsoft Server
+operating systems and applications. You'll see how you can provision Google
+Compute Engine virtual machines with Microsoft's Windows Server and SQL Server,
+and when web applications went for the .NET platform on
+Internet Information Services. The concept of cloud computing
+began with colocation. Instead of operating your own datacenter, you rented space in
+the colocation facility. This was the first wave of outsourcing. With colocation,
+the transfer of ownership was minimal. You still owned the machines and
+you maintained them. Traditionally, colocation is not
+thought of as cloud computing, but to begin the process of transferring IT
+infrastructure out of your organization. Today, cloud computing involves
+virtualized datacenters, virtual machines and APIs. Virtualization provides elasticity. You automate infrastructure procurement
+instead of purchasing hardware. With virtualization,
+you still maintain the infrastructure. It's still a user controlled,
+user configured environment. This is the same as
+an on-premises datacenter. But now the hardware is
+in a different location. Virtualization does provide
+a number of benefits. The development teams can be faster. And you can turn capital
+expenses into operating expenses. The next wave of cloud computing is
+a fully automated elastic cloud. This involves a move from user maintained
+infrastructure to automated services. In a fully automated environment, developers do not think
+about individual machines. The service automatically provisions and configures the infrastructure
+used to run your applications. Google's uniquely positioned to propel
+organizations into the next wave of cloud computing. Google's first product on Cloud Platform,
+App Engine, showed in 2008 that anyone
+could develop and deploy, scalable, highly available web
+applications without provisioning service. And many key GCP products today are low or
+no operations. In Google Cloud Platform,
+all resources are organized by projects that provide a container for
+all the products on the platform. You'll provision resources
+within a project. And the project serves as
+an important identifier for billing of management of users in groups. Resources within a project are either
+global, regional, or zonal. Regions are independent geographic
+areas that consist of zones. Locations within regions tend to
+have round-trip network latencies of under five milliseconds. A zone is a deployment area for
+Cloud Platform resources within a region. It might help to think of this zone as
+being similar to a logical datacenter with independent power network. And so zones should be considered
+a single failure domain within a region. In order to deploy fault tolerant
+applications with high availability, you should deploy your applications
+across multiple zones in a region to help protect against unexpected failures. To protect against the loss of an entire
+region due to natural disaster, you should have a disaster recovery plan. And know how to bring up your application
+in the unlikely events that your primary region is lost. The Cloud Platform services and
+resources can also be zonal, regional or managed by Google across multiple regions. Zonal resources operate
+within a single zone. If a zone becomes unavailable, all of the zonal resources in that zone
+are unavailable until service is restored. An example of a zonal resource is
+a Google Compute Engine instance that resides within a specific zone. Regional resources are deployed
+with redundancy within a region. This gives them higher availability
+relative to zonal resources. An example of a regional resource
+would be a regional bucket for storing data in Google Cloud Storage. A few Cloud Platform services are managed
+by Google to be redundant and distributed within undercrossed regions. For example,
+buckets in the United States location for Google Cloud Storage keep data at
+REST inside of the United States. But at REST state can be stored in or move to any cloud storage region
+within the United States. Google Cloud Platform includes a wide
+variety of products, services, and APIs to enable you to build your applications, and
+these are organized into product families. The Compute family includes
+an Infrastructure as a Service product, Compute Engine, a Platform as
+a Service product, App Engine, and a hybrid product, Container Engine. Many Google Cloud Platform storage
+products operate at petabyte scale including Bigtable, and
+NoSQL key-value datastore. Cloud Storage for storing blob data, and Cloud Spanner are horizontally scalable
+SQL database with ACID transactions. Google's Big Data products
+include BigQuery, which enables high performance
+analytics at petabyte scale, Dataflow to run pipelines for
+batch and real time transformation. And Pub/Sub to support your application
+messaging requirements, all with NoOps. Finally, Google's machine learning
+expertise is available via Cloud ML Engine to train your own machine learning models
+and host the train models from line or batch prediction together with best
+of breed APIs for analyzing images, text, audio and video. From the perspective of
+managing Windows workloads, each of the Google Cloud Platform products
+is available via REST API with client libraries. In addition, you'll be able to run your applications
+on Google's Compute family products. With Compute Engine
+offering Windows Server, you'll have support for
+any Windows application. For Container and App Engine, you'll be able to run Microsoft's new
+.NET Core environment on Google service. As you'll see in the demo
+at the end of this module, it's straightforward to access
+Google Cloud Platform using a web browser, and there are two primary techniques. First, the Cloud Console is
+an easy to use web application where you can select a product
+using the Products and Services menu, then configure
+a server using just a few clicks. Alternatively, there's a set of
+tools available via CloudShell, a command prompt accessible
+from your web browser. You can also install the Google Cloud SDK
+locally to run scripts from your own machine as well. Of particular interest to all of us
+who are Windows systems operations professionals is a comprehensive
+support for PowerShell for managing Google Cloud Platform, including
+cmdlets to manage virtual machines and a file system provider for
+Google Cloud Storage. We mentioned previously that
+on Google Cloud Platform, you'll always create projects
+to manage resources. For Google Cloud Platform
+enterprise customers, there's an additional container, the
+organization, which is created when you signed up with Google
+as a G Suite customer. Each developer or
+systems operations professional will have a login to access
+Google Cloud Platform resources. There are number of distinct options for
+customers with active direction, including having separate
+G Suites accounts, synchronized user names from Active
+Directory by Google Cloud Directory Sync, passwords with Google Cloud Password Sync,
+or single sign-on from Azure to G Suite. Once your users are all set up, then
+they log in to access project resources. There's a flexible identity and
+access management system that will enable you to configure
+role membership for groups of users to enable them to have just the access
+levels that they need to do their work.

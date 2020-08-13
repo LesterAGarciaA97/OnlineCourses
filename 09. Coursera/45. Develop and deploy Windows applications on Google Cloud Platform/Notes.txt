@@ -1,0 +1,40 @@
+Excellent place to run Windows workloads
+
+1. Colocation
+2. Virtualized datacenters
+3. Fully automated
+
+Develop teams can be faster
+Operating expenses only
+
+GCP resources are organized in projects
+
+Resources can be global, regional, or zonal
+
+Multiple regions
+
+Products and services can run application at cloud
+
+Can be accesed from:
+
+* Web Console
+* SDK
+* PowerShell or Bash
+* REST API
+* Client libraries
+
+-------------------------------------------------------------------------
+
+Creating Windows VMs on GCP
+
+Crate a project
+Add a Project name (Windows Workloads Demo)
+Create
+Compute Engine = Infrastructure as a service product
+Create a VM instance
+Give a name
+Use a boot disk (Windows Server 2016)
+RDP (Recommendes use Google Chrome)
+
+-------------------------------------------------------------------------
+

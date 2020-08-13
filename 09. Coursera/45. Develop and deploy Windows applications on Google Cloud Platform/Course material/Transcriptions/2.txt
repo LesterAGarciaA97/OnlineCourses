@@ -1,0 +1,49 @@
+Now let's do a lab activity. We'll show how easy it is to start and use your first Windows Virtual Machine
+in Google Cloud platform. >> In this demo, we'll create a new
+project on Google Cloud platform, provision a Windows Virtual Machine and Google Compute Engine then access
+using Remote Desktop protocol. You can see that I've already
+logged in to Google Cloud platform using my Google account. I'm looking at the Cloud Console. This is a simple and easy to use
+browser based user interface for accessing Google Cloud platform
+resources such as virtual machines. On GCP, all resources must
+be created in a project. The project serves as a container for
+billing and security purposes. So first, I'll create a project by
+clicking on the Create Project button. Now I'm looking at the new project form. I'll just enter a project name. For this demo I'll name the project
+Windows Workloads Demo. You should see that a project ID has been
+created based on my project name, but with lowercase letters and dashes
+replacing uppercase letters and spaces. Next I'll click Create, and
+the project will be created. I'll pause the video for
+a few seconds while the project spins up. Okay, we're back. Now our project is up and running,
+it's time to take a look around. I'll select the project and then navigate to the project's home page
+using the products and services menu. This provides a convenient location to look up all the resources you're
+working with inside your project. The products and services menu provides
+an easy to use and convenient interface that lets you access all of the products
+and services on the platform. Notice how they're organized into
+product families, so we have Compute, Storage, Stack Driver, Tools,
+Big Data, and Machine Learning. As this demo is focused
+on Windows workloads, we're going to provision
+a Windows Virtual Machine. In order to do this,
+we'll make use of Google Compute Engine. On GCP, Compute Engine is the
+infrastructure as a service product that allows us to provision virtual machines
+with a wide variety of configurations. So, I'll select Compute Engine, and you can see that the Compute Engine API
+is just getting ready. This will take a few seconds, and
+I'll pause the video while this happens. Okay, we're back again. Now I can create a virtual machine. In the console, I do this by
+clicking on the Create button. Now we're looking at
+the create an instance form. There are lots of options to configure. But for now, I'll just modify
+one to change the boot disk to make use of
+a Windows Server 2016 image. I'll select the image then scroll
+to the bottom of the form, click Create, and we're done. In just a few seconds our
+virtual machine will be ready. I'll pause the video while we do this. Okay, now the VM is ready. To access Windows Virtual Machines
+on Compute Engine, we'll need to perform a couple
+of simple operational tasks. First we need to set a password,
+which we can do by clicking on the menu, and then selecting create or
+reset Windows password. On this form we'll hit the Set button and
+then our password will be displayed. We'll need to keep a safe
+record of this for our own use. I paused the video just before
+the password was displayed, and copied it to my clipboard. Now I can use it to RDP into the machine. And to do this, I'm going to
+make use of a Chrome extension. You can also use any other RDP client. So click on RDP. You'll notice that the Chrome
+extension is loading. Simply enter the password, click on OK. We'll have to just click Continue because
+the certificate hasn't been registered onto my local machine. And we'll be in. You can see that it's a completely
+standard Windows user interface. I can store whatever software
+I like onto this machine. That completes this demo. We've created a Google Cloud platform
+project, enabled the Compute Engine API, provisioned a Windows Virtual Machine,
+then connected to it using RDP.
