@@ -1,0 +1,21 @@
+[MÚSICA] Con las opciones del grupo Fuente
+podemos aplicar los formatos básicos de carácter como tipo de letra,
+el tamaño o color. Vamos a ver algunos ejemplos. Seleccionamos para las
+pruebas los títulos, podemos seleccionar tanto
+texto como números. Y en el grupo Fuente encontraremos el
+botón para modificar el tipo de letra, el tamaño, los dos botones para
+aumentar o disminuir tamaño, los tres botones de estilo,
+negrita, subrayado y cursiva, el subrayado pues ponéis
+de dos posibilidades, subrayado normal o doble,
+y el color de la letra. Podemos pintar la letra o los caracteres
+en realidad de las celdas seleccionadas. Dejamos los botones de bordes y
+sombreado para verlos más adelante. Estos serían los formatos más básicos que
+podemos aplicar a un texto o a un número. Disponemos como siempre del
+botón de cuadro de diálogo, que nos puede dar más posibilidades. Fijaos que en realidad en este caso, casi no hay opciones que no
+aparezcan en los botones. En realidad solo tenemos los efectos,
+tachado superíndice y subíndice, y un par más de subrayados,
+subrayados de contabilidad. Lo demás todo está disponible
+en los botones del grupo Fuente. No siempre hace falta entrar
+en este cuadro de diálogo, pero recordad que siempre que hagamos
+clic en un botón de cuadro de diálogo, nos mostrará todas las
+opciones reales de ese grupo. [AUDIO_EN_BLANCO]

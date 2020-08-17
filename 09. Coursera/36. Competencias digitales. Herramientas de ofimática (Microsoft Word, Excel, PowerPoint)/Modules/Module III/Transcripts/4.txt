@@ -1,0 +1,50 @@
+[MÚSICA] Como en cualquier aplicación, es muy importante seleccionar correctamente
+antes de dar cualquier orden. Excel tiene sus técnicas de selección,
+y es lo que vamos a ver a continuación. Para ello,
+vamos a abrir un documento que tenga datos para que sea más fácil de verlo. Puedo seleccionar
+cualquier grupo de celdas arrastrando el ratón,
+como seleccionaríamos un texto en el web. Me coloco dentro de la primera celda
+que quiero seleccionar y arrastrando selecciono todas las
+que quiera seleccionar, mucho cuidado de comenzar por dentro
+de una celda, no por alrededor. Fijaos como si me pongo
+dentro de la celda, el cursor tiene forma de una cruz blanca,
+en cambio, si me pongo por encima del borde de la celda me aparece
+una flecha de cuatro puntas. Me está diciendo que si arrastrara ahora, lo que haría no es
+seleccionar sino desplazar. Fijaos cómo habría desplazado esa celda. Por lo tanto,
+mucho cuidado a la hora de seleccionar, de empezar por dentro de la primera celda. A parte de seleccionar
+una o varias celdas, puedo seleccionar toda una fila o toda
+una columna simplemente haciendo clic en la etiqueta correspondiente,
+tanto de columnas como de filas. Si quiero más de una fila o
+más de una columna, arrastro. Me coloco dentro, igual que en las celdas,
+de la que quiero, la primera que quiero seleccionar,
+y arrastrando selecciono tantas columnas o filas como desee seleccionar. Si quiero seleccionar toda la hoja, simplemente hacer clic en la
+intersección de columnas y filas, en esta casilla que encontramos aquí,
+y tenemos toda la hoja seleccionada. Para seleccionar un trozo bastante grande, podemos seleccionarlo haciendo clic en
+la primera que queramos seleccionar, buscar la última, nos desplazamos,
+y cuando encontremos la última que queramos seleccionar, hacemos clic pero
+con la tecla de Mayúsculas presionada. De esta manera selecciono un trozo largo,
+no intentéis hacerlo arrastrando porque se embalará y costará de encontrar
+exactamente dónde quiero parar. Mucho mejor, clic en la primera celda y
+buscarla con la barra de desplazamientos, tranquilamente, y Mayúsculas
+y clic en la última. Si las celdas que quiero
+seleccionar no son consecutivas, puedo utilizar la tecla Control,
+por ejemplo, selecciono estos DNIs, y quiero
+seleccionar también su sueldo bruto, pero no quiero coger el departamento. Entonces, una vez seleccionados los DNIs,
+presiono la tecla Control, y selecciono los sueldos. Al tener presionada la tecla Control, le
+estoy diciendo que no pierda la selección. De esta manera, con la tecla Control
+presionada, puedo seleccionar los datos que quiera sin necesidad
+de que sean correlativos. Cuando tenemos muchos datos
+o muchas tablas en una hoja de cálculo,
+es muy incómodo buscar determinados datos. Para ello, va muy bien dar nombre a las
+diferentes zonas de la hoja, por ejemplo, en esta parte inferior de la tabla,
+tenemos datos del departamento de física, si yo selecciono estos datos le
+puedo asignar un nombre a esta zona. Para ello, utilizo el Cuadro de nombres. Tengo aquí el Cuadro de nombres,
+lo despliego, y le doy al nombre, por ejemplo en este caso, física. Intro. you hemos nombrado a esta zona. Así podemos ir nombrando
+diferentes zonas de la hoja. De esta manera, en cualquier momento,
+esté donde esté, si yo tengo la necesidad de ir
+a buscar los datos de física, por ejemplo, simplemente me voy al
+Cuadro de nombres, lo despliego, y aquí me aparecerán los nombres de todas
+las zonas que yo he ido definiendo. Hago clic en física, y automáticamente se
+dirige a la zona donde están estos datos. Dicho antes, muy útil cuando tengáis tablas
+diferentes dentro de una misma hoja, o muchos datos y queréis seguir a puntos
+concretos sin necesidad de buscarlos. [AUDIO_EN_BLANCO]

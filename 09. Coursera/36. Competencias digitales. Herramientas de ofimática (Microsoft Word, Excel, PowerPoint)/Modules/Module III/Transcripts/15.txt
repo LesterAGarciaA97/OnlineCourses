@@ -1,0 +1,45 @@
+[MÚSICA] Con lo botones de Bordes y Color de relleno podremos indicar dónde y
+cómo queremos que aparezcan líneas alrededor de las
+celdas y cómo pintarlas. Aunque veamos estas líneas en la hoja,
+a la hora de imprimir no aparecerían. Si pedimos la vista preliminar, veremos
+cómo imprime los datos pero no las líneas. Estas líneas están solo para que
+nosotros veamos dónde están las celdas. Si queremos líneas,
+si queremos cuadricular esta tabla, tenemos que indicar dónde y
+cómo queremos las líneas. Seleccionamos la tabla o parte de
+la tabla, según me interese, y con el botón de Bordes podemos indicar
+dónde queremos que nos ponga una línea. Solo en la parte inferior, solo en la
+parte superior, izquierda, derecha. Podemos quitar las líneas si las
+habíamos puesto en todas partes, tanto por dentro como por fuera,
+bordes externos, que significa que solo enmarcaría, pondría una línea alrededor
+de la selección, no por dentro. Diferentes tipos de bordes, doble, grueso. Podemos incluso dibujar los bordes. Pero lo ideal sería
+utilizar la última opción. Si yo quiero simplemente líneas normales,
+pediré todos los bordes. Selecciono esta opción y you fijaos nos ha puesto una línea alrededor
+de cada una de las celdas. Si yo quiero cualquier otra cosa,
+mejor en este botón de Bordes ir a la última opción Más bordes y aquí
+especificar exactamente lo que queremos. Empezamos por el principio,
+primero qué tipo de línea quiero. Aquí más gruesa, con guiones, con puntos, doble,
+busco el formato que me interese. Podemos especificar si quiero poner
+las líneas alrededor de la selección o por dentro o eliminarlas, con ninguno. Podemos indicar también el color que
+queremos aplicar a estas líneas. Una vez elegido,
+indicad dónde queréis las líneas. Que solo quiero hacer el
+cambio en la parte superior, clic en este botón el de Línea superior,
+solo cambia este. Tenemos un botón para cada tipo de línea. Podría ir clicando cada uno de
+estos botones para poner o quitar o si lo quiero para
+todas elegiría contorno, la pondría alrededor e interior
+para que me las ponga por dentro. Lo más rápido sería si
+quiero en todas partes ir directamente a los
+botones Contorno e Interior. Si no,
+ir eligiendo cualquiera de estos botones para ir indicando dónde
+queremos o no líneas. Incluso tenéis la posibilidad de
+poner la línea diagonal interior. Aceptamos. you las tenemos enmarcadas
+y con un color específico. Y encima las hemos pedido dobles. Después para algún trozo más concreto,
+por ejemplo, los títulos quiero cambiarlo,
+selecciono estas celdas, vuelvo al botón de Bordes, pido Más
+bordes y modifico lo que crea oportuno. Por ejemplo, el color. Fijaos que al cambiar el
+color no ha cambiado nada. Hasta que no hagamos clic en los
+diferentes botones de contorno interior o de cada una de las líneas,
+no realizará el cambio. Si hacemos clic a estos botones
+vemos cómo va a cambiar. Lo mismo para el fondo. Elijo la celda o celdas,
+botón de Color de fondo y elijo el color. Si no es ninguno de estos,
+puedo eliminar el relleno elegido o en Más colores especificar
+exactamente qué color quiero.

@@ -1,0 +1,38 @@
+[MÚSICA] Para ordenar los datos de la tabla
+disponemos del botón ordenar y filtrar. Desplegando este botón, encontraremos las
+dos primeras órdenes, ordenar de la A a la Z y ordenar de la Z a la A para ordenar
+ascendentemente o descendentemente. Primero antes de pedir
+cualquiera de estas opciones, haremos un clic dentro de la columna
+por la cual queremos ordenar. Por ejemplo, si queremos ordenar por
+ciudad hacemos clic en cualquier celda de esta columna, vamos al botón
+ordenar y pedimos por ejemplo en orden ascendente de la A a la Z,
+y ordenará todos los registros, todas las líneas por orden alfabético. [SONIDO] Tenemos el orden ascendente o
+el orden descendente. También tenemos una tercera opción,
+orden personalizado, que es la que utilizaremos
+para ordenar no por un campo, sino por varios campos para
+especificar alguna opción más. Si pedimos esta opción, siempre antes de pedirla comprobad
+que estáis dentro de la tabla. Al momento que estamos dentro de
+la tabla automáticamente al pedir la opción de ordenar, Excel lo que
+hace es seleccionar toda la tabla. Pedimos ordenar personalizado. Y aquí nos pedirá que
+especifiquemos exactamente por qué campos queremos ordenar. Tenemos una primera opción,
+un primer nivel donde podemos indicar por ejemplo que
+nos ordene los datos por departamento. Siempre nos aparecerán las
+cabeceras de las columnas siempre y cuando esté activada esta
+opción de mis datos tienen encabezados y tengamos, lógicamente,
+una primera línea con los títulos. Comprobadlo esto porque
+muchas veces no reconoce esa primera línea y aquí nos aparecería
+en lugar del nombre de los campos simplemente columna uno,
+columna dos, columna tres. Mejor si tenemos una fila de
+títulos y activamos esta opción. Después podéis indicar el orden
+si es ascendente o descendente. Si yo quiero ordenar por departamento pero
+todos los profesores de cada departamento ordenados por apellidos,
+entonces tenemos que agregar un nivel en este primer botón agregar nivel, me aparece una segunda línea luego por,
+donde indicaré el segundo criterio, que solo se cumplirá cuando haya
+repetición en el primer criterio. Este caso pedimos apellidos,
+lo dejamos ascendente y aceptamos. you le hemos pedido que nos
+ordene por departamentos y en caso de repetición,
+como es el caso de estas líneas, todos los profesores de ese
+departamento ordenados por el apellido. Por lo tanto, si queréis ordenar simplemente
+por una columna directamente ordenar de la A a la Z o de
+la Z a la A y es más rápido. Y si queremos dar más opciones,
+orden personalizado.

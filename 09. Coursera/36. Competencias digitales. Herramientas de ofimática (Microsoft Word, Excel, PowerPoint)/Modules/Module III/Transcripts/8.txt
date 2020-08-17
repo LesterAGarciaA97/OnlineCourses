@@ -1,0 +1,61 @@
+[MÚSICA] En una hoja de cálculo podemos
+tener muchos datos, por eso es necesario una herramienta
+para buscar un dato concreto. Para eso tenemos en la ficha
+Inicio el botón de Buscar. Aquí al final, en el grupo Modificar,
+encontraremos Buscar y Seleccionar, desplegamos el botón y la primera opción,
+Buscar, es la que nos interesa. La pedimos, nos aparece el
+cuadro de diálogo de Buscar, y escribimos aquello, o parte de aquello
+que queremos buscar, por ejemplo, queremos ver los registros de
+los profesores de Sabadell. Escribimos el criterio, o parte del
+criterio y clicamos el botón Buscar Todos. Nos muestra directamente el primer
+registro que cumple esa condición, pero en la parte inferior del cuadro
+de diálogo nos muestra todas las celdas donde se cumple este criterio. Podemos dirigirnos directamente
+a esa celda simplemente con un clic en este listado,
+podemos ir comprobando todos estos datos. Por encima de esta lista
+tenemos las opciones, si no son visibles simplemente hacéis clic
+al botón Opciones, y you os aparecerán, y aquí podemos modificar algunas
+características de la búsqueda. Por ejemplo, podremos indicar que
+busque solo en la hoja activa o en todo el libro, es decir,
+en todas las hojas del documento, o podemos indicarle que la búsqueda la
+haga solo, en el caso de cálculos, en la fórmula escrita o en los valores,
+en el resultado de esa fórmula. También podemos obligar a que haya
+coincidencia entre mayúsculas y minúsculas, tal como he puesto Sabadell
+en minúsculas, si en el libro está puesto con la S mayúscula y esta opción
+está activada, no nos lo encontraría. También podemos indicarle que coincida con el contenido de toda la celda, es
+decir, que no sea solo una parte del texto de esa celda sino que sea exactamente
+igual que lo que hemos escrito. Por último, también podemos
+indicar que la búsqueda la haga comprobando que el formato coincida
+con lo que le pidamos, por ejemplo, en el caso de que busquemos un valor,
+por ejemplo, buscamos 100,
+podemos indicar con el botón Formato que este valor sea de moneda,
+es decir, que sea euros. Si es un número normal,
+sin formato de moneda, no lo encontrará, solo encontrará, solo mostrará
+aquellas celdas que contengan este número pero con el formato de moneda,
+y concretamente, con el formato de euros. Probamos a ver si aparece alguno,
+Buscar Todos, no hay ninguna celda que contenga un 100
+y en formato de euros. Aceptamos el mensaje, y you hemos visto todas las opciones que nos ofrece
+este cuadro de diálogo de Búsqueda. En este mismo cuadro de diálogo
+encontramos la pestaña Reemplazar, que es la que utilizaremos no para buscar
+sino para sustituir un valor por otro. Activamos la pestaña, fijaos que es
+prácticamente lo mismo que la de Buscar, la única diferencia es que nos
+añade el campo de Reemplazar, es decir, donde pondremos el valor
+por el cual queremos reemplazar. Fijaos que todavía tenemos el
+formato que acabamos de pedir. Si queréis eliminar ese formato volvéis
+al botón Formato y tenéis la opción Borrar Formato de Búsqueda, y a partir
+de ahora you no mirará los formatos, y aquí, por ejemplo,
+vamos a pedirle que busque Sabadell y que ponga,
+en lugar de Sabadell, Castellar. Las opciones son las mismas,
+podríamos, si estamos seguros, ir directo a Reemplazar Todos y
+hará todas las sustituciones, pero lo ideal sería primero
+hacer clic en Buscar Todos para que nos muestre la lista,
+por si queremos hacer alguna comprobación. Si you estamos seguros, Reemplazar Todos
+o Reemplazar para ir uno a uno. En este caso vamos a pedir
+Reemplazar Todos y you está, you nos avisa que you ha hecho la sustitución y cuántas
+sustituciones ha hecho en la hoja. Aceptamos y you podemos
+cerrar el cuadro de diálogo, you nos ha sustituido todas
+las celdas que contenían la ciudad de Sabadell, las ha
+sustituido por la ciudad de Castellar. Fijaos que como no he puesto en mayúscula
+la primera letra tampoco él la ha puesto, tenemos que ir con cuidado
+de escribir correctamente. Esta opción de Reemplazar la tenéis
+igualmente en el mismo botón, Buscar, Reemplazar nos activan el mismo mensaje,
+diferente pestaña pero mismo mensaje. [AUDIO EN BLANCO]

@@ -1,0 +1,60 @@
+[MÚSICA] Con las opciones del grupo Alineación
+podremos indicar la alineación vertical y horizontal,
+así como la orientación y algunas opciones más específicas. Ahora tenemos los títulos seleccionados. Podemos aplicar la alineación
+horizontal con estos tres botones de manera que alinearemos
+el texto a la izquierda, al centro o a la derecha para cada
+una de las celdas seleccionadas. [AUDIO_EN_BLANCO] Con la alineación
+vertical haremos lo mismo. Podremos alinear en la parte superior,
+en el centro o abajo. Fijaros que no hemos notado ninguna
+diferencia simplemente porque la altura de la línea está adaptada al contenido
+y no nos damos cuenta si está arriba, en medio o abajo. Si yo cojo esta fila y la hago más alta,
+veré cómo se aplica esta alineación,
+edición superior, centrada o inferior. Como podéis imaginar, normalmente nos
+interesará más la alineación vertical centrada que combinada con
+la centrada horizontal nos permite alinear bien los dos títulos. Aparte de estas alineaciones
+y sobre todo para títulos, disponemos de la orientación. Nos permite inclinar o en ángulo
+ascendente o descendente, o poner el texto en vertical. Digo los títulos porque
+aplicar este tipo de formato a datos o números
+no es demasiado lógico. Probamos por ejemplo la
+alineación de texto vertical. Si no nos muestra todo el contenido,
+lo hacemos más alto. Y aquí buscaríamos qué tipo de formato nos
+interesa más para los títulos que tenemos. Lo podemos hacer para cualquier celda, pero como podréis imaginar,
+solo lo vamos a utilizar para títulos. Desactivando la última opción elegida
+vuelve a tener una orientación normal. Disponemos también de sangrías,
+pero no es una opción muy útil you que para colocar datos en posiciones
+concretas you tenemos las celdas. Realmente sangrar dentro de una
+celda no tiene mucho sentido. En caso que haga falta,
+igual que en el Word podemos sangrar, en Excel podemos aumentar o disminuir
+la sangría de manera que el contenido comience más adentro o menos. Para los títulos hay una
+opción que nos va muy bien. Fijaos cómo al hacer el texto
+grande o un título grande no nos cabrá dentro de la celda. Por ejemplo, fecha de nacimiento. Código postal, sueldo bruto, departamento. Pero yo no quiero hacer
+más anchas estas columnas. Me interesa que se
+queden con esta anchura. Entonces para solucionar este problema
+y que pueda ver bien los títulos, lo ideal es seleccionar esas
+celdas y pedir Ajustar texto. Clicamos el botón y lo que hace es adaptar la altura de
+manera que se vea todo el contenido. Después si es necesario, como en caso
+por ejemplo de la fecha de nacimiento, sí que quizás habrá que dar algo más
+de anchura si nos corta la palabra. En el caso de departamento
+nos pasaría lo mismo. Código postal you nos queda bien. También otra opción pequeño. Recordar este botón de Ajustar texto
+porque es muy útil para los títulos. Yo incluso os diría que
+podéis coger you la costumbre de seleccionar siempre todos los títulos
+de tablas y pedir Ajustar texto. Cuando haga falta se activará y cuando
+no sea necesario, pues no hará nada. Por último, vamos a ver la
+opción de combinar y centrar. Esta opción por ejemplo me permite
+poner un título por encima de esta línea de títulos. Vamos a imaginar que yo quiero
+ponerle un título a esta tabla. Selecciono la primera fila, inserto una
+fila y le quiero poner Profesorado. ¿Dónde lo pongo para que me
+quede perfectamente centrado? Si el número de columnas es impar,
+podría ponerlo en la columna del medio. Pero como no todas son igual de anchura, difícilmente voy a acertar y
+se va a quedar bien centrada. Para ello lo que hago es escribir
+el título en la primera celda. Una vez escrito, selecciono todas las
+celdas dentro hasta donde irá centrado. En este caso todas las que hay por
+encima de los títulos de columnas. Una vez seleccionado,
+clico el botón Combinar y centrar y lo que habrá hecho es combinar. Es decir, transformar todas estas
+celdas seleccionadas en una sola y centrar su contenido. you tenemos un título
+centrado respecto a la tabla. Y siempre estará centrado. No nos tenemos que preocupar si después
+modificamos anchuras de columnas, añadimos columnas,
+eliminamos columnas, etcétera. También como el resto de grupos
+disponemos del botón de Cuadro de diálogo con todas las opciones, las que
+hemos visto, alineación horizontal, alineación vertical, sangría,
+ajustar texto, combinar y alguna más. [AUDIO_EN_BLANCO]

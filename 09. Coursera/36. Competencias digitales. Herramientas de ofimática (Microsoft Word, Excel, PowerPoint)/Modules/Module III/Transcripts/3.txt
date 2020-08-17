@@ -1,0 +1,99 @@
+[MÚSICA] Una vez familiarizados con el entorno de la
+aplicación, vamos a empezar a trabajar. Para trabajar con Excel lo primero que
+hay que hacer es introducir los datos, estos datos los
+introduciremos en las celdas. Podemos activar cualquiera de ellas
+simplemente haciéndole un clic, y dentro de cada una de estas
+celdas introduciremos un valor. Para desplazarnos podemos simplemente
+hacer el clic o utilizar el teclado. Por ejemplo, con las flechas del teclado
+nos podemos desplazar horizontal y verticalmente o podemos también
+utilizar las teclas tabulación para desplazarnos hacia la derecha o
+intro para desplazarnos hacia abajo. Estas dos teclas,
+si al presionarlas presionamos también la tecla de mayúsculas,
+haremos la función contraria. Si hacemos mayúsculas tabulación
+va hacia la izquierda, si hacemos mayúsculas
+intro va hacia arriba. Normalmente lo más práctico
+es utilizar el ratón. Como hemos dicho,
+en cada celda introduciremos un valor. Este valor puede ser de tres tipos,
+puede ser un texto, puede ser un número o
+puede ser un cálculo. Por ejemplo, en la celda A1 vamos
+a introducir un texto, escribimos. Fijaos que al escribir todo aquello que
+estás escribiendo aparece también en la barra de fórmulas pero
+aunque hayamos acabado continuamos estando dentro de la celda. Fijaos el cursor intermitente
+hasta que no hagamos intro, no habremos acabado de
+introducir la información. Todavía Excel estará
+esperando a que acabemos. En la celda A2 vamos a introducir un
+número, por ejemplo el número 10, fijaos también cómo hasta
+que no hacemos intro la mayor parte de botones quedan en gris,
+por lo tanto no puedo utilizarlos, siempre que estemos dentro de una celda
+nos ocurrirá por lo tanto si en algún momento intentáis dar una orden
+y no os deja, comprobar que no os hayáis olvidado hacer el intro y que
+todavía estéis dentro de una celda. Fijaos como el texto que he
+escrito ha quedado a la izquierda y el número a la derecha. Esto nos va muy bien para comprobar
+que los datos sean correctos. Por ejemplo, si yo aquí en la celda
+B2 escribo el 10 pero lo escribo mal, pongo un 1 y una mayúscula,
+visualmente esto es un 10, pero me lo deja alineado a la izquierda. Si yo tengo una serie de números
+escritos y veo que uno de ellos me ha quedado a la izquierda,
+you se que está mal escrito. Cuando escribáis números, utilizad solo
+los números, la coma para los decimales y el menos para los negativos,
+no utilicéis ningún símbolo más. Cualquier símbolo como el de moneda
+o de porcentaje que queramos aplicar disponemos de un botón que lo va a hacer. Nos ahorraremos el trabajo
+y los posibles errores. En el caso de las fechas, pasa como
+lo que hemos visto con los números, en realidad una fecha
+para Excel es un número. Si yo introduzco una fecha
+por ejemplo 1 de enero del 2016, una vez escrito hago intro, lo transforma en el formato estándar,
+dos cifras para el día, dos para el mes y cuatro para el año, y
+lo deja a la derecha porque es un número. En cambio, si yo escribo una
+fecha incorrecta, por ejemplo 30 del 2 del 16, fijaos como en este caso no hay
+hecho la transformación de formato y lo ha dejado a la izquierda, nos está
+avisando que esta fecha es incorrecta. Simplemente este día no existe. Si nos hemos equivocado al introducir
+los datos, podemos utilizar los botones de deshacer
+y rehacer para anular el último cambio realizado, o recuperarlo
+como cualquier otra aplicación. Si quiero modificar sin borrarlo, puedo introducirme dentro de la celda,
+simplemente haciéndole un doble clic. Al hacer el doble clic entramos dentro de
+la celda y podemos hacer lo que queramos. Para entrar en esta celda,
+puedo hacerlo con el doble clic o también seleccionando y presionando
+la tecla de función F2. De la misma manera me
+introduzco dentro de la celda. O también puedo hacer las modificaciones
+una vez seleccionada la celda en la barra de fórmulas se nos tilda la barra de
+fórmulas y modificamos lo que haga falta. Para borrar,
+podemos utilizar la tecla de suprimir y borrará las celdas que tengamos
+seleccionadas pero esta tecla hay que tener presente que lo que elimina
+es simplemente el contenido de la celda. Cualquier otra cosa, comentarios que
+hayamos introducido en la celda, o formatos que hayamos
+aplicado no quedan eliminados. Por ejemplo, si yo borro este
+número 10 con la tecla de suprimir y ahora pongo otro número,
+no ha habido ningún problema. En cambio en la celda A3 tengo una fecha,
+lo cual significa que aquí dentro hay un contenido que es un número
+y un formato que es el formato de fecha. Cuando yo selecciono esta celda y
+con la tecla suprimir la borro, la sensación es que he limpiado
+esa celda y no es cierto. Si yo ahora escribo un número cualquiera,
+por ejemplo el número 1, intro, fijaos como el 1 me lo
+ha transformado en una fecha. Cuando he apretado la tecla suprimir,
+lo que he borrado es el contenido, el valor que había dentro
+pero no su formato. Como había escrito una fecha, me había
+aplicado automáticamente un formato de fecha y ese formato permanece en esa
+celda escribamos lo que escribamos. Para limpiar de verdad una celda o varias,
+la seleccionamos utilizamos el botón borrar que
+encontraremos en la ficha inicio. Si desplegamos este botón veremos como
+podemos escoger entre borrar todo, borrar solo los formatos,
+borrar solo el contenido, esto equivaldría a la tecla suprimir,
+o borrar solo los comentarios o borrar solo
+hipervínculos que hayamos introducido. Si yo quiero realmente limpiar esa celda,
+lo mejor es utilizar borrar todo. Con esta opción he limpiado
+realmente la celda. Ahora, al escribir un número en
+esta celda aparecerá ese número, porque he borrado contenido y el formato. Estas opciones nos son
+muy útiles cuando tenemos hojas de cálculo preparadas y
+queremos hacer otra similar. Por ejemplo,
+tenemos los cálculos de gastos de un mes. Y queremos hacer una hoja de cálculo
+con los gastos del siguiente mes. Yo lo que puedo hacer es
+duplicar esa hoja, abrirla, seleccionar todos los datos
+y con la tecla suprimir o con la opción borrar contenido
+eliminar todos los datos. De esta manera habré borrado los
+números y las palabras, pero habré mantenido todos los formatos, y solo
+tendré que introducir los nuevos datos. No tendré que perder tiempo en
+arreglar esa hoja de cálculo. O también puedo hacerlo al revés, puedo abrir un documento de Excel
+al cual le han aplicado unos formatos que a mi no me interesan,
+pero los datos los quiero mantener. Pues yo selecciono todos esos datos
+y con la opción de borrar formatos eliminaré todos los formatos y
+aplicaré yo los que crea oportunos. Los datos continuarán igual, tanto datos
+como cálculos que hubiera en esa hoja.

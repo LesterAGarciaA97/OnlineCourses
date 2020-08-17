@@ -1,0 +1,136 @@
+[MÚSICA] Con esta unidad, nos familiarizaremos
+con el uso de la aplicación y veremos las operaciones básicas. Respecto al uso de la aplicación,
+daremos los primeros pasos. Veremos cómo abrir y cerrar la aplicación,
+cómo abrir y cerrar documentos que en Excel llamamos libros, cómo
+crear nuevos libros y cómo guardarlos. También veremos las diferentes partes
+de la ventana y sus funciones. Después veremos cómo modificar
+la visualización del libro y cómo modificar las
+preferencias de la aplicación. Respecto a las operaciones básicas, veremos cómo introducir los
+datos y qué tipo de datos hay, cómo modificarlos, copiarlos y
+las diferentes maneras de borrar. Después veremos las diferentes
+técnicas de selección. Trabajaremos con las filas y columnas,
+cómo seleccionarlas, cómo modificar su tamaño,
+cómo añadir o eliminarlas, cómo ocultarlas; veremos cómo mover y duplicar los valores de las celdas
+seleccionadas, cómo la función auto-completar nos facilitará la
+entrada de datos y cómo podemos introducir una serie de datos de manera
+automática sin necesidad de escribirlos. Veremos cómo buscar o
+sustituir determinados datos en la hoja o en el libro. Veremos cómo ordenar
+los datos de la tabla. Y para acabar, veremos cómo añadir, eliminar y copiar hojas
+de cálculo enteras. Vamos a empezar a trabajar con Excel. Como cualquier otro programa,
+nos dirigimos al botón Inicio, buscamos la aplicación, y hacemos clic. [SONIDO] Nos aparecerá una pantalla donde elegiremos el tipo
+de documento que queremos crear. Normalmente, elegiríamos libro en blanco
+para que nos dé un documento o un libro preparado para introducir nuestros datos,
+o también podría utilizar cualquiera de las plantillas que nos ofrece Excel
+con datos y formatos you preparados. Vamos a elegir un libro en blanco,
+y you tenemos el Excel abierto. Como vamos a utilizarlo a menudo,
+nos interesaría que este, esta aplicación apareciera en la barra de tareas, de
+manera que no tengamos que ir a buscarla. Para ello, simplemente nos dirigimos al
+botón Inicio, buscamos la aplicación, le hacemos clic con el botón derecho,
+y en la opción Más, encontraremos la opción
+Anclar a la barra de tareas. De esta manera, a partir de ahora,
+aquí en la Barra de tareas, nos aparecerá siempre el
+icono de la aplicación Excel para abrirlo sin necesidad de
+buscarlo en el botón Inicio. Vamos a comprobarlo. Cerramos el Excel y aquí tenemos el icono de Excel preparado
+para abrirlo en cualquier momento. Damos clic y you volvemos
+a abrir la aplicación. Vamos a ver qué nos encontramos
+en esta ventana de Excel. Como en cualquier aplicación, en la parte
+superior, encontraremos la Barra de título con el nombre del programa y el nombre
+del documento, y a la derecha los tres botones típicos de Cerrar,
+Restaurar o Maximizar, y Minimizar. Debajo de esta Barra de título, encontramos la típica cinta de opciones
+de las aplicaciones de Office. Aquí encontraremos todas las opciones,
+es decir, todo lo que podemos hacer con Excel. Estas opciones las tenemos
+clasificadas por fichas, dentro de cada ficha habrá opciones
+propias de un determinado tema. En la ficha de Inicio encontraremos
+opciones de tipo más general y, sobre todo, opciones que más
+utilizamos; en la ficha Insertar encontraremos las opciones
+que me permiten añadir cosas, objetos al documento de
+Excel; diseño de página, opciones que afecten a todo el
+documento; si quiero hacer cálculos, iré a la ficha de Fórmulas,
+aquí encontraré todo tipo de opciones; si quiero manipular los datos,
+tengo la ficha de Datos o la ficha Revisar para las correcciones
+ortográficas, gramaticales, etcétera; y por último,
+como siempre, la ficha Vista, para determinar qué cosas queremos que se vean
+y qué cosas no y cómo queremos verlas. Dentro de cada una de las fichas,
+veremos cómo las opciones están clasificadas por
+grupos; tipo Fuente por ejemplo, con las órdenes de formato de letra; el
+grupo Alineación para las alineaciones, el grupo Número para los
+formatos numéricos, etcétera. De esta manera,
+nos será fácil localizar el tipo de opción que necesito para
+la faena que quiero hacer. Arriba a la izquierda,
+en la Barra de título, también disponemos de la
+Barra de acceso rápido. En esta barra, encontraremos tres
+opciones, Guardar, Deshacer y Rehacer, de manera que no tengamos que ir a buscarla a
+la cinta de opciones, es un acceso rápido. El último botón, el triángulo,
+me permite personalizar esta barra. Este es el botón importante,
+you que con este botón determinaré qué botones quiero que aparezcan
+en esta Barra de acceso rápido; y aquí es donde yo pondré
+aquellos botones que más utilizo, de manera que no tenga que ir
+a buscarlos a la cinta de opciones. Por ejemplo, puedo pedir el botón Nuevo,
+y aquí me aparecerá este botón para no tener que ir
+a la ficha Archivo a buscarlo. Disponemos aquí de algún botón que
+puede ser útil activarlo; de nuevo, como acabamos de hacerlo,
+Abrir para abrir documentos, Ortografía para hacer la
+corrección ortográfica, tenemos botones de ordenación; y si no, si la opción que nosotros queremos
+introducir no aparece en esta lista, escogeremos la opción Más comandos, aquí me mostrará todas las
+opciones que dispone Excel. En la parte superior,
+podemos elegir la categoría, es decir, qué tipo de opciones
+me muestra en esta lista, por ejemplo puedo pedirle que me las
+enseñe todas, todos los comandos, y aquí me aparecerán todas las opciones
+de Excel ordenadas alfabéticamente. Cualquier orden que yo considere que
+voy a utilizar a menudo puedo buscarla aquí; por ejemplo,
+Cerrar todo, la selecciono, clico al botón Agregar y me aparecerá
+en la Barra de acceso rápido. Para eliminar cualquier botón que tengáis
+en esta barra, tenéis el botón Quitar. Seleccionáis el botón que queréis
+eliminar de la Barra de acceso rápido, y clic en el botón Quitar. Aceptamos y you veremos cómo
+este botón Cerrar todo, you me aparece en la
+Barra de acceso rápido. Es decir, nosotros personalizaremos esta barra
+con los botones que vamos a utilizar. No podemos poner muchos,
+pero sí los más importantes. Debajo de la cinta de opciones, nos
+encontramos algo que es característico de Excel que no encontramos
+en otras aplicaciones, como la Barra de fórmulas
+y el Cuadro de nombres. El Cuadro de nombres me permitirá ir a una zona concreta de la hoja simplemente
+seleccionándola por aquí, una vez hayamos definido las
+diferentes partes de la hoja. Y la Barra de fórmulas me
+mostrará el contenido de la celda seleccionada y, sobre todo, nos será
+muy útil cuando hagamos los cálculos. [SONIDO] El documento de Excel
+no es como el documento de Word. Word nos ofrece una hoja DIN A4, y cuando llenamos esa hoja aparece
+una segunda hoja y así sucesivamente. Excel no nos da hojas DIN A4,
+nos da una hoja infinita cuadriculada donde yo
+introduciré los datos. Es despues, a la hora de imprimir,
+que you Cortará esa hoja, según el tipo de papel que vamos
+a utilizar, normalmente tiene cuatro. Por lo tanto, no hablaremos de hojas
+dentro de Excel, sino de una hoja, una hoja de cálculo inmensa donde
+nosotros introducir esos datos. Esta hoja tiene la estructura de una
+cuadrícula, en la cual encontramos columnas A, B, C, D y líneas. Por lo tanto,
+hablaremos de las celdas de la hoja, por ejemplo, ésta que será la celda F 6,
+igual que cuando jugamos a los barquitos. Nosotros seleccionaremos cualquiera de las
+celdas en las cuales queremos introducir un dato, simplemente haciéndole un clic. Fijaos cómo la casilla de nombres
+nos indica en qué celda estamos. Para abrir un documento que you tenemos
+creado vamos a utilizar la ficha Archivo, opción Abrir, podemos buscar el
+documento en diferentes unidades, normalmente lo encontraremos
+en nuestro disco duro. Vamos a examinar. Buscamos el documento, en este caso el
+documento de Excel, Profesorado, you tenemos el documento abierto para hacer
+las modificaciones que creamos oportunas. Si tengo más de un documento abierto,
+como cualquier otra aplicación, podemos ir a la barra de
+tareas y aquí me mostrará todos los documentos que tengo abiertos
+y por tanto, podré activar uno u otro. Si quiero comparar la información
+entre documentos o pasar información de un documento a otro,
+me puede ser útil visualizar los dos documentos o los tres o los cuatro,
+los que queramos, en una misma pantalla, para ello en la ficha Vista
+encontraremos la opción Organizar todo. Hacemos clic en esta
+opción y nos preguntará cómo queremos distribuir esos documentos,
+por ejemplo, horizontalmente. Aceptamos y you nos muestra
+los dos documentos, en este caso en forma horizontal,
+de manera que yo puedo seleccionar datos de uno
+de los dos y pasarlo al otro documento o simplemente comparar
+la información de esos dos documentos. Una vez hayamos acabado,
+si queremos volver a una vista normal, maximizamos las ventanas, nuestros documentos los maximizamos y you
+volvemos a trabajar de la misma manera. Cuando cerremos un documento
+tenemos que tener cuidado, si solo hay un documento,
+automáticamente cerraríamos la aplicación. Si hay más de un documento,
+como es el caso ahora, you tenemos el documento Profesorado, y el documento en blanco cerrará solo
+el documento que estemos cerrando. Si hago clic en Profesorado,
+he cerrado el documento, pero no he cerrado la aplicación. Ahora bien,
+si el único documento que tengo abierto es éste, el botón de Cerrar,
+como con cualquier aplicación, lo que hará es cerrar no solo el
+documento, sino también la aplicación. Vamos a verlo, cerramos. [AUDIO_EN_BLANCO]

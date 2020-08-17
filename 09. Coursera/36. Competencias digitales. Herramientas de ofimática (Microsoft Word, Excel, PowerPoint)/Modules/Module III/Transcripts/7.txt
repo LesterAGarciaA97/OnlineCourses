@@ -1,0 +1,75 @@
+[MÚSICA] Ahora vamos a ver cómo Excel puede ayudarnos
+a la hora de introducir los datos. Por ejemplo, en la celda A1 vamos
+a poner un número, en la B1 una palabra, la C1 una palabra con un número, puede ser al principio o al final,
+y en la D1 una fecha. [SONIDO] Si seleccionamos la primera celda, vemos cómo la esquina inferior derecha
+hay un punto que es el punto de serie, punto de relleno. Al ponernos encima de este
+punto el cursor cambia. Pasa a ser una cruz más fina. Si arrastraramos este punto de relleno,
+vemos que lo que hace es repetir el valor. Por tanto, si tengo que escribir el mismo
+valor en varias celdas no es necesario que lo haga una por una, escribo en el primero
+y lo relleno con el punto de serie. En el caso de los textos pasa exactamente
+lo mismo, arrastro y copia el mismo valor. Cuando el texto contiene un número al
+principio o al final la cosa cambia. Fijaos cómo ahora hablo a uno, arrastro, y lo que me hace es una serie,
+con los números hace una serie numérica, lo cual puede ser útil y te
+puede ahorrar mucho trabajo. Lo mismo pasará con las fechas,
+no repetirá la fecha, sino que crea una serie numérica
+con estas fechas de a uno, de a dos, de a tres va añadiendo
+un día al nuevo valor. Hasta ahí perfecto, pero claro puede
+ser que a mi lo que me interese es hacer una serie numérica de manera que
+tenga aquí puestos los números 1, 2, 3, 4, sin necesidad de escribirlo. Teóricamente no puedo hacerlo porque
+lo que hace es si tiro del punto de relleno de un número
+lo que hace es repetirlo. Pero sí que puede hacerlo. Lo único que hay que tener presente es
+que Excel necesita más información, en realidad necesita saber
+qué incremento queremos dar. Por eso, lo que hacemos es
+poner los dos primeros datos. Ponemos el 1, ponemos el 2,
+porque queremos un incremento de una unidad, seleccionamos las dos celdas. Con esto Excel you sabe que queremos
+empezar por 1 y que el incremento es la diferencia entre estos dos,
+es decir 1, al tirar del punto de relleno ahora sí que no
+repite sino que me crea la serie numérica. Si en lugar de 1 y 2 hubiera puesto 1 y 4, selecciono los dos valores,
+tiro del punto de relleno, y fijaos cómo va sumando tres
+unidades a cada nuevo valor. Estas series también podemos hacerlas con uno de los botones
+de la cinta de opciones. En el grupo modificar de la ficha
+inicio encontraréis el botón rellenar y dentro de
+rellenar la opción series. Esta es la opción que hace lo
+mismo que acabamos de hacer arrastrando por el punto de serie. Aparece un cuadro de diálogo, donde podremos especificar alguna cosa
+más que no podíamos hacer arrastrando. En primer lugar tenemos la opción de series en filas
+o columnas para decirle a donde tiene que hacer la serie,
+si hacia abajo o hacia la derecha. Hemos de pensar que si lo pedimos
+por botón no estamos arrastrando, por tanto esa información
+que dábamos al arrastrar, la tenemos que especificar en este
+caso con esta opción indicando si queremos hacia abajo columnas,
+si queremos hacia la derecha filas. Después podemos especificar qué
+tipo de serie queremos, lineal, que entonces lo que hará
+es sumar al nuevo valor o geométricas si lo que quiero es
+multiplicar, o elegiré cronológicas si lo que estoy haciendo es una serie
+con fechas, o autorellenar si lo que quiero es que repita el mismo
+valor, útil sobre todo para textos. Una vez elegido el tipo,
+si es cronológico se activará la unidad de tiempo para poder especificar
+que el incremento en la fecha sea sobre el día, sobre el día laborable,
+es decir que no incluya los sábados o domingos,
+o que haga un incremento mensual o anual. Siempre que hagamos una serie con el
+botón, habría que especificar aquí en la opción incremento qué
+incremento queremos realizar. Si queremos sumar o multiplicar
+una unidad o dos o tres, you que solo hemos puesto el primer valor
+y muy importante indicar el límite, you que si lo hacemos arrastrando,
+nosotros paramos donde queremos. Si lo hacemos por botón,
+hay que especificar donde tiene que parar en qué fecha o en qué número
+queremos que pare la serie. Lo más normal es hacerlo arrastrando
+pero recordáis que tenéis esta opción o este botón para modificar
+algún detalle concreto. Excel nos ofrece también unas series you
+predefinidas que nos pueden ser útiles. Por ejemplo,
+fijaos que si yo escribo la palabra lunes, selecciono esta celda y
+tiro del punto de serie, me va poniendo los días de la semana. Lo mismo pasa con los meses, incluso
+no es necesario empezar por el primero, si yo pongo marzo, selecciono esta celda, arrastro y va haciendo los diferentes meses, cuando llega al
+último diciembre, vuelve a empezar. Estas series la podéis modificar
+si hiciera falta o crear vosotros las series que queráis. Para hacerlo tenéis que ir a las opciones, es decir a la ficha de archivo,
+pedir opciones, y dentro del grupo avanzadas
+encontraréis en el apartado general, un botón que pone modificar
+listas personalizadas. Aquí encontraréis estas
+listas que acabamos de ver. Fijaos tenemos la de días de la semana, la de meses abreviado o no, y sobre
+todo tenemos la opción nueva lista que me permitirá aquí a la derecha escribir
+las listas que yo quiera escribir. Introducid vuestra lista
+de valores y you se añadirá con el botón agregar al
+listado que tiene predefinido. De esta manera, escribiendo
+cualquiera de los valores de la lista que habéis introducido, al arrastrar por
+el punto de serie repetirá esa lista. Podéis crear las listas que queráis,
+siempre que haya una secuencia lógica. [AUDIO_EN_BLANCO]

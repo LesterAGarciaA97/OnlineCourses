@@ -1,0 +1,63 @@
+[MÚSICA] Con esta unidad, dar formato, aprenderemos a arreglar
+el formato de los datos introducidos. Primero veremos los formatos de número. Veremos todos los formatos
+que podemos aplicar a las celdas que contienen números, sean
+introducidos o generados por cálculos. Después veremos todos los formatos
+que podemos aplicar a celdas que contienen texto. Veremos cómo alinear el
+contenido de las celdas, y cómo poner bordes y pintar
+el fondo de las celdas. Para acabar, veremos cómo podemos copiar
+los formatos de una celda a otras celdas sin necesidad de volver a pedir otra
+vez los formatos que queremos aplicar. Los primeros formatos que veremos
+son los formatos numéricos. En el grupo número,
+encontraremos estos formatos. Fijaos en el primer botón,
+formato de número, que nos desplegará los diferentes
+formatos numéricos disponibles. De entrada, todas las celdas,
+mientras no digamos lo contrario, tienen asignado el formato general,
+es decir, sin ningún formato específico. Si lo que nosotros tenemos en unas
+determinadas celdas son números, mejor indicar que le asigne el
+formato numérico, si son monedas, que le asigne el formato de moneda, y así
+dependiendo del contenido de esas celdas. Por ejemplo,
+vamos a seleccionar estos datos y le aplicamos el formato numérico,
+abrimos número, y automáticamente le asigna dos decimales. Si no nos interesan esos decimales,
+los podremos luego modificar. Que no es un número sino que es como
+el caso del sueldo bruto una moneda, mejor elegir el formato de moneda. De esta manera le asignará igualmente los
+dos decimales correspondientes a la moneda y le añadirá el símbolo de la moneda. En el caso de las monedas,
+podéis aprovechar el botón moneda que os permitirá indicar la moneda
+del país que queráis para esos datos. Podéis cambiar el formato de moneda. Recordad que esto no es
+una conversión de monedas, simplemente un cambio de formato,
+es poner uno u otro símbolo. Si no aparece en este listado,
+escoged la opción más formatos de contabilidad y aquí os
+mostrará todas las posibilidades, a la vez que podéis aprovechar e
+indicar cuántos decimales queréis. Igual que hemos aplicado un formato de
+número de moneda, si lo que tenemos son fechas, podremos aplicarle un
+formato determinado de fecha, podemos elegir entre fecha
+corta o fecha larga, en este caso tenemos you la fecha corta,
+podemos pedir la larga, nos mostrará pues el día de la semana,
+el mes, en palabra. Dependiendo del contenido,
+elegiremos uno u otro formato. [AUDIO_EN_BLANCO] you hemos visto que
+disponemos de un botón de moneda, pero también disponemos de
+un botón de porcentaje. En este caso,
+si yo tengo que escribir un porcentaje, vamos a suponer que tengo que poner 15%,
+tengo dos opciones, una escribirlo, 15 y escribir el símbolo de porcentaje,
+automáticamente esta celda pasa a tener
+formato de porcentaje. Fijaros que al seleccionarla me dice en
+el botón de formato que es un porcentaje. También puedo hacerlo de otra manera,
+que es escribir el valor en tanto por uno, pondría cero coma 15, selecciono la celda y en lugar de formato
+general indico que le aplique un formato de porcentaje o utilizo
+directamente el botón porcentaje. Puedo hacerlo de las dos maneras. Esta segunda me es muy útil, sobre todo cuando tenga una serie de
+celdas que son el resultado de un cálculo cuyo resultado es un tanto por uno y
+quiero mostrarlo en tanto por ciento. Simplemente selecciono esas celdas y
+le aplico el formato de porcentaje. Si el hecho de que nos ponga dos
+decimales no nos conviene, podemos con los dos botones de aumentar y disminuir
+decimales, indicar cuántos queremos. Puedo aumentar en
+decimales o disminuirlos. Y ahora redondeará los decimales
+como cualquier número. Si queremos aplicar alguna opción
+que no encontramos en estos botones, siempre dispondremos como en muchos de los
+grupos, del botón de cuadro de diálogo. Si hacemos clic en este botón nos
+mostrará todos los formatos numéricos y clasificados por tipo. Aquí tenemos la ficha de número,
+con las diferentes categorías que hemos visto en el botón de formatos,
+lo elegimos y para cada una de estas categorías nos permitirá modificar una,
+dos, tres cosas, depende del caso. En este caso los decimales y el símbolo de la moneda porque
+estamos hablando de contabilidad. Si vamos a fecha nos dará
+diferentes formatos de fecha, no solo la fecha corta y fecha larga. Tenemos formatos de hora,
+de porcentaje, acción, científico. Todo depende del tipo de valor que tengamos en esas
+celdas que hemos seleccionado. [AUDIO_EN_BLANCO]

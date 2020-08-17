@@ -1,0 +1,28 @@
+[MÚSICA] Las opciones Pegado especial y Copiar formato del grupo Portapapeles nos
+permiten aplicar a una o varias celdas solo el
+formato de otra celda. Esto nos permite ahorrar mucho trabajo
+a la hora de dar formato a una tabla. Vamos a verlas. Por ejemplo, primero veremos cómo
+utilizar el copiado especial. Selecciono una celda, esta misma
+que contiene una serie de formatos, la copiamos, botón de Copiar,
+buscamos otra tabla u otra celda donde
+queramos aplicar estos formatos, puede ser dentro de la hoja o puede ser
+en otra hoja, incluso en otro documento. En este caso vamos a la hoja 1 y
+quiero aplicarlo a esta tabla. Selecciono la tabla y con el
+botón de Pegar lo despliego y busco la opción de Solo formatos. Aquí tenemos el botón Formato,
+clico y le aplica a estas celdas seleccionadas los mismos
+formatos que a la celda que había copiado y solo los formatos,
+no ha cogido los valores. Vamos a hacer la otra opción, el Pegado
+especial, que quizás sea más cómodo. Si yo selecciono este título,
+lo tengo combinado con colores, tipografía, varios formatos diferentes al normal, lo
+selecciono, clico el botón Copiar formato y me voy a la otra hoja y hago
+clic en ventas por ejemplo. you queda el título Ventas con
+los mismos formatos que tenía el título Profesorado
+de la tabla anterior. [AUDIO_EN_BLANCO] De la misma manera que hemos aplicado
+solo a una celda, yo puedo seleccionar una celda, pedir el botón de
+Copiar formato pero clicando dos veces de manera que queda fijado. Ahora si yo busco cualquier celda
+y le hago un clic, le cambia, le asigna ese mismo formato pero puedo
+seguir haciendo clic a diferentes celdas o a un grupo de celdas. Mientras no vuelva
+a hacer clic en el botón de copiar formato seguirá
+pegando ese mismo formato. Para parar, le hacemos clic otra vez y
+you está, you deja de pegar ese formato. Recordad esta opción, sobre todo la de Copiar formato cuando
+queráis ahorraros trabajo de formato. [AUDIO_EN_BLANCO]

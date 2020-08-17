@@ -1,0 +1,13 @@
+[MÚSICA] Como en cualquier otra aplicación, podemos copiar datos y
+pegarlos en otra parte del documento, en otro documento de Excel,
+en otro documento de otra aplicación, utilizando las herramientas de
+copiado y pegado que tenemos, como siempre, en el grupo
+Portapapeles de la ficha Inicio, o directamente y más cómodamente
+con el botón derecho. Como siempre, primero seleccionaríamos
+los datos, después botón derecho o los botones de Portapapeles,
+elegimos entre Cortar o Copiar, nos dirigimos a la zona donde queramos
+colocar estos, la copia de estos datos, hacemos un clic y,
+o botón de Pegar o botón derecho y Pegar. Hay varias opciones de pegado,
+la normal sería siempre la primera. De esta misma manera puedo copiar datos a otra hoja, me dirijo a la
+otra hoja y coloco botón derecho y Pegar, o puedo ir a otro documento de Excel,
+o de Word o de cualquier otra aplicación. [AUDIO_EN_BLANCO]

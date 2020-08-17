@@ -1,0 +1,60 @@
+[MÚSICA] Igual que podemos añadir o
+eliminar filas y columnas, también podemos añadir y
+eliminar hojas de cálculo. Lo haremos igual que para las filas y
+columnas con los botones del grupo celdas. Tenemos el botón de insertar
+que al desplegarlo, una de las opciones es insertar hoja,
+y nos añadiría una nueva hoja, en este caso hoja 3. Y el botón eliminar contendrá la
+opción eliminar hoja para eliminarla. Igual que teníamos
+insertar filas o columnas, y eliminar filas o columnas
+tenemos insertar y eliminar hoja. Aparte en el botón formato,
+también podemos ocultar alguna hoja. Hacemos ocultar hoja y ha desaparecido. Si queremos volver a mostrarla, volvemos a la opción ocultar y mostrar,
+pedimos mostrar hoja, y nos preguntará cuál de las hojas que
+hemos ocultado queremos visualizar. En este caso solo tenemos una,
+la señalamos y aceptar. En cualquier momento
+podemos tener alguna hoja que vamos a utilizar para cálculos, para
+lo que queramos, pero que no sea visible. En este botón de formato,
+encontraréis también algunas opciones para modificar
+características de las hojas. Por ejemplo,
+tenemos dentro del grupo organizar hojas la posibilidad de cambiar el nombre
+de la hoja, de mover o copiar esta hoja y de modificar
+el color de la etiqueta. Algunas de estas opciones podéis
+activarlas sin necesidad de venir a estos botones, simplemente haciendo un clic
+con el botón derecho sobre la etiqueta. Por ejemplo, hago clic con el botón
+derecho sobre la etiqueta profesorado. Fijaos cómo aparece la opción de eliminar,
+por ejemplo, cambiar nombre o mover, copiar,
+o el color de la etiqueta u ocultar. En principio la mayoría de opciones
+las tendréis disponibles aquí y es mucho más rápido. Si lo que queréis es cambiar el nombre, no hace falta ni desplegar esta opción,
+simplemente le hacéis un doble clic y you os colocáis dentro del
+nombre para modificarlo. Una vez modificado, clic fuera, dentro de la hoja
+y you habrá hecho el cambio. La posición de la hoja no es fija. Nosotros podemos trasladarlas
+y colocarlas donde queramos. En este caso tenemos primero la hoja
+profesorado y después la hoja 1. Cogiendo la etiqueta de la hoja y
+arrastrando podemos cambiar la posición. Simplemente arrastrar. También podemos hacerlo con la opción
+mover o copiar que encontramos cuando hacemos clic con el botón derecho o en
+el botón formato como hemos visto antes. Aquí tenemos la opción mover o copiar, y aquí indicaremos dónde
+queremos trasladarlo. Primero a qué libro queremos
+trasladar esta hoja. Puede ser el traslado dentro del mismo
+libro o trasladarlo a otro libro. Ahora vamos a dejarlo en el mismo libro, y después dentro de ese libro en
+qué posición queremos colocarlo. Podemos colocarlo al
+final como última hoja o antes de una de las
+hojas que tenga el libro. Por ejemplo, ahora vamos
+a dejarlo antes de la hoja uno. Soltamos, la traslada. Como podéis comprobar,
+es mucho más cómodo simplemente arrastrar. No necesitamos esta opción
+para hacer ese traslado, excepto cuando queramos trasladar esa
+hoja a otro documento, a otro libro. Lo que sí que nos será muy útil es
+cuando queramos duplicar esa hoja. En este caso, volvemos a la opción mover o copiar
+e indicamos dónde queremos duplicar. Primero indicamos el libro, por ejemplo vamos a colocarlo en
+otro documento el libro de pruebas. Indicamos antes de qué hoja
+o que lo coloque al final. En este caso vamos a dejar,
+vamos a decir que lo coloque al final de todas las hojas de ese libro,
+el libro de pruebas. Y cuidado, no olvidemos esta opción,
+crear una copia. Activamos esta opción porque
+si no activamos esta opción, lo único que hacemos es un traslado. Yo quiero dejar esta hoja donde
+está y hacer una copia en otra. Aceptamos, y fijaos, you se desplaza
+directamente el otro libro, libro de pruebas y nos crea una copia de
+la hoja profesorado con todos sus datos. En estos momentos tenemos
+la hoja profesorado tanto en el documento profesorado como
+en el documento libro de pruebas. Recordad esta orden porque realmente
+es muy útil pero sobre todo recordad cuando pidáis la orden activar
+esta opción crear una copia. Muchas veces nos olvidamos y lo
+único que haremos es un traslado. [AUDIO_EN_BLANCO]

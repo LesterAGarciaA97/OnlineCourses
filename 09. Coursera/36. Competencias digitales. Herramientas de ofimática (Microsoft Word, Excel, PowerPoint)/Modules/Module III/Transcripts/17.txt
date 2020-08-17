@@ -1,0 +1,75 @@
+[MÚSICA] [MÚSICA] Con esta actividad lo que vamos a hacer
+es practicar con los formatos. Es decir, vamos a arreglar un poco la
+tabla para que quede más estética. Lo primero que podemos hacer es
+poner líneas a todas las celdas. Como no sé qué líneas voy a querer, lo ideal siempre sería
+seleccionar toda la tabla y con el botón de Bordes decirle
+que queremos Todos los bordes, así you de entrada you
+tenemos una tabla más visual. A partir de aquí, iremos modificando aquellos bordes
+que deseemos sean diferentes. Por ejemplo, si cogiéramos todas las notas podemos pedirle de que el
+borde externo de estas notas sea más grueso que los bordes internos,
+para ello utilizamos el botón de Bordes. Nos vamos a buscar al final Más
+bordes que nos da más juegos y aquí podríamos ir eligiendo,
+por ejemplo quiero mayor grosor, donde elijo primero el grosor o el tipo de línea y marco haciendo clic aquellas
+líneas que quiero modificar. En este caso, solo las externas de manera que las
+internas continúen siendo una línea fina. Aceptamos y you tenemos un
+mayor grosor para las notas. Podemos hacer lo mismo con los nombres. Elegimos el grosor y
+tocamos solo externas. Y así podremos ir haciendo
+donde nos interesa. ¿Qué más necesitamos aquí? ¿Por ejemplo,
+qué ocurre con esta celda, la celda A3? El título nombre del alumno es demasiado
+grande, no se ve, queda cortado. Podría ser más ancha la
+columna para que se viera, pero no me interesa que sea tan ancha. En este caso lo que puedo hacer es
+utilizar esta opción Ajustar texto. Fijaros en el esquema you queda claro que lo que hace es utilizar como más
+líneas dentro de esa misma fila. De esta manera le estamos obligando a que
+se vea la totalidad del texto de la celda sin necesidad de tocar la anchura. Hacemos clic en este botón y, claro,
+no le queda más remedio que hacer esta fila más alta para
+que realmente pueda verse. Y luego puedo hacerla,
+por ejemplo, más ancha. Puedo centrar horizontalmente esta celda, puedo centrarla verticalmente también,
+lo que más me interese. Todos estos títulos los quiero,
+por ejemplo, en Negrita. Los selecciono, pido la Negrita,
+lo mismo haría con asignaturas. Los títulos de las asignaturas
+tenemos un problema y es que son muy anchos para el
+contenido que tienen de notas. Entonces para aprovechar bien el espacio,
+lo que puedo hacer es seleccionar estos títulos y con el indicador de
+cuadro de diálogo de alineación indicarle arrastrando esta marca que lo quiero con una orientación
+vertical, es decir, girada 90 grados. Podemos simplemente arrastrar o
+indicar los grados en este campo. Aceptamos y you lo tenemos. De esta manera, yo podré ahora
+seleccionar todas las columnas de notas y hacerlas más estrechas. No voy una a una, podría hacerlo una a una
+pero si las selecciono todas a la vez con modificar una modifico todas las
+notas y con la misma modificación. En este caso, los nombres de las
+asignaturas me han quedado hacia la derecha, pues realizo la orientación
+horizontal ahí centrada y you está. Siempre jugar con estas
+alineaciones tanto horizontales como verticales para ir
+colocando sobre todo los títulos aunque también nos encontraremos con
+la necesidad de hacerlo para los datos. Por ejemplo, aquí todas estas filas no
+quiero que estén tan espesas, entonces lo que puedo hacer es seleccionarlas todas
+y una de ellas para modificarlas todas. Modifico su altura y you
+tengo todas las filas de notas un poco más altas y me
+quedará mejor, no tan espeso. Como en el caso de las asignaturas
+que me quedaban a la derecha, aquí los nombres y las notas me
+quedan en la parte inferior. Me quedaría mucho mejor si
+estuvieran las notas centradas tanto horizontal como verticalmente, por lo
+tanto las selecciono todas y lo pido aquí, centrado vertical, centrado
+horizontal y you quedan perfectas. En el caso de los nombres solo
+necesito el centrado vertical, aquí en este caso centrar
+horizontal no me quedaría tan bien, prefiero dejarlo a la izquierda. Nos quedaría ahora el título asignaturas
+que aquí tenemos un problema, yo quiero este título centrado
+sobre las seis asignaturas. ¿Dónde lo pongo? Lo debería poner en la celda del medio,
+no hay ninguna que sea en medio, son tres y tres. Solución. Siempre que os encontréis en este caso,
+un título que abarque varias celdas, escribid en la primera celda, después
+seleccionáis todas las celdas dentro del rango en el cual debería ir centrado y
+utilizáis el botón Combinar y centrar. ¿Qué hará? Combinar, es decir, transformar esas
+celdas que he seleccionado en una sola, y centrarlo, centrar el contenido. you está. Acá tenemos ese título
+perfectamente centrado. A partir de ahora nos queda
+you solo los colores, de entrada quiero todo esto en negro. Bote de pintura, negro, ¿qué ocurre? Si pongo negro como es lógico,
+me tapará el texto porque el texto negro sobre fondo negro no se ve. Para evitar esto, lo mejor sería
+utilizar el color automático, en algunas aplicaciones lo tiene,
+en este caso no lo tiene Excel. Pues solución: color de
+letra blanco o automático, también podría utilizar el automático
+pero mejor el blanco en este caso. Letra blanca sobre fondo negro y se acabó. Siempre que pongáis un fondo negro, utilizad un color de letra
+muy claro y you está. Nos faltarían las líneas, en realidad
+you aquí hay líneas pero no se ven, ocurre exactamente lo mismo. Sí que están las líneas,
+pero son negras sobre negro. Pues vamos a Bordes y aquí
+le pediremos color blanco. ¿A qué líneas? Pues a todas, bueno en realidad
+la inferior no me hace falta. Aquí tenemos todas menos la inferior,
+la podemos dejar normal. Aceptamos y you tenemos
+la actividad finalizada. [MÚSICA]

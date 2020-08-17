@@ -1,0 +1,61 @@
+[MÚSICA] Como hemos dicho antes un libro de Excel
+es un documento sin límites. Todo depende de los datos
+que hayamos introducido. El hecho de tener tantos datos puede
+provocar que necesitemos visualizar más o menos trozos del libro
+y que por lo tanto vamos a necesitar el Zoom para
+visualizar más o menos trozos. El Zoom como normalmente
+en otras aplicaciones, lo encontraremos en la barra
+de estado aquí a la derecha. Podemos ampliar la
+visualización de la hoja o reducirla, dependiendo
+de lo que queramos ver. Este Zoom también lo podemos
+pedir en la ficha Vista, donde encontraremos un grupo llamado
+Zoom y concretamente el primer botón Zoom nos permitirá
+especificar exactamente qué porcentaje de ampliación o
+reducción queremos realizar. Como podéis comprobar normalmente con la barra de desplazamiento de Zoom
+de la barra de estado es suficiente. Uno de los inconvenientes de tener
+tantos datos es que al desplazarnos, perdemos la parte superior o la
+parte izquierda de los datos y por ejemplo en este caso, lo que perdemos son
+las etiquetas de cada una de las columnas. Es decir que estamos viendo unos datos
+pero no sabemos a qué se refiere cada una de las columnas, you que la primera fila es la que contenía
+los títulos y nos daba esta información. Para evitar que esto suceda, en la ficha
+Vista, tenemos un botón Inmovilizar, que evita esta pérdida de
+visión de la primera fila, la primera columna o aquéllas
+filas y columnas que deseemos. Si desplegamos este botón, vemos cómo nos permite inmovilizar la
+fila superior o la primera columna. Si las etiquetas que tenemos en
+esta tabla están sólo en la primera fila o en la primera columna podemos
+utilizar cualquiera de estas dos opciones. En nuestro caso tenemos los
+títulos en la primera fila, por lo tanto,
+pedimos inmovilizar fila superior. A partir de ahora cuando
+yo me desplace hacia abajo, iré viendo otros datos
+pero la primera fila, la de títulos, queda fija,
+lo cual siempre es una buena ayuda. Lo mismo podría hacer
+con la primera columna. El problema puede ser ahora
+cuando nos encontremos con que no es una sola fila o una sola columna sino
+que son varias filas o varias columnas. En este caso lo que utilizaremos
+es la opción Movilizar paneles. Bueno primero desactivamos, you volvemos
+a tener la hoja normal y ahora imaginemos que queremos inmovilizar no la primera
+fila sino las tres primeras filas. Entonces me coloco en la celda,
+la primera celda que vaya a desplazarse. En este caso sería en la cuarta fila. Voy al botón Inmovilizar y
+pido Inmovilizar paneles. De esta manera, fijaos en la marca. Por encima de esta celda, quedará fijado. Vamos a probarlo. Fijaos cómo las filas 1,
+2 y 3 quedan fijas. Siempre hay que colocarse en la siguiente. En la primera fila o columna
+que vaya a poder desplazar. Para volver a tener la hoja cómo estaba, botón Inmovilizar y
+opción Movilizar paneles. Debido a que solemos tener
+tablas bastantes grandes, esta opción es conveniente recordarla. La aplicación está configurada para que
+se comporte de una determinada manera, esta configuración la podemos modificar. Para hacerlo,
+la buscaremos en la ficha Archivo concretamente en la última opción,
+Opciones. Nos mostrará todas las
+configuraciones predeterminadas. Clasificadas cómo véis a la izquierda
+por temas, configuraciones generales, de cálculo, de revisión,
+de guardado, de idioma o avanzadas. Es conveniente echar un
+vistazo a estas opciones para ver si alguna de ellas
+nos es conveniente modificar. Normalmente está bien configurado pero,
+dependiendo del trabajo que vayamos a realizar quizás alguna de
+ellas nos merezca la pena modificar. Por ejemplo dentro de la
+categoría de Guardar, podemos encontrar la opción Ubicación
+predeterminada de archivos locales. ¿Qué hace esta opción? Le indica dónde debe
+guardar los documentos mientras no digamos lo contrario. Entonces por defecto siempre
+nos guardaría el documento, cualquier documento nuevo que creemos,
+dentro de la carpeta de Documentos. Modificando esta ruta podemos indicar
+dónde queremos que guarde por defecto, por ejemplo en la carpeta,
+Informes de 2016. Echadle un vistazo, y rápidamente veréis si hay alguna de estas opciones
+que os puede ser útiles modificar. [AUDIO_ EN_BLANCO]

@@ -1,0 +1,85 @@
+[MÚSICA] Como sabemos, Excel distribuye los datos
+por columnas y filas. Una vez hemos introducido you una serie
+de datos, solemos encontrar en el caso de tener que añadir alguna columna
+entre dos columnas existentes. Por ejemplo yo quiero después
+del sueldo bruto añadir una nueva columna donde introducir los datos
+de la retención aplicada a ese sueldo. Para insertar una nueva columna
+selecciono haciendo clic en su etiqueta la primera columna que deba
+desplazarse, en este caso sería el nombre. Una vez seleccionada, en la ficha inicio, grupo celdas encontraremos
+el botón insertar. Al desplegarlo veremos como aparece
+la opción insertar columnas. Aplicamos esta opción y me añadirá una nueva columna desplazando
+el resto de columnas. Si hubiera cálculos, Excel you se encarga
+de recalcularlos y que todo sea correcto. Aquí you pondríamos el título Retención, introduciríamos los datos
+de esa nueva columna. Si en lugar de una columna,
+necesitara añadir dos o tres, la manera de hacerlo es la misma pero seleccionando
+tantas columnas como queramos añadir. Por ejemplo, entre apellidos y
+dirección quiero añadir tres columnas. ¿Cuál es la primera que debe desplazarse? Dirección. Por lo tanto selecciono a partir
+de la columna dirección, y selecciono tres columnas porque
+quiero añadir tres columnas. you seleccionadas, insertar, insertar columnas y you me ha
+añadido las tres columnas. Para eliminar, selecciono la columna
+o columnas que quiera eliminar, también podemos utilizar como
+hemos dicho antes la tecla control, de esta manera selecciono
+columnas que no son consecutivas, y en el grupo celdas
+encontraremos la opción eliminar. Y aquí la opción eliminar columnas. you hemos eliminado las
+columnas seleccionadas. De la misma manera que hemos insertado
+columnas, podemos eliminar columnas, lo podemos hacer para las filas, la única
+diferencia es que seleccionaremos la etiqueta de fila en lugar de la de
+columna, una o varias, y que en el botón de insertar o de eliminar encontraremos
+activo la opción de insertar filas o de eliminar filas en lugar de
+insertar columnas o eliminar columnas. Fijaos que todas las columnas
+tienen la misma anchura y todas las filas tienen la misma altura. Esto no es fijo, podemos determinar
+nosotros tanto la anchura de las columnas, de cada una de ellas como
+la altura de las filas. Para hacerlo, simplemente hay
+que arrastrar las etiquetas. Por ejemplo,
+la columna E tenemos los apellidos y necesito más espacio porque
+no se ven todos los apellidos. Me colocaré encima de la línea donde indica el final
+de la etiqueta E de la columna E, cuando vea este cursor en forma de
+doble flecha you puedo arrastrar. Arrastro, y fijaos cómo nos indica que
+está modificando el ancho de la columna. Puedo indicar en pixels la
+anchura de esa columna. Cuando suelto,
+you tengo modificada esa anchura. Normalmente el problema que podemos tener
+es saber qué anchura necesitaremos. Para ello, lo mejor es en
+lugar de arrastrar es hacer en esta línea de final de
+etiqueta un doble clic. Si yo me coloco sobre la línea, espera ver el cursor en forma de
+doble flecha, y hago un doble clic. Fijaos cómo automáticamente
+se ha adaptado al contenido. Se han fijado que
+Jiménez Sánchez Carnerero es el apellido más largo y he adaptado
+la columna a este apellido. De esta manera aprovechamos bien
+el espacio y nos aseguramos que todo el contenido sea visible. Lo mismo pasaría si seleccionada no una
+sino varias columnas, por ejemplo si yo selecciono todas las columnas y hago
+doble clic en cualquiera de ellas, adapta la anchura de la columna al
+contenido de cada una de ellas. Esto es una cosa que podemos hacer siempre
+cuando acabemos de introducir los datos, o sea no os preocupéis demasiado
+de la anchura sino que una vez hayáis acabado de introducir los datos,
+seleccionáis todas las columnas, le hacéis un doble clic al final de etiqueta de
+cualquiera de ellas y you se adaptará para aprovechar al máximo el espacio y
+evitar que ningún dato quede cortado. Lo mismo haríamos con las filas. Yo puedo arrastrar el final de etiqueta de
+una fila y estoy modificando su altura. Y con un doble clic le pido
+que se adapte al contenido. También podemos hacerlo por botón. Si nos vamos al botón formato
+dentro del grupo de celdas, encontraremos las órdenes de
+alto de fila y ancho de columna. Aquí podremos especificar en pixels,
+puntos, exactamente qué altura, qué anchura queremos poner
+a esa fila o a esa columna. De todas maneras lo ideal
+es hacerlo arrastrando sobre las etiquetas porque así estamos
+viendo exactamente cómo nos queda. En algún caso, puede ser útil esconder
+alguna columna o alguna fila. Por ejemplo, vamos a imaginar que tenemos esta tabla pero no queremos
+que se vea la columna de teléfono. Seleccionamos esta columna,
+vamos al botón formato del grupo de celdas, y aquí encontraremos
+las órdenes de ocultar y mostrar. En este caso, eligiríamos ocultar columnas pero también podemos ocultar filas, todo
+depende de lo que hayamos seleccionado. Pedimos ocultar columnas,
+y la columna de teléfonos queda reducida a una anchura
+de 0 para que no se vea. Esto no afecta a los cálculos y si con
+esos datos se hubiera hecho algún cálculo, los cálculos seguirían correctos. Lo único que hemos hecho es esconderlos,
+es que no se vean. Fijaos cómo pasamos de la
+columna H a la columna J. Entonces esta es una manera de saber
+que nos falta aquí una columna, por si más adelante nos hemos olvidado
+de que habíamos escondido esta columna. Para volverla a mostrar,
+tenéis que seleccionar desde la columna anterior hasta la posterior,
+es decir seleccionamos desde H hasta J, de manera que hemos seleccionado
+también la columna que quedaba oculta. Si no os acordáis donde estaba
+seleccionáis toda la hoja, y así os aseguráis que os muestre todas
+las columnas que estuvieran ocultas. Ahora seleccionamos simplemente estas dos
+porque sabemos que está entre estas dos, y ahí con el botón formato, opción ocultar
+y mostrar, buscamos mostrar columnas. Y vuelve a aparecer la columna. Esta opción nos puede ser útil para
+casos en los cuales esa información no debe verse pero es necesaria para
+cálculos o para usos posteriores. [AUDIO_EN_BLANCO]
