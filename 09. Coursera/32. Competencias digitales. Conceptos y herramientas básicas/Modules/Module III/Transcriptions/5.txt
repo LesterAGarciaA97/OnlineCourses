@@ -1,0 +1,79 @@
+[MÚSICA] Estemos donde estemos, siempre podremos
+regresar a la primera página con la que se abre el navegador
+utilizando el primero de los tres botones de la derecha, el botón de la casita. Con este botón, siempre, estemos donde estemos,
+regresamos a nuestra primera página. Más adelante,
+you veremos cómo podemos configurar qué página es la que necesitamos
+que sea como página inicial. [SONIDO] Vamos a visitar una determinada página. Por ejemplo, tenemos aquí la sala de
+prensa de la Universidad Autónoma, y es una página que yo
+quiero visitar a menudo. En este caso, lo que haremos es
+guardar esta dirección para no tener que ir buscándola cada día, para ello,
+disponemos de los favoritos. En el botón de la estrella
+encontraremos la pestaña de favoritos, y el botón agregar a favoritos. En el momento que yo he encontrado
+una página que me interesa guardar porque voy a utilizarla a menudo,
+vengo a los favoritos, y hago clic en el botón
+agregar a favoritos. Aparecerá un cuadro de diálogo donde
+me pedirá que con qué nombre quiero guardarlo, hay veces que el nombre es
+corto y claro, y no hay que tocarlo, pero muchas veces, como esta,
+porque hay nombres muy largos que no, no nos interesa, en este caso,
+por ejemplo, podría corregir este título, este nombre,
+y poner pues, sala de prensa, sala de prensa UAB,
+le damos al botón de agregar, y a partir de ahora,
+esté donde esté, cualquier día, si yo quiero visitar esa página
+de sala de prensa, me dirijo al botón de favoritos, y aquí me
+aparecerá, ponemos sala de prensa, le hago clic, y you voy a esa página. El problema de los favoritos
+es que con el paso del tiempo vamos a tener demasiados
+como para ir a encontrarlo rápidamente, lo que es aconsejable,
+es clasificar los favoritos en carpetas. Si volvemos aquí a favoritos,
+desplegamos el botón agregar, y veremos que tenemos una opción
+que pone organizar favoritos. Haciendo clic en esta opción me aparecerá
+el cuadro de diálogo de organización de favoritos donde, por ejemplo,
+podré crear una nueva carpeta. Creamos una nueva carpeta,
+por ejemplo, que se llamará prensa, en esta carpeta guardaré todas las
+direcciones que hagan referencia a prensa. sean diarios, salas de prensa
+como la que acabamos de ver, Y así crearía carpetas para
+cada uno de los temas, igual que clasifico los documentos
+en el sistema operativo, de manera que tenga un acceso más rápido
+y más cómodo a las direcciones guardadas. Fijaos que una vez entremos en organizar,
+podemos, a parte de crear una nueva carpeta,
+podemos mover las direcciones guardadas, por ejemplo, la sala de prensa la quiero,
+esta dirección la quiero guardar dentro de la carpeta de prensa, puedo hacerlo de
+manera rápida simplemente arrastrando la dirección hasta la carpeta,
+o si es más complicado porque hay muchas carpetas y no las vemos
+todas, podemos utilizar el botón mover, que me preguntará a qué carpeta quiero
+desplazar, selecciono la dirección, botón mover, selecciono la carpeta
+donde pienso dirigirla, y aceptar. Podéis cambiar el nombre
+de cualquier carpeta, o cualquier dirección,
+o eliminar cualquier dirección o carpeta. Si ahora vamos a favoritos,
+vemos cómo hay una carpeta prensa, que al hacerle clic
+muestra sus direcciones. Vamos a guardar otra dirección de ejemplo. Por ejemplo, quiero guardar
+esta dirección, esta página, voy a favoritos, pido agregar, estudiar UAB, corrijo o no el nombre, e indico el, en la,
+en el campo crearé dónde debe guardarlo, por defecto es en favoritos, como hemos
+visto en la lista you principal, sino, despliego este, y elijo la carpeta
+en la cual quiero guardarlo. ¿Que no tengo una carpeta
+para este tipo de página? Me dirijo al botón nueva carpeta,
+y la creo. La puedo crear, la carpeta, desde la
+ventana de organizar favoritos como hemos visto antes,
+o directamente al guardar la página. Y aquí pondría, no sé qué,
+estudiar, crear, y you esta página la guardaría en la
+carpeta estudiar que acabamos de crear. Agregamos, y you tenemos en favoritos dos carpetas, prensa, y estudiar,
+en cada una de ellas una dirección, y en este momentos iremos
+guardando más direcciones. Cuando guardemos estas
+direcciones con agregar, fijaos que hay una opción
+que nos puede ser muy útil, que es esta, en lugar de guardarlo
+en unas carpetas nuestras, podemos guardar la dirección en
+barra de favoritos, ¿para qué? Posiblemente para tener un
+acceso mucho más rápido. Vamos a verlo. Guardamos esta dirección,
+estudiar UAB, en barra de favoritos, la agregamos,
+y you la tenemos, ¿dónde está? Está en la barra de favoritos,
+el problema es que no la tenemos visible. Recordad que hemos hecho visible
+esta barra de menús, cosa que antes no estaba, pues de la misma manera
+hacemos visible la barra de favoritos. Nos colocamos en la parte
+superior donde no hay nada, botón derecho,
+y pedimos la barra de favoritos. Una vez pedida, a partir de ahora, siempre será visible,
+aquí en esta barra, irá guardando todas las direcciones que pidamos que
+guarde en la barra de favoritos. No me cabrán muchas,
+pero sí como mínimo tendré aquí las que más utilizo,
+de manera que tengo un acceso muy rápido. Os aconsejaría que el nombre lo
+pusierais lo más corto posible para que así cabieran más
+direcciones en esta pequeña barra. Podéis utilizar tanto favoritos como la barra de favoritos para ir
+guardando vuestras direcciones preferidas. [AUDIO_EN_BLANCO]

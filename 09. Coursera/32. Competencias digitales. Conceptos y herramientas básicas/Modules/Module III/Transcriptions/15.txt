@@ -1,0 +1,134 @@
+[MÚSICA] [MÚSICA] Aparte de leer y enviar mensajes, también podéis gestionar vuestro
+correo y las direcciones de correo. Podéis, si tenéis un número
+considerable de mensajes, buscar un mensaje concreto
+utilizando el buscador de Google. Lo tenéis en la parte
+superior de la ventana. Aquí tenemos el campo de búsquedas,
+escribimos la palabra o parte del texto que queremos localizar,
+por ejemplo vamos a buscar Joan, y nos buscará todos los mensajes que
+contengan el texto que hemos escrito, en este caso, nos indica que solo tenemos
+un mensaje que contenga ese texto. Y nos indica dónde está, Recibidos,
+y podríamos directamente abrirlo. Para volver otra vez a ver los mensajes, siempre utilizad el enlace
+Recibidos de la izquierda. [AUDIO_EN_BLANCO] También podéis cualquier mensaje que tengáis you leído marcarlo
+como no leído para recordarlo. Por ejemplo, seleccionamos,
+marcamos este primer mensaje y aquí tenemos en el botón Más
+la opción Marcar como no leído. you tenemos el mensaje marcado como
+no leído aunque lo hayamos leído. Muchas veces nos puede ser útil porque,
+a lo mejor, hemos entrado en el mensaje a verlo, no nos ha dado tiempo
+a leerlo, y nos queda como you leído. Entonces, mejor utilizar el botón Más
+para volverlo a marcar como no leído. También podéis utilizar las etiquetas
+para clasificar vuestros mensajes. Cuando seleccionamos cualquier mensaje, podemos ir al botón Etiquetas y
+marcarlo en alguna de las etiquetas que tenemos you disponibles,
+Familia, Social, Promociones. Por ejemplo, vamos a guardarlo en Familia,
+lo marcamos, le damos a la opción Aplicar,
+y fijaos cómo al lado del mensaje nos indica con este recuadro que
+está etiquetado como Familia. Si a la izquierda buscamos más etiquetas
+para que nos las muestre todas, y hacemos clic en la etiqueta Familia,
+nos mostrará todos los mensajes que estén guardados o
+etiquetados como Familia. Aquí lo tenemos. Cuando etiquetamos un mensaje,
+no lo estamos enviando a esa etiqueta, a esa carpeta,
+sino que hacemos un enlace en esa carpeta. Por lo tanto, en Recibidos seguirá
+estando, lo único que hemos hecho es decirle que cuando pidamos
+todos los mensajes de esa carpeta concreta nos los muestre,
+pero siempre estarán en Recibidos. [SONIDO] Si queremos crear etiquetas nuevas, con el
+botón de Etiquetas buscamos la opción Crear nueva etiqueta, y aquí crearemos
+las etiquetas que necesitemos. Por ejemplo,
+vamos a hacer la Etiqueta Proyecto. [SONIDO] Esta etiqueta
+puede ser incluso una sub-etiqueta, es decir, una sub-carpeta,
+podemos marcar, anidar etiqueta en, e indicar que nos la ponga dentro de
+otra de las etiquetas you existentes. Creamos esta etiqueta,
+y ahora este mensaje que lo habíamos etiquetado como Familia lo
+vamos a etiquetar como Proyecto. Fijaos que al etiquetarlo como Proyecto
+todavía sigue activa la etiqueta Familia, es decir, un mensaje lo podemos
+etiquetar con varias etiquetas a la vez. [SONIDO] Fijaos cómo marca que está etiquetada
+como Familia y como Proyecto. Para eliminar cualquiera de estas
+etiquetas para ese mensaje, simplemente volvemos al botón de
+Etiquetas, y desactivamos la que queramos. Una vez desactivado, siempre nos vamos
+hasta el final, haced clic en Aplicar. you no tiene ninguna etiqueta. Si habéis creado una etiqueta y la queréis
+eliminar, el botón de etiquetas tiene la opción Administrar etiquetas
+para que podamos eliminar, mostrar ocultar cualquiera
+de las etiquetas. Si miramos en la parte final, vemos la
+etiqueta Proyecto y podremos ocultarla o mostrarla, si la hemos ocultado,
+o la podremos eliminar o modificar. En este caso,
+la etiqueta Proyecto la queremos eliminar, hacemos clic en Eliminar, aceptamos,
+y ahora volvemos a Recibidos, y you no tenemos la etiqueta
+Proyecto que habíamos creado. Una vez seleccionado o abierto un mensaje, aparece el botón Eliminar
+que lo envía a la papelera. Seleccionamos por ejemplo este mensaje,
+aquí aparece el botón Eliminar, damos clic, y este mensaje ha
+sido enviado a la Papelera. Vamos a comprobarlo, vamos a Más etiquetas
+para que nos muestre todas las etiquetas, y aquí tenemos la Papelera. Pedimos y nos muestra los
+mensajes que hayamos eliminado. Si queréis recuperar alguno de estos
+mensajes porque no queríamos eliminarlo, lo seleccionáis, y con el botón Mover a,
+indicamos a qué carpeta queremos enviarlo. En este caso,
+lo volvemos a enviar a Recibidos. you lo hemos quitado de la Papelera y lo
+hemos devuelto a su posición original. Lo podemos enviar con este botón Mover a,
+a cualquier carpeta, y eso cualquier mensaje de cualquier
+sitio podemos enviarlo donde queramos. Los mensajes eliminados
+pasan a la Papelera y se mantienen almacenados durante 30 días. Si a los 30 días no hemos vaciado esa
+Papelera, se suprimirán automáticamente. Podéis vaciar vosotros la
+Papelera con este enlace, Vaciar la papelera ahora,
+y limpiará toda la papelera. Podéis hacerlo así, o seleccionando todos
+los mensajes con el botón de Seleccionar, el superior, y utilizar el
+botón Eliminar definitivamente; o podéis eliminar uno por
+uno con su ícono de papelera que aparecerá siempre al lado de
+cada uno de los mensajes eliminados. Los números de teléfono los guardamos
+en una agenda, de la misma manera nos interesará guardar nuestras
+direcciones de correo en una agenda. Gmail nos proporciona los contactos que
+es la agenda de direcciones de correo. La ventana de Contactos
+os servirá para organizar las direcciones de correo o contactos. Os permite añadir, editar, borrar, buscar las direcciones de correo de las
+personas con las que os comunicáis. Además, podéis almacenar el nombre, el
+teléfono y otros datos de estas personas. Para acceder a esta ventana de contactos, seleccionáis en el botón
+Gmail la opción Contactos. Nos abrirá una nueva pestaña con los
+contactos que tengamos guardados. Aquí tenemos el listado de contactos con
+el nombre del contacto y la dirección. A la derecha de cada uno de los contactos, veréis un lápiz que es el botón Editar. Con este botón podréis añadir
+y modificar información, el nombre, la dirección, la foto,
+podemos añadir fotos, escribir un apodo, el nombre de la empresa, añadir teléfonos,
+direcciones, como cualquier agenda. [SONIDO] Para crear un nuevo contacto,
+utilizamos el botón Añadir nuevo contacto, que encontramos
+en la esquina inferior derecha. Damos clic en este botón y nos pedirá
+que le pongamos el nombre del contacto, por ejemplo, ponemos Juan, damos clic
+en el botón Crear y ponemos sus datos. Podéis añadir los datos que queráis, pero como mínimo introducid el
+nombre y la dirección de correo. [AUDIO_EN_BLANCO] Si queréis eliminar algún contacto,
+simplemente lo seleccionáis. En la casilla de la
+izquierda del contacto, la marcáis,
+y arriba tendréis el botón Eliminar. De esta manera eliminaríamos cualquier
+contacto que tengamos seleccionado. Podéis agrupar una serie
+de contactos en un grupo. Los grupos se utilizan para enviar
+un mismo mensaje a varias personas. Con estos grupos os ahorraréis tener
+que escribir el nombre de todas las personas cada vez que queráis
+enviar un mensaje al mismo grupo, you que simplemente tendréis que escribir
+o seleccionar el nombre del grupo. Para crear un grupo clica
+el enlace Grupo nuevo, que encontraréis a la
+izquierda de la ventana. Dentro del apartado Grupos, os aparecen los grupos que you vienen
+predefinidos y la opción Grupo nuevo. [SONIDO] [SONIDO] Escribiremos el nombre del grupo,
+por ejemplo le ponemos Proyecto, damos clic en Crear grupo,
+y you tenemos el grupo creado, ahora solo nos falta añadir las
+direcciones que corresponden a este grupo. Podéis volver a visualizar
+todos los contactos utilizando la opción Todos los contactos
+de la izquierda de la ventana, y cada vez que queráis ver el contenido de
+un grupo lo buscáis y le hacéis un clic. Damos clic en Proyecto y nos
+mostraría sus direcciones. Para añadir un contacto a un grupo,
+podemos hacerlo de dos maneras. Una es buscar el contacto,
+por ejemplo aquí Marta, entramos en su ficha, y en la parte inferior encontraremos
+el enlace Añadir a grupos. Damos clic, y buscamos el grupo al
+cual queramos añadir este contacto, en este caso, a Proyecto. Fijaos que el cuadro no
+desaparece porque podemos añadir este contacto a diferentes
+grupos a la vez. Podría ir marcando los
+grupos que yo quisiera. Una vez you seleccionado, clic fuera de la ventanita,
+y you podemos salir del contacto. Si vamos a ver al grupo, you nos aparece ese contacto y esa
+dirección dentro del grupo. Si tenéis que añadir varios contactos,
+lo más cómodo es hacerlo dentro del grupo. Una vez dentro del grupo, tenemos en la esquina inferior
+derecha el botón Añadir persona. Si hacemos clic podremos ir
+escribiendo el nombre de las personas que queramos añadir,
+y así las vamos buscando. Cada vez que clicamos podemos
+añadir una nueva persona. Y así añadiremos todas las direcciones
+que correspondan a ese grupo. [SONIDO] Para eliminar uno de esos contactos de este grupo,
+pues seleccionamos y a la derecha, dentro de Más acciones, encontraremos
+la opción Eliminar de este grupo. Fijaos que hay dos, normalmente
+utilizaremos Eliminar de este grupo, así desaparece el contacto de este grupo, pero continuamos teniéndolo
+en todos los contactos. Si pidiéramos Eliminar, lo eliminaríamos
+también de todos los contactos. Damos Eliminar de este grupo, y you no
+pertenece ese contacto a este grupo. Si queremos eliminar el grupo, en la parte superior encontraremos
+el botón Eliminar el grupo. [SONIDO] Nos avisa de
+que contiene contactos, podemos optar entre conservar los
+contactos en la agenda, pero eliminar el grupo, o eliminar el grupo y los
+contactos que pertenecen a este grupo.

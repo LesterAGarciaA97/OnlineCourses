@@ -1,0 +1,133 @@
+[MÚSICA] [MÚSICA] Para aprender a utilizar
+el correo electrónico, utilizaremos el correo de Google,
+Gmail, uno de los más utilizados. Si tenéis otro proveedor de correo,
+Microsoft, Yahoo o cualquier otro,
+encontraréis algunas diferencias, pero básicamente tienen
+el mismo funcionamiento. Tened presente que Google cambia
+a menudo la interficie de su correo y, por tanto, es posible que no
+veáis en vuestro ordenador exactamente lo mismo que veréis en
+los vídeos, pero será muy parecido. Si no tenéis correo de Gmail, lo podéis crear gratuitamente
+siguiendo los siguientes pasos. Nos conectamos a la página de Google, escribimos la dirección en
+la barra de direcciones. [SONIDO] En esta página de Google encontraréis en la
+esquina superior derecha un enlace, lo pone Gmail, este es el enlace
+que me permite entrar al correo. Damos clic en Gmail, y aquí encontraremos en la parte superior
+un botón que pone crear una cuenta. Por aquí podemos crear nuestra
+cuenta del correo gratuito. Damos clic, y aquí nos aparecerá
+un formulario que debemos rellenar con nuestros datos y seguir los
+pasos que nos vaya indicando Google. Una vez realizados estos pasos, you dispondréis de un correo
+electrónico gratuito. Podéis acceder al correo Gmail desde
+cualquier ordenador que tenga conexión a internet,
+os conectáis a la página de Google, y clicáis el enlace Gmail que encontraréis
+en la esquina superior derecha. Abriremos en la página inicial de Gmail,
+donde deberemos de identificarnos. Si es la primera vez que
+se utiliza en el ordenador, deberemos escribir nuestro nombre
+de usuario y nuestra contraseña. Si you lo hemos utilizado alguna vez,
+aparecerá directamente nuestro usuario y solo hará falta que
+escribamos la contraseña. Si lo utiliza más de una persona, encontraréis en la parte inferior de la
+pantalla un enlace Iniciar sesión con una cuenta diferente, que permite elegir
+el usuario que va a entrar al correo. Si hacemos clic en este enlace,
+veremos que nos aparecerán todas las direcciones de las personas que utilizan
+este ordenador, y un botón Añadir cuenta, que nos permite añadir nuevos usuarios. Para entrar en nuestro correo
+simplemente hacemos clic en el botón correspondiente a nuestro
+correo y nos pedirá la contraseña. Escribimos, e Iniciar sesión. Se conectará con el servidor y cargará todos los mensajes nuevos
+que hayamos recibido. you estamos en la ventana
+de nuestro correo. Veremos una lista de mensajes,
+algunos de ellos marcados en negrita como éste primero, que significa
+que ese mensaje todavía no está leído, en cambio, el segundo que no está en
+negrita, you lo hemos leído alguna vez. En esta pantalla nos fijamos
+básicamente en dos partes. A la izquierda, tenemos los enlaces para
+decidir qué queremos ver; en principio, para ver los mensajes recibidos,
+haremos clic en el enlace Recibidos. Tenemos otras opciones,
+Mensajes destacados, que habíamos marcado; Mensajes
+importantes, los mensajes que hayamos enviado, podemos elegir qué tipo
+de mensajes queremos visualizar. También encontraréis el enlace
+Más etiquetas, que nos permitirá localizar más carpetas donde podemos
+guardar mensajes; en principio, son carpetas que you vienen predefinidas,
+pero que nosotros podemos crear alguna nueva, de manera que nos
+permita clasificar nuestros mensajes. En la parte superior encontraréis
+unos botones que nos permitirán algunas funciones básicas. Tenemos el botón de Seleccionar,
+para seleccionar determinados mensajes, Todos los leídos, los No leídos, etcétera. El botón de Actualizar; si
+mientras estábamos leyendo algún mensaje hemos recibido un
+mensaje nuevo y no nos aparece, haciendo clic en el botón de Actualizar,
+nos aparecerá en la lista de Mensajes. Normalmente, suele hacerlo de forma
+automática, pero por si acaso, siempre podemos hacer clic para asegurarnos
+que no haya ningún mensaje nuevo. Y luego, tenemos el botón de Más, con alguna opción dependiendo
+de lo que estemos haciendo. También disponemos de unos
+botones a la derecha, para ir visualizando los diferentes
+mensajes, siguiente, anterior. Podemos elegir el idioma y
+tenemos el botón de Configuración con toda una serie de parámetros
+generales del correo. En el listado de Mensajes, la información
+está distribuida en columnas. Clicamos la primera columna,
+nos aparece una casilla de selección, nos permitirá seleccionar
+uno o varios mensajes. Automáticamente, cuando seleccionamos
+cualquiera de los mensajes, nos aparecen nuevos botones en la parte
+superior con diferentes funciones que podemos pedir sobre ese o
+esos mensajes seleccionados. Por ejemplo,
+tenemos el botón para eliminar el mensaje, hacemos clic al mensaje,
+ha sido eliminado; en realidad, ha sido enviado a la Papelera,
+you nos lo indica con este mensaje. La segunda columna nos permite
+destacar algún mensaje, haciéndole clic y marcamos ese mensaje,
+lo destacamos. La tercera columna nos
+permite algo similar, nos permite indicar que
+ese mensaje es importante. En estos momentos tenemos
+el primer mensaje destacado y el segundo
+marcado como importante. A continuación, nos aparecerá el
+remitente quien ha enviado ese mensaje, después veremos el título, el asunto del
+mensaje, con el principio de ese mensaje. Y al final, encontraremos la hora o
+la fecha de recepción del mensaje. Estos mensajes que hemos destacado o
+marcado como importantes podremos verlos a la izquierda, en la columna Exploración,
+seleccionando Descatados o Importantes. Si hago clic en Destacados, me mostrará
+solo los mensajes que hayamos destacado. Si hago clic en Importantes, me enseñará solo los mensajes
+marcados como importantes. Podemos utilizar estas marcas para poder localizar fácilmente algunos mensajes que
+queremos destacar o que son importantes. Podéis leer un mensaje haciéndole clic en
+cualquier parte de la línea del mensaje. Se abrirá una ventana de lectura
+donde aparece el texto del mensaje, aparte de otras informaciones. Fijaos, en la parte superior,
+os aparecerán unos botones con las funciones que podemos
+realizar sobre este mensaje. Podemos volver a la carpeta de Recibidos
+para volver a ver la lista de mensajes, es decir, cerrar el mensaje,
+podemos archivar ese mensaje, podemos marcarlo como spam, eliminarlo,
+podemos mover ese mensaje a otra carpeta, podemos etiquetarlo, y en el último
+botón encontraremos a una o dos opciones más como Marcarlo como no leído,
+Como importante, No destacarlo, etcétera. En la parte superior del mensaje,
+encontraremos una información importante. Veremos el título del mensaje,
+veremos a quién ha sido enviado el mensaje y quién lo ha recibido. Importante la parte de quién ha recibido porque es posible que ese mensaje haya
+sido enviado a más de una persona. En este apartado es donde yo podré ver
+si realmente este mensaje lo he recibido solo yo o lo ha recibido
+más destinatarios. Y por último, a la derecha veremos
+la hora y fecha de recepción; si es del día solo veremos la hora, si es
+de algún día anterior veremos la fecha. Una vez leído el mensaje, podemos regresar
+a la lista con el botón de Volver a recibidos, o directamente si tenemos el mensaje abierto podemos
+dar clic a la izquierda en Recibidos. Lo que sea más cómodo. Aparte del texto que contenga un mensaje,
+podemos recibir también archivos como fotos, presentaciones de
+PowerPoint, documentos de texto, etcétera. Nos lo indica con un clip a la derecha del
+mensaje, justo al lado de la recepción. Si abrimos un mensaje que
+contiene ficheros adjuntos, los mostrará a continuación
+de la cabecera. En este caso, vemos cómo hay tres
+archivos adjuntos a este mensaje. Nos indicará,
+cuando nos colocamos encima del archivo, el nombre,
+la extensión y el tamaño que ocupa. Disponemos de dos botones dentro del
+archivo que nos permiten descargar ese archivo, es decir,
+guardarlo en local o guardarlo en la nube. [SONIDO] Si no queremos descargarlos
+uno a uno o guardarlos uno a uno, a la derecha encontraréis los mismos
+botones Descargar y guardar en un drive, que nos permite descargarlos
+o guardarlos todos a la vez. Si antes de guardar o de descargar
+queréis ver de qué se trata ese archivo, simplemente le hacéis un clic
+y nos mostrará este archivo, sea una imagen,
+un PDF o cualquier otro documento. [SONIDO] Después you decidiremos
+si lo guardamos o lo descargamos. Podéis copiar todo o parte
+del contenido de un mensaje seleccionando la parte del texto
+que queráis copiar, por ejemplo, vamos a seleccionar esta línea, [SONIDO] y con el botón derecho
+hacemos clic y copiamos. you copiado,
+you podemos irnos a cualquier otro, otra aplicación como Word,
+y pegar el texto copiado. [SONIDO] Si queremos imprimir el mensaje, evitad utilizar
+la opción de imprimir del menú Archivo, puesto que se
+podría imprimir incorrectamente. Si os fijáis, en la parte superior
+a la derecha del título del mensaje, tenemos un ícono de una impresora. Utilizad este ícono para
+imprimir cualquier mensaje. Hacemos clic sobre el ícono, nos mostrará
+la ventana de Configuración de impresión, modificaremos lo que creamos necesario, la orientación, páginas a imprimir,
+como cualquier otra aplicación, y de esta manera imprimiremos
+correctamente el mensaje. Una vez you impreso, veréis que ha
+abierto el mensaje en una pestaña nueva, you la podemos cerrar,
+y continuamos con el trabajo de Gmail. Si tenéis alguna duda sobre
+el funcionamiento del correo, utilizad el botón de Configuración. Aquí encontraréis la opción Ayuda con
+todas las explicaciones necesarias.

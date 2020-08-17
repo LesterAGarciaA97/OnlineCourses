@@ -1,0 +1,90 @@
+[MÚSICA] [MÚSICA] En esta unidad, trataremos un servicio concreto de
+internet, el correo electrónico. En el primer apartado, trabajaremos conceptos relacionados con
+el correo, sus ventajas y sus riesgos, veremos otros servicios de comunicación y
+repasaremos algunos temas de seguridad. En el segundo apartado,
+aprenderemos a utilizar el correo, a leer mensajes,
+a enviarlos y a adjuntar ficheros. Y en el tercer apartado,
+veremos cómo organizar el correo, cómo buscar o marcar mensajes y cómo
+gestionar las direcciones de correo. Antes de empezar a trabajar con el
+correo electrónico, vamos a repasar qué es el correo electrónico, sus ventajas,
+y unos cuantos conceptos. El correo electrónico es uno de los
+primeros servicios de internet. Consiste básicamente en transmitir
+y recibir mensajes escritos. Permite adjuntar archivos al mensaje, y también permite aplicar
+formatos al mensaje. No es necesario que los ordenadores
+del emisor y del receptor estén usando simultáneamente el servicio,
+el mensaje se almacena en el servidor hasta que
+el destinatario consulta el correo. Es entonces cuando llega a su ordenador. El correo se puede gestionar con
+aplicaciones como Microsoft Outlook o Mozilla Thunderbird,
+o también desde página web, el webmail, como por ejemplo Yahoo,
+Hotmail, Outlook o Gmail. El correo electrónico tiene muchas
+ventajas respecto al correo tradicional. Tiene una gran inmediatez,
+evita el gasto de papel, tinta, sobre y franqueo,
+tiene una alta fiabilidad, es muy cómodo, permite enviar
+copias de un mensaje a varios destinatarios, permite
+enviar copias ocultas, y permite confeccionar agendas
+con las direcciones de correo. Pero también tiene algunos inconvenientes,
+como por ejemplo, el tamaño de los archivos adjuntados,
+comprobar cuál es el tamaño máximo que os permite enviar vuestro proveedor
+de correo, o también que el buzón se puede llenar; comprobad cuál es
+vuestra capacidad máxima de almacenaje. Ahora veremos algunos conceptos básicos. Lo primero que tenemos que
+tener claro es el concepto de Cuenta de correo electrónico. Para poder enviar y recibir correo
+electrónico hay que estar registrado en alguna empresa que ofrezca este
+servicio gratuito o de pago. El registro permite tener una
+dirección de correo personal o cuenta de correo electrónico
+a la que se puede acceder mediante un nombre de usuario
+y una clave de acceso. ¿Cuál es la estructura de
+una dirección electrónica? Una dirección electrónica tiene
+dos partes, el nombre de usuario, que escoge el usuario y no puede
+contener espacios, por eso acostumbramos a utilizar un punto como separación
+cuando ponemos más de una palabra como nombre de usuario; y la
+segunda parte sería el dominio, que es el nombre del servidor de
+correo donde tenemos la cuenta. Las dos partes se separan
+con el signo arroba. Las compañías de telefonía
+móvil ofrecen el servicio de envío de mensajes cortos de texto,
+o SMS, como correo electrónico. Nuestro teléfono tiene asignada una
+dirección de correo electrónico, normalmente el número de teléfono
+arroba nombre de la empresa punto com. Si enviamos un email
+a través de esta dirección, llegará al móvil como si se tratara
+de un SMS y de forma gratuita. VoIP es la tecnología que permite mantener
+conversaciones de voz en internet. Hay una serie de normas no obligatorias
+que es aconsejable seguir cuando se crea un mensaje,
+esto se llama Netiqueta. Netiqueta si escribís esta palabra
+en cualquier motor de búsqueda, encontraréis muchas páginas donde se
+habla de estas normas de buena educación. La mensajería instantánea, MI, es un
+sistema que permite intercambiar mensajes entre dos o más personas en
+tiempo real utilizando Internet. A diferencia del correo electrónico, los interlocutores han de estar
+conectados al mismo tiempo. La última generación de programas de
+mensajería permite utilizar webcam, micrófono, o compartir
+juegos y aplicaciones. En Internet,
+las comunidades virtuales o redes sociales son grupos de personas con las cuales
+se comparte algún interés en común y que se ponen en contacto
+a través de sitios web, forums, blogs, chats, juegos en línea, etcétera. Los objetivos principales de la comunidad
+virtual son intercambiar información, ofrecer apoyo, conversar y socializar de
+manera informal, y debatir cualquier tema. Ejemplos de redes sociales son Facebook,
+Twitter o Wikipedia. Hay que ir con mucho cuidado
+con la información que damos you que no sabemos quién
+accederá a esta información, y también hay que ser muy prudente
+a la hora de admitir nuevos contactos. Ahora vamos a conocer algunos conceptos
+relacionados con la seguridad. Una de las vías más habituales de
+contagio de virus es a través del correo electrónico, y concretamente
+a través de ficheros adjuntos. No abráis archivos adjuntos si no
+estáis seguros de dónde provienen, y si vuestro antivirus
+detecta un fichero infectado, no lo abráis hasta que lo haya limpiado. El correo basura, o correo spam, son mensajes enviados
+indiscriminadamente y de forma masiva sin el consentimiento de los receptores;
+normalmente son mensajes comerciales, aunque también son frecuentes los engaños con intención de sacar
+provecho económico de las víctimas. Es recomendable no contestar nunca al
+spam, you que el remitente le puede servir de confirmación que la dirección
+electrónica existe y está en uso. Las aplicaciones de correo
+pueden filtrar estos correos. Seleccionad el mensaje y buscad una opción
+que se llame Enviar a correo no deseado, o algo parecido,
+y el mensaje lo guardará en una carpeta. A partir de ahora, no os volverá a mostrar
+ningún mensaje de este remitente. El phishing es un fraude que se
+hace con un correo electrónico con el que se piden datos sobre
+tarjetas de crédito o claves bancarias. Los mensajes utilizan todo tipo de argumentos para justificar la necesidad
+de introducir los datos de acceso, y muchas veces parece realmente que os
+lo envía, por ejemplo, vuestro banco. Nunca respondáis un correo
+dando datos personales. La firma digital es un
+mecanismo de cifrado para autentificar información digital. Adjuntando la firma digital
+a los mensajes, conseguimos que el receptor esté seguro de que el
+mensaje proviene de la persona que se indica en el remitente y que el mensaje
+no sea alterado durante la transmisión. [AUDIO_EN_BLANCO]

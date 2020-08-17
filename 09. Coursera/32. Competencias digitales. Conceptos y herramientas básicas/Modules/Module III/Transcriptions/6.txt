@@ -1,0 +1,109 @@
+[MÚSICA] Como hemos visto antes, la aplicación guarda
+todas las páginas que hemos visitado en el historial, puede ser que
+no nos interese que se visualice ese historial de páginas visitadas,
+entonces, necesitaremos eliminarlo. Para limpiar ese historial podéis
+utilizar las configuraciones, nos vamos al menú Herramientas y al
+final de este menú encontraremos Opciones de Internet, que contiene
+las configuraciones más importantes. Abrimos las opciones, en la pestaña
+General encontraremos el botón Eliminar. Fijaos dentro del apartado Historial
+de Exploración, yo puedo eliminar y en la ventana que me
+aparece activar solo el apartado Historial y pedir eliminar,
+de esta manera borraría todo el historial. Si fueramos, después de hacerlo, al botón
+de Favoritos del historial, a la estrella, veríamos que no hay ninguna página que
+muestre como visitada recientemente. Fijaos que en realidad
+esta opción de eliminar no es solo para eliminar el historial,
+me permite eliminar otras cosas, puedo eliminar las cookies, las galletas, si por error he aceptado unas cookies
+de una web que no me interesaba, puedo venir a esta opción,
+activar cookies y eliminar. Puedo eliminar los archivos temporales,
+la memoria caché, es decir, aquellas páginas que ha guardado en mi
+disco duro, recordad que el navegador, tal como va visitando páginas,
+las va guardando en el disco duro. Si quiero hacer limpieza, simplemente
+activo esta opción y pido eliminar. También puede eliminar, por ejemplo,
+el historial de descargas, aquí queda guardado todos los archivos
+que yo he descargado o los datos que he introducido en los formularios
+o las contraseñas que he guardado, es decir,
+cualquier cosa que yo voy haciendo, normalmente queda guardada y yo puedo
+limpiarlo desde este cuadro de diálogo. Mucho cuidado con las contraseñas,
+pensad que muchas veces la aplicación nos pide si
+queremos guardar la contraseña para no tener que escribirla cada vez que
+queremos entrar en esa página. Si le decimos que sí, esa contraseña queda guardada en nuestro
+disco duro y por lo tanto, cualquier persona externa con conocimientos
+podría acceder a esas contraseñas. Lo ideal es nunca guardarlas, aunque nos parezca que sea cómodo no haber
+de escribir la contraseña continuamente. Si por error hemos aceptado
+que guarde la contraseña, venís a esta opción, Configuración,
+Opciones de Internet, pedimos eliminar y activar
+la opción de contraseñas. Eso sí, antes de dar al botón de eliminar,
+comprobar que tengáis activada solo aquellas
+cosas que realmente queréis limpiar. Muchas veces, cuando entramos en alguna
+página web, se nos abren varias ventanas, parte de la ventana principal van abriendo
+otras ventanas, normalmente más pequeñas, esto son lo que se llama
+ventanas emergentes. La aplicación está preparada para
+protegernos de estas ventanas emergentes porque suelen utilizarlas para
+introducir virus a nuestro ordenador. Si, por ejemplo, ahora vamos
+a entrar en la página de Masters, al hacer clic como tiene que abrir una
+nueva ventana, nos hace un aviso, fijaos en la parte inferior, Internet Explorer
+bloqueó un elemento emergente de esta web. En realidad, no lo hubiera hecho,
+lo que ha hecho es protegerlo al máximo para que me diera ese
+mensaje y lo pudierais ver. ¿Qué opciones tengo? Permitir, si yo estoy seguro que no
+hay ningún problema, le digo permitir y me mostrará esa página y si no quiero
+que me lo vuelva a preguntar más, en el botón Opciones para este sitio,
+elegiría permitir siempre. Si lo tengo muy claro, permitir siempre y
+you me olvido, si no lo tengo muy claro, pero quiero ver esa ventana,
+utilizaré permitir una vez. Si queréis configurar esta protección de ventanas emergentes,
+lo podéis hacer con el menú Herramientas, aquí encontraréis la opción
+Bloqueador de Elementos Emergentes. Fijaos que, por ejemplo, tenemos you una opción que dice Permitir
+Elementos Emergentes Temporalmente, si no quiero que vaya preguntando,
+pero que la protección continúe, mejor utilizar éste,
+no preguntará durante la sesión, pero sí las próximas veces
+que volvamos a abrir. Aquí también podemos desactivarlo y
+visitar las web sin ningún problema, siempre y cuando estemos seguros de que no
+hay ningún problema o podemos configurar. La opción de Configurar nos permitirá
+añadir direcciones de páginas que nosotros sabemos que son seguras, si
+you sé que las páginas de la universidad, pues, son seguras, escribiría aquí
+la dirección de la universidad, la REIB, www.uab.cat, diría, por ejemplo. Podéis escribirla o podéis copiarla antes
+de entrar aquí en la configuración. [SONIDO] Por ejemplo, yo escribo esta dirección,
+la agrego y él you sabe que cualquier página de esta web,
+de este servidor, si tiene elementos emergentes no
+hace falta que nos los bloquee. you no preguntará y los mostrará, eso sí,
+cuando añadáis aquí direcciones que sepáis que realmente son seguras, en principio
+empresas con nombre e instituciones, páginas que no sabemos bien de quién son,
+mejor no hacerlo e ir determinando en cada emergente
+que salga si nos interesa verla o no. Igual que podemos bloquear la apertura de elementos emergentes, también podemos
+controlar las cookies, las galletas. En el menú Herramientas,
+si pedimos Opciones de Internet y buscamos la pestaña Privacidad, encontraremos
+dos botones, Sitios y Avanzada. Al hacer clic en Avanzada, veréis que podréis indicar si
+aceptáis o no las cookies. Lo ideal sería activar las
+opciones de preguntar, de manera que no aceptemos ninguna cookie,
+sino que le obliguemos a preguntarnos, cada vez que entremos en alguna página
+que nos pueda activar alguna cookie, siempre nos lo preguntará, entonces
+nosotros decidiremos si nos interesa o no. También disponemos del botón Sitios,
+que es parecido al que hemos visto con los elementos emergentes, que me
+permite escribir aquellas direcciones, a las cuales impido el
+acceso a las cookies o permito que estas se instalen. Eso sí, siempre que permitáis, tener
+claro que esa web realmente es segura, sino estáis dando acceso
+a todas vuestras referencias, vuestros gustos, estáis dando
+acceso a mucha información vuestra. [SONIDO] Cuando abrimos un navegador,
+nos lo abre en una determinada página, que es lo que llamamos la página de
+inicio, esta página suele ser la página de Microsoft o la página de la empresa o
+institución donde estamos trabajando, pero nosotros podemos decidir cuál es
+nuestra página inicial, de manera que cuando hagamos clic en el botón de
+la casita, me dirija a esa página, tanto cuando abra la aplicación como
+cuando haga clic en este botón. Para hacerlo, primero nos tenemos que
+desplazar a esa página, abrimos la página, normalmente solemos utilizar la
+página de Google como página inicial, porque es una página que utilizamos mucho. Nos conectamos a la página de Google y una vez you estamos en esta página,
+en el menú Herramientas, pedimos Opciones de Internet,
+entramos en la configuración. Aquí tenemos en la pestaña General,
+las opciones de página principal, ahora me dice que mi página principal
+es la de Microsoft; si hago clic en Usar Actual, actual es la de Google,
+la que tenemos activa en este momento, me pone you la dirección de Google. Aquí puedo o escribirla o más práctico, entrar en la página y
+hacer clic en Usar Actual. De esta manera aceptamos y ahora nuestra aplicación you sabe
+que nuestra página inicial es ésta. Si ahora cerrara la aplicación o me
+desplazo a cualquier otra página, esté donde esté o cuando abra la
+aplicación, si hago clic en página principal, se dirige a la página de
+Google que es mi página inicial. Pensad que esto lo vais a utilizar
+más a menudo de lo que pensamos, porque muchas veces cuando instalamos,
+según qué programas, nos cambia la página inicial,
+cuando os encontréis en ese caso, que abráis vuestro navegador y os
+aparece otra página como página inicial, seguir esos pasos, buscar la página que
+realmente queráis, Herramientas, Opciones de Internet y allí le pedís que use la
+actual, la que acabéis de visualizar. [AUDIO_EN_BLANCO]

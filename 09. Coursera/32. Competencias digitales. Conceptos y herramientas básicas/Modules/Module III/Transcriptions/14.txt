@@ -1,0 +1,128 @@
+[MÚSICA] [MÚSICA] Para escribir un nuevo mensaje,
+hacemos clic en el botón redactar. Aparece aquí a la derecha la
+ventana de edición de mensajes donde debemos introducir tres
+informaciones importantes, la primera dentro del campo para,
+escribiremos la dirección de la persona o personas a las cuales
+queremos enviar el mensaje. Si esa persona you ha recibido algún
+mensaje nuestro o lo hemos guardado en los contactos, you nos aparecerá tal como
+vayamos escribiendo su dirección o su nombre nos aparecerá su dirección. Una vez nos la ha mostrado, hacemos clic y nos ahorramos tener
+que escribir la dirección entera. La primera vez que utilicemos
+Gmail como es lógico, no dispondremos de ninguna dirección, pero tal como vamos utilizando, van
+apareciendo cada vez más y al final casi nunca deberemos introducir la dirección,
+simplemente la empezamos a escribir. Si nos hemos equivocado, fijaos cómo la
+dirección contiene la cruz para anularlo. La segunda información que
+debemos introducir es el asunto, es decir el título del mensaje. [SONIDO] Y por último el texto del mensaje. Tenemos por debajo del
+asunto este espacio más grande de la ventana donde escribiremos
+el mensaje que queremos enviar. Una vez rellenados estos tres datos, you podemos hacer clic en el botón
+de enviar y nos enviará el mensaje. Este mensaje quedará guardado
+en la carpeta enviados. De manera que siempre disponemos
+de estos mensajes para comprobar qué mensajes hemos enviado. Si mientras estáis escribiendo un mensaje,
+decidís que no queréis hacerlo y queréis anularlo, tenéis abajo a la
+derecha el botón de descartar. Clicando este botón, descartamos ese mensaje y volvemos
+a la ventana de mensajes. Si no queréis enviarlo pero no
+queréis perder lo que habéis escrito, simplemente lo cerráis,
+cerráis esta ventana, fijaos cómo el botón de cerrar nos indica
+que lo que va a hacer es guardar y cerrar. Lo que hace es guardar un borrador. Cerramos la ventana y si
+nos fijamos a la izquierda, en la etiqueta de borradores nos aparece
+uno, nos dice que hay un borrador. Vamos a ver qué borradores tenemos,
+nos muestra este borrador que es precisamente el
+mensaje que estábamos escribiendo. En cualquier otro momento puedo
+venir a borradores, abrir el mensaje y continuar con este mensaje o enviarlo
+definitivamente si you estaba acabado. [SONIDO] Cuando enviéis un mensaje, puede ser que ese mensaje no llegue,
+puede haber algún error. Si nos avisa de que no puede enviarlo, entonces lo que significa es que la
+dirección del servidor no es correcta. Siempre en una dirección de correo
+tenemos dos partes, la primera el nombre de usuario y la segunda después
+de la arroba el nombre del servidor. Pues en este caso si al enviar enseguida
+nos sale un mensaje de la aplicación avisando de que no puede enviarlo, es que
+hay un error en el nombre del servidor. Lo comprobaremos seguramente
+lo habremos escrito mal. Si no nos da ningún error y envía el
+mensaje pero al cabo de muy poco tiempo recibimos un mensaje en nuestro correo
+indicando que ha habido un error, entonces es que el error está en la
+dirección, en el nombre del usuario, o ese usuario no existe
+o lo hemos escrito mal. Si el mensaje que vamos a redactar
+va dirigido a un solo destinatario, escribimos su dirección directamente
+en el campo de para, si quiero enviar ese correo a más personas puedo
+seguir escribiendo dentro de este campo, y seguir añadiendo tantas
+direcciones como necesite. También podéis hacer otra cosa, y es
+utilizar el campo CC, copia de correo. Si hacemos clic aquí en CC, nos mostrará una nueva línea donde
+yo puedo añadir direcciones. En este caso vamos a poner otra más. Si yo hubiera puesto las dos direcciones
+en para, los dos recibirían el mensaje. Si pongo una dirección en para y otra en
+CC, los dos también recibirán el mensaje. ¿Cuál es la diferencia? Que cuando recibimos mensajes
+de este tipo sabemos que Johan es el receptor principal
+de ese mensaje y que Joaquín es un receptor secundario, es como una copia,
+se le envía una copia pues para que sepa que ha sido enviado ese
+mensaje a Johan en este caso. También podemos añadir una tercera línea
+que es la línea CCO, si hacemos clic en CCO nos muestra la tercera línea
+que es copia de correo oculta. ¿Qué significa? Que si yo escribo una dirección aquí
+por ejemplo para Jordy, tal y como está puesto, el mensaje lo recibirán los tres,
+Johan, Joaquín y Jordy. Ahora bien, tanto Johan como Joaquín no sabrán que Jordy
+también ha recibido ese mensaje. Todas las direcciones que pongáis
+en la línea de CCO son ocultas, son direcciones que nadie más
+sabe que ha recibido ese mensaje, eso sí Jordy sabe que Johan y
+Joaquín han recibido el mensaje. Si lo que nos interesa por el motivo que
+sea, es que nadie sepa que los otros han recibido el mensaje, escribid
+todas las direcciones en el campo CCO. De esta manera todo el mundo creerá que
+ese mensaje lo ha recibido solo él. Dependiendo del trabajo
+que tengamos que realizar puede ser importante el uso de estos
+campos, el para, el CC y el CCO. El mensaje que escribáis podéis editarlo
+como lo haríamos en un procesador de texto, no tendríamos tantas funciones
+como es lógico pero sí las mínimas. Cualquier texto que
+tengamos escrito podremos seleccionarlo y modificarlo
+con los botones de formato. A la derecha del botón enviar
+encontraremos el botón opciones de formato, hacemos clic y nos
+muestra las herramientas básicas, tipo de letra, tamaño de letra, negrita, cursiva, subrayado, color de letra, alineaciones, viñetas,
+sangrías, lo básico. Aparte disponéis de otros botones a continuación del de formato para
+adjuntar archivos que queramos añadir, para insertar documentos que
+tengamos guardados en la nube, para insertar imágenes,
+por ejemplo me interesan no adjuntarla, no acompañar ese mensaje con un archivo,
+sino que aparezca dentro de ese mensaje, de esa imagen,
+podemos utilizar este botón, insertar foto y colocar
+cualquier imagen que tengamos. De manera que no viene como un documento
+adjunto sino que se ve directamente dentro del mensaje de texto. Podemos reducir esa imagen
+si es necesario, también podemos añadir enlaces
+a páginas web o a correos electrónicos, podemos escribirla
+directamente o escribirlo con este botón. Y por último también
+podremos añadir emoticones. [SONIDO] No tenemos muchas herramientas de edición
+pero sí las básicas indispensables suficientes para que el
+mensaje quede un poco bien. Es posible que una vez
+recibido un mensaje, queráis enviar una copia a alguien
+o queréis responder al remitente. Una vez hemos abierto el mensaje,
+si hacemos clic en el botón más a la derecha de la cabecera del
+mensaje, encontraréis varias opciones, las dos primeras responder y reenviar son
+las que utilizaremos para estas funciones. Si yo lo que quiero es responder a esta
+persona que me acaba de enviar el mensaje, haré clic en responder y me creará un
+nuevo mensaje con la dirección de la persona que me ha enviado y lo único que
+me queda por hacer es escribir el mensaje, la respuesta. Enviamos y he sacado la dirección, el
+título no hace falta, la dirección you la pone él, el título del mensaje será
+RE: y el título del mensaje recibido, así la persona que recibe la respuesta
+sabe que es mensaje no es un mensaje cualquiera sino que es la respuesta
+a un mensaje que él había enviado. Si en lugar de responder
+utilizamos reenviar, lo que haremos es enviar una copia
+de este mensaje a otra persona. En este caso, lo que haremos es escribir la dirección de la persona a la
+cual queremos enviar esa copia. Y you está, el mensaje entero con adjuntos
+incluidos será enviado a esa persona. Por educación escribiríamos alguna
+cosa en el mensaje para indicar lo que estamos haciendo, lo típico,
+te estoy enviando una copia de esto porque creo que te puede interesar,
+y enviamos el mensaje. Es decir, con este botón de más podemos
+responder mensajes o reenviar una copia. Si el mensaje ha sido
+enviado a más de una persona, aquí encontraréis una nueva opción que
+ahora no está que es responder a todos, esa os permite enviar la respuesta no solo a la persona que
+escribió ese mensaje, sino a todos los que han
+recibido el mensaje. Nuestro correo lo podemos configurar
+para adaptarlo a nuestras necesidades. En el botón configuración
+está la opción configuración donde encontraréis muchas opciones etiquetadas
+según su función. Es conveniente echar un vistazo
+a estas configuraciones para ver si alguna de ellas
+puede ser útil modificarla. Al modificar cualquiera de estas opciones,
+clicad el botón guardar cambios que encontraréis
+al final de la ventana. Vamos a ver algunos ejemplos. Si vamos a la etiqueta
+cuentas e importación, encontraremos la configuración
+cambiar la configuración de cuenta. Aquí podréis cambiar la
+contraseña de vuestro correo o cambiar las opciones de cómo recuperar
+esta contraseña en caso de olvido. También podemos por ejemplo, con la
+etiqueta general, generar una firma. Aquí en este campo podemos escribir
+lo que queremos que aparezca al final de cada uno de los
+mensajes que vamos a enviar. Podemos escribir texto,
+podemos editarlo con los botones de formato que tenemos aquí encima,
+y podemos también añadir imágenes. Todo lo que pongáis en este campo de firma aparecerá a partir de ahora al
+final de los nuevos mensajes.

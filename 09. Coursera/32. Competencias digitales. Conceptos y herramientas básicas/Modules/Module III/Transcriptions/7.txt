@@ -1,0 +1,117 @@
+[MÚSICA] Algunas páginas web pueden tener
+un formulario donde se pide introducir datos en una serie
+de campos que serán enviados. Como ejemplo tenemos la página web donde
+pedimos una cuenta de correo de gmail. Encontraremos campos donde
+escribir por ejemplo, el campo nombre o el campo apellidos y campos donde deberemos escoger una opción. De estos campos hay de dos tipos,
+los botones o casillas de opciones, por ejemplo aquí tenemos la opción establecer Google como página principal
+que podemos activar o desactivar, y tenemos también campos de opciones
+que son listas desplegables. Por ejemplo aquí en el campo
+sexo elegimos el sexo. Nos da todas las opciones disponibles. Por ejemplo también el campo mes,
+es decir podemos escribir un dato,
+elegir un dato o activar una opción. Si algún campo es obligatorio, siempre os lo indicara o con
+un asterisco o como este caso poniendo una frase en rojo avisando
+de que debe rellenarse ese campo. Mientras no se rellenen
+los campos obligatorios, el formulario no se puede enviar. Para desplazarse por los campos de
+un formulario podéis utilizar el ratón haciendo clic o podéis
+utilizar la tecla tabulador para ir avanzando en los
+diferentes campos del formulario. Cuando rellenamos formularios,
+hay que tener presente que toda la información que enviamos puede ser
+interceptada, no deberíamos enviar ningún dato si la página no
+utiliza el protocolo https, sobre todo en el caso de datos sensibles
+como contraseñas o datos bancarios. Una vez hemos rellenado el formulario,
+al final siempre encontraremos un botón que
+normalmente suele tener la palabra enviar que lo que hará es
+enviar todos esos datos. En este caso no tenemos enviar, tenemos siguiente paso porque todavía
+nos van a pedir más información. En internet hay mucha información
+y cada día habrá más. A primera vista parece
+que esto sea maravilloso porque sin salir de casa podemos
+acceder a cualquier información. Pero hay que saber distinguir entre
+lo que tiene valor y que es trivial, entre lo que es verdad
+y lo que es mentira. Internet es una herramienta muy poderosa
+que hemos de aprovechar pero hay que ser prudente ante este exceso de información
+que no tiene ningún control. A pesar de las claras
+ventajas de Internet, hay que tener también
+presentes sus inconvenientes. Como por ejemplo la sobre abundancia
+de información, cuando pedimos información sobre un determinado tema,
+encontraremos miles de respuestas. La estructuración de la información, una determinada información la
+encontraremos en lugares muy diferentes. La falta de normalización, no hay ninguna
+normativa que obligue a colgar información en Internet de una determinada manera,
+ni que garantice su veracidad. O la facilidad para publicar, cualquiera
+puede colgar información en Internet. Llegar a encontrar una determinada
+información haciendo clics en los enlaces, puede llegar a ser un trabajo
+muy difícil o imposible. Para ayudarnos en la
+búsqueda de información tenemos los motores de búsqueda. Los motores de búsqueda son
+páginas web dedicadas a facilitar la búsqueda de direcciones
+indicando palabras clave. El resultado de una búsqueda es un
+listado de páginas web que contienen las palabras especificadas. Dado que todos los motores de
+búsqueda utilizan sistemas similares, aquí explicaremos la manera de
+utilizar el más popular Google. Para hacer una búsqueda en un motor de
+búsquedas simplemente hay que escribir la palabra o palabras clave que me
+permitan obtener esa información. Vamos a suponer que buscamos información
+sobre Barcelona, escribiríamos la palabra, normalmente you nos ayuda dándonos varias opciones que
+podemos escoger directamente y nos muestra un listado de
+páginas donde aparece esa palabra. Fijaos en la parte superior nos
+indica cuántas páginas ha encontrado. En este caso 695 millones de páginas. Como es lógico,
+encontraremos muchísima información. Normalmente la información con mayor
+valor o la que nos seguramente será útil, la encontraremos al principio de este
+listado, de este listado que fijaos abajo tenemos mostrado
+en diferentes páginas. Normalmente solemos encontrar la
+información en la primera página. Más que nada porque cómo
+ordena Google estas páginas, no las ordena por orden
+alfabético sino por orden de uso, es decir siempre pondrá las primeras las páginas más visitadas que normalmente son
+las más útiles o las más importantes. A parte eso sí de algunas páginas
+con información publicitaria. Si queremos restringir la búsqueda,
+podemos añadir más palabras. Si en lugar de poner solo Barcelona
+ponemos Barcelona y ponemos museo, habremos restringido la búsqueda y
+no nos aparecerán tantas páginas. En realidad en este caso,
+solo nos mostraría aquellas páginas que en su interior o en su nombre
+contengan las palabras Barcelona y museo. En realidad es como si hubiéramos
+escrito Barcelona y museo. Y así podríamos escribir más opciones,
+por ejemplo y zoología. Y solo nos mostraría páginas que contengan estas tres palabras. Fijaos que no he puesto el acento,
+no es importante. Google no mira ni mayúsculas
+ni minúsculas ni acentos. También puedo utilizar otro operador,
+el y casi nunca lo utilizamos porque you por defecto you
+lo hace, pero puedo utilizar el o. De esta manera le estoy diciendo
+que me busque cualquier página que contenga una de esas dos palabras,
+con una es suficiente. También puedo,
+primero vamos a ver el resultado fijaos, como ahora solo tenemos 23 millones solo, pero you hemos restringido
+mucho la cantidad de páginas. También puedo escribir una frase literal, si yo quiero encontrar una frase
+exactamente como yo la escribo, lo que tendré que hacer es
+ponerla entre comillas. Por ejemplo,
+si yo pongo entre comillas en un lugar de la mancha,
+estoy diciendo que me busque páginas que tengan esta frase exactamente
+escrita de esta manera en su interior. No que busque la palabra mancha
+y la palabra la y lugar, no, la frase exactamente así. Fijaos como me aparecen 2 millones, más de 2 millones de páginas donde
+aparece este fragmento de texto. Ponerlo entre comillas es bastante útil
+porque restringe mucho la búsqueda. Aunque siempre nos encontraremos con
+millones o casi siempre de páginas, sobre todo con cosas tan usuales
+o tan buscadas como esta. Fijaos que en la parte superior
+nos indica que está buscando todo, es decir está buscando todas las
+páginas que haya en Internet, pero podemos también restringir indicando
+que solo nos muestre páginas que contengan imágenes sobre lo que estamos pidiendo,
+o solo vídeos o solo libros. Podemos ir restringiendo más
+la información, la búsqueda. También tenemos el botón herramienta de
+búsqueda que me mostrará más opciones como por ejemplo el tamaño, cuando se
+trata de imágenes, puedo pedirle que solo me muestre imágenes grandes,
+el color de las imágenes, etcétera. Cuando estamos buscando páginas, una de las opciones que me va muy bien
+de estas herramientas de búsquedas es el hecho de que puedo restringir
+la búsqueda en nuestro país. En este caso pediría España y you solo me
+mostraría páginas que estén en España, o puedo restringir también el idioma, pueden buscar en cualquier idioma o
+solo en el idioma de nuestro país. O puedo buscar por fecha de manera
+que busque páginas más actuales. Echadle un vistazo a estas opciones
+y you iréis viendo cuáles os puedan interesar más. Todas estas opciones de búsqueda y
+alguna más las encontraréis en el botón de opciones, concretamente
+en la opción búsqueda avanzada. Aquí tenemos la ventaja que nos muestran
+una sola ventana todas las opciones disponibles para restringir la búsqueda,
+qué palabras queremos, si queremos una frase exacta, lo que
+antes habíamos puesto entre comillas, si me sirve cualquiera de las palabras, si alguna palabra no quiero que aparezca,
+si hago búsquedas por números, el idioma, el país,
+la actualización de la página, y algunas más como por ejemplo el tipo de
+archivo, podemos especificar que solo me muestre páginas con formato de PDF o
+cualquiera de los formatos que nos muestra o por derechos de uso,
+páginas que tengan licencia o no, de manera que yo pueda saber que
+esa información la puedo utilizar. [SONIDO] Es decir, podemos filtrar información escribiendo,
+podemos utilizar cualquiera de las opciones de la parte superior o podemos
+cómodamente mirar las de búsqueda avanzada porque de aquí lo tendremos
+todo y junto en una sola pantalla. Aún así no olvidéis que siempre saldrá
+muchísima información y hay que tener mucho cuidado antes de utilizarla.

@@ -1,0 +1,85 @@
+[MÚSICA] [MÚSICA] Ahora vamos a ver cómo podemos capturar
+información de una página web. Por ejemplo, imaginemos que este texto que tenemos aquí de este artículo nos
+interesaría tenerlo en Word, pues, simplemente la técnica de
+copiar y pegar de toda la vida. Seleccionamos el texto,
+mucho cuidado cuando intentéis seleccionar algo dentro de una página de internet,
+porque hay muchos objetos por ahí, entonces, si es texto lo
+que quieres seleccionar, procurad ajustaros lo máximo posible
+para no seleccionar más de la cuenta. Fijaos que a lo que nos desviamos un poco y you seleccionaría un montón
+de texto que no nos interesa. Hay que tener un poco de
+paciencia cuando seleccionéis texto dentro de una página web. Una vez seleccionado,
+como siempre botón derecho, copiar, nos vamos a Word que you tenemos
+previamente abierto, botón derecho, pegar. you tenemos ese texto en Word
+para editarlo como queramos. Podemos copiar cualquier parte del texto, podemos copiar la dirección,
+porque alguien nos la ha pedido. Lo seleccionamos, botón derecho, copiar, vamos a nuestro correo o al Word,
+donde queramos, pegar. Podemos seleccionar un trozo de texto
+que incluya imágenes, por ejemplo, elijo esto de actualidad,
+la imagen y su texto; como os decía antes, seguramente seleccionaremos más de la
+cuenta, en este caso no puedo hacer nada. Con un poco de paciencia puedo llegar
+a conseguir que no coja más de la cuenta, pero a veces cuesta. Vamos a coger un trozo más grande para
+que veáis las dificultades que nos puede ofrecer, seleccionamos todo un trozo,
+lo copiamos, lo pegamos en el Word y aquí tenemos todo el texto,
+un poco desmontado, eso sí. Nos enganchará toda esa
+información que he copiado, pero distribuido de otra manera; el trabajo
+será nuestro ahora si queremos arreglarlo, utilizando las herramientas que nos
+ofrece Word no es tan complicado, como mínimo sabemos que
+está toda la información. [SONIDO] Si lo que nos interesa es una de
+las imágenes que estamos viendo, lo más cómodo es botón
+derecho sobre la imagen y aquí tenéis la opción Guardar imagen
+como, y nos guardaría solo esa imagen. Vamos a guardarla, emigración de
+enfermeras, y si vamos al escritorio, veremos aquí la imagen
+que hemos descargado. También podemos guardar la página entera, si realmente nos interesa casi toda
+la información, sería más práctico. Podemos hacerlo desde el menú Archivo,
+pidiendo la opción Guardar como. Le pondríamos el nombre, hay diferentes
+formatos, lo mejor es dejar página web completa, es el más completo,
+es el formato más completo. Guardamos y volvemos al
+escritorio a ver qué ha pasado. Fijaos aquí, ha creado dos archivos. Un fichero, Universidad Autónoma,
+tal, y una carpeta que contiene las imágenes y diferentes
+informaciones para generar esa página. Siempre os la guardará, si la guardamos en
+formato página completa, de esta manera, un documento y una carpeta asociada,
+aquí está todo lo que necesita, como las imágenes y otros objetos como
+programación o cualquier otra cosa que incluya esa página, pero you tampoco
+nos importa mucho esa carpeta, nos importa más el archivo original. La carpeta nos va bien a veces para
+obtener alguna de las imágenes, you no tendremos que
+descargarlas una por una. Si yo quiero editar esta página web,
+puedo hacerlo con el Word y para ello simplemente botón derecho sobre
+el archivo y le pediríamos abrir con Word. Nos abrirá esa página con el Word, igual que antes cuando hemos hecho
+copiar y pegar, un poco el formato no es exactamente el mismo, pero una vez
+estemos aquí en Word you iremos haciendo las modificaciones que creamos oportunas
+para adaptarlo al formato de Word, que es diferente, un Word es un DIN A4,
+son páginas DIN A4, en cambio, una página de internet no tiene un formato de papel,
+es una página inmensa sin ningún límite. Por tanto,
+recordad que podéis obtener o capturar texto, imágenes o texto e imágenes
+e incluso la página entera. Cuando borréis el archivo que habéis
+descargado, no es necesario que os preocupéis de la carpeta, si borráis el
+archivo, fijaos, lo mando a la papelera. Bueno, en este caso no porque lo
+tengo abierto, vamos a cerrarlo. Llevamos a la papelera el archivo
+y automáticamente la carpeta que va ligada a ese archivo
+también es eliminada. En algunas páginas tendréis
+la oportunidad de descargar archivos, por ejemplo, tenemos aquí
+esta página de la Universidad Autónoma, donde nos permite descargar una serie de
+formularios o una serie de archivos, en este caso son solicitudes, manifestaciones
+de renuncia, de reconocimiento, etcétera. En este caso, aunque parezca un enlace, no es un enlace normal que
+me envía a otra página, sino que es un enlace que me
+permite descargar un archivo. Haciendo clic en este enlace nos
+preguntará qué es lo que queremos hacer y nos da tres opciones, abrirlo para ver
+el archivo, guardarlo o guardar como. Vamos a ver las tres. Si le hago clic en Abrir, abrirá ese archivo con la aplicación
+correspondiente, si la tenemos. Normalmente son archivos en formato PDF, Word o Excel básicamente,
+también PowerPoint, por ejemplo. Podemos ver el archivo y
+decidir si nos interesa o no, si nos interesa, lo guardamos con
+las herramientas de Word y you está. Si en lugar de abrirlo,
+you tenemos muy claro que lo queremos, al hacerle clic vamos directamente a las
+opciones de Guardar o Guardar como. Si hacemos clic en Guardar, nos aparecerá
+un mensaje en la parte inferior, diciéndonos cuando you ha
+completado la descarga, si es un archivo muy grande tardará un
+poco, debemos esperar, nos indicará el proceso y aquí podría pedir o que me abra la carpeta donde me lo ha guardado o
+que vea las descargas que estoy haciendo. Por ejemplo,
+si hago clic en Ver descargas, me muestra las descargas
+que he ido haciendo. Que quiero ver la carpeta donde
+ha guardado este documento, hago clic aquí en Ubicación, Descargas,
+siempre mientras no digamos lo contrario, los archivos que descarguemos en internet
+quedan guardados en la carpeta Descargas. Aquí encontraremos el archivo. Si en lugar de Guardar
+pedimos Guardar como, nos preguntará exactamente
+dónde queremos guardarlo. Si alguna vez buscáis algún archivo que
+habéis descargado y no sabéis donde está, recordar que mientras no digamos lo
+contrario estará aquí, en esta carpeta, Descargas. [AUDIO_EN_BLANCO]

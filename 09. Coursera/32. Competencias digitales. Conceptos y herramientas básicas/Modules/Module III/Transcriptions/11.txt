@@ -1,0 +1,28 @@
+[MÚSICA] [MÚSICA] Vamos a ver cómo
+imprimir una página web. En principio tendremos tres
+opciones que vamos a utilizar y las encontraremos las
+tres en el menú archivo. Aquí tenemos configurar página,
+vista previa de impresión e imprimir. Con configurar página determinaremos
+algún formato de impresión, como el papel que utilizo para imprimir,
+la orientación, vertical u horizontal, algunas opciones como qué encabezado
+o pie de página quiero poner, los márgenes que quiero
+asignar a la impresión. Y voy viendo en esta vista previa
+más o menos cómo quedaría. Antes de imprimir,
+siempre pasar por esta opción, vista previa de impresión,
+para comprobar cómo quedaría. Pensad que no es una página normal
+como las de Word, no es un DIN A-4, una página web, es una página sin límites,
+sin ningún formato de tamaño. Lo que hará la aplicación es
+colocar toda esa información, esas fotos, esos textos,
+en trozos DIN A-4. Entonces, puede ser que la
+impresión sea un poco rara. Podemos ver cuántas páginas me ocuparía. Se nos puede dar el caso fácilmente
+que intentemos imprimir una página web sin pasar por la preliminar
+y que nos imprima 100 páginas, no sabemos el espacio que ocupará. Aquí vemos cómo lo va haciendo en páginas, pero vemos cómo las últimas
+páginas quedan un poco raras. Si vemos que la impresión es
+medianamente aceptable, ¿de acuerdo? Lo imprimimos y you está, sino,
+recordar que lo podéis descargar, podéis descargar la página y con
+Word hacer las modificaciones. La última opción,
+cuando you todo es correcto, será archivo, imprimir y aquí you podemos especificar la impresora a la cual queremos imprimir
+y qué páginas y copias queremos imprimir. No olvidéis nunca lo que os
+acabo de decir, una página web puede ser no una página, sino 100, 200, no lo sabemos, ni cómo se distribuye
+esa información en las páginas DIN A-4, por lo tanto, no olvidéis de
+pasar por la vista preliminar.
