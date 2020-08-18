@@ -1,0 +1,89 @@
+[MÚSICA] >>>Piazza es una plataforma en línea
+de preguntas y respuestas que construí a partir de mi propia inspiración y de
+mis experiencias como estudiante. Estudié cuando había muy pocas
+mujeres en ciencias de la computación en India, en una de las principales escuelas de
+ingeniería, la IIT. Estudié en una escuela sólo para
+niñas hasta la universidad, y no sabía cómo hablarle con hombres,
+me dijeron que no debía hablar con ellos. Asi que cuando fui a la universidad, no
+sabía cómo hablar con los hombres y todos mis
+compañeros eran hombres. Estudié sola, me sentí muy aislada, y sentí cierta frustración de hacer
+tareas por mí misma, y al intentar estudiar para los exámenes
+yo sola. Vine a los E.U.A. para hacer mi maestría en ciencias de la computación
+en el Maryland College Park, fui a Bay Area, California, y trabajé
+como ingeniera de software en Oracle, en Facebook, en Cosmix. Y cuando fui a la Stanford Business School para
+hacer mi MBA (maestría en negocios), me di cuenta de que ahora, con la tecnología,
+laptops e internet de banda ancha, muchos estudiantes terminan estudiando
+solos en sus dormitorios, y ese sentimiento de aislamiento en
+realidad es bastante común entre muchos estudiantes
+jóvenes hoy en día. Así que la idea de Piazza es estimular la
+argumentación cara a cara que presencié cuando estudiaba,
+pero en que no participé por tímida. >>>¿Empezaste a trabajar en eso cuando
+estabas trabajando en tu máster? >>>Durante mi MBA, sí. Yo, a mediados de mi primer año, tomé una clase de emprendimiento en
+Stanford y lo que los emprendedores de
+Silicon Valley que vinieron a hablar a nuestra clase, lo que dijeron fue "piensen en una idea que los apasione". Y para mí esa idea fue cómo podía
+ayudar a que estudiantes, sobre todo a mujeres que estaban estudiando
+materias de ciencia e ingeniería, se sintieran menos aislados o aisladas. Así que ese verano, entre mi primer y mi
+segundo año de la escuela de negocios, me mudé con mi hermano y su familia, trabajé en su cochera y construí
+el primer prototipo de Piazza. No había hecho nada de desarrollo web
+hasta ese momento, así que tomé un libro sobre Ruby on Rails. Nunca había escrito ni un renglón de
+HTML o CSS, porque todo lo que sabía era tecnología de
+servidores, C, C++, sabía cómo usar GDB, así que tomé el libro on Rails, lo aprendí todo y
+desarrollé una página en diez días y la lancé para una clase
+en otoño de 2009, que se convirtió en tres clases en
+enero 2010, y más o menos diez clases en Stanford en otoño de 2010. Eso de pronto se convirtió en 65 clases
+en la primavera de 2011, y a muchos de los profesores ni si quiera
+los conocía. Eso era una señal de que, bueno,
+algo estaba funcionando, y a los estudiantes les estaba gustando
+y a los profesores también. Así que contacté profesores en
+Berkeley y en MIT, en Princeton y en Harvard, y después de un mes teníamos a más de 20,000 estudiantes en estas cinco
+escuelas usando Piazza. >>>¿Y todavía estabas haciéndolo siendo tú la principal desarrolladora,
+con 20,000 cuentas [Risas] y tú como desarrolladora
+principal? ¿Usaste una tarjeta de crédito
+para pagar un servidor o dos? >>>Sólo cuesta, tal vez como $50 a $100
+dólares albergar el sitio, o menos, así que, sí conocí a un desarrollador que
+tenía un trabajo diurno para pagar sus cuentas y las de su
+familia, y tenía un poco de espacio en su server, así que
+sólo lo albergamos en el espacio que había. Y fue aquí cuando decidimos recaudar una ronda de financiación inicial de un poco
+más de un millón de dólares con Sequoia Capitol. >>>¿Tienes alguna filosofía en cuanto a
+la forma correcta de ser una emprendedora y cuál es tu,
+tu, como... >>>Sí, definitivamente me inclino más
+hacia lo lento. Creo en crear primero el valor y no
+quedarse entre los números. De hecho, en febrero de 2010 resultó
+que el fundador de TechCrunch estaba sentado junto a mí
+en un avión, y cuando me preguntó, oye, me gustaría escribir
+un artículo sobre ti, mi primer impulso fue decir que no,
+porque sabía que eso iba a llevar a muchas personas a
+querer usar Piazza. Piazza estaba muy, muy al principio de su desarrollo como
+producto. Y creo que fue una buena decisión,
+porque todo el año 2010 no pensé en números, no me importó cuántos estudiantes o cuántos profesores, sólo me importaba que tenía una mano
+llena de profesores y estudiantes con que podía sentarme y
+aprender y ver y observar. Hoy creo que tengo una empatía
+muy profunda, y creo que es muy importante
+crear un producto que agregue valor, que venga de
+algo muy pequeño, porque así se puede aislar a los tipos
+de usuarios que quieres, con casos de uso que coincidan con los
+casos de uso para los que creaste un producto. >>>Te convertiste en madre a la mitad
+de toda la historia. >>>Sí >>>Cuéntame un poco de cómo funciona todo eso.
+>>>Claro. >>>Y cómo se integró todo. >>>Sí, pues hace unos cinco meses, tuve
+un hijo, Arjun, y tengo la fortuna de vivir con los padres de mi esposo, vivimos
+todos juntos, y sus padres entienden que de veras, que necesito su apoyo para poder
+dirigir una empresa mientras soy madre. Y ambas
+cosas son muy importantes, quiero ser madre, quiero educar niños y darles, bueno, educarlos. Al mismo tiempo, creo mucho en la empresa que creé y en el impacto que está teniendo en estudiantes
+y profesores, y seguir haciendo lo que he estado haciendo. Con su apoyo, diría que de hecho ha
+sido bastante fácil. Algo que me gusta mucho hacer es estar
+en otro lugar, yo sola, ya sea mientras hago ejercicio
+o salir a una caminata larga, eso me permite separarme de todo,
+ya sea para Piazza o para mi hijo. Hay una antena, la antena de Stanford
+justo detrás de Stanford. Escuché que Steve Jobs solía ir ahí
+y varias otras personas importantes en las que me he inspirado mucho
+también van mucho ahí. Me gusta caminar por ahí un par
+de veces a la semana. Descubrí que la primera vez, en el
+verano de 2009, cuando tuve que desarrollar un prototipo y encontrar a
+los primeros profesores para que usaran Piazza, recuerdo que solía caminar
+por la antena cinco veces a la semana y sólo
+trabajaba de cuatro a seis horas, o tal vez ocho horas, pero
+nunca tanto, y tuve un producto exitoso para
+el final del verano y también una clase usando Piazza
+y bueno, caminar por la antena me ayudó a concentrarme y eso me permitió
+ser muy productiva con mi tiempo. [MÚSICA]
+(Resiliencia)
