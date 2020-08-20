@@ -1,0 +1,32 @@
+[MÚSICA] Otro tipo de objeto que nos es muy útil para nuestras presentaciones son
+los organigramas o esquemas. Para insertarlos podemos hacerlo
+desde la ficha insertar, y con el botón smart art disponemos
+aquí de diferentes tipos de esquemas o podemos pedir una nueva
+diapositiva que contenga un objeto, y añadirlo con el
+botón correspondiente. En este caso insertar
+un gráfico smart art. Damos clic, buscamos el esquema que más nos convenga este caso,
+elegimos la variante y lo añadimos. you tenemos el esquema preparado,
+you solo falta que rellenemos los diferentes objetos con el texto
+correspondiente, podemos hacerlo en la ventana de la izquierda y
+escribir aquí lo que corresponda. Por ejemplo dirección,
+o podemos escribirlo directamente dentro del recuadro haciéndole
+clic you podemos escribir y así rellenaríamos los diferentes campos. [SONIDO] [SONIDO] [SONIDO] Y you tenemos el esquema hecho. Podemos cambiar de tipo de
+esquema en cualquier momento. Fijaos que al seleccionar nuevo objeto se
+nos activan las fichas diseño y formato, dentro de la del disño
+encontraremos diferentes diseños. Podremos ir probando a ver
+cuál nos puede convenir más. Podemos cambiar los colores,
+y los diferentes estilos. [SONIDO] Si necesitamos más formas, simplemente buscamos la posición en
+la cual vamos a ponerlo por ejemplo, aquí seleccionamos dirección de compras,
+y vamos al botón agregar forma. Aquí podremos elegir dónde
+queremos añadirlo, detrás, delante, por encima o por debajo. Por ejemplo elegimos agregar
+forma debajo y añadirá una nueva forma que podremos introducir un texto y colocarla donde queramos. Cualquier objeto puede ser desplazado. [SONIDO] Podemos añadir una forma por ejemplo detrás o
+delante para que esté al mismo nivel. [SONIDO] [SONIDO] Y así ir añadiendo
+tantas formas como necesitemos. Queremos eliminar alguna, simplemente
+la seleccionamos y tecla de suprimir. [SONIDO] Para modificar los formatos
+tenemos la ficha de formato, y aquí podremos buscar
+diferentes estilos y rellenos. Por ejemplo cambio del color de relleno e incluso el contorno como
+cualquier otro objeto. [SONIDO] De esta manera tan sencilla
+podemos crear un esquema que explique detalladamente
+aquello que queremos mostrar. En el momento que hagamos
+clic fuera del organigrama, you volvemos a la ventana
+normal de Powerpoint.

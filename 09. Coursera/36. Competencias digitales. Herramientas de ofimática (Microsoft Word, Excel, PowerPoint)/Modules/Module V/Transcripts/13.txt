@@ -1,0 +1,9 @@
+[MÚSICA] Cualquier objeto que tengamos en la
+diapositiva podremos duplicarlo, moverlo o borrarlo,
+como en cualquier otra aplicación. Simplemente seleccionamos el objeto,
+si queremos duplicarlo, botón derecho, Copiar, colocamos dónde queramos
+duplicarlo, y botón derecho, Pegar. Lo moveremos,
+sea una imagen o sea un objeto de texto, botón derecho, Copiar, botón derecho, Pegar, y movemos el objeto. Para eliminar cualquier objeto, simplemente lo seleccionamos
+y tecla de Suprimir. [SONIDO] De esta manera, duplicamos, movemos o
+borramos cualquier objeto, texto, imágenes,
+videos o cualquier otro tipo de objeto. [AUDIO_EN_BLANCO]

@@ -1,0 +1,98 @@
+[MÚSICA] Vamos a ver ahora cómo proyectar nuestra presentación
+y qué podemos hacer durante la proyección. En principio, para proyectarla, podemos utilizar el botón Presentación
+con diapositivas de la barra de estado. Si hago clic en este botón, ejecuta la
+presentación y la podemos ir viendo. Eso sí, lo hace a partir de la
+página activa de la diapositiva que estamos viendo. Si queremos que se inicie la
+presentación en la primera diapositiva, lo que haríamos es utilizar de la
+ficha Presentación con diapositivas, el primer botón desde el principio. Y aquí estemos en la
+diapositiva que estemos, siempre ejecuta la
+presentación por la primera. En realidad, tenemos las dos opciones, desde el principio o desde
+la diapositiva actual. Una vez iniciamos la presentación,
+para avanzar en esta presentación, a no ser que la hayamos
+configurado como automática y ahí iría avanzando automáticamente cada ciertos
+segundos según lo que hayamos configurado, también podemos avanzar simplemente
+haciendo clic con el ratón. Cada clic es un avance de diapositiva. También podemos avanzar con la tecla
+de espacio, [SONIDO] o podemos utilizar las flechas de desplazamiento
+del teclado, las flechas derecha e inferior avanzan y las flechas izquierda y superior retroceden. Para finalizar la presentación, simplemente la tecla Escape,
+y paramos la proyección. Vamos a volver a proyectar para ver unas
+herramientas que nos pueden ser útiles y que visualizaremos si nos colocamos
+en la esquina inferior izquierda. Aquí veis unos botones que nos permiten desplazarnos hacia la diapositiva
+anterior o posterior, nos permiten utilizar unas
+herramientas para señalar, tenemos aquí el botón este del lápiz,
+lo desplegamos y fijaos que podemos escoger un puntero láser que
+nos permita simplemente indicar alguna parte de la diapositiva o podemos utilizar una pluma para
+marcar o dibujar cualquier cosa. [SONIDO] Tenemos también un borrador por
+si nos hemos equivocado. Estas marcas que estamos haciendo desaparecen en el momento que
+pasamos a la siguiente diapositiva. Si no queremos esperar a pasar y
+queremos eliminarlas todas, tenéis la opción de borrar todas las entradas, de
+esta manera, deja la diapositiva limpia. También tenemos el siguiente botón que nos
+permite visualizar todas las diapositivas en pequeño, lo cual nos puede ser muy útil
+para ir a una determinada diapositiva en cualquier momento. Enseguida podría ir a Metodología,
+simplemente activando esta ventana. También tengo una lupa que me permite
+ampliar alguna parte de la diapositiva. Para salir de esta lupa, tecla Escape,
+y volvemos a la diapositiva. Y por último,
+tenemos otro botón con varias opciones. Por ejemplo, tenemos la opción de
+Pantalla, que me permite poner la pantalla en negro si tengo
+que hacer alguna explicación, pero no quiero que se estén fijando en la
+pantalla y así me prestarán más atención. En principio, si la sala está
+oscura para proyectar bien, sería aconsejable que en lugar
+de poner la pantalla en negro, la pusiéramos en blanco para
+evitar quedarnos a oscuras. La dejamos en blanco, nadie you se fijará
+en la pantalla, y continuamos teniéndolo. Para eliminar esta,
+siempre la tecla Escape. Tenéis otras opciones como la Ayuda,
+Finalizar la presentación, Ir a la última diapositiva vista, Utilizar
+presentaciones personalizadas, etcétera. Es decir,
+estos botones nos permiten configurar algún paso dentro de la proyección
+de nuestra presentación. Cuando abrimos un documento de PowerPoint,
+lo abre en la vista de Edición, tal como estamos viendo ahora, para que nosotros podamos hacer
+las modificaciones que queramos. Cuando queremos presentar este
+documento no nos interesa esta vista, queremos que automáticamente
+se reproduzca, se proyecte. Para eso lo que haremos es, una vez hemos
+acabado la presentación, hacer una copia mediante la ficha Archivo y la opción
+Guardar como, haremos una copia en un formato especial que es Presentación
+con diapositivas de PowerPoint. Esta copia con este formato permite que,
+cuando abra este documento, se proyecte automáticamente sin necesidad de
+ver la vista de edición y esto es lo más práctico para llevarnos esa presentación
+allí donde queremos ejecutarla. Esta sería una opción, la más sencilla. Pero podemos encontrarnos
+con otros problemas. Por ejemplo,
+yo voy a hacer una presentación y el ordenador que me han puesto
+para hacer esta presentación resulta que no tiene instalado el
+PowerPoint, por lo tanto, no podré verlo; o no tiene alguna de las tipografías
+que he utilizado en mi presentación, entonces podré verlo,
+pero quedará un poco desmontado, no se verá exactamente igual
+de cómo yo lo había creado; o esta presentación tiene documentos
+externos que utilizo, vídeos, sonidos u otros archivos,
+que por algún motivo me he olvidado. Para evitar estos problemas,
+lo ideal es empaquetar la presentación. Para ello, vamos a la ficha Archivo
+y utilizamos la opción Exportar. Aquí encontraremos la opción
+Empaquetar presentación para CD. Aunque ponga para CD, no significa que
+se haga esta empaquetación en un CD, sino que podemos elegir entre hacerla en
+un CD o guardarla en nuestro disco duro, y después you la copiaremos en
+un pendrive para llevárnosla. Pedimos Empaquetar, hacemos clic
+en el botón de Empaquetar para CD-Rom, y aquí indicamos
+todo lo que necesita. Primero el nombre,
+damos nombre a este paquete, en realidad será una carpeta o un CD, sería el nombre del CD si lo grabamos
+directamente a CD; indicamos qué archivos tiene que copiar, en principio será la
+presentación, más con el botón Agregar, todos aquellos archivos que yo
+necesite para la presentación. Una vez elegidos los archivos, hacemos
+clic en el botón de Copiar a la carpeta o Copiar a CD,
+depende de lo que me interese. Si damos Copiar a CD,
+pues hará la grabación del CD. Si utilizamos Copiar a la carpeta, nos
+preguntará qué nombre queremos darle a la carpeta y dónde queremos guardarla; ahora
+mismo vamos a guardarla, por ejemplo, en el escritorio. Aceptamos. Pregunta si necesitamos incluir
+todos los archivos vinculados, por si nos hemos olvidado nosotros alguno,
+igual hemos indicado con el botón Agregar que añada una serie de
+archivos que necesitamos, pero alguno que necesita la
+presentación nos hemos olvidado. Si le decimos que sí, él buscará a ver qué
+archivos faltan por añadir y los añadirá. Ahora, normalmente diríamos que sí, ahora
+voy a decir que no para ir más rápido. you tenemos la presentación creada. Me ha creado una carpeta
+aquí en el escritorio, se llama CDPresentación,
+y dentro los documentos necesarios. Si yo me llevo esta carpeta,
+si está grabada en un CD, al poner el CD, automáticamente
+AUTORUN ejecutará la presentación. Simple llevado en un pendrive, pues
+puedo directamente abrir el documento de presentación, en este caso Introducción,
+y funcionará la presentación sin ningún problema, independientemente de si
+tienen o no instalado el PowerPoint, de si tienen tipografías que yo he utilizado y
+seguro que no me he dejado ningún archivo. Esta opción de empaquetación
+realmente es muy aconsejable para evitar problemas el día que se
+tenga que hacer la presentación.

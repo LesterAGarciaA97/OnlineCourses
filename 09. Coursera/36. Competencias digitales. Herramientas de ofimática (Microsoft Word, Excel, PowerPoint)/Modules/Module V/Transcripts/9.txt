@@ -1,0 +1,17 @@
+[AUDIO_EN_BLANCO] [MÚSICA] En este ejercicio, vamos a introducir elementos
+básicos en todas las diapositivas, como por ejemplo la numeración de
+diapositivas o un pie de diapositiva. Para ello, nos vamos a la ficha Insertar, y buscamos el botón Encabezado,
+pie de página. Aquí encontraremos los elementos básicos. Activamos aquellos que queramos. En el ejercicio nos piden que enumeremos
+todas las diapositivas, por lo tanto, activamos la opción Número de diapositiva. También nos dice que, excepto la portada
+o primera diapositiva, por lo tanto, activaremos la última opción para que no
+muestre esa numeración o cualquier otro elemento en la primera diapositiva
+o diapositiva de título. También nos piden que
+pongamos un pie de página, lo activamos, y en su campo escribimos
+el texto que queramos poner. [SONIDO] Y por último, nos piden que pongamos
+también la fecha y hora. Fecha y hora, fijaos, podemos poner una fecha que se actualice
+automáticamente o una fecha fija. En este caso,
+queremos que se actualice automáticamente. Una vez decidido los elementos que
+queremos incorporar en todas las diapositivas, clicamos
+el botón Aplicar a todo, para que nos lo haga para
+todas las diapositivas. También podemos hacerlo solo para una. En este caso,
+utilizaríamos el botón Aplicar. [MÚSICA] [AUDIO_EN_BLANCO]

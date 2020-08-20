@@ -1,0 +1,44 @@
+[MÚSICA] [MÚSICA] En este ejercicio vamos a trabajar
+con el fondo y los patrones. Nos piden que cambiemos
+el estilo del fondo. Para ello, nos vamos a la ficha diseño y al final encontraremos
+el botón formato del fondo. Este botón nos muestra la ventana del
+formato de fondo donde podemos elegir que formato queremos aplicar a esta
+diapositiva o todas las diapositivas. Nos piden un fondo te textura,
+elegimos relleno con imagen o textura. Nos ha you aplicado una
+textura si queremos otra. Disponemos del botón textura donde
+podemos elegir la que más nos interese o podemos modificar el
+formato de esta textura El ejercicio nos pide que
+modifiquemos el patrón. Para ello, vamos a la vista de patrón. Patrón de diapositivas nos muestra
+las diferentes vistas de patrón. Elegiremos la primera. Fijaos que cualquier cambio que hagamos en este primer patrón afectará
+todas las diapositivas. En cambio,
+si elegimos cualquiera de los otros, modificaría solo aquellas diapositivas
+que tuvieran ese diseño concreto. Nos piden que pongamos el título de todas las diapositivas con
+letra Arial y 40 y en negritas. Para ello,
+seleccionamos el bloque del título, nos vamos a la ficha inicio, y hacemos
+las modificaciones formales de formato. Le ponemos letra Arial, tamaño 40, y estilo negrita. Una vez hecha la modificación
+de este título en el patrón, tendremos todo los títulos de todas
+las diapositivas, con este formato. También nos pide que el texto de las
+diapositivas lo dejemos en Calibri. Seleccionamos el bloque. Lo tenemos ahora en Calibri light,
+lo ponemos en Calibri, y you esta. Si quisiéramos podríamos indicar nivel
+por nivel haciendo click en cada uno de ellos y modificando su formato, que características queréis para
+cada uno de los niveles de texto. Por último nos piden que modifiquemos la
+posición de los bloques de pie de página. Por ejemplo, nos piden que el
+ayuntamiento, el bloque donde hemos puesto el nombre del ayuntamiento esté situado a
+la izquierda, simplemente lo desplazamos. La fecha,
+la tenemos que poner en el centro. Y así vamos desplazando los
+diferentes bloques y colocandolos donde creamos oportuno. En cualquier parte de esta
+diapositiva no es necesario que estén solos en la parte inferior,
+podemos colocarlo en cualquier parte. Lo normal es dejarlos en
+zona interior o en un rincón de manera que no molesten al
+resto de contenido de las diapositivas. También nos dice el ejercicio que
+comprobemos que todo quede bien. Siempre que hagáis modificaciones en el
+patrón, si you tenéis diapositivas con información puede haber cambiado algo,
+entonces no está de más comprobarlo. Para ello en la ficha patrón de
+diapositivas cerramos la vista de patrón, volvemos a ver la vista, y comprobamos
+que no se haya desmostado nada. Lo ideal sería modificar estos patrones
+antes de empezar a introducir nada, pero podemos hacerlo en cualquier momento. De todas maneras si queréis ahorraros
+bastante trabajo de formato. Yo lo que os aconsejaría es que de
+entrada, al crear la presentación, o una vez creada, en la ficha diseño, escogierais algunas de las plantillas de
+los temas que you vienen incorporados. De esta manera you tendréis
+los formatos preparados. Si hace falta luego se hace alguna pequeña
+modificación en la vista de patrón. Pero you os podéis ahorrar mucho trabajo. [MUSICA]

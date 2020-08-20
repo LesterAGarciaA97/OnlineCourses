@@ -1,0 +1,22 @@
+[MÚSICA] [MÚSICA] En éste ejercicio
+vamos a trabajar con el texto. Nos piden que vayamos
+a la tercera diapositiva, la activamos, y que modifiquemos su texto. Seleccionamos el texto, haber podemos
+seleccionarlo arrastrando como haríamos en cualquier texto o más fácil
+hacer click sobre la línea que envuelve el campo y de ésta manera
+you seleccionamos todo el texto. Nos pide que lo cambiemos a tamaño 27,
+pues vamos a la casilla de tamaño de
+letra y como no tenemos el 27 directamente lo escribimos e Intro. you hemos cambiado el tamaño
+del texto de ésta diapositiva. También nos pide que
+cambiemos el tipo de viñetas. Aprovechamos que you lo
+tenemos seleccionado, vamos al botón de viñetas y elegimos
+la viñeta que nos interese. [AUDIO_EN_BLANCO] Nos pide también que
+aumentemos la separación entre líneas, para eso tenemos el botón interlineado
+con diferentes separaciones de línea. En éste caso para aprovechar bien toda la diapositiva podríamos
+escoger el interlineado 1,5. También nos pide por último que
+pongamos el título en mayúsculas. Vamos al botón Cambiar
+mayúsculas y minúsculas, primero seleccionamos el bloque
+que en éste caso es el título y con el botón indicamos que
+lo queremos en mayúsculas. Lo queremos en Negrita y luego si
+hace falta modificamos el tamaño, en éste caso nos queda bien,
+no hace falta. Procurar eso si que los títulos ocupen
+solo una línea siempre que sea posible. [MÚSICA]

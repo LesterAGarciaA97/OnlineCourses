@@ -1,0 +1,72 @@
+[MÚSICA] Con esta unidad, Preparación del proceso
+de salida, aprenderemos a seleccionar el formato de salida apropiado para
+la presentación, a pasar el corrector ortográfico, añadir notas,
+a borrar diapositivas y a reordenarlas. Después, todo lo que podemos configurar
+a la hora de imprimir la presentación. Y para acabar, aprenderemos
+a ocultar diapositivas, a utilizar herramientas de navegación en pantalla, a
+proyectar la presentación y a exportarla. Por defecto, las presentaciones
+de Power Point están configuradas para presentarlas en la pantalla
+del ordenador o proyectarlas, pero existen otros formatos
+que podemos escoger. En la ficha Diseño encontraremos un botón,
+Tamaño de Diapositiva que nos lo permite. Aquí, por ejemplo, podemos escoger entre el tamaño estándar
+o una pantalla panorámica dependiendo del tipo de ordenador que dispongamos,
+o podemos personalizar. Aquí dispondremos de diferentes
+formatos de pantalla dependiendo de si vamos a proyectar en un ordenador
+o vamos a imprimir en un papel, tipo de papel, tipo de pantalla, etcétera. Elegimos cuál será la salida
+de esta presentación. Aquí también podéis determinar si
+esta presentación, las diapositivas, se mostrarán en vertical u horizontal al
+igual que las notas, documentos o esquemas o incluso podríamos especificar
+la anchura y la altura de las diapositivas a la vez que podemos indicar,
+de cara a la numeración, por qué número comenzará la
+numeración de diapositivas. Esto será útil si esta
+presentación es continuación de otro documento de presentación. En cualquier momento podemos realizar la
+corrección ortográfica y gramatical de la presentación. Para ello,
+como en cualquier aplicación de Office nos vamos a la ficha Revisar y allí
+encontraremos el botón Ortografía. Clicamos este botón y empieza a buscar por
+toda la presentación posibles errores. Cuando los encuentra nos lo marca. En este caso, tenemos esta palabra que ha
+encontrado como posiblemente incorrecta. Si hago clic con el botón derecho,
+me mostrará posibles soluciones. En este caso sería Objetivos;
+o puedo ver estas posibles soluciones también aquí a la derecha en el
+panel de ortografía que nos ha abierto. Podríamos seleccionar la
+respuesta correcta o escribirla. Una vez seleccionada o escrita,
+podemos continuar pidiendo Cambiar si queremos
+que cambie sólo esta palabra o Cambiar todo si queremos que cambie
+este mismo error en cualquier parte de la presentación si existe sin
+necesidad de que vuelva a preguntarlo. Si vemos que es correcto o
+creemos que es correcto, podemos utilizar Omitir u Omitir todo. Si la palabra es correcta y no queremos
+que nos vuelva a preguntar nunca más, la podemos agregar al diccionario de manera que la aprende y you no
+volverá a darla como error. Si queremos comprobar qué
+diccionario tenemos seleccionado, pues podemos mirar la barra de estado donde aquí a la izquierda nos indicará
+qué diccionario está utilizando. Si queremos utilizar otro diccionario,
+podemos seleccionar cualquier bloque de texto o cualquier palabra,
+hacer clic donde indica el diccionario y cambiar al diccionario que queramos. Recordad siempre con los
+diccionarios que sólo disponemos de los diccionarios marcados
+con esta marca ABC. Para el resto de diccionarios,
+tendríamos que adquirirlos e instalarlos. Para cada diapositiva
+podemos hacer anotaciones de manera que nos puedan servir de apoyo
+en el momento de realizar la presentación. Estas anotaciones no se
+verán mientras se proyecta. Sólo el orador es el que podrá
+tener acceso a estas anotaciones. En la pantalla normal, fijaos cómo en
+la parte inferior hay un pequeño bloque donde nos pone Haga clic
+para agregar notas. Aquí es donde directamente
+añadimos las anotaciones. Entonces, 'Recordar que hay que hacer lo que sea'. Si necesitáis hacer
+anotaciones más grandes, podéis aprovechar la
+vista de Página de notas. Si vamos a la ficha Vista,
+podemos pedir esta vista, Página de notas, y aquí dispondremos de más espacio
+para escribir anotaciones largas. Si no, si es una pequeña anotación,
+es suficiente con la Vista Normal. Podemos reordenar las diapositivas
+en cualquier momento. Al principio podríamos hacerlo
+desde la vista Normal. Podemos coger cualquiera de
+las diapositivas, por ejemplo, esta de Objetivos y trasladarla
+simplemente arrastrándola. Puedo eliminarlas con la tecla Suprimir o también puedo hacerlo desde la vista
+de Clasificador de diapositivas. Si vamos a la ficha Vista y pedimos esta
+vista, Clasificador de diapositivas, tendremos la ventaja de ver más
+diapositivas a la vez y por lo tanto, hacer más cómodo el traslado de
+cualquiera de las diapositivas y podré trasladar, borrar o duplicar. Si yo quiero duplicar una diapositiva,
+simplemente la arrastro, pero con la tecla Control presionada y lo
+que estoy haciendo es una duplicación. Fijaos que en el ícono de
+cursor hay un signo más. Indica que no estoy trasladando sino
+que estoy duplicando la diapositiva. Para reorganizar,
+lo ideal es utilizar esta vista aunque muchas veces podemos
+ir a la vista Normal y realizarlo tranquilamente
+en el panel de la izquierda. [AUDIO_EN_BLANCO]

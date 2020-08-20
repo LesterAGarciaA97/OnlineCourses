@@ -1,0 +1,73 @@
+[MÚSICA] Cada diapositiva tiene una
+información concreta, pero detrás de esta capa
+llamada diapositiva, tendríamos una segunda
+capa que llamamos patrón. Este patrón nos permite añadir imágenes,
+modificar formatos de texto que se apliquen no solo a esa diapositiva,
+sino a todas las diapositivas. Para acceder a este patrón,
+vamos a la ficha Vista y encontraremos el botón
+Patrón de diapositivas. Activamos esta vista y nos
+mostrará los diferentes patrones. Tenemos un patrón principal
+en la parte superior, y luego un patrón para cada tipo
+de diapositiva, según el diseño. Para cada diseño de diapositiva
+disponemos de un patrón que se aplicará solo a esas diapositivas,
+las que tengan ese diseño concreto. Si queremos aplicar algún formato o
+añadir imágenes a todas las diapositivas, mejor utilizar el primer patrón,
+que sería el patrón general. ¿Qué hacemos aquí? De entrada you podemos
+fijarnos cómo no dice, haga clic para añadir texto,
+sino que dice, haga clic para modificar el estilo de título del patrón o
+el estilo del texto del patrón, es decir, aquí no vamos a añadir texto,
+aquí vamos a modificar el formato. Por ejemplo, los títulos están en
+verde y no los quiero en verde. Yo hago un clic dentro del título y busco en la ficha Inicio el
+botón de color de texto, como lo haría en cualquier
+diapositiva o en cualquier pantalla. Pondríamos un color azul, por ejemplo. De esta manera, no he cambiado el
+color de título de una diapositiva, sino de todas las diapositivas. Lo mismo para el texto normal. Vamos a seleccionarlo y
+modificar el tamaño de letra, los estilos, de manera que este cambio
+afecte a todas las diapositivas. Lo mismo que hago para los formatos,
+puedo hacer para imágenes. Si yo quiero, por ejemplo,
+colocar en esta diapositiva una imagen, pero que aparezca todas las diapositivas,
+lo que haré es, una vez en el patrón, insertarla, como
+insertaría normalmente, ficha Insertar, botón Imágenes, busco la imagen
+que quiero añadir y la inserto. La coloco, por ejemplo,
+aquí en una esquina, la reduzco, y fijaros aquí a la izquierda cómo
+esta imagen, este logotipo, me aparece en las diferentes diapositivas,
+tengan el formato que tengan. De esta manera, cuando cierro
+la vista con el último botón, Cerrar vista patrón,
+vuelvo a las diapositivas, y fijaos como me aparecerá el
+ícono en todas las diapositivas. Después de eso sí, tendremos que
+ir vigilando que no haya objetos que tapen a esa imagen que hemos añadido. No olvidemos que el patrón es como una
+capa que hay detrás de la diapositiva. Por tanto, cualquier cosa que
+añadamos a la diapositiva, taparía lo que haya justo
+debajo en el patrón. Pero la función principal
+del patrón sería esta, añadir imágenes y determinar formatos
+de texto para todas las diapositivas, sin necesidad de ir una por una. Aparte de aplicar formatos de texto
+o añadir imágenes para todas las diapositivas, el patrón también
+nos tiene preparadas tres zonas, que si nos adentramos vamos a verlas,
+Vista, Patrón, aquí tenemos estas tres zonas que nos
+permiten añadir un pie de página. Por ejemplo, pongo aquí presentaciones, texto que puedo modificar con la ficha
+Inicio, como cualquier otro texto. Si cambio de ficha y quiero volver
+a tener los botones del patrón, simplemente volvemos a esta ficha que ha
+aparecido en el momento que entramos en el patrón, que es la ficha
+Patrón de diapositivas. Puedo añadir un texto cualquiera,
+puedo añadir la hora, la fecha,
+y puedo añadir el número de diapositiva. Estos bloques que you tiene preparados,
+los podéis colocar donde queráis, simplemente trasladándolos. Para indicar qué bloques de estos
+queremos visualizar y qué bloques no, lo podemos hacer directamente
+desde la ficha Insertar. Aquí encontraremos en el grupo Texto,
+el botón Encabezado y Pie de página. Aquí veréis los tres bloques, Fecha y Hora,
+Número de diapositiva y Pie de página. Tal y como está ahora, veríamos la fecha, concretamente la fecha actual; podemos
+elegir siempre entre la fecha actual, la del momento que se visualiza,
+o una fecha fija que nosotros escribamos. Visualizaríamos también el número de
+diapositivas porque está activado, pero no veríamos el pie de esa palabra
+de presentaciones que acabo de escribir. Si queremos que se vea,
+simplemente la activamos y determinamos cuál de esos tres bloques,
+cuáles queremos visualizar. Fijaos en la última opción,
+No mostrar en diapositiva de título, que nos es muy útil para que estos
+bloques no se visualicen en la primera. Normalmente no nos interesa que en
+la portada se vean estos bloques, tanto en el pie de página como la fecha o,
+o el número de diapositiva. Aplicamos, vamos a visualizarlo,
+estamos en patrón de diapositivas, cerramos la vista, y aquí veríamos cómo en las diferentes
+diapositivas nos mostraría, por ejemplo, la hora y el número de diapositiva, junto con el
+texto presentaciones que hemos puesto. [AUDIO_EN_BLANCO] Todo
+aquello que sea repetitivo, recordad que para eso tenemos el patrón. Importantísimo en PowerPoint
+utilizar este patrón. Aparte de que nos ahorra trabajo, nos crea
+una presentación mucho más aceptable. [AUDIO_EN_BLANCO]

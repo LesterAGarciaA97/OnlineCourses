@@ -1,0 +1,22 @@
+[MÚSICA] [MÚSICA] En este ejercicio, vamos a insertar
+un gráfico en nuestra presentación. Vamos a crear una nueva diapositiva,
+nos piden una de tipo Títulos y objetos. you tenemos la nueva diapositiva,
+introducimos el título y en el bloque principal indicamos
+qué objeto queremos introducir, en este caso un gráfico. Nos piden una gráfica de
+columnas en tres dimensiones. Elegimos la categoría de Columna y en
+sus variantes escogemos Columnas 3D. Aceptamos y you tenemos el gráfico hecho a partir de unos datos
+que nos pone PowerPoint como ejemplo. Estos datos los modificamos e
+introducimos nuestros propios datos. [SONIDO] [SONIDO] Así iríamos introduciendo todos los datos que
+queremos que aparezcan en nuestro gráfico. Una vez estén todos introducidos,
+pasaremos a dar formato a este gráfico utilizando las dos pestañas contextuales que nos ofrece PowerPoint en el
+momento que estamos en un gráfico. Diseño y Formato. En Diseño encontraremos los formatos
+generales que afectan a todo el gráfico, si os molesta la tabla con los datos,
+la podéis cerrar tranquilamente, y aquí buscaríamos
+a ver qué formato nos interesa más. [AUDIO_EN_BLANCO] En la ficha de Formato encontraremos
+you los formatos más concretos, sobre todo para poder seleccionar cada una
+de las partes de este gráfico (título, ejes, datos) y para esa parte seleccionada indicar qué
+tipo de formato nos interesa. De color, de forma,
+de tipo de forma, lo que queramos. También podemos hacer un doble
+clic en cualquiera de esas partes y nos aparecerá a la derecha
+la ventana de formatos con los diferentes formatos
+que podemos ir modificando. [MÚSICA]

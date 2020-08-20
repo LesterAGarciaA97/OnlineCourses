@@ -1,0 +1,43 @@
+[MÚSICA] Con las transiciones lo que conseguimos
+es dar un efecto a la entrada de la diapositiva, pero aparecen todos
+los objetos de esta diapositiva. Si queremos que cada uno de estos
+objetos aparezca independientemente, debemos utilizar las animaciones. Por ejemplo, en esta segunda diapositiva, podemos hacer que primero aparezca
+el título, y después el texto, y no solo el texto todo junto,
+sino párrafo por párrafo. Para ello,
+necesitamos la ficha de Animaciones. Una vez estamos en esta ficha, seleccionamos el objeto
+que queremos animar. Lo seleccionamos y con el
+botón Agregar animación, le indicamos qué tipo
+de animación queremos. Disponemos de un montón de
+animaciones más las opciones, más efectos,
+para encontrar todavía más animaciones. Elegimos una,
+you nos muestra lo que haría. Fijaos que solo ha animado el título, no toda la diapositiva como
+ocurría con las transiciones. Para el texto haría lo mismo, selecciono el bloque de texto
+y le añado una transición. Fijaos que va marcando
+el orden de aparición de los diferentes objetos
+y partes de los objetos. Tenéis botones como en el
+caso de las transiciones para indicar cuándo empezar,
+la duración, etcétera. Lo ideal,
+cuando trabajamos con animaciones, es que activemos este panel de animación. Damos clic en el botón y muestra a la derecha el panel de animación con los
+diferentes objetos que tenemos animados. El primero que corresponde al título y el segundo que
+corresponde al bloque de texto. Para hacer alguna modificación, simplemente nos colocamos encima del
+objeto en este panel de animación, hacemos clic con el botón derecho
+y pedimos Opciones de efectos, y aquí podremos especificar
+diferentes opciones. Así como opciones importantes,
+miraríamos sobre todo la parte de mejoras, que nos permite
+añadir un sonido a nuestra animación, atenuar el texto o animar el texto. Por ejemplo,
+vamos a probar la opción de animar texto. Ahora mismo, aparecería todo de una vez,
+todo el párrafo entero, pero podemos hacer que aparezcan
+palabra por palabra o letra por letra. Vamos a probarlo. Pedimos la Animación por palabra, aceptamos, y fijaos cómo las
+palabras aparecen una a una. Volvemos a las opciones,
+botón derecho, Opciones, y vamos a probar la opción
+después de la animación. Ahora mismo pone No atenuar,
+por lo tanto, se ven todas iguales. Si aquí escogemos un color, normalmente
+un color más difuminado, más clarito, lo que estamos diciendo es que
+los textos que you han aparecido, cuando aparezca uno nuevo, se atenúen. Aceptamos y fijaros cómo al aparecer cada uno de los nuevos párrafos,
+los anteriores se atenúan. Vamos a probarlo con la transición,
+con la proyección, y vemos cómo entra la diapositiva,
+después el título, después el texto. [SONIDO] Es decir, utilizaremos la transición para
+la entrada a la diapositiva, y las animaciones para la entrada
+de cada uno de los objetos. Si alguna animación la queréis eliminar,
+seleccionáis el objeto, y en el panel de animación lo suprimís, tecla de Suprimir,
+y you no tiene la animación. [AUDIO_EN_BLANCO]

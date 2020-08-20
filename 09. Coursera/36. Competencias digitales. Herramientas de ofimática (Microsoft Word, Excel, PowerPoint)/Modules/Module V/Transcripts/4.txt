@@ -1,0 +1,52 @@
+[MÚSICA] Ahora vamos a crear una nueva diapositiva. Comprobad siempre antes de crearla
+dónde estáis o pueden crear a la nueva diapositiva a continuación
+de aquella que estéis visualizando. En este caso, estamos visualizando la
+primera diapositiva de esta presentación. Para crear una nueva me dirijo a la ficha Inicio y aquí
+encontraré el botón Nueva diapositiva. Desplegando este botón,
+me ofrecerá varias opciones, varios diseños diferentes de diapositiva
+dependiendo de lo que me interese. Puedo necesitar una diapositiva de
+título con dos bloques de texto preparados para poner un título
+y un subtítulo, una diapositiva con un diseño de título y objetos,
+dentro de objetos puede ser un texto, puede ser una imagen,
+puede ser un gráfico, etcétera. Puedo tener una diapositiva
+de comparación, donde tendré dos zonas de
+objetos más el título. Solo el título. Dependiendo de lo que queramos,
+utilizaremos una u otra. Vamos a poner, por ejemplo,
+vamos a crear una de título y objetos. Fijaros la ha creado a continuación
+de la que teníamos seleccionada. you tenemos una nueva diapositiva
+con dos bloques en este caso, uno para un título y otro para
+texto o cualquier otro objeto. A partir de ahora simplemente hemos
+de ir siguiendo sus instrucciones, you nos dice Haga clic para agregar
+título o Haga clic para agregar texto. O si me pongo sobre los iconos, me permite
+indicar si quiero insertar una tabla, un gráfico, un SmartArt,
+es decir un organigrama, un esquema, una imagen, una imagen online o un vídeo. Una vez creada la diapositiva si creemos
+que es mejor cambiarle el diseño, por ejemplo, me doy cuenta de que yo no quería
+un bloque de texto, sino que quería tener dos bloques de texto uno al lado de otro,
+puedo cambiarlo en cualquier momento. Para ello tengo en la ficha Inicio el
+botón Diseño que me mostrará los diseños que acabamos de ver, y aquí eligiríamos el
+nuevo diseño, por ejemplo, comparación. you hemos cambiado el
+diseño de esta diapositiva. En todo momento podemos hacerlo. Aparte de añadir texto u objetos
+a cada una de las diapositivas, podemos trabajar con el
+fondo de estas diapositivas. Para ello en la ficha Diseño encontraremos a la derecha al final de esta
+ficha el botón Formato del fondo. Al activar este botón,
+nos aparecerá esta ventana a la derecha donde podremos definir el fondo de
+esta o de todas las diapositivas. Podemos aplicar un relleno
+sólido eligiendo el color. En principio lo aplica
+solo a esta diapositiva, pero tenemos en la parte
+inferior el botón Aplicar a todo que nos permite aplicar ese cambio
+para todas las diapositivas. Ahora you las tenemos ese mismo
+fondo para todas las diapositivas. Podemos poner un relleno sólido,
+un color o podemos poner un degradado eligiendo el tipo de degradado
+de diferentes maneras, podemos poner una imagen
+de fondo o una textura. Si es una imagen, podemos con el botón
+Archivo insertar la imagen que queramos. Podemos utilizar alguna trama. Es decir, podemos determinar el fondo de
+esta o de todas las diapositivas. Recordad que siempre tenemos
+el botón Aplicar a todo para que lo haga para
+todas las diapositivas. También hay una opción que a veces es útil
+que es esta de ocultar gráficos al fondo, porque en alguna de las diapositivas
+me puede ser útil esconderlos. No interesa que se vean esos objetos,
+esas imágenes o esas tramas, esos degradados que hemos puesto en
+alguna diapositiva puede que no sea útil. En este caso, simplemente lo
+desactivamos y cualquier imagen que hayamos puesto desaparecerá
+y solo para esa diapositiva. También podéis aprovechar
+los diferentes temas. [AUDIO_EN_BLANCO]

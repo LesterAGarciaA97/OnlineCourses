@@ -1,0 +1,81 @@
+[MÚSICA] Para añadir una imagen a una
+diapositiva utilizaremos la ficha Insertar y aquí
+encontraremos el botón Imágenes. Nos preguntará donde tenemos la imagen
+a añadir, la buscamos y la añadimos. Una vez añadida you podemos
+colocarla donde queramos, moviéndola, siempre cogiendo
+esa imagen por el interior y con los puntos de selección
+determinaremos su tamaño. Dentro de la ficha Insertar a parte de
+la posibilidad de insertar una imagen. Fijaos que tenéis también la posibilidad
+de insertar imágenes en línea y decir imágenes que podemos encontrar por
+internet o podemos insertar capturas de pantalla de cualquiera de las ventanas que
+tengamos abiertas en nuestro ordenador de cualquier otra aplicación o incluso
+podemos crear un album de fotografías. Esta opción lo único que hace
+es crear una presentación nueva con todas las fotografías que
+tenemos en una determinada carpeta. Es una manera rápida de crear una
+presentación con unas fotografías que tenemos preparadas,
+cada diapositiva, una fotografía. Aparte de insertar imágenes podemos
+insertar otro tipo de elementos, como por ejemplo una hoja de
+cálculo o una gráfica de Excel. Para ello disponemos de esta opción,
+Objeto, hacemos clic en la opción objeto y nos aparecerá el
+cuadro de diálogo de insertar objeto, donde nos pregunta primero si queremos
+crear un documento nuevo porque todavía no lo tenemos y utilizar por lo tanto
+alguno de los programas que nos ofrece o si you lo tenemos creado el documento,
+con la opción Crear desde archivo, indicaremos donde está y qué
+documento queremos insertar. En este caso vamos
+a insertar un documento, una hoja de cálculo de Excel
+que you tenemos creada. Pedimos crear desde archivo con el
+botón Examinar, vamos a ir a buscarlo. Buscamos el documento,
+en este caso profesorado, aceptamos. En teoría you hemos acabado pero, antes de
+aceptar, comprobar esta opción vínculo. Si activo esta opción, le estoy indicando
+que cualquier cambio que haga en el documento original en Excel,
+cuando abra PowerPoint, se actualice. Dependiendo del tipo de documento,
+puede ser útil activar. De manera que nos olvidemos
+de posibles cambios. Siempre del documento o la hoja que
+estamos visualizando en la presentación estará actualizada. Aceptamos. Y nos coloca la hoja de cálculo de Excel. Podemos desplazarla, podemos modificar su tamaño y
+también podemos cambiar la hoja. Pensar que ahora mismo estamos
+viendo una de las hojas de Excel, pero Excel tiene más hojas. Puede darse el caso que al insertar el objeto no queramos
+que se visualice esta hoja sino otra. El Power point lo que hace
+es visualizar siempre la última que se actualizado
+con ese documento. ¿Que quiero utilizar otra? Lo que hago es hacerle un doble clic. En el momento que hago doble clic, en realidad lo que estoy
+haciendo es entrar en Excel. Fijaos, la cinta de opciones
+pasa a tener el color verde. En realidad no estoy en PowerPoint,
+estoy en Excel, por lo tanto,
+aquí podré o reducir el tamaño que no estoy reduciendo el tamaño sino
+reduciendo el espacio que visualizo. Estoy indicando que parte de la hoja
+quiero visualizar en la presentación. [SONIDO] O puedo cambiar de hoja y tenemos que
+estamos en la hoja Profesorado, pero puedo pasar por ejemplo
+a la Hoja 1 y determinar que me enseñe esta parte de la Hoja 1. Todo esto lo estoy haciendo en Excel
+e incluso si hiciera falta podría modificar cualquier valor de la Hoja
+you que no estoy en PowerPoint. Una vez acabado, clic fuera del
+Objeto y vuelvo a PowerPoint. Este Objeto, puedo modificarlo en cuanto a formatos con la ficha Formato, que me
+aparece automáticamente al seleccionar. Formatos como you hemos visto
+para imágenes, incluso textos. Otro tipo de Objetos que podemos insertar dentro de la diapositiva
+son los vídeos o los sonidos. Si vamos a la ficha Insertar,
+tendremos hacia el final las opciones de vídeo y audio que nos
+permiten insertar estos elementos. Como ejemplo vamos a colocar un vídeo,
+desplegamos el botón, nos pregunta si vamos a colocar
+un vídeo que esté en Internet, vídeo en línea o un vídeo que tenemos
+nosotros en nuestro ordenador. En este caso vamos a colocar un
+vídeo que tenemos en el ordenador. Vídeo en mi PC. Os preguntará, ¿dónde está ese vídeo? Lo localizamos y lo insertamos. Una vez colocado,
+podemos determinar su tamaño, igual que para cualquier objeto y you
+hemos insertado ese vídeo. Si queremos verlo, proyectamos y en el momento que le
+hagamos un clic al vídeo se ejecutará. [SONIDO] Para pararlo o pausarlo,
+otra vez un clic y para el vídeo. Volvemos a clicar y continua. Podemos comprobar que sea correcto. [SONIDO] Así de sencillo, colocar un vídeo,
+ahora nos falta ver qué podemos modificar. Una vez seleccionado el vídeo,
+disponemos de las dos fichas, la de formato como cualquier otro
+objeto y la de reproducción. En la de Formato encontraréis
+los típicos formatos estéticos, como por ejemplo ponerle un marco y en la ficha de reproducción
+tendremos elementos propios de vídeo y por ejemplo podemos regular el volumen,
+mínimo medio, máximo silencio. Podemos indicar que se ejecute el vídeo al hacer clic sobre él como
+hemos visto ahora mismo o que se ejecute el vídeo automáticamente
+al entrar a la diapositiva. También podemos pedir que se reproduzca
+a pantalla completa y entonces llenará en el momento que se ejecute
+el vídeo, llenará toda la pantalla. [SONIDO] Dependiendo del vídeo podremos
+modificar algunas de estas propiedades. [SONIDO] Para insertar objetos normalmente
+utilizaremos la ficha Insertar pero cuando creamos una nueva diapositiva,
+con el botón de nueva diapositiva si utilizamos cualquiera de los
+diseños que contiene un Objeto, fijaos cómo nos muestra varios botones
+para insertar alguno de estos objetos. Insertar una tabla,
+insertar un gráfico, un smart art, imágenes, como hemos visto ahora con
+la ficha Insertar, imágenes en línea, e incluso vídeos como el que acabamos
+de insertar con la ficha Insertar. Podéis hacerlo de las dos maneras. [AUDIO_ EN_BLANCO]

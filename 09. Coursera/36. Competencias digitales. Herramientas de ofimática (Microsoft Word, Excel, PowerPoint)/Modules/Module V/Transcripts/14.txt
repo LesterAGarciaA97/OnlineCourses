@@ -1,0 +1,63 @@
+[MÚSICA] Con esta unidad, Otros objetos, aprenderemos
+a insertar y modificar gráficos, organigramas y autoformas. you hemos visto que podemos insertar
+parte de un documento de Excel, una de las partes que podría contener
+un documento de Excel sería un gráfico. Recordamos que en la ficha Insertar
+disponíamos del botón Objeto para añadir todo tipo de objetos,
+entre ellos un documento de Excel. Si nosotros no tenemos el gráfico y
+queremos insertar el gráfico sin necesidad de utilizar Excel, podemos utilizar la
+opción Gráfico de la ficha Insertar. Esta opción me permitiría
+crear un nuevo gráfico. También puedo hacerlo de otra manera,
+puedo crear una nueva diapositiva, escogiendo cualquier diseño
+que contenga Objeto. Por ejemplo,
+este de Título y objetos y dentro del bloque de objeto puedo
+pedir Insertar gráfico. Hago clic en este botón y me preguntará qué tipo de gráfico quiero insertar,
+de columna, de línea, circular, etcétera. Para cada uno de estos tipos de gráfico
+me ofrecerá una serie de variantes, elegimos el tipo de gráfico
+que nos interesa y Aceptar. you tenemos creado un gráfico. Fijaos que además del gráfico nos muestra
+una pequeña ventana con los datos, son datos que vienen you
+predefinidos en PowerPoint. Estos datos nosotros los modificamos. Por ejemplo, en lugar de Serie 1,
+Serie 2, Serie 3, ponemos años 2014, 2015, 2016. Fijaos cómo automáticamente en
+el gráfico queda modificado. Aquí iríamos introduciendo
+los datos que nos interesen. Si no quiero utilizar tantos datos, fijaos cómo los datos quedan enmarcados. Si cogemos este punto y
+arrastramos le podemos indicar, por ejemplo,
+que no muestre los datos de la columna D. Ahora solo tenemos los datos de 2014, 2015 y podemos visualizar solo
+los datos que nos interesen. Más o menos, y modificarlos para que se adapten al
+gráfico que queremos crear. Si esta ventana se os cierra y queréis
+volver a acceder a los datos, fijaos que al seleccionar el gráfico aparecen las
+dos fichas contextuales, Diseño y Formato, dentro de la ficha de Diseño
+encontraremos el botón Seleccionar datos, si hacemos clic en este botón volverá
+a mostrar la ventana con los datos. También podemos con el botón Modificar
+datos editarlos directamente con Excel, entonces, lo que hará es abrir
+Excel con todos sus datos y aquí podríamos
+modificarlos tranquilamente. Si estamos acostumbrados a trabajar
+en Excel puede ser más cómodo porque el cambio que realicemos aquí
+quedará you guardado dentro de PowerPoint. Si el gráfico que hemos creado no
+nos interesa y queremos cambiar el tipo de gráfico,
+simplemente nos vamos al último botón, Cambiar tipo de gráfico,
+y buscamos qué tipo de gráfico queremos. De esta manera sencilla,
+podemos crear un gráfico. El gráfico está compuesto por
+varios elementos, el título, el área de gráfico, los ejes,
+todos estos elementos podemos determinar cómo queremos visualizarlos
+y si queremos visualizarlos. Para ello, tenemos en la ficha de Diseño
+el botón Agregar elemento de gráfico. Aquí encontraremos todos
+los elementos del gráfico y para cada uno de ellos buscaremos cuál
+es la visualización que más nos interesa. Si no queremos que haya título,
+si queremos colocar las etiquetas de datos dentro del
+gráfico y concretamente dónde. Si queremos, por ejemplo, la leyenda que
+ahora mismo está en la parte inferior, la queremos a la derecha,
+arriba o a la izquierda, indicamos qué elementos
+queremos visualizar y dónde. Por ejemplo, vamos a poner los títulos,
+tenemos solo el título del gráfico, pero puedo pedir el título de ejes,
+por ejemplo, del eje horizontal. Si pido horizontal, me aparece este
+recuadro y aquí puedo editar el título. Este caso vería año. Cualquier elemento simplemente
+lo buscamos en este botón y determinamos si queremos verlo
+o no y cómo queremos verlo. En cuanto a formatos,
+disponemos de una ficha, la ficha Formato, con todos los formatos
+que hayamos visto con otros objetos. Por ejemplo, selecciono una columna, una serie de columnas, en este caso barras y con el botón de Relleno
+determino su color. [AUDIO_EN_BLANCO] Fijaos que al hacer clic
+en una de las barras, automáticamente selecciona todas
+las que son de la misma categoría. Si yo lo que quiero es modificar solo una,
+una vez hecho el clic y you he seleccionado todas, hago un segundo clic
+de manera que solo quedará seleccionada esa barra, la que realmente quiero
+modificar y you puedo modificar solo esta. [AUDIO_EN_BLANCO] Cualquier formato que queráis modificar, simplemente lo seleccionáis y buscáis
+la opción que más os interese. [AUDIO_EN_BLANCO]

@@ -1,0 +1,115 @@
+[MÚSICA] En esta unidad, uso de la aplicación
+y creación de una presentación, nos familiarizaremos con la aplicación y
+trabajaremos las opciones más básicas. Primero, daremos los primeros pasos,
+veremos cómo abrir y cerrar la aplicación, cómo abrir y cerrar las presentaciones,
+cómo crearlas y cómo guardarlas. También veremos las diferentes partes
+de la ventana y sus funciones. Después, veremos cómo
+modificar la visualización del entorno y cómo modificar las
+preferencias de la aplicación. Veremos las diferentes maneras
+de visualizar la presentación y para qué las utilizaremos. A continuación,
+veremos cómo crear diapositivas y cómo modificar su diseño y su fondo. Veremos cómo utilizar las plantillas y
+cómo utilizar los patrones y sus ventajas. Vamos a empezar a trabajar. Para abrir la aplicación, como cualquier
+otra aplicación, nos dirigimos al botón Inicio, buscamos la
+aplicación y la abrimos. Nos aparecerá la pantalla inicial de Power
+Point y nos pregunta si queremos crear una presentación en blanco o utilizar
+una de las plantillas que nos ofrece. Vamos a pedir una presentación en blanco,
+y you tenemos Power Point abierto y preparado
+para crear nuestra presentación. Como vamos a utilizarla a menudo,
+lo ideal sería anclar esta aplicación en la barra de tareas
+para no tener que ir a buscarla, para ello, voy al botón Inicio,
+busco la aplicación, le hago un click con el botón
+derecho y aparecerá la opción Más y dentro encontraréis la opción
+Anclar a la barra de tareas. Esta opción hace que Power Point aparezca, a partir de ahora,
+siempre en la barra de tareas. Vamos a probarlo. Cerramos la aplicación,
+como cualquier aplicación, por la cruz y aunque tengamos Power Point cerrado
+fijaos que en la Barra de tareas nos aparece el ícono de Power Point para
+abrirlo en cualquier momento sin necesidad de tener que ir a buscar la
+aplicación al botón de Inicio. Si hago click, abre la aplicación, siempre pidiendo
+presentación en blanco o plantilla. La ventana de Power Point es
+similar a la ventana de el resto de aplicaciones de Office,
+tenemos la barra de Título con el nombre de la aplicación y el nombre
+del documento abierto en este momento, los botones de Cerrar,
+Restaurar y Minimizar, y a la izquierda la Barra de acceso rápido
+con alguna de las opciones más usuales. Esta barra,
+como el resto de aplicaciones de Office, se puede personalizar con el
+último botón podemos indicar qué botones queremos y qué botones no
+queremos, por ejemplo, ortografía está activado lo puedo quitar, aquí añadimos aquellos botones que más vamos a utilizar,
+de manera que tengamos un acceso rápido. A parte de estos botones
+podéis añadir más comandos buscando por orden alfabético en
+la categoría Todos los comandos aquella opción que queréis tener más
+a mano porque la vais a utilizar a menudo. Escogeremos cualquiera de ellas, por
+ejemplo, Alinear objetos en el centro, lo seleccionamos, click al botón Agregar y
+aparecerá en la Barra de acceso rápido. [SONIDO] Recordad esta personalización porque
+nos puede ahorrar mucho trabajo. En realidad, la mayor parte de las
+órdenes que necesitamos las tendremos en la ficha Inicio,
+son las opciones más usuales pero el resto de opciones
+tendremos que ir a buscarlas en el resto de fichas dependiendo
+de la tarea que queramos realizar. Algunas de ellas son muy
+usuales y no está demás añadirlas a la Barra de acceso rápido. En la parte inferior tenemos la Barra de
+estado, como en todas las aplicaciones, donde encontraréis sobre todo los
+botones de Vistas para indicar qué tipo de visualización
+queremos tener y el zoom, a parte de poder escoger el idioma. Para abrir una presentación you existente
+debemos utilizar el botón de Abrir de la Barra de acceso rápido
+o ir a la ficha Archivo y aquí encontraremos la opción Abrir. Podemos utilizar alguna de
+estas categorías, podemos abrir presentaciones recientes, nos
+muestra las últimas que hemos utilizado, podemos abrir presentaciones que
+tengamos guardadas en la nube o presentaciones que tengamos
+guardadas en nuestro ordenador. Si están guardadas en nuestro ordenador,
+pedimos Examinar y la buscamos. Vamos a abrir, por ejemplo,
+esta presentación y así podemos ir abriendo las
+presentaciones que necesitemos. Vamos a abrir una nueva presentación,
+quiero abrir la M5, como you está en Recientes no hace
+falta que pierda el tiempo en buscarla. Si tenemos varias presentaciones abiertas
+y queremos intercambiar información entre ellas, simplemente podemos utilizar la
+Barra de tareas donde encontraremos el ícono de Power Point, poniéndonos encima
+nos muestra todas las presentaciones que tenemos abiertas y podemos así
+pasar de una a otra directamente. También podemos visualizar todas las
+presentaciones abiertas a la vez, para ello, tenemos en la ficha Vista el botón Organizar todas,
+este botón reduce la vista de cada presentación de manera que me
+quepan todas las presentaciones. Si quiero volver a tener
+una sola presentación, cerramos la que no necesitemos
+y maximizamos la que nos quede. Cuando cerréis una presentación,
+si es la última que nos queda abierta, pensad que el botón de Cerrar no cerrará
+la presentación sino la aplicación. Si yo lo que quiero es cerrar esta
+presentación y abrir otra no hace falta que cierre la aplicación, para ello cerraré la presentación desde
+el menú Archivo con la opción Cerrar. De esta manera he cerrado la presentación
+pero no he cerrado la aplicación, si hubiese hecho click en el
+botón de cerrar, you que era la última presentación abierta,
+hubiera cerrado también la aplicación. Para crear una nueva presentación puedo hacerlo de dos maneras
+o utilizar el botón Nuevo de la Barra de acceso rápido o utilizar
+la opción Nuevo de la ficha Archivo. Si utilizo el botón de la Barra de acceso
+rápido fijaos que no hace ninguna pregunta y nos crea directamente la presentación,
+una presentación en blanco, en cambio, si pido una nueva presentación por la
+ficha Archivo, busco la opción Nuevo, pregunta si necesito alguna plantilla,
+puedo crear una presentación en blanco o utilizar alguna de las plantillas
+predefinidas que nos ofrece Power Point. por ejemplo, elijo esta, Galería, nos da alguna variante y la creamos. you tengo una nueva presentación
+pero con un determinado fondo y un determinado patrón, es decir, you me aparecerán las diferentes
+diapositivas con un determinado fondo, me ahorrará el trabajo estético
+de preparar esa presentación. Como en cualquier aplicación,
+puedo guardar el trabajo que voy realizando con el botón de Guardar
+que encontraré en la barra de Acceso rápido o con la opción
+Guardar de la ficha Archivo. En ambos casos, si es la primera vez
+que guardamos esta presentación, nos pedirá que indiquemos dónde queremos guardar esta presentación, Documentos, en
+el Escritorio, donde nosotros decidamos, con qué nombre va a guardarlo,
+por ejemplo, Pruebas, y con qué formato,
+normalmente dejaríamos el formato estándar Presentación de Power Point, guardaríamos esta presentación
+y continuaríamos trabajando. Al igual que tenemos la opción de Guardar,
+disponemos también en la ficha Archivo de la opción Guardar como, esta opción
+solo la utilizaremos para crear copias. Cuando pedimos Guardar como
+podremos indicar que cree una copia de esta presentación en
+otra ubicación, podemos cambiar, por ejemplo, a Escritorio,
+con otro nombre, podemos cambiarle el nombre u
+otro formato, por ejemplo, PDF, podemos transformar esta presentación
+en una presentación en formato PDF, que me será muy útil cuando quiera enviárselo
+a alguien para que lo vea y quizás esa persona no tenga el Power Point o no nos
+interesa que modifique esa presentación. Por lo tanto, Guardar como,
+recordad que es útil solo para crear copias con otro
+nombre, en otra ubicación u otro formato. Para guardar utilizamos la opción Guardar. Si tenéis cualquier duda sobre la
+aplicación, podéis utilizar la ayuda que encontraréis en la ficha Archivo,
+aquí en la esquina superior derecha encontraréis el botón interrogante que os
+dará acceso a la ayuda de la aplicación. A partir de la versión
+de Office 2016 no hace falta que entréis aquí, podéis hacerlo
+directamente en la cinta de opciones, al final de esta cinta encontraréis
+el campo Qué desea hacer, colocaos aquí, escribid aquello
+que quereis saber, por ejemplo, imprimir, y os aparecerá una opción donde pondrá Obtenga ayuda sobre
+la palabra que acabáis de escribir. [AUDIO_EN_BLANCO]

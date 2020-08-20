@@ -1,0 +1,29 @@
+[MÚSICA] Disponemos de diferentes vistas, es decir, diferentes
+visualizaciones de la presentación dependiendo de la tarea
+que queramos realizar. Por defecto, cuando abrimos una presentación
+la abrimos con la vista normal. Esta vista nos muestra una diapositiva
+y a la izquierda el listado de diapositivas en pequeño para que podamos
+escoger con qué diapositiva trabajar. Para cambiar de vista, utilizaremos los botones que encontraremos
+a la derecha de la barra de estado. Aquí tenemos, nos está indicando que
+la vista actual es la vista normal, que es la que más utilizaremos. Pero podemos cambiar de vista, por
+ejemplo, utilizar la vista Presentación, que es la que utilizaremos para proyectar,
+para mostrar la presentación. Nos irá mostrando las diapositivas una a una. Aparte de estas dos vistas importantes, tenemos también la vista de
+clasificador de diapositivas. Esta vista es muy útil porque nos
+muestra en una sola pantalla todas las diapositivas de nuestra presentación. Sobre todo nos será muy
+útil cuando queramos modificar la posición de las diapositivas, queramo mover cualquiera de las
+diapositivas o tener una visión global. Aparte de estos botones de la
+barra de estado, disponéis en la ficha Vista de estos botones dentro del grupo Vistas de presentación que nos
+permiten indicar qué vista queremos. Aparte de los que you hemos visto,
+tenemos también la Vista esquema, que lo que hace es sustituir el panel
+de la izquierda donde veíamos las diapositivas en pequeño por
+el texto de las diapositivas. Si lo que más nos importa en este
+momento es comprobar los textos, puede ser más útil la vista de
+esquema que la vista normal. Dependiendo de lo que quiera hacer
+utilizo una vista o utilizo otra. También disponemos de una nueva vista,
+Página de notas, que no teníamos en la barra de estado,
+y nos mostrará en una página A4 la diapositiva en pequeño y un espacio
+por debajo donde agregar las notas, las anotaciones que queramos hacer para
+luego cuando hagamos nuestra presentación. Estas anotaciones no van a verse,
+solo las verá el orador, aquel que ejecuta esa presentación,
+no el público. Dependiendo de lo que queramos hacer
+utilizaremos una presentación u otra. [AUDIO_EN_BLANCO]

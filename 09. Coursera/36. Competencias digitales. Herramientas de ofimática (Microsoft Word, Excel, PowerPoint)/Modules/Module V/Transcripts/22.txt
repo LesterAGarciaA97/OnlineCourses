@@ -1,0 +1,24 @@
+[MÚSICA] Con esta unidad trabajeremos
+una función muy específica, las transiciones y animaciones
+de la diapositiva. Veremos cómo poner transiciones para tener
+un efecto de entrada a la diapositiva, y cómo animar los diferentes
+objetos de una diapositiva. Para que la entrada a las
+dispositivas no sea tan brusca, podemos aplicarle transiciones. Disponemos de una ficha Transiciones
+con todas las opciones disponibles. En el primer grupo Transición
+a esta diapositiva elegiremos el tipo de transición. Vamos a ir probando hasta
+encontrar la que nos interese. Una vez elegida, tenéis el botón de Opciones de efecto
+para hacer alguna modificación. [SONIDO] A continuación, podéis añadir un sonido a esta transición. Disponemos de varios sonidos. Por ejemplo, campana. Si queremos ver cómo queda, siempre disponemos del primer botón
+Vista previa para comprobarlo. Y si el sonido que queréis poner es un
+sonido que tenéis vosotros en el disco duro, podéis elegir la opción Otro
+sonido e indicar dónde está este sonido. Después podéis modificar
+también la duración. Esta transición puede ser
+más lenta o más rápida, indicando el tiempo que ha de durar. También podemos indicar que la
+transición sea al hacer clic con el ratón o después de un cierto tiempo de
+manera que sea una transición automática. Esto permitirá que sea el usuario quien
+determina cuándo pasar de diapositiva o que lo haga automáticamente
+cada cierto tiempo. Por último, un botón no menos
+importante Aplicar a todo. En principio yo puedo aplicar una
+transición a cada una de las diapositivas o aplicarla a una y con
+el botón Aplicar a todo conseguimos que la misma animación
+sirva para todas las diapositivas. De esta manera cuando proyectemos,
+you tenemos un efecto de transición. [AUDIO_EN_BLANCO]

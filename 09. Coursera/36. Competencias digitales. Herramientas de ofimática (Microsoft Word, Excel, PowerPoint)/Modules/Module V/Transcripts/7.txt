@@ -1,0 +1,67 @@
+[MÚSICA] Con esta unidad aprenderemos
+a insertar el texto y las imágenes en las diapositivas,
+y cómo modificar su formato. También aprenderemos a duplicar, a mover y borrar texto y cualquier
+objeto de la presentación. Primero, veremos cómo entrar
+el texto y cómo darle formato. Trabajaremos las opciones que nos
+permiten modificar la estética del texto, como por ejemplo, la tipografía,
+el tamaño de letra o su color. Y las que nos permiten modificar
+los formatos de párrafos, como las alineaciones o las viñetas. También veremos cómo modificar los
+formatos de los bloques de texto y cómo moverlos y modificar su tamaño. Una vez vistos los
+formatos básicos de texto, pasaremos a trabajar
+con dibujos e imágenes. Veremos cómo insertarlos,
+cómo modificar su tamaño y cómo moverlos. También veremos cómo
+insertar otros objetos, como una hoja de cálculo o un video. Para acabar, veremos cómo duplicar,
+mover o borrar textos e imágenes. Vamos a empezar a introducir textos
+e imágenes en las diapositivas. Creamos una nueva diapositiva,
+en este caso, elegimos el diseño de título y objetos,
+you tenemos una nueva diapositiva, y el mismo PowerPoint you nos
+dice lo que tenemos que hacer. Ahora clic para agregar título. Ponemos título a esta diapositiva,
+por ejemplo, PowerPoint, y haga clic para agregar texto,
+aquí añadiríamos el texto que queramos. Para dar formato a ese texto,
+lo que haremos es lo mismo que en cualquier programa, seleccionar
+aquello que queramos modificar, y utilizar las opciones
+de fuente y párrafo que encontraremos en la ficha Inicio, lo
+mismo que haríamos, por ejemplo, con Word. Tenemos tipografía, tamaño de letra, estilos, color de letra, los estilos normales de fuente,
+y los estilos normales de párrafo, sobre todo la alineación. Aparte de la alineación, otra opción que nos puede ser útil en
+caso de PowerPoint, son las viñetas. En este caso,
+tengo unas viñetas de triángulo, pero podría elegir cualquier
+otro tipo de viñeta. Cualquier cambio que esté
+haciendo en esta diapositiva, solo afecta al texto seleccionado. Recordad que tenemos un
+patrón que nos permite asignar estos formatos que
+acabamos de asignar a este texto, de manera que se aplique a todas
+las diapositivas y no solo a esta. Normalmente, los formatos de
+texto en PowerPoint solemos aplicarlo más en el patrón que en
+la diapositiva, porque casi siempre nos interesa que todos los textos de la
+presentación tengan el mismo formato. Dejamos, el cambio en una diapositiva
+solo para algún dato concreto, como poner en negrita una determinada palabra,
+para destacar algún trozo del texto. Aparte del formato del texto, también podemos modificar al formato
+del bloque donde está ese texto. Si seleccionamos este bloque, simplemente haciéndole un clic
+sobre la línea que lo envuelve, aparecerá una ficha contextual,
+de esta de aquí, Formato, con las diferentes opciones que disponemos
+para modificar este bloque de texto. Por ejemplo, podemos modificar el relleno o podemos
+modificar el contorno. Por ejemplo, lo pintamos de
+azul y lo ponemos más grueso. Es decir, podemos modificar tanto el
+texto de ese bloque como el bloque en sí. Este bloque si es necesario,
+podemos trasladarlo. Recordad que cualquier cambio
+que hagamos en esta diapositiva, solo afecta a esta diapositiva. Si este cambio, por ejemplo,
+de posición lo quisiéramos para todas, deberíamos hacerlo en el patrón
+y no en esta diapositiva. Cuando creamos una diapositiva dependiendo
+del diseño que hayamos elegido, nos incorporará uno o
+dos bloques de texto. Si necesitamos más bloques, podemos añadirlos con el botón Cuadro
+de texto de esta ficha de Formato. Hacemos clic en este botón, y nos colocamos allí donde queremos
+añadir un nuevo bloque de texto. Damos clic y escribimos el
+texto que queremos añadir. El bloque de texto se
+comportará exactamente igual que cualquier otro bloque,
+podemos seleccionarlo y aplicarle los diferentes
+formatos como en un bloque normal. Y podemos desplazarlo, colocando la posición que más nos interese,
+siempre cogiéndolo por los bordes. Podemos también modificar su tamaño,
+cogiéndolo por los puntos de selección. El único inconveniente que puede tener
+este bloque de texto añadido es que, como habíamos visto en las vistas,
+teníamos una opción que era la vista esquema que nos
+mostraba a la izquierda todo el texto. Fijaos cómo en esta diapositiva
+nos muestra el texto que hemos escrito en el bloque
+que nos ha dado PowerPoint. En cambio,
+no vemos el texto que acabamos de escribir en este bloque de texto que hemos añadido,
+es el único inconveniente. Hay que tener presente, que estos bloques
+añadidos no se muestran en la vista de esquema, pero por lo demás se comportan
+igual que cualquier otro bloque de texto. [AUDIO_EN BLANCO]

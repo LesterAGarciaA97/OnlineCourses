@@ -1,0 +1,32 @@
+[MÚSICA] Para imprimir la presentación podemos
+utilizar el botón Impresión rápida de la barra de acceso rápido. Ahora bien, hay que tener presente que
+esta opción no pregunta nada, imprime una copia de la presentación imprimiendo
+una diapositiva en cada página. Si queremos antes de imprimir
+comprobar cómo nos quedaría y modificar alguna
+configuración de impresión, lo mejor es ir a la ficha Archivo
+y utilizar la opción Imprimir. Aquí nos mostrará cómo
+imprimiría esta presentación. Podemos ir viendo las diferentes páginas,
+nos indica cuántas páginas tenemos, en este caso seis, y podemos
+modificar algunas configuraciones. En la parte izquierda podremos
+indicar en el apartado Impresora a qué impresora queremos imprimir. Podemos con el enlace Propiedades
+de impresora determinar alguna configuración dependiendo siempre del
+tipo de impresora que tengamos instalada. Y en el apartado Configuración
+encontraremos otras preferencias que podemos modificar. Por ejemplo, podemos indicar que
+imprima todas las diapositivas o que imprima solo la diapositiva actual,
+la que estamos visualizando, o un rango personalizado que nos permitirá determinar
+qué diapositivas queremos imprimir. Para indicar cuáles ha de imprimir,
+simplemente debemos escribir en el campo Diapositivas los números de
+las diapositivas, por ejemplo 1, 3 y 8. 6, solo tenemos 6. Siempre separadas por coma o si es
+un rango separado por un guión. Por ejemplo de la 1 a la 3, y la 6. También podemos determinar que imprima la diapositiva en página completa,
+cada página una diapositiva. Esa es la impresión estándar. Mientras no digamos lo contrario,
+siempre lo imprimirá así. Podemos pedir que imprima
+la página de notas. Es decir, en cada página pondría
+una diapositiva y debajo las notas que hayamos añadido. Podemos escoger esquema para imprimir
+solo los textos de las diapositivas. O podemos indicar que imprima
+varias diapositivas por hoja. [SONIDO] También podemos intercalar o no si hacemos
+una impresión de varias copias. Y por último, podríamos modificar la impresión para indicar que lo haga
+en color, blanco y negro o en grises. El último enlace Editar encabezado y
+pie de página si lo vemos nos da acceso al cuadro de diálogo de Encabezado y pie
+de página que you vimos anteriormente. Una vez modificadas estas configuraciones,
+you podemos hacer clic en el botón Imprimir para
+que imprima nuestra presentación.

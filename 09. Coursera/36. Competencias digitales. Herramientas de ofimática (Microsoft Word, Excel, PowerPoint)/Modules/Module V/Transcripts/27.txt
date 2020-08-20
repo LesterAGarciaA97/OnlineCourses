@@ -1,0 +1,51 @@
+[MÚSICA] [MÚSICA] A cualquier objeto que tengamos en nuestra
+presentación le podemos asignar una acción o un vínculo que nos permita por ejemplo
+desplazarnos a otra diapositiva, abrir otra presentación,
+abrir un programa o juntar un sonido. Vamos a añadir un objeto
+para ver un ejemplo. Nos vamos a la ficha Insertar,
+elegimos una forma, la dibujamos, le ponemos un nombre, ponemos metodología, porque queremos que este objeto nos desplace directamente
+a la diapositiva de metodología. [SONIDO] Una vez que tenemos el objeto, lo seleccionamos y en la ficha Insertar
+encontraréis dentro del grupo Vínculos, el botón Acción. Demos clic en este botón,
+nos aparecerá el cuadro de diálogo de configuración de la acción y
+aquí determinaremos qué queremos que haga este objeto al hacerle clic o al
+pasar el ratón por encima del objeto. Tenemos que coger cualquiera
+de estas dos opciones. Normalmente utilizamos la de clic,
+pero también podemos hacerlo sin necesidad de presionar
+el botón, simplemente pasando por encima. Aquí podríamos pedir un hipervínculo,
+es decir, que nos enlace a otra diapositiva
+o algún otro archivo. Podemos pedir que nos ejecute un
+determinado programa que elegiríamos con el botón Examinar. Podíamos pedir que nos ejecute una macro
+si la tenemos definida o podríamos pedir que nos reproduzca un sonido suyo o
+que tengamos en nuestro disco duro. Como ejemplo vamos a hacer un hipervínculo
+a la diapositiva de metodología, por lo tanto, pedimos hipervínculo,
+elegimos la opción diapositiva e indicamos a qué
+diapositiva nos queremos trasladar. En este caso la de Metodología. Aceptamos y vamos a probarlo. Aceptar. you tenemos configurada
+la acción de este objeto, proyectamos y probamos. Clic en el objeto y nos ha desplazado
+directamente a la diapositiva Metodología. Así con cualquier objeto que
+tengamos en nuestra presentación. Tanto objeto como texto. También podemos seleccionar una
+palabra y transformarla en un enlace, en un vínculo o en una acción. Si queremos enlazar a una página web, podemos utilizar directamente
+el botón hipervínculo. Este botón simplemente nos pedirá
+que elijamos la diapositiva o que elijamos en la parte izquierda,
+archivo o página web. De esta manera escribiríamos
+en la casilla dirección, la dirección de la página web a la cual
+queremos conectarnos y a partir de ahora al hace clic en este objeto,
+nos enlazaría a esa página web. A parte de utilizar cualquier objeto,
+dentro del elemento de formas, si os fijáis
+en la parte inferior del desplegable, encontraréis los botones de acción. Podéis aprovechar estos botones
+para hacer desplazamientos. Por ejemplo puedo coger cualquiera
+de estos, el de ir hacia adelante. Elijo esta forma, este botón de acción,
+lo dibujo y automáticamente como es un botón de acción, you me abre
+la ventana de configuración de acción. En realidad es una forma normal
+y corriente pero preparada you para configurarla como acción. Puede darse el caso que al
+hacer la proyección de nuestra presentación haya alguna dispositiva
+que no queramos mostrar, pero que no nos interese eliminar porque seguramente
+la necesitamos para otras ocasiones. En estos casos lo que podemos hacer
+es ocultar algunas diapositivas. Para ello vamos a la ficha Presentación
+con Diapositivas y aquí encontraremos el botón Ocultar diapositiva. Simplemente activamos la diapositiva, visualizamos la diapositiva que queremos
+ocultar y clicamos el botón ocultar. Fijaos como aquí a la izquierda el número
+de la diapositiva que hemos ocultado, queda tachado. Esta diapositiva you no se
+visualizará durante la presentación. Seguimos teniendo la diapositiva,
+pero no la muestra. Para volverla a hacer visible, simplemente
+volvemos a hacer clic en el mismo botón y you vuelve a ser
+visible esta diapositiva. De esta manera ocultamos las diapositivas
+que no queramos ver en alguna ocasión. [AUDIO_EN_BLANCO]

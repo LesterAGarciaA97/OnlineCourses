@@ -1,0 +1,35 @@
+[MÚSICA] Otro tipo de objeto que podemos insertar dentro
+de una diapositiva son las Autoformas. Para probarlo vamos a crear
+una nueva diapositiva. Por ejemplo,
+una que solo contenga título de manera que nos quede aquí espacio para
+generar un esquema a partir de Autoformas. Vamos a la ficha Insertar y aquí
+encontraremos el botón de Formas. Por ejemplo vamos a elegir un rectángulo,
+colocamos la diapositiva y arrastrando
+dibujamos esta figura. Una vez dibujada, podemos como
+cualquier objeto determinar su tamaño con los puntos de selección,
+podemos desplazarlo, podemos con la Flecha
+curva girar el objeto. Si queremos añadir texto,
+hacemos un click con el botón derecho y pedimos la opción modificar Texto
+y escribimos lo que queremos. Este objeto una vez seleccionado,
+utilizando las órdenes de la ficha Formato podremos modificarle su estética. Ejemplo podemos modificar la estética de
+la Forma, diferentes colores de estéticas. Podemos modificar su relleno,
+su contorno, aplicarle efectos y podemos modificar también
+los estilos del texto. [SONIDO] Así como el relleno de texto o el contorno
+de texto o el efecto de texto. Podemos modificar por separado
+tanto el objeto como su texto. Para añadir más formas, tenemos en la ficha de Formato al
+principio, el acceso a todas las formas. Buscaríamos una nueva forma,
+por ejemplo, una flecha y la dibujamos. [SONIDO] Y así iríamos incluyendo
+las formas que necesitemos. [SONIDO] Si al desplazar estas formas una tapa a otra, al final de la
+ficha en Formato, encontraremos los botones de traer adelante, enviar atrás
+para determinar la posición en el plano. En este caso,
+nos interesaría enviar atrás. Podemos enviar atrás es decir,
+una posición hacia detrás o al fondo para, si son varios objetos superpuestos,
+enviarlos al final del todo. [SONIDO] Si tenemos varios objetos, una de las
+cosas más incómodas es moverlas. Si movemos los objetos, podemos
+seleccionarlos con la tecla de mayúscula para poder moverlos todos a la vez pero
+si son muchos es bastante incómodo, por lo tanto lo mejor sería seleccionar
+estos objetos y con el botón de agrupar, transformarlos en un solo. De esta manera podré desplazarlos
+todos a la vez sin que se muevan independientemente. Aún así seleccionando solo un objeto
+concreto, podremos modificarlo libremente. Si lo queremos modificar todos a la vez, lo seleccionaremos por la
+línea que los envuelve. Para volver a trabajar
+totalmente independiente, seleccionamos y desagrupamos. [SONIDO] [AUDIO_ EN_ BLANCO]

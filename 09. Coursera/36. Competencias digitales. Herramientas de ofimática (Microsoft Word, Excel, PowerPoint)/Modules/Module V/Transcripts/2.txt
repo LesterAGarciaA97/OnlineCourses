@@ -1,0 +1,24 @@
+[MÚSICA] Para ampliar o reducir la visualización de
+la presentación podéis utilizar la barra de zoom que encontraréis en la barra
+de Estado, y podéis arrastrar esta barra para ampliar o reducir la visualización
+de las diferentes diapositivas, también podéis hacerlo con las
+opciones de la ficha Vista. Aquí encontraréis un grupo de botones
+llamado Zoom, concretamente con el botón Zoom podéis especificar exactamente qué
+porcentaje de visualización queréis. También podéis ajustar la visualización
+de esta presentación a la ventana. Para visualizar o modificar el
+comportamiento general de la aplicación, podéis acceder a sus preferencias,
+para ello, vais a la ficha Archivo y
+encontraréis la opción Opciones. Aquí visualizaréis toda la
+configuración general de la aplicación, clasificada por categorías,
+referencias generales, de revisión, de guardado,
+de idioma, avanzada, etcétera. Por ejemplo, en la categoría de Guardar,
+encontramos, entre otras opciones, la ubicación predeterminada de
+plantillas personales o la ubicación predeterminada de archivos locales
+que nos permite indicar dónde, por defecto,
+guardará Power Point estos documentos, en cuanto a los archivos,
+las presentaciones, como las plantillas. Modificando esta ruta
+indicaríamos dónde queremos que queden guardados mientras
+no digamos lo contrario. No está demás echar un vistazo a estas referencias,
+normalmente están bien configuradas y suelen adaptarse a lo que queremos, pero
+siempre podemos encontrar alguna opción que podamos modificar para adaptarla
+a nuestra manera de trabajar. [AUDIO_EN_BLANCO]

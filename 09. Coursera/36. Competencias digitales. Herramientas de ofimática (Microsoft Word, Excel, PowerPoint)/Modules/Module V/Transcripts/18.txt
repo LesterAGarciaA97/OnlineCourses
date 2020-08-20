@@ -1,0 +1,12 @@
+[MÚSICA] [MÚSICA] En este ejercicio, vamos a crear una diapositiva,
+donde colocaremos una imagen. Aparte del texto, también una imagen. Vamos a generar una nueva diapositiva, concretamente una
+diapositiva de dos objetos. De manera que tengamos un título,
+un bloque de texto y una imagen a su lado. Introducimos la información de texto. you hemos introducido el texto,
+ahora vamos a introducir aquí, en la derecha, la imagen. Por ejemplo, si la tuviéramos en nuestro
+disco duro, pues la introduciríamos. Ahora vamos a buscarla en línea. Para esto, tenemos el botón
+Imágenes en línea; hacemos clic. Voy a buscar, por ejemplo,
+una taza de café. Ponemos café para que
+nos haga una búsqueda. Escogemos la imagen que nos interese,
+por ejemplo, esta, y la insertamos. you tenemos la diapositiva
+con una imagen que hemos capturado de nuestro ordenador o,
+en este caso, de internet. [MÚSICA] [AUDIO_EN_BLANCO]
