@@ -1,0 +1,117 @@
+[MÚSICA] [MÚSICA] Con esta unidad trabajaremos temas de
+seguridad al utilizar el correo electrónico y la
+mensajería instantánea. En el primer apartado, veremos cómo
+cifrar y descifrar un correo electrónico, el uso de la firma digital,
+qué son el correo spam y phishing, y el potencial peligro de
+los archivos adjuntos. Y en el segundo apartado veremos qué es la
+mensajería instantánea y cómo protegerla. Cifrar los correos es alterar el contenido
+de lo que escribimos y adjuntamos, de tal forma que si alguien intercepta ese
+mensaje, sea totalmente ilegible para él. Cifrado nos asegurará que solo la
+persona a la que va destinado el correo pueda leerlo. Existen diferentes tipos de cifrado,
+entre ellos el cifrado tradicional, el cifrado simétrico y
+el cifrado asimétrico. El cifrado asimétrico es de
+los más seguros actualmente. Consiste en lo siguiente, el remitente tendrá un par de
+claves únicas disponibles. Una de las claves será pública
+y la otra será privada. El destinatario también dispondrá
+de dos claves únicas disponibles, igualmente una pública y otra privada. Ni el destinatario ni el remitente
+proporcionarán a terceros su clave privada. Tanto el destinatario como
+el remitente distribuirán públicamente su clave pública. Las puedes subir a un servidor de claves, enviarla por correo,
+pasarla por un pen drive, etcétera. El remitente, una vez escrito el mensaje, lo cifrará con la clave
+pública del destinatario. El destinatario recibirá el correo
+cifrado en principio no podrá leerlo porque el contenido está cifrado, y para descifrar el mensaje el
+destinatario usará su clave privada. La única forma de descifrar el
+mensaje será a través de la clave privada del destinatario,
+Existen varias opciones para cifrar nuestro correo electrónico,
+para Microsoft Outlook podemos usar algunas extensiones como
+GP4Win y Outlook Privacy Plugin. Para Mozilla Thunderbird podemos usar la
+extensión Enigmail o WebPG for Mozilla. Enigmail es una muy buena opción, you que el proceso es prácticamente
+automático y es software libre. Y además multiplataforma. Las instrucciones para usarlo las
+puedes ver en la web de Mozilla. Para los navegadores Chrome
+y Firefox hay extensiones como Mailvelope o Secure Gmail. Para Android podéis usar la
+aplicación del correo k9mail y el programa APG,
+el proceso es prácticamente automático. La firma digital es un
+mecanismo de cifrado para autenticar la información digital. Adjuntando la firma digital a los
+mensajes, conseguimos que el receptor esté seguro de que el mensaje proviene
+de la persona que se indica en el remitente y que el mensaje no sea
+alterado durante la transmisión. Encontraréis información en el
+portal administración electrónica del gobierno de España. El correo basura o SPAM son mensajes
+enviados indiscriminadamente y masivamente sin el
+consentimiento de los receptores. Normalmente son mensajes comerciales,
+aunque también son frecuentes los engaños con intención de sacar
+provecho económico de las víctimas. Es recomendable no contestar nunca el
+SPAM you que al remitente le puede servir de confirmación de que esa
+dirección existe y está en uso. Tampoco hagáis clic en ningún
+enlace que contenga el mensaje you que puede desencadenar
+una descarga peligrosa. Las aplicaciones de correo pueden filtrar
+estos correos, seleccionad el mensaje y buscad una opción que se llama enviar
+a correo SPAM o algo parecido. El mensaje lo guardará en una
+carpeta y a partir de ahora no os volverá a mostrar ningún
+mensaje de este remitente. El phishing es un fraude que
+se hace con correo electrónico o mensajería instantánea con
+el que se piden datos sobre las tarjetas de crédito,
+claves bancarias, etcétera. Los mensajes utilizan todo tipo de
+argumento relacionados con la seguridad de la entidad para justificar la necesidad
+de introducir los datos de acceso. Por ejemplo, podéis recibir un correo
+con el logotipo de vuestro banco y que parezca realmente que
+os lo envía vuestro banco. Para evitar riesgos de phishing
+podéis seguir estas recomendaciones. No respondáis a correos electrónicos
+escritos en otros idiomas. Vuestro banco no os enviará un
+comunicado en otro idioma si no lo habéis pactado previamente. No respondáis a correos enviados por
+entidades de las que no sois cliente. No respondáis de forma inmediata a correos
+que hablen de un sorteo o de una oferta. No respondáis a los que
+os avisen del fin de actividades financieras
+recibidos por sorpresa. No respondáis a correos sospechosos sin
+confirmarlos por teléfono o personalmente. No entréis en la página web de
+vuestro banco a través de buscadores you que podrían dirigiros sin que
+lo notéis a una página falsa. Escribid siempre la dirección
+electrónica de vuestro banco en la barra de direcciones del explorador. Y sobre todo nunca deis
+información de vuestras cuentas ni tarjetas por
+correo electrónico. Una de las vías más habituales de
+contagio de virus es a través del correo, y concretamente a través
+de archivos adjuntos. Si el antivirus detecta
+un archivo infectado, no lo abráis hasta que lo haya limpiado. Hasta que no hace mucho tiempo, solo hacía falta desconfiar de archivos
+ejecutables como exe, com o bat. Pero actualmente un virus
+puede hacerse pasar por cualquier tipo de archivo, jpg, doc o pdf. Para reducir los riesgos de infección
+por archivos adjuntos al correo, hemos de tomar estas medidas. Disponer de un antivirus que
+revise automáticamente los correos y mantenerlos siempre actualizados. Sospechar de cualquier archivo
+con extensión exe, com, bat, zip, shs o pif que no esperábamos recibir. Todos los archivos adjuntos al
+correo pueden contener virus, pero estos tienen más posibilidades. Sospechad incluso cuando
+provengan de personas conocidas. Puede ser que hayan
+subplantado su identidad. Ante la duda, es mejor llamar o
+escribir a la persona en cuestión para verificar antes de abrir el mensaje. Antes de abrir un archivo adjunto, mejor descargarlo y analizarlo
+con vuestro antivirus. La mensajería instantánea es un
+sistema que permite intercambiar mensajes entre dos o más personas
+en tiempo real utilizando internet. Actualmente, también se pueden
+dejar mensajes aunque la otra parte no esté conectada
+y se pueden enviar archivos. Los clientes de mensajería instantánea
+más utilizados han sido Yahoo, Messenger, Windows Live Messenger actualmente
+integrado en Skype y Google Talk. La última generación de las
+aplicaciones de mensajería nos permite utilizar webcam, micrófono o
+compartir juegos y aplicaciones. Actualmente, la mensajería
+instantánea se utiliza cada vez más en móviles y servicios,
+los más conocidos son Facebook Messenger, Skype, Line, Telegram y Whatsapp. Al igual que con el correo electrónico,
+con la mensajería instantánea estamos expuestos a cualquier ataque, y
+por tanto hemos de actuar con precaución. Proteged vuestra identidad. En los smartphones normalmente
+las aplicaciones de mensajería instantánea no piden usuario y
+contraseña cada vez que las utilizamos. Por tanto en caso de pérdida o robo, la
+persona que se haga con el aparato puede enviar mensajes a todos nuestros
+contactos haciéndose pasar por nosotros. Para evitarlo, hemos de activar una
+contraseña de bloqueo al smartphone. Si detectáis un comportamiento
+extraño en alguno de vuestros contactos,
+aseguraos que es quién dice ser. Utilizad antivirus en
+cualquier dispositivo. Los archivos recibidos
+a través de mensajería instantánea sea cual sea el dispositivo,
+pueden contener virus. Pueden ser archivos adjuntos
+o enlaces a una web. Tened cuidado con los archivos multimedia. Cuando recibimos un archivo
+multimedia a través de una aplicación de mensajería instantánea
+fotos, vídeos, etcétera, no sabemos si su contenido cuál
+es hasta que no lo reproducimos. Existe la posibilidad de que sin
+saberlo sean contenidos ilegales. Si lo compartimos con otros usuarios,
+podemos estar cometiendo un delito. No deis el número de teléfono
+móvil a otras personas sin su, de otras personas sin su consentimiento. No facilitéis información privada, no sabéis lo que pueden
+hacer con esta información. Eliminad el historial de las
+conversaciones con frecuencia, evitaréis que si alguien accese
+a tu dispositivo pueda leerlas y obtener información vuestra. Desconfiad de las redes Wifi públicas,
+si no están protegidas, podrían capturar vuestras conversaciones. Mantened siempre actualizada la
+aplicación, las actualizaciones pueden incorporar
+correcciones para los errores de seguridad detectados. [AUDIO_EN_BLANCO]

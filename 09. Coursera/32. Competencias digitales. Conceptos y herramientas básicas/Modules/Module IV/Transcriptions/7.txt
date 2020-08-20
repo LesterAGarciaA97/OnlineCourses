@@ -1,0 +1,90 @@
+[MÚSICA] [MÚSICA] En esta unidad veremos cómo navegar
+de manera segura por internet. En el primer apartado, veremos cómo
+saber si una página web es segura, qué son los certificados
+digitales y cómo obtenerlos. En el segundo apartado veremos qué
+es el Pharming y cómo combatirlo. En el tercer apartado conoceremos el
+uso de las contraseñas de un solo uso. En el cuarto apartado veremos la función del Auto completado de formularios
+y cómo activarla o desactivarla. En el quinto apartado veremos qué son las
+Cookies y cómo eliminarlas o bloquearlas. En el sexto apartado aprenderemos
+a utilizar el control parental para controlar el uso del
+ordenador y el internet. Y para acabar veremos los
+peligros de las redes sociales y las precauciones que
+hemos de tener presentes. En la mayoría de páginas web solo
+miramos la información que contienen, pero en algunas hemos de dar
+información personal como el nombre, correo electrónico,
+DNI o número de tarjeta de crédito. En estas páginas es indispensable
+comprobar que sea un sitio web protegido y no dar ninguna información que
+no sea estrictamente necesaria. Los sitios web con protección
+utilizan el protocolo https, en lugar de http, indicando que la
+transferencia de datos es segura. Se puede ver en la dirección,
+comenzará por http si no tiene protección y por
+https si tiene protección. A parte del protocolo https,
+también nos lo indica el ícono de un candado que veremos a la
+derecha de la barra de direcciones. Las páginas seguras cifran la
+información protegiéndola. Este sistema requiere que
+el servidor esté acreditado mediante un certificado expedido
+por una autoridad de certificación que garantice que se está
+accediendo a un servidor seguro. Este certificado se llama
+certificado SSL e identifica de forma exclusiva a individuos
+y páginas web en internet y permite establecer comunicaciones
+confidenciales y seguras. Funcionan como una forma de
+credencial o pasaporte digital y estos certificados SSL permiten
+Confidencialidad, es decir, comunicarse de forma segura con el
+sitio web de manera que la información dada por el usuario no pueda ser
+interceptada durante la transmisión. Integridad, es decir la información no
+será alterada sin que nadie lo detecte y Autenticación, es decir permiten
+comprobar que el sitio que el usuario está visitando, realmente pertenece a la
+compañía y que no ha sido suplantado. Usando el protocolo SSL la
+información en su tránsito por internet no es más que datos
+sin sentido e indescifrables. Aunque pudiesen ser copiadas
+no se podrían interpretar. El usuario también puede
+autentificar la información digital que envía por internet. Adjuntando nuestra firma
+digital a los mensajes, conseguimos que el receptor esté seguro
+que el mensaje proviene de la persona que se indica en el remitente y que el mensaje
+no se ha alterado durante la transmisión. En España podéis obtener el
+certificado digital e información en el portal de la Administración
+Electrónica del gobierno de España. Pharming es la explotación de una
+vulnerabilidad en el software de los equipos de los usuarios
+o de los servidores DNS donde se guardan las
+direcciones de los equipos. El atacante redirige el nombre
+de dominio a otro equipo. De esta forma un usuario que introduce
+un determinado nombre de dominio, que ha sido redirigido,
+accederá a la página web que el atacante haya especificado para
+este nombre de dominio. Los ordenadores conectados a internet
+tienen una dirección IP única comparable a la dirección de las
+casas o al número de los teléfonos. Dada la dificultad que suponía para
+los usuarios tener que recordar estas direcciones IP, aparecieron los
+nombres de dominio que van asociados a las direcciones IP, de la misma
+manera que los nombres de las personas van asociados a sus números de
+teléfono en una guía telefónica. Los ataques mediante Pharming
+pueden realizarse de dos maneras, directamente a los servidores DNS con lo que todos los usuarios se verían
+afectados o a ordenadores concretos. La técnica de Pharming se utiliza
+normalmente para realizar ataques de Phishing redirigiendo el
+nombre de dominio a una página web en apariencia idéntica pero que
+en realidad ha sido creada por el atacante para obtener datos privados
+del usuario como los datos bancarios. Algunos de los métodos tradicionales
+para combatir el Pharming son, utilización de software
+especializado de protección DNS, acostumbra a utilizarse en los
+servidores de grandes compañías. Uso de add ons para los navegadores
+web como por ejemplo tool bars, que nos permiten a los usuarios
+protegernos de esta técnica. A nivel de usuario podéis usar el comando
+traceroute para UNIX, MAC y Linux, o tracert pra Windows, que permite
+observar mediante direcciones IP, hacia donde nos dirigen nuestras
+peticiones y de esta manera comprobar la integridad del servidor
+al que se dirige nuestro acceso. Hora de utilizar contraseñas
+disponéis de un tipo especial, One-Time Password,
+que es válido sólo una vez. Respecto a la tradicional contraseña,
+la principal ventaja es que no será vulnerable a ataques de
+Replay, you que al cambiarla los intentos anteriores para destruir la contraseña
+son inútiles y hay que comenzar de nuevo. El inconveniente es que no podemos
+memorizar todas las contraseñas posibles y por tanto necesitaremos de una
+tecnología adicional para adivinarlo. Por ejemplo en cuentas de correo Outlook podéis utilizar contraseñas
+de un solo uso. Muchas páginas web hemos de rellenar
+formularios y se nos hace muy pesado. La función Autocompletar
+puede ayudarnos rellenado los formularios automáticamente a partir
+de lo que comenzamos a escribir, you que recuerda lo que
+hemos escrito anteriormente. Para activar o desactivar Autocompletar
+en el navegador internet Explorer seguir los siguientes pasos. Pedir en el menú o botón de herramientas
+la opción, Opciones de internet. En la ficha Contenido, clicad el botón
+Configuración del apartado Autocompletar. En la ventana que aparece, indicad dónde
+queréis activar o desactivar la opción. [AUDIO_EN_BLANCO] [AUDIO_EN_BLANCO]

@@ -1,0 +1,171 @@
+Seguridad informática
+
+* Conceptos de seguridad
+* Malware
+* Seguridad de la red
+* Uso seguro del Web
+* Comunicaciones
+* Gestión de datos seguros
+
+----------------------------------------------------------------------
+
+Conceptos de seguridad I
+
+* Amenazas para los datos
+* Valor de la información
+* Seguridad personal
+* Seguridad de un archivo
+
+Diferencias entre datos e información
+Datos:
+* Representación simbólica
+* No tiene sentido semántico
+* No transmite mensaje
+* No incrementa el conocimiento
+
+Información:
+* Conjunto de datos procesados
+* Tiene un significado
+* Transmite un mensaje
+* Incrementa el conocimiento
+
+- Delito informático - Sabotaje, pirtatería, robo de identidad
+- Hackear
+- Crackear
+- Hacking ético
+
+* Amenazas humanas
+* Amenazas de hardware
+* Amenazas de software
+* Amenazas de red
+* Amenazas por desastres naturales
+
+Para evitar pérdida de nuestra información:
+* Hacer copias de seguridad
+* Cuidado con la información dada e internet
+	- Datos personales
+	- Datos bancarios
+	- Ubicación geográfica
+	- Fotografías y vídeos
+
+Para evitar el acceso no autorizado a datos:
+* Usar contraseñas
+* Bloquear el ordenador
+* Activar cortafuegos
+* Instalar antivirus
+* Encriptar el disco duro
+* Equipo no conectado a internet
+* No usar Wi-Fi pública
+* No abusar de la nube
+* Protocolo "https"
+* No aceptar cookies
+* Vigilar con el correo electrónico
+* Encriptar chats y correos electrónicos
+* Proteger móviles
+
+- Confidencialidad
+- Integridad
+- Disponibilidad
+- Autenticidad
+
+Ingeniería social:
+* Phishing
+* Shoulder surfing
+
+Robo de indentidad:
+* Correos falsos
+* Personal
+* Ataque organizado
+
+---------------------------------------------------------------------
+
+Seguridad personal
+Ingeniería social = manipulación de usuarios
+
+Seguridad de archivos
+* Macros
+* Establecer una contraseña segura
+	- 8 carácteres mínimo
+	- Sin datos personales
+	- No palabras completas
+* Cifrado
+* Compresión de archivos
+* Proteger un archivo con su aplicación
+* Keyloggers
+
+---------------------------------------------------------------------
+
+Malware
+* Virus informáticos
+* Gusanos
+* Troyano informático
+* Backdoor (puerta trasera)
+* Spyware (Software espía)
+* Exploit
+* Rootkit (herramienta de intrusión)
+* Ransonware
+
+Ciclo de un virus:
+* Creación
+* Contagio
+* Incubación
+* Replicación
+* Ataque
+
+
+Objetivos de un antivirus:
+* Detectar
+* Desinfectar
+* Proteger
+
+---------------------------------------------------------------------
+
+Seguridad de la red
+
+* Red
+* Conexiones de red
+* Seguridad inalámbrica
+
+LAN - Red de área local
+WAN - Red de área amplia
+
+Sistemas de autenticación:
+* Uso de contraseña
+* Uso de tarjetas
+* Reconocimiento físico del usuario
+
+HTTPS
+Certificado SSL
+	Confidencialidad
+	Integridad
+	Autenticación
+
+---------------------------------------------------------------------
+
+Comunicaciones
+Correo eléctronico
+Mensajería instantánea
+
+Archivos adjuntos
+Phishing
+
+Clave privada
+Cifrado asimétrico
+
+Microsoft outlook
+GP4Win /Outlook privacy plugin
+
+Mozilla Thunderbird
+Enigmail/WebPG
+
+Chrome
+Mailvelope/Secure Gmail
+
+Android
+k9mail/APG
+
+Firma digital
+
+SPAM No contestar nunca al SPAM
+
+---------------------------------------------------------------------

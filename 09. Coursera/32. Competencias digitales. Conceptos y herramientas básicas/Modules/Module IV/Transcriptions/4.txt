@@ -1,0 +1,79 @@
+[MÚSICA] [MÚSICA] Con esta unidad, conoceremos el software malicioso. En el primer apartado, veremos la función de este software y los diferentes tipos. Y en el segundo apartado, veremos cómo
+prevenir los ataques a nuestro ordenador. Malware o software malicioso es el
+que tiene como objetivo infiltrarse o dañar un ordenador sin el
+consentimiento de su propietario. Normalmente usamos el término
+virus informático para referirnos a este software. Pero los virus son solo uno de
+los diferentes tipos de malware. Existen muchos tipos de malware. Veremos aquí los más importantes. Los virus informáticos
+necesitan utilizar portadores, normalmente archivos ejecutables. Pero pueden ser parte de
+aplicaciones o documentos. El contagio se produce al pasar el
+archivo de un ordenador a otro. Los gusanos son similares a los virus,
+pero no dependen de portadores. Pueden modificar el sistema
+operativo para autoejecutarse como parte del proceso de
+inicialización del sistema. Acostumbran a utilizar algún
+mecanismo de ingeniería social para engañar al usuario y poder ejecutarse. El troyano informático es
+un programa nocivo con apariencia de programa legítimo. No son capaces de replicarse por
+ellos mismos y pueden ser adjuntados a cualquier tipo de software o
+introducirse por medio del engaño. El backdoor o puerta de atrás
+es un programa que permite el acceso al ordenador ignorando los
+procedimientos de autenticación. Algunos se parecen a los troyanos y
+otros funcionan como los gusanos. El software espía es aquel que recolecta
+y envía información de los usuarios. Normalmente trabajan y contaminan
+sistemas como lo hacen los troyanos. El exploit es aquél
+programa que ataca a una vulnerabilidad particular
+de un sistema operativo. No son necesariamente nocivos. Son generalmente creados por
+investigadores de seguridad informática para demostrar que
+existe una vulnerabilidad. El rootkit, herramienta de intrusión,
+es un programa que permite un acceso de privilegio a un
+ordenador pero que mantiene su presencia oculta al control
+de los administradores. Permite al atacante conseguir el control
+del sistema y ocultar otro malware. El ransomware es un programa que restringe
+el acceso a los archivos de un ordenador de forma ilícita y exige un rescate
+económico para retirar las restricciones. Un virus tiene un proceso de creación, contagio, incubación,
+replicación y ataque. El virus se crea como su programa
+o microprograma ejecutable. Después se deja en la red o se
+copia dentro de un programa. El virus actúa de forma automática e
+independiente del control de su creador. El siguiente paso es el contagio. Las vías de infección son
+principalmente los programas copiados, Internet y el correo electrónico. Normalmente, el virus queda
+oculto reproduciéndose en espera de activarse cuando se cumplan
+las condiciones adecuadas. A continuación, llega la replicación,
+que consiste en la producción del propio virus de una copia del mismo
+que se situará en otro archivo. Dado que ha de hacerlo de la forma
+más discreta y rápida posible, en este momento el virus no
+se manifiesta para tener más posibilidades de dañar a una
+cantidad mayor de ordenadores. Cuando se cumplan las condiciones,
+el virus entra en actividad destructora. Por ejemplo, formatea el disco duro
+o borra determinados archivos. Para la propagación del virus a veces
+el atacante utiliza una burnet, grupo de ordenadores conectados
+a Internet llamados zombies, que involuntariamente una vez
+infectados son controlados remotamente sin que el
+propietario se entere. Es difícil saber que nuestro
+ordenador está infectado, pero hay síntomas que lo delatan. Como por ejemplo,
+sin causa aparente se hace más lento el trabajo del ordenador o se queda
+colgado demasiado a menudo. El disco duro trabaja más de la cuenta, eso se ve desde el indicador
+led del disco duro. El sistema no arranca o se reinicia solo. Algunos programas no se pueden ejecutar. Se reduce el espacio
+disponible en los discos. El sistema no reconoce
+alguna unidad de disco. Se reduce la memoria disponible. Aparecen en la pantalla mensajes
+extraños o de aviso que nada tienen que ver con los
+habituales mensajes de Windows. La pantalla se borra o cambia. Aumenta el tamaño de ficheros
+o no los podemos abrir. Aparecen o desaparecen algunos archivos, algunos aparecen con el
+mismo nombre que otros. O en algunos archivos aparece
+información de otros archivos. Para prevenir los ataques
+a nuestro ordenador, es indispensable tener un antivirus
+actualizado que minimice el riesgo. Un antivirus tiene tres objetivos básicos: Detectar la presencia de
+malware en los archivos. Desinfectar todos aquellos
+archivos que contengan virus y proteger el ordenador
+ante futuros ataques. Un antivirus actúa de la siguiente forma. Inspecciona los correos que se reciben. Inspecciona los archivos del ordenador
+a medida que se van abriendo o creando. E inspecciona periódicamente todo el
+ordenador para verificar si existen archivos corruptos y eliminar el malware
+existente o ponerlo en cuarentena. Los antivirus utilizan una base de
+datos para localizar las amenazas. Por eso,
+es muy importante actualizarlos para que reconozcan las amenazas más recientes. Aunque los antivirus cada vez
+ofrecen más funcionalidades, no son infalibles, tienen limitaciones. Por ejemplo, no evitan el spam,
+no evitan ataques directos de un hacker al ordenador y no evitan
+las actividades criminales online. Existen en el mercado muchos programas
+antivirus, tanto de pago como gratuitos. Si queremos la máxima seguridad posible,
+mejor utilizar uno de pago. Pero viendo con cuidado,
+sobre todo por Internet, podemos utilizar los gratuitos
+aunque su efectividad será menor. Aunque estéis tentados de utilizar más de
+un antivirus para aumentar la seguridad, no lo hagáis porque normalmente
+entren en conflicto entre ellos y podríais tener problemas. [AUDIO_EN_BLANCO]

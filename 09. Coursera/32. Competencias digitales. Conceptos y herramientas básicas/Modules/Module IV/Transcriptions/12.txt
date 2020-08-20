@@ -1,0 +1,74 @@
+[AUDIO_EN_BLANCO] [MÚSICA] ¿Qué son los datos personales? >> El reglamento europeo de protección
+de datos, tal como hacía también la Directiva Comunitaria del año 96,
+define un dato personal como cualquier información referida a una persona
+física identificada o identificable. Por lo tanto, son datos personales,
+evidentemente, nombre y apellidos, la dirección,
+el teléfono, la edad, el sexo, la altura, cualquier dato de carácter físico. Pero también son datos personales,
+o pueden serlo, la matrícula del coche, la dirección de correo electrónico,
+la voz, la imagen o fotografía, y tal como define el reglamento europeo, a
+modo de ejemplo, también lo son los datos de geolocalización o la
+dirección IP del ordenador. >> Principio del RGPD. >> El Reglamento General de Protección de
+Datos centra su regulación, a diferencia de lo que hacía la legislación anterior,
+en no tanto en los datos en sí ni en los ficheros que los contienen,
+sino en el tratamiento de los datos, entendido como cualquier operación
+que hacemos sobre esos datos. Este tratamiento debe responder a los
+principios que recoge el artículo 5 del reglamento, que son básicamente el
+principio de lealtad y transparencia, relacionado con el principio de finalidad, en el sentido de que el tratamiento
+de datos tiene que tener unos fines específicos y explícitos y
+transparentes, y se prohíbe tratar los datos para fines diferentes a los
+que hemos declarado al principio. En segundo lugar,
+tenemos el principio de minimización, que consiste en que hay tratar
+exclusivamente los datos personales que sean estrictamente
+necesarios para la finalidad perseguida. Tratar datos inútiles o excesivos está
+expresamente prohibido en el reglamento. Tenemos también el principio
+de limitación temporal, en el sentido de que debemos tratar los
+datos personales solo durante el tiempo estrictamente necesario para
+conseguir la finalidad perseguida. Una vez conseguida esa finalidad, tenemos que dejar de tratar los datos y
+suprimirlos en la mayoría de los casos. Tenemos también el principio de exactitud,
+donde tenemos que procurar siempre manetener los datos
+exactos y actualizados. Tenemos el principio de responsabilidad
+proactiva, en el sentido de que el responsable del tratamiento debe no solo
+cumplir las obligaciones que le impone el reglamento, sino que además tiene que
+estar a disposición de poderlo demostrar. Y finalmente tenemos el principio
+de licitud o legalidad, en el sentido de que cuando tratamos
+datos de carácter personal, debemos hacerlo fundamentándonos en alguna
+de las bases legitimadoras de tratamiento que recoge el artículo 6 del reglamento
+europeo, que son el consentimiento de las personas implicadas, el cumplimiento de
+una obligación legal, la ejecución de un contrato, la defensa de intereses vitales,
+la satisfacción de intereses legítimos por parte del responsable del
+tratamiento o de terceros o también el ejercicio de potestades públicas o
+con finalidades de interés público. >> ¿Cómo obtener el consentimiento? >> En la definición de consentimiento, no se exige como principio general que ese
+consentimiento sea explícito, por lo tanto puede ser también implícito, como ocurre,
+por ejemplo, cuando participamos en un contrato que tiene como objeto el
+tratamiento de nuestros datos personales. El hecho de firmar o
+suscribir ese contrato, sirve como consentimiento implícito de
+que estamos autorizando ese tratamiento. >> Archivo y tratamiento. >> Un archivo o fichero, en los términos
+del Reglamento General de Protección de Datos, es cualquier cómputo organizado de
+datos de acuerdo con criterios concretos y específicos, independientemente de
+cuál sea su modalidad de creación, de almacenamiento o de acceso. Un tratamiento es cualquier operación
+que nosotros hacemos sobre esos datos. >> ¿Qué función tiene un
+delegado de Protección de Datos? >> Tiene como función principal informar
+y asesorar a los responsables del tratamiento, supervisar el cumplimiento de
+las obligaciones del Reglamento General de Protección de Datos, diseñar e implementar
+sistemas de formación y de concienciación del personal, y servir como punto de
+relación con la autoridad de control. >> ¿Qué es una evaluación de impacto? >> Cuando,
+como consecuencia del análisis de riesgos, detectamos que los riesgos asociados
+al tratamiento de datos son especialmente elevados, el reglamento nos
+obliga a hacer una evaluación de impacto, que no deja de ser un análisis de
+riesgos un poco más detallado, relacionando con más detalle los
+sistemas de información, los recursos, las personas que intervienen en el
+ciclo de vida de los datos, etcétera. >> ¿Cómo demostramos que hemos
+recogido el consentimiento? >> Siguiendo con el principio
+de responsabilidad proactiva, en el que el responsable del tratamiento
+tiene no solo que cumplir la legalidad, sino demostrar que la cumple, tiene guardarse las evidencias de
+que ha cumplido esas obligaciones. Si tratamos datos, por ejemplo, con el consentimiento
+de las personas interesadas, debemos de guardar la información
+necesaria que nos permita demostrar ante la autoridad de control que hemos recogido
+adecuadamente ese consentimiento. Las evidencias son vuestros instrumentos
+de que se vale y tiene que valerse el responsable del tratamiento para
+demostrar principalmente ante la autoridad de control que cumple
+todas las formalidades del reglamento. >> Perfil profesional del
+delegado de Protección de Datos. >> Los responsables de la protección de
+datos de una organización tienen que tener conocimientos jurídicos, conocimientos
+técnicos y conocimientos de los sistemas de información de la organización,
+y también de la organización misma, de la misma entidad. [AUDIO_EN_BLANCO]

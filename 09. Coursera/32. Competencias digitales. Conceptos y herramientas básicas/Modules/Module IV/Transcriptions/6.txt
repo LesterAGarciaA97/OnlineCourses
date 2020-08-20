@@ -1,0 +1,108 @@
+[MÚSICA] [MÚSICA] En este vídeo trabajaremos la seguridad
+de las redes Wifi. En Windows, el botón acceso a internet situado a la derecha
+de la barra de tareas, muestras las redes Wifi disponibles. Al seleccionar la red a la
+que nos queremos conectar, aparecerá el botón conectar. Clicad este botón y
+pedirá la clave de red, la podéis ver en la parte
+inferior de vuestro router. Una vez conectados a la red, al seleccionarla en la
+lista de redes disponibles, veremos que el botón conectar ha sido
+sustituido por el botón desconectar. Si no lo desconectamos y hemos marcado
+la opción conectar automáticamente, la próxima vez que
+encendamos el ordenador, se conectará automáticamente a esta red. No hará falta hacer nada más. Para cualquier otro tipo de configuración,
+utilizad el enlace abrir centro de redes que aparece
+al desplegar el botón acceso a internet. Una de las principales
+ventajas de la red Wifi, es el ahorro de los costes de instalación,
+you que se elimina el cableado. Pero tiene un inconveniente
+importante en cuanto a la seguridad, con el cableado tenemos controlado
+quién se conecta a la red. Pero con la red Wifi solo la
+clave de acceso impide el acceso a personas no autorizadas. El acceso a nuestra red
+Wifi ha de estar protegido, y por eso lo mejor es utilizar
+un nombre de usuario y una buena clave de acceso para evitar el
+acceso de usuarios no autorizados. Por defecto, nuestra red
+inalámbrica está configurada con un determinado tipo de seguridad que
+según el router, podremos modificar. Básicamente se utilizan dos,
+el acceso protegido Wifi cifra la información y se asegura que la clave de
+seguridad de red no haya sido modificada. Además autentifica los usuarios
+con la finalidad de garantizar que únicamente las personas autorizadas
+puedan tener acceso a la red. Este es el modo recomendado
+para redes domésticas. Existen dos tipos de autenticación,
+WPA que se ha diseñado para trabajar con todos los
+adaptadores de red inalámbrica, pero es posible que no funciona con
+enrutadores o puntos de acceso antiguos. Y WPA2 que es más seguro que WPA, pero no
+funciona en algunos enrutadores antiguos. La autenticación 802.1x puede
+ayudar a mejorar la seguridad de las redes inalámbricas y de las redes de
+internet con cable, utiliza un servidor de autenticación para validar a los
+usuarios y proporcionar acceso a la red. Este tipo de configuración se
+utiliza en redes de trabajo. Un método bastante seguro es indicar
+qué equipos pueden conectarse a la red. Para restringir el acceso podemos
+utilizar el control de acceso al medio. MAC es el conjunto de mecanismos y
+protocolos de comunicaciones a través de los cuales varios interlocutores,
+ordenadores, teléfonos móviles, etcétera, se ponen de acuerdo para
+compartir un medio de transmisión. Algunas de sus funciones
+son las siguientes, controlar el acceso al medio
+físico de transmisión de parte de los dispositivos que comparten
+el mismo canal de comunicación. Añadir la dirección MAC de los
+nodos fuente y destino a cada una de las tramas que se transmiten. Al transmitir en origen,
+han de delimitar las tramas de red para que el receptor pueda reconocer
+el inicio y final de cada trama. Al recibir en destino, ha de determinar
+el inicio y final de una trama de datos. Efectuar detección y si procede
+corrección de errores de transmisión. Y descartar tramas duplicadas o erróneas. El router Wifi generalmente permite
+crear una lista de direcciones MAC de las tarjetas de red que están
+autorizadas a conectarse a nuestra red. Y así evitar que otros equipos
+accedan a nuestra red. Es un filtro eficaz que también puede ser
+vulnerado, pero con mayor dificultad. Para introducir las direcciones MAC de
+vuestros equipos haced lo siguiente, desconectar vuestro router
+de la línea telefónica. Conectadlo con cable Ethernet
+a vuestro ordenador. Abrid el navegador y escribid
+la IP de vuestro router. Entonces aparecerá la página de
+configuración de vuestro router, y dependiendo del modelo será diferente, pero lo que tenéis que buscar es el
+apartado Wireless LAN MAC Filter, y aquí escribid las direcciones
+MAC de vuestros equipos. [AUDIO_EN_BLANCO] En la imagen
+veis la página de uno de muchos modelos de routers. La mayor amenaza de seguridad
+de una red Wifi gratuita es la capacidad del hacker de posicionarse
+entre el usuario y el punto de conexión. Por tanto, en lugar de comunicaranos
+directamente con el punto de conexión, estamos enviando la información al hacker,
+que después la transmite. Cuando se trabaja con esta configuración
+el hacker tiene acceso a toda la información que se envía a través
+de internet, correos electrónicos, información de tarjetas de crédito,
+contraseñas, etcétera. Los hackers también pueden utilizar
+una conexión Wifi no segura para distribuir malware. Si compartimos archivos
+a través de una red, el hacker puede introducir
+fácilmente software infectado. La gran mayoría de hackers buscan
+simplemente objetivos fáciles, y por tanto es suficiente con
+tomar unas cuantas precauciones para mantener la seguridad
+de nuestra información. Es indispensable contar con una conexión
+de red privada virtual, que nos, cuando nos conectemos a nuestra empresa
+a través de una conexión no segura. Incluso si un hacker consigue
+posicionarse en medio de la conexión, los datos estarán cifrados. Si no disponéis de una conexión
+de VPN para navegar en internet, utilizad conexiones SSL para añadir
+una capa de cifrado a la comunicación. Hemos de activar la función de usar
+siempre https en los sitios web que visitamos con frecuencia o en aquellos
+donde haga falta introducir contraseña. Cuando nos conectemos
+a internet en un sitio público, es poco probable que queramos
+compartir alguna cosa. Por tanto, podemos desactivar el uso
+compartido de datos en el panel de control o dejar que Windows lo
+desactive mediante la selección de la opción pública la primera vez que
+nos conectemos a una nueva red no segura. Mantener la opción Wifi desactivada
+cuando no la necesitemos. Aunque no estemos utilizando la
+conexión inalámbrica, nuestro equipo continúa transmitiendo datos con
+cualquier red que haya a su alcance. Por tanto, si no necesitamos la conexión,
+mejor desactivar el Wifi. Además, de estar más seguros,
+la batería durará más. Protección ante todo,
+si hemos de utilizar mucho las redes Wifi públicas,
+es aconsejable instalar en nuestro equipo una solución de
+seguridad en internet sólida. Temas de autenticación se dividen
+en tres grupos, uso de contraseña, uso de tarjetas y reconocimiento
+físico del usuario. Los sistemas biométricos
+pertenecen a este último grupo. Se basan en el reconocimiento
+de características del usuario como su firma,
+su huella dactilar, su iris, etcétera. Las técnicas de identificación
+biométrica tiene la ventaja de que los patrones no pueden perderse,
+o ser sustraidos ni pueden ser usados por otros individuos en el
+caso de que lleguen a tener acceso. Por tanto, el tema de subplantación
+de identidad queda resuelto. Además, son los más cómodos de
+utilizar para los usuarios you que eliminan la necesidad de
+recordar contraseñas o números de identificación y la posibilidad
+de olvido en casa de la tarjeta. Aunque este sistema es el más seguro,
+tiene el inconveniente de su elevado costo,
+su dificultad de mantenimiento y la posibilidad de que el sistema
+rechace a un usuario válido. [AUDIO_EN_BLANCO] [AUDIO_EN_BLANCO]
