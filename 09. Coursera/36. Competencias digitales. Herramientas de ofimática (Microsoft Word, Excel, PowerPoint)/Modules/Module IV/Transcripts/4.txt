@@ -1,0 +1,96 @@
+[MÚSICA] you hemos visto como escribir una
+operación en Excel, estas operaciones pueden ser sencillas
+o complejas, cortas o largas. Para evitar el trabajo de escribir
+una función muy compleja o muy larga, Excel nos ofrece las funciones. Las funciones no son más que unos cálculos
+you predefinidos, you preparados para que no tengamos que escribir esa
+operación tan compleja o tan larga. Las funciones siguen una sintaxis,
+todas tendrán una misma sintaxis. Vamos a ver como sería. En primer lugar pondríamos el
+igual como en cualquier cálculo. Ahora no lo voy a poner para que Excel,
+no piense que estoy haciendo un cálculo you que simplemente les
+estoy escribiendo la sintaxis. Pondría el nombre de la función, es decir, el cálculo que quiero
+hacer y entre paréntesis, siempre sin espacios,
+pondría los argumentos, es decir, que valores necesito
+utilizar para hacer ese cálculo. Pondríamos el argumento1 que podría
+ser la celda B4 por ejemplo. Separía este argumento con el siguiente
+punto y coma, pondría el argumento2 punto y como,
+el argumento3 y así tantos argumentos como necesite, y cerraría el paréntesis. Esta sería la sintaxis de una función, su nombre y entre paréntesis
+donde están los valores, en que celdas, los valores que queremos
+utilizar para hacer ese cálculo. Por ejemplo,
+yo quiero sumar unos determinados valores. Pondría igual, no lo vamos a poner
+para que no crea que es un cálculo, el nombre de la función en este caso sería
+SUMA y entre paréntesis los argumentos, imaginemos que queremos sumar
+los valores de B1, F1, I1. Los ponemos separados por punto y coma, you tendríamos una función que
+necesita tres argumentos que son tres valores y que hemos indicado donde están. Pero también, a veces no son
+argumentos que estén separados, sino es lo que llamamos un rango,
+es decir, un grupo de celdas consecutivas. En ese caso lo escribiríamos de esta
+manera, pondríamos el igual, SUMA, indicariamos por ejemplo desde B4 hasta
+B10 lo separariamos con dos puntos. Aquí tenemos los dos tipos de funciones que nos vamos a encontrar,
+siempre el igual, el nombre de la función y luego
+entre paréntesis los argumentos, es decir, pueden ser varios argumentos,
+los separamos por punto y coma. O el argumento puede ser
+simplemente un rango de celdas, lo indicamos escribiendo el
+nombre de la primera celda y el nombre de la última celda
+separadas por dos puntos. Todas las funciones
+seguirán esta sintaxis. Vamos a ver un ejemplo de una función. Vamos a la hoja profesorado. Aquí tenemos la columna C con sueldos
+brutos, comienzan los sueldos en la celda C2, vamos al final de la tabla,
+llegamos hasta la 101 y aquí abajo en la línea 102 quiero
+sumar todos los sueldos. Claro lo que no haré es escribir
+una fórmula normal C2 más C3 más C4 y así hasta C101,
+para eso están las funciones. ¿En este caso que tipo de función quiero? Quiero sumar unos valores,
+por lo tanto es la función SUMA. Casi siempre el nombre de la
+función corresponde al nombre por la cual la conocemos nosotros. A veces es abreviado,
+a veces es el nombre completo, pero suele ser fácil localizar
+el nombre de la función. Escribimos el cálculo igual,
+¿nombre de la función? SUMA, es indiferente escribirlo
+en mayúsculas o minúsculas, el siempre lo transformará en mayúsculas. Y entre paréntesis los argumentos,
+aquí no pondremos C2 punto y coma C3 punto y coma C4 porque sería
+largo y entonces you no me interesa. En este caso estamos hablando de un rango,
+desde la celda C2 hasta la C101, lo escribimos. C2 es el primer valor que quiero sumar,
+dos puntos que significa hasta, C101 que es
+el último valor que quiero sumar. Fijaos como Excel you nos lo marca, así que tenemos una referencia
+visual de si vamos bien o no. Cierro paréntesis. you tenemos la función escrita,
+el nombre de la función SUMA, y los argumentos en este
+caso un rango de C2 a C101. Intro y you tenemos el cálculo hecho. Siempre recordar que el cálculo
+lo veréis en la barra de fórmulas y el resultado en la celda. Podéis utilizar botones,
+no es necesario escribir las funciones, al principio os aconsejaría que las
+escribierais para que os vayáis acostumbrando por si después teneis
+que hacer alguna modificación. Pero podemos hacerlo tranquilamente
+con botón que es más cómodo. Vamos a borrarlo,
+y vamos ha hacerlo ahora pero con botón. Fijaos la ficha inicio, estamos eso si,
+en la celda que queremos hacer el cálculo. Una vez colocados,
+ahora si que miramos ficha inicio, al final encontramos el botón autosuma. En realidad aquí desplegamos el botón
+y me ofrece una serie de funciones. Fijaos que son las funciones que
+normalmente solemos utilizar. La suma, el promedio, el recuento,
+el máximo o el mínimo. Queremos la suma, por lo tanto
+you nos sirve este de autosuma. Hago click y el automáticamente
+fijaos escribe igual el nombre de la función, SUMA, y entre
+paréntesis los valores que quiero sumar. Fijaos que ha acertado,
+C2 dos puntos C101. Ha acertado porque los
+valores están al lado. El siempre busca los valores
+numéricos más cercanos. Muchas veces acierta y no tenemos
+que hacer más que Intro para acabar. No siempre acierta, por lo tanto
+siempre fijaos una vez utilizado un botón o una función de un botón,
+siempre comprobarlo. Que está bien, de acuerdo. Que no, seleccionar vosotros los datos
+correctos y automáticamente lo modificará. En este caso es correcto, Intro, y el resultado es el mismo
+que escribiendo la función. También puedo hacerlo, vamos ha hacer la
+tercera manera, casi siempre lo harías por aquí, pero también podéis hacerlo
+desde la barra de fórmulas. Nos colocamos en la celda donde queremos
+el cálculo vamos a la barra de fórmula y aquí tenemos el botón fx,
+insertar función, hacemos click en este botón y nos
+ofrece una serie de funciones. SUMA, PROMEDIO, SI, HIPERVINCULO. Aquí os mostrará, a partir de ahora, estas funciones y todas
+aquellas que vayáis utilizando. Es decir, Excel se fija en que funciones
+utilizas y os las deja en este listado. Fijaos que la categoría
+es: Usadas recientemente. Si buscamos una función que no está
+en esta lista, pediríamos: Todo. you lo haremos más adelante. Ahora mismo you la tenemos aquí es SUMA. La seleccionamos, aceptamos y pasamos
+al segundo paso del asistente donde nos pregunta que
+argumentos queremos utilizar. Igual que con el botón
+autosuma you ha acertado, que coja como número
+desde la C2 a la C101. Si no es correcto,
+lo arreglamos escribiendo. you está. Nos da más de un número uno, número dos,
+número tres, van apareciendo casillas cuando son argumentos que no son
+consecutivos como en este caso porque por ejemplo quiero sumar la C2,
+la C24, y la D33. En este caso podríamos escribir aquí otra casilla y así van apareciendo más
+campos para introducir argumentos. En este caso no es necesario,
+es suficiente con el argumento C2 C101. Aceptamos, fijaos que lo que
+hemos dicho es elegir la función y escribir el argumento. Aceptar y you tenemos el cálculo. Hacerlo como queráis. Lo más cómodo y rápido, fx,
+que me da acceso a todas las funciones. [AUDIO_EN_BLANCO]

@@ -1,0 +1,130 @@
+[MÚSICA] Ahora vamos a ver cómo modificar el gráfico. Si lo que queremos es modificar su tamaño, lo haremos igual que para
+modificar el tamaño de una imagen. Lo cogemos por cualquiera
+de los puntos de selección, y arrastrando ampliamos o
+reducimos el tamaño del gráfico. Si lo hacemos con la tecla
+de Mayúsculas presionada, la ampliación o reducción
+será proporcional. Para el resto de opciones,
+disponemos de dos fichas contextuales que aparecen en el momento de seleccionar
+un gráfico, que son Diseño y Formato. Empezaremos por la de diseño. Aquí tendremos básicamente
+órdenes estéticas de formato. Vamos a ver la mayoría de ellas. Empezaremos por la de Agregar elemento
+de gráfico, que es la que nos permite añadir o quitar cualquiera de los
+elementos que componen el gráfico. Un gráfico, tenemos un título,
+tenemos una área de trazado, que es la área del gráfico, tenemos
+unos ejes horizontales y verticales, unas leyendas en algunos casos. Todos estos elementos los
+podemos visualizar o no, y determinar dónde visualizarlos
+con este botón; desplegamos y, por ejemplo, la primera opción,
+Ejes, podríamos quitar el eje horizontal y vemos cómo el
+eje horizontal ha desaparecido. Vamos a dejarlo. Normalmente nos interesará
+que estos ejes estén, pero aquí está disponible por si interesa. Después, podemos determinar que nos
+aparezcan o no los títulos de los ejes, en este caso no los tenemos visibles. Por ejemplo,
+yo quiero que en el eje horizontal ponga que estos nombres
+corresponden a los alumnos. Activo el eje horizontal primario,
+que corresponde al eje horizontal, me pone una casilla con
+Título del eje que yo puedo sustituir por el título que yo desee,
+en este caso Alumnos. you he añadido un título
+al eje horizontal. De la misma manera,
+podría añadir un título al eje vertical. Podemos eliminar el título o indicar que este título esté por encima del gráfico o
+superpuesto dentro del gráfico. También disponemos de la
+opción de Etiquetas de datos. En este caso no tenemos ninguna,
+pero podemos pedir que nos incluya el valor de cada una de las columnas,
+en este caso, dentro de la columna, en el extremo interno, en la base
+inferior, extremo externo, etcétera. Decidimos, por ejemplo,
+que nos lo ponga en el extremo externo, por fuera de la columna. Así tenemos el valor de cada una de
+las columnas mostrado en el gráfico. Podemos también pedir que
+nos añada la tabla de datos con claves o sin claves,
+de manera que los datos nos aparezcan por debajo del gráfico. En este caso, o pediríamos los datos, o pediríamos las etiquetas de los datos,
+nunca los dos valores. También podéis pedir o
+ocultar barras de error, líneas de cuadrícula,
+podemos indicar qué líneas nos interesan y si queremos o no leyenda y dónde. En este caso, que solo tenemos una
+columna, no es necesario una leyenda que nos diga que todas las columnas
+de color azul son de la prueba 1. En caso que hayamos seleccionado
+más datos, más pruebas, entonces sí que nos puede interesar,
+y aquí indicaríamos dónde la queremos. Después tenemos tres botones
+totalmente estéticos, tenemos Diseño rápido, que me permite
+cambiar el diseño del gráfico, buscar un diseño que se adapte
+a nuestras necesidades, dependerá del tipo de
+gráfico que queramos hacer. Tenemos también la posibilidad de
+cambiar la combinación de colores y el tipo de gráfico. Tenemos diferentes variantes de estilos para que busquemos el que
+consideremos más adecuado. Después tenemos otras opciones you no tan estéticas,
+como Cambiar entre filas y columnas, que en algún caso puede ser útil,
+normalmente no lo vamos a necesitar. Pero puede darse el caso que
+tengamos que cambiar los ejes. Este no es el caso. También podemos seleccionar Datos,
+si clicamos este botón, por ejemplo,
+podremos ocultar algún dato concreto. Por ejemplo, no queremos que se vean
+los datos de Alba, lo desactivamos, Aceptar, y Alba you no
+aparece en la gráfica, sin necesidad de eliminar los
+datos de Alba en la tabla. Volvemos a recuperarlo,
+volvemos a activar. Luego tenemos uno de los botones que más
+utilizaremos que es el de Cambiar el tipo. Yo he pedido un gráfico de columnas pero, una vez hecho, veo que me quedaría
+mejor un gráfico de filas. Con este botón podemos acceder a todos
+los diferentes tipos de gráficos que aparecía cuando creábamos el
+gráfico y elegimos el que queramos. Por ejemplo, de línea, de barra,
+en este caso queríamos cambiarlo a barra, pues, seleccionamos Barra, cualquiera
+de las variantes que nos ofrezca, elegimos y Aceptar. Y you hemos cambiado el
+formato del gráfico. Por último, con el botón Mover
+gráfico podemos colocar este gráfico en otra hoja o incluso crear
+una hoja solo para este gráfico. Si hago clic en este botón, me preguntará
+si lo quiero como Hoja nueva, es decir, una hoja totalmente nueva donde solo
+aparecerá el gráfico o como un Objeto, es decir,
+tal y como está ahora pero en otra hoja, mostrándome todas las hojas
+que dispone el libro. Podría ponerlo en cualquiera de las hojas
+que tenemos, por ejemplo, la hoja 3, Aceptar, y ahora el
+gráfico está en la hoja 3. Vamos a volver a ponerlo
+en la hoja de Pruebas. Y ahora vamos a probar la otra opción, que es crear una hoja entera
+solo para el gráfico. Pedimos Hoja nueva, le podemos poner
+el nombre que queramos, por ejemplo, vamos a poner Prueba 1, Aceptar, y aquí tenemos una hoja
+Din A-4 con el gráfico. El hecho de tener una hoja
+entera me permite, pues, visualizar mejor los detalles del gráfico. Este gráfico sigue estando
+relacionado con la hoja Pruebas, concretamente con su tabla de datos. Cualquier modificación que yo haga en
+esta tabla, por ejemplo, Ana que tenía 2, le vamos a poner 5. Volvemos a mirar el gráfico, Prueba 1, y ha sido modificado,
+Ana tenía 2, you tiene 5. Cualquier cambio en la hoja
+de cálculo automáticamente se actualiza en el gráfico, esté dentro
+de la hoja o esté fuera de la hoja. Vamos a dejarlo donde estaba. Ficha Diseño, Mover, y lo ponemos
+como objeto dentro de Pruebas. En la ficha contextual de Formato
+encontraremos más opciones, la mayoría de ellas nos son bastante familiares, fijaos
+que nos encontramos el bote de pintura, formas estilos,
+botones más típicos de formato. Por ejemplo, puedo añadir en cualquier
+momento un objeto, una forma, pues, una flecha que puedo
+añadir dentro del gráfico. Puedo modificar cualquier parte de este gráfico. En cuanto a su estética, por ejemplo, podemos venir aquí a Estilos de forma
+para las columnas y cambiarle el color. De esta manera, podemos modificar un poco el estilo,
+o podemos indicar los colores con el bote de pintura
+buscando cualquier color que nos ofrezca. Fijaos que el cambio lo hace
+para todas las columnas. Si en algún caso yo quiero modificar
+solo una de esas columnas, una vez seleccionadas las columnas, hacéis
+clic en aquella que queréis modificar, y así como ahora tengo
+las tres seleccionadas, al hacer un siguiente clic
+seleccionas solo la que queremos, y ahora podríamos modificar
+el color de esta columna. Es decir, cuando yo hago un
+clic en cualquier columna, las selecciono todas; si hago otro clic,
+selecciono solo esa. Además del color de relleno,
+tengo el contorno, puedo indicar el color del contorno,
+así como su grosor o la forma de ese contorno. Y también puedo aplicar
+cualquier efecto tipo sombra, tres dimensiones, iluminado, bordes,
+depende de lo que nos interese. También disponéis de otros
+estilos tipo WordArt que afectará solo a los textos,
+por ejemplo, al título. [SONIDO] Tenemos también al final, las opciones de tamaño, para el tamaño
+del gráfico, pero como hemos visto antes, lo mejor es arrastrar por los puntos
+de selección y determinar el tamaño. Pero si queremos que tenga un
+tamaño exacto en centímetros, lo podemos especificar en este
+grupo de botones de tamaño. Y por último, nos quedarían estas opciones, que nos son
+útiles cuando tenemos varios objetos. En este caso, solo tenemos uno,
+tenemos una gráfica. Vamos a hacer otra para que
+podamos utilizar estas opciones. En este caso,
+vamos a hacer una gráfica de la prueba 2. Como los datos no van seguidos, lo que haremos es seleccionar los alumnos
+y con la tecla Control presionada, seleccionamos tanto el título
+como los valores de la prueba 2. Pedimos la gráfica, Insertar,
+vamos a pedir una gráfica de columnas, y la colocamos aquí por ejemplo. Cada nuevo objeto, como siempre en cualquier programa,
+se sobrepone encima del anterior. Para eso, tenemos estas opciones
+que ahora se nos activan. Yo puedo enviar atrás o
+al fondo este objeto, de manera que el otro pase delante. O si quiero alinearlos bien, por ejemplo,
+yo ahora pongo aquí este objeto, y para no tener que ir yo ajustando a ver
+para que me queden en la misma posición, puedo seleccionar los dos objetos y en
+la ficha de Formato pedir que lo alinee por ejemplo en la parte superior,
+y quedarán perfectamente alineados. También, como con cualquier otro objeto,
+lo podré agrupar estos objetos que he seleccionado,
+de manera que cuando mueva uno, siempre y cuando lo haga por el borde
+que lo enmarca, los desplazará juntos. Mucho cuidado cuando lo desplacéis,
+para que no os pase lo que acaba de pasar. Si yo arrastro uno,
+se mueve independientemente. En cambio, si lo cojo por el borde
+que enmarca los dos objetos, se desplazan juntos. Podéis desagruparlo en cualquier momento,
+ficha Formato, Desagrupar, y vuelven a ser objetos independientes. [AUDIO_EN_BLANCO]

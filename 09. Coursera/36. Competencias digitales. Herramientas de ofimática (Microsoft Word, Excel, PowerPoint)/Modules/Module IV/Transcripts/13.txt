@@ -1,0 +1,38 @@
+[MÚSICA] Con esta unidad, trabajaremos las opciones de impresión. Lo primero que veremos es la importancia de mirar cómo se imprimirá
+para evitar sorpresas y después trabajaremos las opciones que
+nos permiten configurar la impresión. Con Excel es muy importante
+antes de imprimir tener presente que no se trata de una o
+varias hojas con un determinado tamaño como pasa en aplicaciones como Word,
+que todas son hojas A4. Excel trabaja con hojas que no
+tienen una dimensión predeterminada. Es una hoja infinita donde nosotros
+ponemos datos y a la hora de imprimir recorta esa hoja en trozos línea A4 normalmente o del
+tamaño que hayamos especificado. Para evitar sorpresas,
+es mejor no utilizar nunca el botón Impresión rápida que encontramos
+en la barra de acceso rápido. ¿Por qué? Pues simplemente porque este
+botón imprime sin preguntar. Entonces si hay algún problema, lo encontraremos cuando you
+esté hecha la impresión. Por eso lo mejor es siempre pedir o
+la vista preliminar con el botón de Vista previa de la barra de acceso
+rápido o pedir Archivo, Imprimir. En la ficha Archivo buscamos
+Imprimir y aparte de las opciones nos muestra una vista preliminar
+de cómo quedaría la impresión. Fijaos cómo en el caso de la hoja
+que teníamos abierta si hubiéramos imprimido directamente, nos hubiera
+aparecido una gráfica recortada. Por eso es conveniente primero
+mirar antes de imprimir. Para solucionar este caso yo
+volvería atrás y seleccionaría el trozo que quiero imprimir y lo
+especificaría en la opción de impresión. En este caso, iría a la opción de configuración donde
+pone que imprime las hojas activas. Es decir, la hoja que tenemos activada y
+especificaría que solo quiero imprimir la impresión, no toda la parte
+de la hoja que teníamos visible. De esta manera me imprimiría perfectamente la tabla y la gráfica sin
+necesidad de recortarla. También nos pasaría lo mismo, por ejemplo, si cuando pedimos imprimir
+tengo seleccionada una gráfica. El hecho de seleccionar una
+gráfica para Excel es como decirle que solo queremos imprimir esa gráfica. Entonces si imprimiéramos,
+imprimiría de esta manera. Solo la gráfica. Es decir, si yo solo quiero
+imprimir un trozo de la hoja, previamente debe seleccionar. Si es un gráfico, lo selecciono. Si es un grupo de celdas, selecciono
+todo el trozo que yo quiera imprimir. Si no, él imprimirá todo lo que encuentre. Fijaos cómo una vez hemos entrado en
+la preliminar marca con estas líneas discontinuas el final de la hoja de
+impresión, y así vemos que en la primera hoja me imprimiría todos los datos
+que tenga desde la columna A hasta la H. En la segunda hoja desde la I hasta la O,
+y así iría haciendo impresiones. Por abajo veríamos que
+acabaríamos en la línea 55. De esta manera con estas líneas
+vemos claramente cómo nos quedaría. Entre la preliminar y estas
+líneas nos hacemos una idea. [AUDIO_EN_BLANCO]

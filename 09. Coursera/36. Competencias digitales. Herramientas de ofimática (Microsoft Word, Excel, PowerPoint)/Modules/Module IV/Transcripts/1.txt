@@ -1,0 +1,91 @@
+[MÚSICA] Con esta unidad, aprenderemos a utilizar la función más
+importante de Excel, hacer cálculos. Primero, veremos cómo
+introducir fórmulas simples, como la suma de los valores de dos celdas. Veremos cómo es la sintaxis de un cálculo
+y qué operadores podemos utilizar. Veremos los posibles mensajes
+de error que pueden aparecer si no escribimos correctamente el cálculo. Veremos cómo trabaja Excel
+con las referencias, qué referencias tenemos
+y cómo utilizarlas. Veremos que la hoja de cálculo nos
+ofrece muchas funciones predefinidas para realizar la mayoría de los
+cálculos que podamos necesitar. Explicaremos cómo es la
+sintaxis de estas funciones y veremos las funciones más utilizadas. Para acabar, veremos cómo podemos
+comprobar si hay errores en los cálculos utilizando las herramientas de auditoría. Para hacer cálculos con Excel,
+hay que pensar que Excel hace los cálculos prácticamente
+como los haríamos nosotros mentalmente. Si yo tengo que sumar dos números,
+¿cómo lo pienso? Pienso, por ejemplo, quiero sumar
+el 9 y el 4, 9 más 4, igual a 13. Si yo escribo esta expresión en una celda,
+por ejemplo, nos colocamos en esta
+celda y ponemos 9 más 4, una vez hecho el cálculo, debo presionar la tecla Intro para
+decirle a Excel que you he acabado. Entro a Intro,
+y no me calcula absolutamente nada. ¿Cuál ha sido el problema? Este 9 más 4 para Excel es un texto, no hay ninguna diferencia
+entre esto o escribir hola. ¿Qué es lo que hay que hacer con Excel? Avisarle, cuando queramos
+hacer un cálculo, que lo que vamos a escribir no es un
+texto ni un número, es un cálculo. ¿Cómo le avisamos? Simplemente poniendo el igual
+delante del cálculo a realizar. Si yo en lugar de 9 más 4 pongo igual 9 más 4, Excel, al detectar este signo igual al principio,
+you sabe que estoy escribiendo un cálculo. En el momento que presiono la tecla Intro,
+realiza el cálculo. Si seleccionáis la celda,
+veréis el contenido. Y en la barra de fórmulas vemos el
+cálculo que realiza Excel en esta celda. Podéis escribir el cálculo directamente en
+la celda o aquí en la barra de fórmulas. Una vez escrita,
+hay que presionar siempre la tecla Intro, igual que cuando hagamos
+cualquier modificación, o podéis utilizar el botón
+Introducir de la barra de fórmulas. El botón Cancelar, si nos hemos
+equivocado y queremos deshacer el cambio, o la tecla Escape si no
+queremos utilizar esos botones. De esta manera, escribiríamos todos
+los cálculos que queremos realizar, podrán ser más largos o más cortos, pero
+es simplemente utilizar el signo igual, los operadores que necesitaremos,
+sumar, restar, multiplicar, dividir, los tenéis todos en el teclado
+numérico, utilizar los paréntesis cuando sea necesario, es una simple
+cuestión matemática, es decir, debemos saber más matemáticas que
+Excel para utilizar sus cálculos. De todas maneras, normalmente no haremos
+un cálculo como el que acabamos de ver, no nos interesa sumar 9 más 4,
+nos interesa sumar, multiplicar, hacer las operaciones que queramos,
+sobre datos de la hoja de cálculo. Es decir, a mí lo que me interesa
+es decirle que sume, por ejemplo, el sueldo bruto de Mar con
+el sueldo bruto de Pablo. ¿Cómo lo haríamos? Signo igual,
+porque voy a hacer un cálculo. ¿Dónde está el sueldo bruto de Mar? En la celda C2. Pues lo indicamos, C2. Operador, sumar más,
+¿cuál es el otro valor? El valor de Pablo que está en C3,
+lo escribimos. Fijaos que no hemos puesto un número,
+sino una referencia a unas celdas, le indicamos dónde están los valores
+con los cuales queremos operar. Intro, y you tenemos el cálculo
+de la suma de estos dos valores. No hace falta que escribáis,
+podéis ahorraros ese trabajo. Si yo, después de poner el signo igual,
+y quiero escribir C2, simplemente busco la celda,
+le hago un clic, y Excel you la pondrá. C2, pongo el más, hago clic en C3,
+y pone la referencia a la celda. Esto sería lo más cómodo, a no ser que
+hagamos referencia a unas celdas que estén muy lejos, no las veamos,
+y entonces mejor escribirla. Pero normalmente haciendo clic
+podemos ir introduciendo los cálculos. De la misma manera que he sumado,
+puedo multiplicar, restar, dividir, recordar siempre que los
+encontraréis en el teclado numérico. Vamos a ver unos ejemplos sencillos
+de cálculos, de operaciones simples. Vamos a la hoja 1, aquí tenemos una serie
+de datos con los que vamos a practicarlos. Vamos a ir sumando, multiplicando,
+restando estos números. Por ejemplo, en la columna A le
+pido que me sume estos dos valores, igual, clic en A1 más clic en A2, Intro, y me suma el valor,
+esos dos valores. Columna B, vamos a hacer la resta,
+igual a B1 menos B2, you tenemos el resultado. Columna C, vamos a multiplicar, igual a C1 multiplicado por C2, Intro. Y por último, vemos la división,
+igual, a D1 dividido entre D2. Y así haríamos cualquier operación,
+más larga o más corta. Lo hemos hecho con números,
+pero podemos utilizar también fechas. [AUDIO_EN_BLANCO] Si yo tengo una fecha y un número,
+podría pedir que me diga qué fecha corresponde si le añadimos estas
+ocho unidades a esa fecha. Simplemente, igual, la fecha, E1, más los días que queremos añadir,
+8, que está N2, Intro. El resultado, día 9 de enero. Al día 1 le añadimos ocho días,
+es el día 9. O también podemos ver la diferencia
+entre dos fechas, igual, a la primera fecha, F1,
+menos la segunda fecha, F2, Intro, y nos dice que hay 13 días
+entre esas dos fechas. También podemos hacer alguna
+operación sencilla de texto, por ejemplo, le puedo poner aquí
+que me indique que hay 13 días. ¿Cómo lo haría? Pues, por ejemplo, igual,
+si quiero que escriba un texto, debo ponerlo entre comillas,
+y aquí indico días, espacio, cierro las comillas,
+le estoy diciendo simplemente que escriba lo que hay entre comillas, y
+ahora con el símbolo de concatenación que tenemos en la tecla del 6,
+busco la 6, le digo que le añada, y el valor de la celda F3, le hago clic. Con esto, acabo de decirle que escriba
+la palabra días con un espacio y, a continuación, el valor de la tecla,
+de la celda F3. Intro, y you me lo escribe. Si este valor es modificado,
+modificará ese cálculo. Cualquier modificación que hagamos en la
+hoja, por ejemplo, aquí ponemos en lugar de 34, 20, en el momento de hacer Intro,
+queda modificado el cálculo. Lo mismo aquí, en lugar del día 7
+de enero, vamos a poner el 10 de enero del 16,
+automáticamente el resultado de la diferencia entre días ha variado, 16, y el
+cálculo de texto que hemos hecho también. [AUDIO_EN_BLANCO] Con estos operadores podéis hacer
+la mayor parte de cálculos. [AUDIO_EN_BLANCO]

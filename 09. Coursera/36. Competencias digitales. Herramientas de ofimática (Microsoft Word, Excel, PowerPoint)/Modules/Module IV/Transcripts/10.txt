@@ -1,0 +1,42 @@
+[MÚSICA] En esta unidad,
+veremos cómo crear y editar gráficos. Primero, veremos cómo crear los gráficos, de qué tipos disponemos y cómo
+seleccionar correctamente los datos. También veremos cómo mover,
+duplicar o eliminar un gráfico. Después, trabajaremos las
+herramientas de edición de gráficos para ver qué modificaciones podemos hacer. Hacer un gráfico con Excel es muy
+sencillo, pero antes de hacerlo, hay una cosa muy importante que es
+seleccionar correctamente los datos que necesitaremos para esa gráfica. Por ejemplo, yo aquí tengo una tabla
+con los datos de unos alumnos y unas pruebas,
+yo podría seleccionar estos datos, 8, 5 y 2, que son los resultados de
+esa prueba y pedir un gráfico. ¿Qué pasaría? Que en el gráfico que voy
+a pedir no sabré ese 8, ese 5, ese 2 que son de la prueba 1, o que el 8 es de Aitor,
+que el 5 es de Alba o el 2 es de Ana. Toda esta información debe
+estar dentro de la selección. Por lo tanto, cuando queramos hacer un
+gráfico, primero seleccionamos bien toda la información que nos interese
+que aparezca en el gráfico. En este caso, para seleccionar bien, debería seleccionar desde Alumno hasta
+el último valor de la primera prueba. Ahora sí que tiene toda la
+información disponible. Vamos a pedir la gráfica. Para ello, me voy a la ficha Insertar,
+y aquí encontraré un grupo, Gráficos, con los diferentes tipos
+de gráficos que nos ofrece Excel. Por ejemplo, gráfico de columnas,
+despliego Gráfico de columnas, y aquí encontraré diferentes variantes. Incluso, sin pedirla, solo poniéndome
+encima, you me muestra cómo quedaría. Vamos a pedir una gráfica
+sencilla de columnas, la primera,
+damos clic y you tenemos la gráfica hecha. Automáticamente se activarán
+las fichas de Diseño y Formato, con todas las herramientas
+necesarias para editar este gráfico. Así, simplemente,
+se hacen los gráficos con Excel, no hay más misterios, porque de aquí you
+es cuestión de modificar estos formatos. Recordad, primero,
+seleccionamos correctamente, que no nos olvidemos ningún dato,
+fijaos cómo P1 es el nombre de la prueba, aparece en el gráfico, cómo cada columna
+me indica a qué alumno corresponde, todo ello por haber seleccionado
+correctamente, si no, estos valores no aparecerían y no
+sabríamos estas columnas de quién son. Una vez creado el gráfico, podremos colocarlo en la posición
+que queramos de la hoja de cálculo. Para ello, lo cogemos por alguna parte
+donde no haya nada, cualquier parte vacía, por ejemplo aquí al lado del título,
+y arrastramos a la posición que queramos. Tener cuidado de no cogerlo por otra
+parte, por ejemplo el área de gráfico, porque entonces estamos seleccionando
+otra parte y no nos lo moverá. Solo siempre por cualquier parte que
+no haya nada, normalmente en la parte del título, al lado del título,
+podéis hacerlo con tranquilidad, y si no, cogerlo por los bordes del marco. Si queremos duplicar ese gráfico,
+lo haremos como siempre, botón derecho, Copiar, nos colocamos donde queramos,
+botón derecho, Pegar. you hemos duplicado el gráfico. Para eliminarlo, una vez seleccionado,
+tecla de Suprimir, y desaparece. [AUDIO_EN_BLANCO]

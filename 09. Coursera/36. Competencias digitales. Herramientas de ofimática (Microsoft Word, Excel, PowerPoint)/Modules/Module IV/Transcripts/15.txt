@@ -1,0 +1,104 @@
+[MÚSICA] [MÚSICA] En principio, casi todas las opciones de impresión
+las tenemos en esta pantalla. Pero también disponemos, cuando estamos
+en la hoja, de la ficha diseño de página, que fijaos encontraremos las
+opciones que you hemos visto, márgenes, orientación, tamaño de papel,
+área de impresión y alguna más. Para determinar márgenes you lo
+haremos con la pantalla de impresión, pero también podemos hacerlo aquí. Podéis elegir el sitio más oportuno. Aquí también tendremos otras opciones. En el grupo de configurar página,
+por ejemplo, me dará acceso a las opciones
+de configurar página que son las mismas que teníamos en el
+último enlace de la pantalla de impresión. Aquí, aparte de las que you hemos visto,
+encontraréis una pestaña, que es la pestaña de encabezado y pie,
+que nos permite añadir un encabezado o un pie de página, o las dos cosas, a las
+diferentes hojas que vamos a imprimir. Tendremos dos botones, personalizar encabezado y personalizar
+pie de página, para modificarlos. Funcionan exactamente igual los dos, la diferencia es que uno lo pone arriba,
+otro lo pone abajo. Vamos a probar, por ejemplo,
+personalizar encabezado. Entramos y nos divide el
+encabezado en tres secciones, izquierda, centro y derecha. De manera que yo puedo poner en
+diferentes partes de este encabezado diferentes opciones. Lo que yo puedo poner es un texto,
+yo aquí podría escribir tabla de pruebas, el texto que yo quiera. Una vez escrito puedo seleccionarlo y
+con el primer botón modificar su estilo o puedo ir añadiendo
+cualquiera de estas opciones. Simplemente que os pongáis encima del
+botón veréis qué hace cada una de ellas. Por ejemplo, en la sección central me
+interesa que me ponga el número de página. Busco el botón insertar número,
+clic y you me lo coloca. Siempre veremos los códigos, no veremos el resultado hasta
+que no veamos la preliminar. Este código, al igual que con el texto, puedo seleccionarlo y modificar su
+formato con el botón de formato. Puedo poner el número de página o puedo
+poner también el total de páginas. En este caso, por ejemplo,
+podría poner aquí una barra y a continuación clicar el
+botón del número de páginas. De esta manera me enumerará cada página,
+pero al lado veré el total de páginas. Algunas de estas opciones pueden parecer
+de entrada que no son necesarias. Pero pensad que estamos hablando de
+la impresión de una tabla muy grande, con muchas hojas y todas muy parecidas
+porque lo único que tienen son números. Entonces algunas de estas opciones no está
+de más añadirlas, tanto en el encabezado como en el pie, para saber
+exactamente qué hoja estamos viendo o qué datos estamos viendo y
+de dónde están esos datos. ¿Qué más puedo poner? Por ejemplo, en la derecha
+puedo poner la fecha o la hora, siempre fecha y hora de impresión. Vamos a poner, por ejemplo,
+la fecha que es lo mismo que os decía, puede parecer que no es útil, pero me
+puedo encontrar con dos impresiones del mismo documento y no saber
+cuál es la más nueva. Con un texto puedo más o menos intuir
+qué versión de documento es más nuevo. Con una tabla de datos
+no está más de verlo. Entonces no está de más según qué tipo de
+documento añadir a la impresión la fecha. Tenemos más opciones, vamos a verlas. En el pie para no llenar esta cabecera,
+aceptamos, fijamos como you nos la enseña en esta
+muestra, vemos como el texto que he escrito me aparecerá en la parte
+superior izquierda de todas las hojas, la numeración con el número de página
+del total de páginas y la fecha. Esta fecha se actualizará
+cada día que imprimamos. Vamos a ver al pie,
+y aquí vemos las otras opciones. Podemos insertar la ruta del archivo. Hago clic aquí me colocará toda la
+ruta para encontrar el archivo. Es decir, nos dirá qué está en el disco
+duro, concretamente en la carpeta de mis documentos, la carpeta de
+resultados de las pruebas, etcétera, y por último
+el nombre del archivo. Si utilizo el botón insertar nombre de
+archivo, solo pondría el nombre de archivo o con el botón nombre de hoja solo el
+nombre de la hoja que estoy imprimiendo. Cuidado con el primero que
+normalmente suele ser muy largo. Aconsejable ponerlo más pequeño porque
+la ruta suele ser bastante larga. Aparte, tenemos un último
+botón para insertar imagen que simplemente nos preguntará
+qué imagen queremos añadir. Por ejemplo el logo,
+y la añadirá donde le hayamos pedido. En este caso no vamos a coger ninguna
+para no llenar tanto este pie. Pero podemos añadir, tanto en la cabecera
+como en el pie, cualquier imagen. Aceptamos, vemos si nos queda bien. Fijaos lo que os decía,
+la ruta es muy larga, sobre todo si trabajas en
+ordenadores conectados a la red. Aceptamos, y vamos a ver la preliminar. Fijaos como en cada una de las páginas
+nos mostrará esos encabezados y pies. Normalmente no los pondremos todos,
+pero algunos nos puede ser útil. Cuando queremos imprimir tablas muy
+grandes que ocupan muchas páginas, nos podemos encontrar con otro
+problema y es el de los títulos. Fijaos como en la primera hoja no
+hay problema porque vemos qué prueba corresponde cada columna, a quién, a qué
+alumno corresponde cada una de las líneas. Pero si vamos pasando de
+página encontraremos páginas, las cuales no sabemos a qué
+corresponde cada uno de los valores. O sea, una de las cosas que nos
+interesaría es que esa primera fila y primera columna se
+repitiera en todas las páginas para poder saber cada
+valor a qué corresponde. Para ello vamos a la
+ficha diseño de página, pedimos la configuración de página. Esta opción que vamos a hacer,
+aunque pensaramos que podríamos hacerla con el enlace de configurar página de
+la pantalla de impresión, no es así, aparecería la misma ventana,
+pero no nos permitiría modificarlo. Tenemos que hacerlo aquí en
+la ficha de diseño de página. Entramos con el botón de configurar
+página, nos vamos a la pestaña de hoja y aquí fijaos
+que tenemos dos opciones donde indica repetir filas en extremo
+superior y columnas a la izquierda. Estas son las opciones que nos
+interesa para repetir los títulos. Nos colocamos, por ejemplo, en repetir
+filas y seleccionamos aquellas filas que serán títulos y que por lo tanto
+se tienen que repetir en cada hoja. En este caso solo es la primera, pues hacemos un clic dentro de la
+primera fila y you nos coloca el código. Lo mismo para las columnas. Me coloco en la casilla de repetir
+columnas, busco la columna, le hago un clic. Por ejemplo, podría ser esta. Si veo que no es suficiente selecciono
+las dos y él me colocará el código. you sabe que la línea
+uno y las columnas A y B deben repetirse en cada una de las hojas. Vamos a comprobarlo. Le dimos la preliminar. Vamos pasando de página y vemos
+como en todas las páginas aparecen tanto la primera línea como
+las dos primeras columnas, de manera que veamos los datos que sean
+siempre sabremos a qué corresponden. Como os decía antes, también podría entrar
+aquí en el enlace configurar página, ir a la pestaña de hoja. Pero en este caso, fijaos como está
+en gris, no nos permite modificarlo. Tiene que ser desde la ficha. Por último,
+otra opción que os puede ser útil, antes de dejar you el tema,
+sería esta de líneas de división. Fijaos, por defecto, si nosotros no hemos
+puesto líneas alrededor de las celdas imprimirá la cuadricula, esas líneas punteadas que vemos
+antes de poner las otras líneas. Si lo desactivamos no
+imprimiría esa cuadricula. [AUDIO_EN_BLANCO] Una vez
+especificadas todas las opciones, sean aquí en esta pantalla de impresión,
+o sea en la ficha de diseño de página, you solo nos faltará hacer clic al botón de
+imprimir y you nos imprimirá el documento. Pero no olvidéis nunca, de primero, mirar
+la vista preliminar a ver cómo queda. Con Excel puede haber muchas
+sorpresas a la hora de imprimir. [AUDIO_EN_BLANCO]

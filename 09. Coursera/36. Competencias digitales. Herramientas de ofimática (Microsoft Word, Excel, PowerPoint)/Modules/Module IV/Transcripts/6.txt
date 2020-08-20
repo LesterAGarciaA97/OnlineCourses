@@ -1,0 +1,71 @@
+[MÚSICA] [MÚSICA] Con esta actividad practicamos los
+cálculos, los cálculos básicos. Sean operaciones o funciones. Aquí tenemos tres tablas donde queremos, hemos introducido unos datos y
+queremos hacer unos cálculos. Hemos puesto todas las
+celdas de color gris claro para ver dónde queremos
+hacer los cálculos. Vamos a empezar por el total de compra. Hacemos un clic en el primer total de
+compra, comprobamos que lo que tenemos que hacer, you es una cuestión matemática
+más que de Excel es multiplicar la cantidad de ordenadores, 23, por el coste
+de compra para saber el total de compra. Para saber un cálculo siempre primero
+el igual y luego escribiríamos la función que queremos utilizar o
+la operación que queremos realizar. En este caso es una simple
+operación por lo tanto le indicamos con qué celdas queremos
+operar y qué operación queremos hacer. Haríamos un clic,
+no hace falta que lo escribamos, podemos escribirlo pero no es necesario,
+el you nos lo pone B4 por. [SONIDO] D4. Hacemos clic en D4 y you está,
+you tenemos la operación intro para acabar y hemos realizado el total de
+compra del primer material. Para el resto de los materiales
+como es el mismo cálculo, multiplicar su cantidad por su
+coste de compra lo que hacemos es simplemente coger el punto de serie,
+tenemos en la esquina inferior derecha, cuando vemos la cruz más delgadita
+arrastramos para el resto de celdas. Y you tenemos el cálculo hecho, no importa que tenga que hacer el
+cálculo para 3 celdas como para 3000. Con que lo haga en la
+primera es suficiente. Vamos con el total de venta,
+será lo mismo, igual a la cantidad multiplicada
+por el valor de venta. Intro y copiamos este cálculo
+para el resto de celdas. you tenemos todos los totales de
+compra y venta de cada material. Ahora vamos para el total del
+total de compra, en este caso you no haré una operación, no le diré
+que sea este más este más este más este, utilizo una función,
+en este caso la función suma. Para utilizar una función,
+podéis hacerlo de varias maneras. O ir al botón autosuma a buscarla, hacer clic en el botón fx para buscar
+también la función, o ir a la ficha fórmulas a buscar la fórmula, cualquiera
+de las tres maneras es correcta. En este caso queremos una autosuma, podemos ir directamente al
+botón de autosuma y hacer clic. Clicamos, fijaos que él automáticamente
+nos pone la función y nos va a buscar las celdas con las cuales
+queremos calcular. Acertado, pensad una cosa,
+no siempre acertará. por lo tanto él siempre coge
+las celdas que tiene más cerca. Suele acertar muchas
+veces pero no siempre. Si no acierta, con probarlo mirad que sean
+correctas, si son correctas intro, sino seleccionáis vosotros las celdas que sean
+las correctas, intro, y you lo tenemos. Para el total de ventas dos opciones,
+o hago clic en el botón de autosuma, o como he hecho antes, podría coger esta
+celda y arrastrarla hacia la derecha, cualquiera de las dos opciones me sirve. Hago intro, y you tenemos los
+cálculos de la primera tabla. Vamos a por los cálculos de la
+tabla de gastos deducibles. El total será una suma por lo tanto
+hago lo mismo, botón autosuma, fijaos lo que os decía antes,
+no siempre acierta. ¿Qué ha ocurrido? Que como ha visto que en una celda
+faltan datos no los ha cogido todos, no pasa nada, antes de darle al intro seleccionamos
+las celdas correctas e intro. Para hacer el total de compras, el total
+de compras será la suma del total de comrpas de cada uno de los materiales,
+podría decir que es la suma de todos estos datos,
+no hace falta ese cálculo you lo tengo. Sería correcto. Pero como you lo tengo aquí en la celda
+F12, pues hago el cálculo más sencillo. Igual a F12, you está, you lo tenemos. Lo mismo me va a pasar aquí
+en el total de ingresos. Como ese cálculo you lo he hecho,
+igual a G12. Intro y you lo tenemos. Este es el total de ingresos, el total
+de gastos deducibles también lo tengo, es igual a J9. Intro. Rendimiento será restar los
+ingresos menos los gastos, por lo tanto igual a este
+valor menos este valor. Cuota a ingresar. Aquí you algunos tendremos que pensar
+un poco más, aquí sobre todo se ve la importancia de conocer la importancia
+de los cálculos que queremos hacer. Cómo se calcula un porcentaje, si se hacerlo puedo aplicárselo a Excel,
+sino tendré que preguntarle a alguien. Para calcular un porcentaje
+en realidad lo que hacemos es multiplicar el valor por el porcentaje. Podéis escribirlo de la siguiente manera,
+igual al rendimiento neto sería la celda, el valor de la celda I17 y
+multiplicarlo por el porcentaje a aplicar. Como no lo tengo en una celda solo sí
+que lo vemos aquí, pero está dentro de un texto, no me sirve, no lo puedo
+coger como celda, lo puedo escribir. Aquí podría escribir o
+21% que sería correcto. Excel you sabe que 21% sería 0,21 o escribir 0,21, lo que queráis. Intro y you tenemos todos
+los cálculos hechos. Lo importante recordar es que
+el cálculo que yo quiera hacer, sepa cómo se hace matemáticamente,
+aplicarlo en Excel you veis es muy sencillo, es simplemente decirle
+dónde están los datos y con qué operaciones tiene que realizar
+o qué función nos lo permite. [MÚSICA] [MÚSICA]

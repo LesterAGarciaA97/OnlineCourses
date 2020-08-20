@@ -1,0 +1,80 @@
+[MÚSICA] En los cálculos de Excel,
+hablamos siempre de referencias. Es decir, no hablo de un valor concreto, sino que hago referencia a la posición de
+ese valor, es decir, en qué celda está. Fijaos aquí en el ejemplo. Tenemos C5 por B6 dividido entre C3,
+esa es una referencia relativa. ¿Por qué? Porque hace referencia a una celda, no hemos indicado un valor concreto,
+sino que hacemos referencias. Vamos a verlo como un ejemplo y veremos
+mejor por qué le llamamos relativa, referencia relativa. Vamos a hacer aquí el cálculo de
+la suma de los valores de 2005. Esto sería igual a C6 más C7, Intro, y aquí tenemos el resultado
+de sumar estos dos valores. ¿Qué tenemos en el cálculo? Dos referencias relativas. Dos referencias a dos celdas,
+a la C6 y a la C7. Pero en realidad es una
+referencia relativa. En realidad, Excel no entiende C6 o C7,
+sino lo que ha entendido es en lugar de C6, la celda que hay
+dos posiciones por encima del cálculo, y en lugar de C7, la celda que hay
+una posición por encima del cálculo. ¿Qué ocurre? Que al ser relativo,
+yo puedo copiar este cálculo. Por ejemplo, me interesa tener este
+mismo cálculo para el resto de años sin necesidad de tener que
+escribir otra vez el cálculo. Si cogemos el punto de serie del
+cálculo y arrastramos hacia la derecha, lo podemos copiar para todos los años, de manera que solo haga falta hacer un
+primer cálculo, el resto podemos copiarlo. Claro, si hubiera copiado C6
+más C7 en el resto de cálculos, en todos nos daría el resultado de la suma
+de los valores de 2005, pero como es una referencia relativa no ha hecho eso,
+sino que ha ido variando la fórmula. Vemos cómo para el 2006 you
+no coge C6 más C7, sino que lo ha transformado en D6 más D7
+porque son referencias relativas. Ha visto que el cálculo ha cambiado
+de posición, y por lo tanto, ha modificado el cálculo para
+que se adapte a ese cambio. Aquí en el 2007 you tenemos E6 y E7,
+él ve que hay un cambio de columna y automáticamente
+modifica las letras del cálculo. En 2008, F6 más F7. Por eso las llamamos
+referencias relativas. La mayoría lo serán. [SONIDO] Este, esta copia del cálculo la
+podéis hacer hacia la derecha, como lo acabamos de hacer ahora, o la
+podéis hacer hacia abajo, hacia arriba, hacia la izquierda, en cualquier posición. Imaginaos que sumáramos los
+valores de un trimestre, igual al valor del primer trimestre,
+más el del segundo, más el del 2007 más el del 2008, [SONIDO] y este cálculo puedo copiarlo para el resto
+de trimestre, en este caso solo hay uno. La referencia relativa, en este caso,
+ha hecho que al copiar no cambie la letra como cambiaba antes, sino que cambie
+el número que es el indicador de la fila. Hemos cambiado de fila, él cambia de fila. Otro tipo de referencia es
+la referencia absoluta. Vamos a verlo con un ejemplo
+que quedará más claro. Aquí teníamos los totales
+que hemos calculado, y resulta que yo quiero calcular el
+10% del total de cada trimestre. El valor que quiero calcular
+lo coloco aquí, que es el 10%, y ahora quiero que me haga el cálculo
+sobre cada uno de los trimestres. Vamos a hacer el primero,
+igual al total del primer trimestre, G6, multiplicado por el
+porcentaje que está en H10, H5. Intro, y you nos ha calculado
+el 10% de este valor. Aquí tenemos dos referencias relativas,
+G6, H5. Si yo copio este cálculo
+para el resto de trimestres, vamos a ver qué ocurre
+con el segundo trimestre. Tenemos 140.000, ¿cómo es posible
+que el 10% de 1.200 nos dé 140.000? Aquí hay un error. ¿Qué ha ocurrido? Cuando he copiado,
+dado que era una referencia relativa, ha modificado; si yo he cambiado de línea, el cálculo también; donde ponía 6,
+pondrá 7, donde ponía 5, pondrá 6. Y eso es lo que ha hecho, G7 más H6, por H6. ¿Qué ha ocurrido? Que está multiplicando este valor,
+correcto, Por este valor. Aquí está el error,
+en el segundo operador. ¿Qué ocurre? Que pasar de aquí a aquí, G6 pasa a G7, correcto, he cambiado de valor,
+de trimestre, debe cambiar de valor. Es relativo, es una referencia relativa. Ahora bien, H5 no es un valor que varíe,
+siempre será H5. Entonces, cualquier referencia
+relativa la modifica. ¿Cómo lo evito? Con una referencia absoluta. ¿Y cómo se hace? Cuando escribimos antes de escribir
+la referencia, en este caso H5, o una vez escrita, presionamos la tecla F4. Colocará el símbolo de dólar
+delante de la letra y del número. Podemos fijar los dos o seguir
+presionando la tecla F4 de manera que solo fije la columna o la fila,
+lo que vaya a variar, depende del caso, fijaremos las dos referencias
+de columna y fila, o solo una. Ahora tenemos fijadas las dos, Intro. Una vez hecho, fijaos la diferencia,
+G6 es una referencia relativa, H5 es una referencia absoluta, en realidad le
+estoy diciendo que esto jamás lo cambie. Ahora copio, G6 pasa a ser G7,
+referencia relativa, y H5 continúa siendo H5, y siempre,
+en todos los cálculos que haga, al copiar del punto de serie,
+quedará fijado como H5. Eso es una referencia absoluta. Por suerte, casi siempre que se
+necesita una referencia absoluta, vemos que al copiar el cálculo,
+salen o números extrañísimos o errores. En ese caso, detectamos rápidamente que seguramente
+necesitamos una referencia absoluta. Pero recordar que lo que hace
+la absoluta es fijar el valor. Es decir, tener cuidado que
+cuando copie este cálculo, este operador no debe variar nunca,
+esa es su función. Fijaos aquí tenemos otro ejemplo
+de una referencia absoluta, C5 por B6 con los símbolos de dólar. También os encontraréis en algún caso
+referencias que llamamos mixtas, como esta de aquí,
+que combina las dos referencias. Vemos aquí en este caso, en C5,
+hemos fijado la columna, cuando copiemos la letra C no variará, en cambio,
+si copiamos por ejemplo hacia abajo, el 5 irá modificando porque es la línea,
+irá siendo por 6, 7, irá modificando. Esto sería una referencia mixta, una referencia absoluta y
+una referencia relativa. Básicamente, utilizaremos las relativas
+y de vez en cuando alguna absoluta como este ejemplo que hemos
+hecho del cálculo del 10%. [AUDIO_EN_BLANCO]

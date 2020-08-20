@@ -1,0 +1,82 @@
+[MÚSICA] Vamos a ver dos ejemplos más de funciones. Por ejemplo,
+aquí hemos calculado la suma de sueldos. Vamos a poner como título Total. Luego aquí queremos calcular
+el promedio de sueldos. Nos colocamos en la celda donde
+queremos hacer el cálculo. Recordad que podríamos escribirlo,
+podríamos ir a buscar el botón Autosuma. Aquí encontraríamos la función
+Promedio; o podemos hacer clic en Fx. Nos aparece la función. Recordad que si no apareciera
+aquí podríamos pedir todo en la categoría y la buscaríamos
+por orden alfabético. Fijaos aquí,
+sí que me aparecen todas las funciones. Además tengo la ventaja, si lo hago por
+Fx, que una vez seleccionada la función, si dudo si es esta o no la que necesito,
+debajo me muestra lo que hace esa función, por lo tanto, podré comprobar si
+realmente es la que me interesa. Me devuelve el promedio o media
+aritmética de los argumentos. Estos pueden ser números,
+nombres, matrices, etcétera. Este es el cálculo que yo quiero,
+por lo tanto, lo selecciono. La ventaja de Fx es sobre todo la ayuda. Incluso con cálculos que no sepáis, funciones que no tengáis
+idea de para qué sirven. Mirad esa ayuda que os permitirá
+entender si os es útil o no esa función. Incluso, podéis utilizar la ayuda sobre
+esta función y se conectará con la ayuda de Excel y os explicará detalladamente
+cómo funciona e incluso os dará ejemplos. Realmente podemos utilizar funciones
+que desconocemos estudiando esta ayuda. Ahora elegimos Promedio, aceptamos,
+nos pide los argumentos; fijaos en lo que os decía
+antes: ahora es incorrecto. Empieza por C2, sí,
+pero acaba en 102, ¿no? El último valor no es 102, es 101. Lo corregimos. 102 es el resultado de la suma de sueldos. Por eso no hay que fiarse de
+los valores que él ponga. Siempre comprobemos. Si hay algún error, lo rectificamos. Aceptamos, y you tenemos
+calculado el promedio de sueldos. De la misma manera, por ejemplo,
+puedo calcular cuál es el sueldo máximo. Me coloco en la celda Fx,
+la función será Max. Está en usadas recientemente, no hace
+falta que vayamos a Todo, aquí la tenemos. Aceptar. Aquí nos ha puesto 103, no es correcto. Escribimos el rango correcto, C2:C101. Es indiferente que escribamos
+en mayúsculas o minúsculas. Aceptamos, y you tenemos que
+el sueldo máximo es de 3.000. Y así utilizaríamos
+cualquiera de las fórmulas. La mayoría aquí en Fx nos mostrará las que normalmente
+utilizamos y si hace falta, pues le das Todos, y aquí está todo; o
+buscáis por temas, fórmulas financieras, de fecha, matemáticas, estadísticas,
+búsqueda, lo que queramos. Y no olvidéis nunca este
+enlace que nos permitirá entender una función de
+la que tengamos dudas. Para buscar las funciones también
+podéis utilizar la ficha Fórmulas. Esta ficha está pensada
+precisamente para esto. Aquí encontraréis una
+biblioteca de funciones con toda las funciones
+clasificadas por temas. En realidad, si os fijáis,
+es lo mismo que hemos visto con el botón Fx que me mostraba
+diferentes categorías. Aquí encontraremos clasificadas las diferentes funciones o
+la mayoría de funciones. En realidad, utilizad lo que
+veáis que os es más cómodo. En versiones anteriores esta ficha no
+existía, es algo bastante reciente. Otra función que vamos a utilizar a menudo es la que nos permite hacer
+un recuento de datos. Por ejemplo, aquí quiero que me diga
+cuántos sueldos tengo introducidos. Me voy a Fx,
+pido las usadas recientemente y aquí tengo contar, cuenta el número de
+celdas de un rango que contienen números. Correcto. Aceptar. El rango sería de C2 a C101. Aceptamos, y me dice que tengo 100 valores,
+en este caso, 100 sueldos. Imaginemos que quiero
+comprobar todos los datos. Lo que voy a hacer ahora es una manera
+sencilla de saber si me falta algún dato. Copio hacia la derecha este cálculo y
+me hará un recuento para cada una de las columnas. En teoría, si yo tengo todos los datos
+introducidos, en todas las celdas me aparecerá el mismo resultado,
+pero fijaos qué ha ocurrido. La columna H, I y J me dicen
+que hay 100 valores, correcto. En cambio, desde D hasta G, me dice que hay cero, cero valores,
+cuando en realidad existen valores. Tenemos aquí todas las celdas con valores. ¿Qué ocurre? Que estos valores son textos. ¿Qué es lo que me decía la
+explicación de la función contar? Que contaba números y
+eso es lo que ha hecho. La función contar, que es la que he utilizado ahora,
+sólo cuenta celdas que contienen números. Por lo tanto, cuando yo quiero
+hacer un recuento, si son números, perfecto; si no,
+deberé utilizar otra función. Vamos a ver qué función es. Daremos aquí debajo. Fx, en lugar de Usadas
+recientemente me voy a Todas, busco las funciones de Contar,
+son las que están en orden alfabético, y aquí me encontraré varias
+funciones de contar, Contar, Contar.blanco, Contar.si,
+Conjunto, Contara. ¿Cuál es la que yo necesito? Lo miro en la explicación de la parte
+inferior del cuadro de diálogo. Contar lo que cuenta es un
+rango que contiene números. No nos interesa. Contar.blanco cuenta el
+número de celdas en blanco, es decir, las que no tienen valores. Interesante esta función,
+la podremos utilizar en otros momento. Contar.si cuenta las celdas que
+coinciden con una condición, es decir, es un recuento condicional: no cuenta
+todas, sino las que nosotros le pidamos, también por conjunto,
+¿y Contara qué nos dice? Cuenta el número de celdas no
+vacías de un rango, es decir, todas las que tengan datos,
+le es igual qué tipo de datos. Por lo tanto, si queréis ir a lo
+seguro cuando hagáis un recuento, mejor utilizad siempre Contara y te
+aseguras de que funcione correctamente. Aceptamos, indicamos el rango,
+como siempre C2 C101, aceptar, y ahora cuando copiemos, veremos cómo en todos los casos el
+resultado es 100, tanto la edad, el valor que haya, sea un número o un
+texto, siempre me hará el recuento. Esa sería la diferencia
+entre Contar y Contar. Contar cuenta los valores
+numéricos; en cambio, Contara cuenta cualquier tipo de valor.

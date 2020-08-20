@@ -1,0 +1,63 @@
+[MÚSICA] Vamos a ver cómo modificar las
+configuraciones de impresión. you hemos visto que tal como
+teníamos esta hoja no quedaría bien, vamos a seleccionar previamente el
+trozo que queremos seleccionar. Esto nos lo podríamos ahorrar si en lugar
+de haber puesto esta tabla y esta gráfica en esta posición, la hubiéramos puesto
+en la parte superior izquierda, pero no es el caso. Vamos a seleccionar y vamos a pedir o la vista preliminar
+o Archivo, Imprimir, es lo mismo. En este caso, como hemos visto antes,
+podemos, con la configuración, indicar que me imprima no la
+hoja entera o todo el libro, podría imprimir todas las hojas de este
+libro de vez, sino que lo que me interesa en este caso es que imprima solo la
+selección para que no imprima de más. ¿Qué más podemos modificar aquí? Podemos modificar el número
+de copias que vamos a hacer. Si you habéis utilizado
+otros programas como Word, más o menos sería el mismo proceso. Podemos indicar a qué impresora
+queremos enviar esa impresión. Podemos indicar, si son varias páginas, qué páginas queremos imprimir,
+desde la página tres a la cinco, etcétera. En este caso solo tenemos,
+como indica aquí abajo, una sola página. Si son varias copias,
+podemos intercalarlas o no. Podremos indicar la orientación. En este caso, por ejemplo, seguramente nos quedaría
+mejor con una orientación horizontal. Vamos a probar. Y aquí nos muestra como la gráfica
+en principio es más ancha que alta, seguramente nos quedaría
+mejor en horizontal. Depende del tipo de hoja que queramos
+imprimir, elegiremos una opción u otra. Así como en Word casi siempre es vertical, aquí en Excel varía dependiendo del
+tipo de tablas o gráficas que tengamos. Podemos elegir el tipo de papel,
+normalmente Din A4. Podemos modificar los márgenes,
+parte de estas opciones, lo mejor siempre, Márgenes personalizados, y aquí you
+indicar qué márgenes queremos dejar. Pero aparte de márgenes,
+quizás lo más importante de esta ventana sería estas dos opciones que
+nos permiten centrar en la página. Fijaos como tengo la
+impresión de la tabla y el gráfico en la parte superior izquierda. Si tengo una hoja entera para ellos, mejor centrarlo tanto
+horizontalmente como verticalmente, y de esta manera quedará
+mejor estéticamente. Y por último, también podéis escalar,
+ajustar a una página, por ejemplo, si la impresión me
+ocupa un poco más de una página. O personalizar las opciones para
+indicar qué ajuste quiero ver. Podré reducir al 60% o aumentar, por ejemplo, en este caso que es
+bastante pequeño podría aumentar, vamos a probar al 150%, y me quedaría
+mejor, aprovecharía mejor la hoja. Como en cualquier otro programa de Office,
+disponéis de estos dos enlaces, Propiedades de impresora y
+Configurar página con más opciones. En el caso de Propiedades de impresora,
+dependerá del tipo de impresora que tengáis seleccionada; y en el caso
+de Configurar página nos mostrará todas las opciones disponibles,
+algunas de ellas las vamos a ver ahora. Algunas opciones de impresión no las podemos ver claras con
+solo una hoja para imprimir, lo ideal sería tener una hoja más grande
+que no necesitara de más páginas. Vamos a abrir una hoja de cálculo,
+concretamente la ficha de Datos. Aquí tenemos una tabla con muchos
+datos y que, por lo tanto, me ocupará varias páginas y nos permitirá ver
+algunas de estas opciones de impresión. Vamos a pedir la preliminar con el botón
+de Vista previa o Archivo, Imprimir. Fijaos en este detalle, parece que
+solo vaya a imprimir la celda Num, y es porque nos ha quedado de antes
+la opción de Imprimir selección. Volvemos a activar Hojas activas,
+y you imprimirá la hoja entera. Fijaos como dice en la parte inferior
+que imprimiría un total de 28 páginas. Aquí nos puede ser útil el escalado. Si pedimos en Escalado, Personalizar, podríamos hacer reducciones o
+aprovechar esta opción de Ajustar, que nos permitirá ajustar al
+número de páginas que queramos. Ahora son 28, si yo, por ejemplo,
+le digo que me lo ajuste a cuatro de ancho por cuatro de alto,
+cuatro por cuatro, 16, Aceptar. Le estoy diciendo que como
+máximo me ocupe 16 páginas, hace la reducción correspondiente
+y finalmente veo que me ocuparía, con esa reducción, 12 páginas. Si vuelvo a entrar en Personalizar,
+veré que ha hecho una reducción del 58%. Si así quisiera tener esta reducción, debería haber ido probando
+hasta encontrar este 58. Mucho mejor hacerlo con
+la opción de Ajustar. Esta opción nos va muy bien cuando tengáis
+una tabla que ocupa una página o poco más. En estos casos, pedid siempre esta
+opción y decirle uno por uno, de manera que no os tengáis you que
+preocupar de cuánto me ocupará esa hoja, you sabes que siempre lo
+imprimirá en una sola página. Para eso es muy útil esta opción.

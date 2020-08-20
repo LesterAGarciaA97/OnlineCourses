@@ -1,0 +1,127 @@
+[MÚSICA] Mirando las funciones de CONTAR, hemos visto
+que había un recuento condicional. El CONTAR SI,
+esta función nos es muy útil. Vamos a ver cómo funciona. Imaginaos que queremos
+saber cuántos sueldos son superiores a 2.000. Queremos que Excel nos haga este cálculo. Cuántos empleados tenemos con
+un sueldo superior a 2.000. Vamos a hacerlo. Fx, en todo, buscamos las funciones de
+recuento, podéis seleccionar cualquiera y tocar la tecla inicial de la palabra,
+en este caso la C, así será más rápido,
+y aquí encontramos CONTAR SI, que nos dice que contará solo las que coinciden
+con la condición, ¿cuál será la condición? Que el sueldo sea superior a 2.000. Por tanto, vamos a utilizar esta función,
+Aceptar, y ahora vamos con los argumentos. Fijaos que aquí cambian los argumentos,
+hasta ahora tenemos número, o 1, o 2, o 3, los que quisiéramos. Ahora no, ahora nos pide dos argumentos
+concretos, el rango y el criterio. El rango será dónde tiene que mirar. Tiene que mirar los sueldos. Por lo tanto, C2, dos puntos, C101. Este es el rango de datos, el rango dentro
+del cual Excel comprobará qué valores hay. ¿Cuáles me interesan? Los que sean superior a 2.000,
+esto es el criterio. Y aquí lo indicamos, mayor, 2.000. Podemos utilizar los operadores de mayor,
+menor, mayor igual, menor igual, los operadores típicos. you le hemos dicho que
+busque dentro de este rango y concretamente busque estos valores,
+son los únicos que me interesan, que me cuente cuántos sueldos
+son superiores a 2.000. Aceptar y you lo tenemos. Hay 10 sueldos con valor
+superior a 2.000 euros. Otra función que nos puede servir,
+la suma, la suma condicional. Igual que simplemente
+he hecho un recuento, ahora lo que me interesa es que me diga
+el total de sueldos que suponen estos 10, por ejemplo, estos 10 empleados que
+tienen un sueldo superior a 2.000. Para ello, necesito una función
+de suma condicional, vamos a fx, buscamos las funciones de suma,
+y aquí encontramos SUMAR SI, que suma las celdas que cumplen determinado
+criterio o condición, es lo que queremos. Aceptar, y ahora me pide los argumentos,
+fijaos que hay tres en realidad. Vamos a empezar por los que conocemos. Rango, ¿dónde va a mirar? Va a mirar a los sueldos. C2, dos puntos, C101. Criterio, sueldos superiores a 2.000. Y en principio,
+para lo que queremos hacer, you está. Él sumará dentro de este grupo de datos
+todos los que cumplan este criterio. ¿Para qué está este tercer argumento? Fijaos que no está en negrita. Por lo tanto, no es obligatorio. Habrá momentos que habrá que rellenar este
+campo, otros no hace falta como es ahora. ¿Cuándo lo utilizaremos? Lo utilizaremos cuando el rango
+especificado para que busque la condición, el criterio, es 1, y en cambio,
+la suma es otro rango. A veces, estamos mirando en una columna,
+imaginemos la columna C, pero los datos que tiene que sumar no están en
+la C, están en la F, vamos a suponer. En este caso, el rango SUMA
+indicaríamos pues F2, dos puntos, C, F101 para decirle que los datos que
+ha de sumar son los de esa columna F. Si mira el criterio y
+suma en el mismo rango, no hace falta que indiquemos nada aquí. Aceptamos, y you tenemos que
+hay un total de 10 sueldos superiores a 2.000 y que la suma de estos
+10 sueldos hacen un total de 27.500. Es decir, hemos utilizado funciones
+que conocemos de contar o sumar, pero añadiéndoles un condicional,
+añadiéndoles un criterio, pidiéndoles que no cuente ni sume todo, sino solo aquellos
+datos que a nosotros nos interesa. Estas funciones son muy útiles. you os habréis dado cuenta de la utilidad
+de estas funciones condicionales. Ahora vamos a ver otra función condicional
+que nos es muy útil, es la función SI. Esta función lo que nos
+permite es decirle a Excel que haga una determinada faena
+dependiendo de la condición que ponemos. Por ejemplo, vamos a la parte superior. Imaginaros que en la columna K queremos
+saber los empleados que son de Sabadell. Lo que queremos es que a la derecha
+de cada empleado nos indique, por ejemplo, con una X, que es de
+Sabadell, y los que no, que no ponga nada. Vamos a pedir la función Fx,
+buscamos esta función. Seguramente aparecerá en Usadas
+recientemente, si no, la buscáis en todo, funciones SI, Aceptar,
+y fijaos que nos pide tres argumentos, la prueba lógica que será la
+condición que queremos poner, el valor verdadero que será lo que tiene que
+hacer Excel si se cumple esa condición, y el valor falso que es lo que tiene que
+hacer Excel si no se cumple la condición. Es decir, condición SI y NO. Vamos a poner la condición. ¿Qué es lo que queremos? Queremos que marque a aquellos
+empleados que son de Sabadell. ¿Dónde tenemos la ciudad? En la columna G. Estamos haciendo el cálculo para el
+primer empleado, por lo tanto, sería G2, ¿cómo tiene que ser G2? Sabadell.
+Por lo tanto, ponemos igual G2, igual a Sabadell. Siempre que sea un texto, entre comillas. Si son números, no hace falta, pero con
+texto siempre ponerlos entre comillas. you hemos indicado la condición,
+que la ciudad, G2, sea Sabadell. ¿Qué tiene que hacer si la ciudad
+de ese empleado es Sabadell? Vamos a escribir la letra X,
+como es un texto, entre comillas. Que escriba lo que hay entre comillas,
+en este caso, X. Y si no es de Sabadell,
+¿qué tiene que hacer? Nada. Si tuviera que hacer algo,
+lo escribiríamos entre comillas. Como no tiene que hacer nada,
+simplemente ponemos comillas, comillas. ¿Qué hay entre las comillas? Nada, por lo tanto, no escribirá nada,
+dejará la celda en blanco. you lo tenemos Condición, que el valor de la ciudad correspondiente
+a ese empleado sea Sabadell. Si eso ocurre, escribe una X,
+y si no ocurre, no escribas nada. Aceptar, y you está. No vemos nada, pero en la barra de
+fórmulas vemos la fórmula perfectamente escrita, la condición, punto y coma,
+lo que ha de hacer si se cumple, punto y coma,
+y lo que ha de hacer si no se cumple. Si hubiéramos tenido que escribirla,
+la escribiríamos de esta manera. Ahora, copiamos con el punto de serie
+para todos los empleados de esta tabla, y fijaos cómo va marcando con una X
+aquellos empleados que son de Sabadell. En cambio,
+los que no son de Sabadell no los marca. Esa es la función del SI,
+buscar y hacer lo que nosotros queramos. Vamos a añadir aquí una nueva columna
+y vamos a hacer otro ejemplo. Por ejemplo, vamos a indicar que nos marque los diferentes sueldos por categorías. Imaginemos que los sueldos hasta 1.000 euros son de la categoría A,
+de 1.001 a 2.000 son de la categoría B, y a partir de 2.001,
+categoría C. Y eso es lo que queremos que
+nos indique qué categoría, a qué categoría corresponde el
+sueldo de cada uno de los empleados. Para eso, necesitamos un condicional. Vamos a fx, seleccionamos la función condicional SI,
+y vamos a escribirla. Prueba lógica. Esta va a ser un poco más larga, ¿por qué? Porque no hay dos posibilidades
+como teníamos con la ciudad, antes preguntábamos si era de Sabadell, la respuesta podía ser o que era de
+Sabadell o que no lo era, y se acabó. Aquí no, aquí Tenemos tres respuestas,
+tenemos un solo condicional, pero con tres respuestas posibles,
+la categoría A, la B y la C. Empezamos por la categoría A. ¿Cómo ponemos la condición? La condición será que el sueldo
+que está en la celda C2, ¿cuándo será categoría A? Cuando el sueldo sea
+inferior o igual a 1.000. Por lo tanto, menor, igual, 1.000. Si se cumple esta condición,
+el sueldo es inferior o igual a 1.000, la categoría a la cual corresponde
+ese empleado es la categoría A. La ponemos entre comillas, categoría A. Ahora viene el problema. Llegamos al falso. No tenemos una respuesta posible. Tenemos dos posibles respuestas,
+puede ser B o puede ser C, si no es A, o es B o es C. ¿Cómo lo hacemos? Pues volvemos a preguntar. Cuando hemos llegado al No, al falso,
+no podemos decirle lo que tiene que hacer, por lo tanto, volvemos a preguntar. ¿Cómo preguntamos? Con otro condicional, que en este caso,
+vamos a tener que escribirlo. Si, abrimos paréntesis,
+¿qué condición vamos a poner ahora? Vamos a poner la condición para que busque
+si corresponde el sueldo a la categoría B. ¿Cuándo corresponde a la categoría B? Pues cuando su sueldo, C2,
+está entre 1.001 y 2.000. ¿Cómo ponemos esto? No es necesario que nos
+compliquemos tanto. A ver, si el sueldo fuera 1.000 o menos, you no llegaríamos a este No,
+a este falso, se habría quedado en el verdadero, you habría
+puesto la A y no hubiera mirado nada más. Por lo tanto, si hemos llegado hasta aquí,
+es que el sueldo es superior a 1.000, you no me preocupo de esa parte de datos. Me preocupo ahora solo de los datos
+a partir de 1.001 hasta el final. En este caso, pondríamos C2 menor o igual que 2.000, si es menor o igual que 2.000 que será,
+punto y coma, comillas, B, punto y coma. Y si no fuera B, si no es menor o igual
+que 2.000, you sí que solo me queda una opción, es la C, you la puedo
+poner directamente sin preguntar. Y you tenemos escrito. Fijaos que aquí no he borrado las
+comillas que él acostumbra a poner para que vea que escribimos texto, porque
+esto no es un texto, esto es un cálculo. Ponemos solo comillas cuando
+es una palabra, un texto. you lo tenemos. Si es menor o igual que 1.000,
+categoría A. ¿Que no? Comprueba a ver si el sueldo
+es menor o igual que 2.000, que lo es, categoría B,
+que no lo es, categoría C. ¿Estamos? Me indica que este sueldo,
+1.200, es categoría B, correcto, vamos a centrarlo
+que se vea mejor, ahí. Copio el cálculo para todos, y you tenemos todas las categorías. 1.000, categoría A. Categoría C, 2.500. Fijaos en la barra de fórmulas
+donde veréis la función entera. Normalmente, cuando
+utilizamos condicionales así con varias posibilidades, lo mejor es escribirlo directamente
+en lugar de utilizar el asistente. El problema de escribir estas fórmulas es
+que cualquier pequeño error, que me olvide de un punto y coma, de unas comillas,
+de un paréntesis, me puede dar problemas. Cuando escribáis una
+función de condicional, comprobad que todos los
+datos sean correctos. Si os fijáis, ¿qué tenemos? Un condicional Sí,
+con una condición, esta, un Sí, un verdadero, A,
+y un falso que es todo esto. Visto así, es un condicional normal,
+condición Sí y No. El problema es que cuando llego al No, como tengo más de una posibilidad,
+continúo preguntando, y así sucesivamente. Si yo llegara aquí y en lugar de C
+me quedaran más posibilidades, D, E, F, las que fueran, en lugar de poner C, pondría otra vez otra condicional Sí y
+todos los argumentos correspondientes. Es decir, los condicionales pueden
+hacerse largos si tenemos varias salidas. [AUDIO_EN_BLANCO]

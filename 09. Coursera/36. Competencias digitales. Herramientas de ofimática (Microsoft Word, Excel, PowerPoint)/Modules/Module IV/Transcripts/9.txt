@@ -1,0 +1,25 @@
+[MÚSICA] Para comprobar los errores que
+podamos tener en los cálculos, Excel nos ofrece una serie de herramientas
+que encontraremos en la ficha Fórmulas. Aquí en el grupo Auditoría de fórmulas,
+nos muestra una serie de opciones como por ejemplo Mostrar fórmulas,
+que nos permitirá ver en lugar del valor, la fórmula de las celdas y comprobar
+dónde hay cálculos y dónde no. También nos permite comprobar los errores
+con este botón, Comprobación de errores, y va buscando posibles errores de cálculo,
+por ejemplo ha detectado en la celda H9 un error, y nos dice que es
+un error de nombre No válido. Si nos fijamos, la función Promedio
+tiene una s al final que es incorrecta, aquí tenemos el error. Si dudamos, siempre podemos pedir ayuda. Una vez detectado lo corregimos,
+en este caso, borramos la letra s, y you lo ha solucionado. Fijaos que you no hay posibles errores,
+vamos a pedir que continúe buscando a ver si encuentra
+algún posible error. Cerramos. Aparte de mostrar las fórmulas y
+comprobar errores, también nos son útiles estas dos opciones,
+Rastrear precedentes y dependientes. Por ejemplo, si yo selecciono esta celda,
+la celda H4, que es el promedio de
+las asignaturas de Pepe, clico en Rastrear precedentes,
+y me indica de dónde provienen sus datos. Para calcular este promedio, ha utilizado estos datos que nos
+marca en azul, con la flecha. Si marcamos Dependientes,
+nos indicará qué otras celdas, concretamente H14, necesitan de este dato. Podemos ver para cada celda,
+las precedentes, es decir, los datos que necesitamos para
+ese cálculo, y con dependientes, qué otras celdas dependen de esta celda. Cuando queráis eliminar estas flechas,
+simplemente el botón Quitar flechas. Es un sistema sencillo, pero que nos puede
+ser útil para comprobar posibles errores o a veces para saber de dónde vienen
+ciertos valores que no tenemos muy claro. [AUDIO_EN_BLANCO]

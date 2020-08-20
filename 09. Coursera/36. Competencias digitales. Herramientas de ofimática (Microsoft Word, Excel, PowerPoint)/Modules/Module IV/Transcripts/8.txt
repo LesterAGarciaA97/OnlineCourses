@@ -1,0 +1,60 @@
+[SONIDO] [SONIDO] [SONIDO] En esta actividad,
+vamos a realizar dos tareas. La primera, repasar el uso de funciones. En este caso,
+vamos a calcular el promedio de notas. Nos colocamos en la casilla
+correspondiente al promedio del primer alumno, y aquí deberemos
+incluir la función Promedio. Vamos, lo más rápido sería ir
+a buscarla en el botón Autosuma, desplegándolo; y aquí encontramos you
+directamente la función Promedio. Comprobamos que haya cogido los
+datos correctos, desde D4 a G4. Por lo tanto, es correcto, Intro. Siempre hay que comprobar que los datos,
+el rango que ha elegido sea el correcto. you tenemos el cálculo del promedio de
+notas del primer alumno; por lo tanto, podemos copiarlo para el resto de alumnos. Lo mismo haríamos con el
+promedio de las asignaturas. Nos colocamos en la primera asignatura,
+buscamos la función, comprobamos que los datos
+son correctos y Intro. you tenemos la función introducida. Copiamos este cálculo para el resto de
+asignaturas y para el promedio total, y you hemos hecho la primera
+parte de la actividad. Simplemente hemos repasado cómo podemos
+introducir fácilmente una función. La segunda parte de esta
+actividad es calcular la nota, pero de manera que Excel nos ponga la
+palabra correspondiente a la nota obtenida por el alumno. En este caso,
+tenemos como ejemplo las cuatro notas, Suspenso, Aprobado,
+Notable o Sobresaliente, y en qué casos debe aparecer esa nota. Nos colocamos en la
+nota del primer alumno. Y como se trata de un condicional; you
+que lo que queremos es que Excel escriba escriba una palabra dependiendo de lo
+que ha ocurrido con su nota de promedio, lo mejor es directamente
+escribir la función; dado que tenemos varias opciones,
+en este caso, cuatro posibilidades. Si tuviéramos dos, podríamos utilizar
+el asistente, que sería más rápido. Ponemos el igual; nombre de la función,
+SI, abrimos paréntesis. you nos indica que los siguiente que
+tenemos que poner es la prueba_lógica, es decir, qué condición debe de cumplirse. Vamos a empezar por el Suspenso. ¿Cuándo este alumno estará suspendido? Pues cuando su nota sea inferior a cinco. Por lo tanto, su nota,
+la tenemos en la casilla H4, si es menor que cinco,
+you tenemos la condición. Es el caso del suspenso. Punto y coma. Siguiente paso del condicional sería qué ha de hacer
+si ocurre la condición indicada. En este caso,
+debería escribir la palabra "Suspenso". La ponemos entre comillas porque es un
+texto, y you tenemos el segundo paso. Nos falta el tercer paso,
+aquí es donde tenemos que ir con cuidado. Si no es suspenso,
+¿qué nota le corresponde? Todavía no lo sabemos. Si supiéramos you que fuera
+simplemente Suspenso o Aprobado, escribiríamos Aprobado y se acabó. Como no es solo una posibilidad la
+que tenemos cuando llegamos al NO, tendremos que volver a preguntar. En este caso, tenemos la posibilidad de que sea un
+Aprobado, un Notable o un Sobresaliente. Volvemos a escribir el condicional,
+volvemos a preguntar. Ponemos el SI,
+abrimos paréntesis y hacemos la pregunta. La condición, para que sea aprobado,
+que es la siguiente nota, sería que su promedio, es decir,
+H4, sea inferior a siete. Fijaos que no compruebo que sea mayor
+o igual que cinco, no hace falta. Si fuera menor que cinco, you habría puesto Suspenso,
+y se habría acabado el condicional. Por lo tanto, no me tengo que preocupar por las notas
+que you he comprobado anteriormente. En este caso, pondré Aprobado, punto y coma y
+llegamos otra vez al NO. En el no, en este caso me quedan dos opciones
+todavía, Notable y el Sobresaliente. Volvemos a preguntar. Siempre que me quede más de una opción,
+vuelvo a preguntar con un SI. Y ahora le preguntaré si es Notable. ¿Cuándo será Notable? Pues cuando la nota, H4,
+sea inferior a nueve. En este caso, sería Notable. Punto y coma,
+y ahora volvemos a llegar al NO. Y en este caso, sí que solo hay una
+posibilidad que sea Sobresaliente. Por lo tanto, la ponemos. you hemos acabado, cerramos el paréntesis. you no deberíamos cerrar tantos
+paréntesis como hemos abierto. En este caso, hemos abierto tres,
+cerraríamos tres. No hace falta. Una vez cerrado el primero, le dais al Intro,
+y él you dirá que falta algún paréntesis. Aceptamos su corrección,
+y you lo hemos hecho. you podemos copiar para el resto
+de alumnos y la nota de Promedio. Fijaos que el truco de los
+condicionales es fijarse cuando llegamos al tercer
+argumento del condicional, cuando llegamos al NO, si hay una
+sola posibilidad o hay alguna más. Si hay más de una posibilidad, volvemos
+a escribir otro condicional; y así hasta que solo nos quede una. [SONIDO] [SONIDO]

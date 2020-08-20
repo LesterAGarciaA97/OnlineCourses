@@ -1,0 +1,28 @@
+[MÚSICA] Cuando hay algún error en un cálculo,
+Excel nos lo muestra con un código. Si os fijáis en la columna A,
+aparecen tres códigos, VALOR, DIV y NOMBRE, que son códigos de error,
+son los tres errores más usuales. Si selecciono la celda A12,
+que contiene el error VALOR, vemos que el cálculo
+a realizar es C6 más B6. Vamos a comprobarlo. C6 es este valor, 236, un valor correcto, y B6 es este valor, Trim1,
+es decir, un texto. Aquí está el error. Uno de los operadores, en este caso B6,
+no contiene un valor correcto, you que es un texto y queremos
+sumar un número más un texto. Aquí tenemos el error de esta celda. Siguiente error, DIV0,
+nos está indicando que esta operación está realizando una división entre 0. Si vemos su cálculo, C6 dividido entre F6,
+C6 es un número, 236, y F6 no hay nada; si no hay
+ningún valor en una celda, es 0. Por lo tanto, estamos dividiendo 236
+entre 0, lo cual es un error matemático, y es lo que nos indica
+este error DIV dividido 0. Tecer error NOMBRE nos está indicando que dentro del cálculo hay un operador
+que tiene un nombre que él no reconoce. Si nos fijamos,
+tenemos igual a C5 más Marta. Marta no sabe Excel qué es. Otra cosa es que yo le haya dado como
+nombre a una celda el nombre de Marta, entonces sí que sabría que
+Marta significa la celda H7 por ejemplo,
+y entonces sería un valor correcto. Otro error, que en realidad no es un
+error, pero sí que nos lo muestra como código, lo podemos ver aquí
+por ejemplo en la celda A11. Si yo esta columna la hago más estrecha, me aparece el código que
+vemos en la celda A11. ¿Qué ocurre? Me está simplemente avisando que el valor
+que está introducido en esta celda, que serán numéricos seguro, solo ocurre
+con los números, y la fecha es un número, es más largo que la anchura de la celda y,
+por lo tanto, no puede enseñarlo. Excel nunca enseña un valor numérico si no
+cabe, o lo enseña entero o no lo enseña. Si no cabe entero, marca este código que simplemente nos indica que
+debemos hacer la columna más ancha. La hacemos más ancha y aparece el valor. Estos son los errores más usuales. Hay algunos más, pero normalmente los
+que nos podemos encontrar son estos. [AUDIO_EN_BLANCO]

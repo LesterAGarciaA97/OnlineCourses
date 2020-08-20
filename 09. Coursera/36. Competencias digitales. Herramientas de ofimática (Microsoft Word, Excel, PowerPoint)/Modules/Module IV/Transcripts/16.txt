@@ -1,0 +1,38 @@
+[MÚSICA] [MÚSICA] En esta actividad,
+repasaremos las opciones de impresión. you tenemos la hoja con todos los datos,
+vamos a imprimirla. Como siempre comprobad cómo quedaría, no enviéis a imprimir sin comprobar
+cómo va a quedar esa impresión. Pues en Excel no tenemos hojas concretas como en el Word que you vemos
+exactamente qué espacio me ocupa. Aquí hasta que no pedimos la preliminar
+con el botón de la barra de acceso rápido, pedimos la vista preliminar, y aquí comprobamos cómo nos
+quedaría esa impresión. Fijaos cómo nos está
+indicando que esta tabla, que es bastante grande,
+me ocuparía seis páginas. Vamos a suponer, como nos dice el
+ejercicio, que lo que queremos es que nos ocupe una sola página y que además
+tenga unos encabezados y pie de página. Para ello, aparte de tener los botones
+que tiene la ventana de impresión, lo más cómodo es siempre
+ir a Configurar página, está en la parte inferior, y aquí
+tendremos todas las opciones disponibles. Primero, que nos imprima
+en una sola página. A ver, podríamos modificar
+el porcentaje de reducción, la escala, hasta que acertáramos. No merece la pena. Para eso tenemos la
+segunda opción de escala que es ajustar a x páginas por
+x páginas de ancho o de alto. En este caso,
+podríamos you dejar directamente 1 x 1. De esta manera, you nos reduciría esta hoja de manera que se imprimiera
+la tabla entera en una sola página. Aparte de esto queremos modificar
+los encabezados y pies, para eso tenemos la etiqueta,
+la ficha Encabezado y pie. Y aquí podemos personalizar
+cada uno de esos apartados, de esas zonas de la hoja,
+con sus botones correspondientes. Vamos, por ejemplo, al encabezado y
+aquí nos pedían que pusiéramos la ruta. Aquí tenemos diferentes botones. En este caso, nos interesa este,
+Insertar ruta de archivo. you nos la ha colocado. Si nos interesara modificar su formato,
+simplemente lo seleccionamos, primer botón y aquí especificamos
+los formatos que hiciera falta. ¿Qué más? A la derecha también queremos
+el nombre de la hoja. Buscamos a ver entre estos
+botones qué botón nos lo permite. Este sería el de archivo,
+este es el de la hoja. La tenemos que nos colocará en la parte
+superior derecho el nombre de la hoja. Aceptamos y ahora vamos al pie. Vamos a personalizar el pie de página. Y aquí nos pide que en el centro, nos colocamos en la sección central,
+coloquemos el número de página. Aquí lo tenemos. Insertar número de página. Y en la derecha queremos
+la fecha de impresión. Nos colocamos sección derecha, buscamos el
+botón de fecha y lo colocamos, y you está. Simplemente ir buscando en estos botones
+qué es lo que queréis y dónde lo queréis. Vamos a comprobar cómo nos queda. you tenemos una impresión de esta tabla,
+que era bastante grande y ocupaba seis páginas, en una sola página y con los
+encabezados y pies que hemos determinado. [MÚSICA] [MÚSICA]
