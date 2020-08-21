@@ -38,3 +38,8 @@ RDP (Recommendes use Google Chrome)
 
 -------------------------------------------------------------------------
 
+GCE = Google Compute Engine
+Compute Engine is the Google Cloud IaaS product
+IaaS = Infrastructure as a Service
+
+GCE offers highly flexible VM configuration
