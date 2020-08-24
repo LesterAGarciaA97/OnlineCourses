@@ -1,0 +1,6 @@
+[MUSIC] Okay, you have finished
+about half the course. Congratulations. If you didn't know HTML and CSS before, or didn't know it well,
+take a moment and look back. You are now way more skilled than a lot of
+people who simply mess around with HTML and CSS without knowing
+the foundational concepts. Take a moment and reflect. It's pretty empowering isn't it? In the next module, we'll start coding
+a real website for a real client. Keep going to module three. You do not want to miss this.

@@ -1,0 +1,86 @@
+[SOUND] Okay, so
+in the previous segment we spoke about the fact that you
+should always try to use box sizing border box as
+your box sizing model. Now, of course, you don't want to
+specify box sizing border box on every element in your entire HTML, so
+you definitely want to specify it once and then have it be inherited everywhere. So let's go ahead and try to do that. Let's remove this border box from here. And body seems to be like
+a natural place to put it since body is the top level element and
+it should inherit everywhere else. So if I place the box size and
+border box here and then I refresh, this should stay the same. It didn't work. Now, why it didn't that work? It jumped back to the content box. Well, the reason that
+didn't work is because box sizing is one of those CSS
+properties that is not inherited. You can't set it on the parent element and then expect that the child elements
+will inherit that property. So how do we get around that? Well, the way we get around it is by
+learning about one more selector. And that selector is the star selector. Let's go back up here and
+we'll go ahead and say star. And then we'll cut and
+paste that border box property right here. Now what is the star? First let's refresh to see if it worked. And sure enough, now it's working. What star does,
+star selector says is, go ahead and select every element there is and apply
+these particular CSS properties to them. The difference between star and placing
+some property in a parent element for example is that star says I am not
+asking you to inherit anything, I am saying select every element. Which means it's as if it took
+this property and this value and then it went to the HTML and it applied
+it to every element it saw, it applied that particular property and value, which
+in this case is box-sizing: border-box. So that's how properties like box-sizing
+are applied across your entire page. Now I told you that border-box is
+a property that's new in CSS3. Whenever you hear something like
+that an alarm bell should go off. Does every browser that I
+deal with support border-box? Well, we know just the resource
+to check that out. And we'll go to the website
+called www.caniuse.com and we'll type in border box. Border Box is a CSS3 box sizing property,
+and if we take a look, excellent! Every single browser is green. So, every single browser fully
+supports this property value. Okay, so next, let's close this up and let's try to advance our margin
+understanding a little bit better. Okay, so
+let's take a look at this diagram. We have two boxes next to each other,
+in other words two elements, and the gray part is the margins. Well, margins that are left
+to right are cumulative. So if I have a margin, right margin
+of 40 pixels on the left box and a left margin of 50
+pixels on the right box. The cumulative margin will be 90 pixels. 40 plus 50. And that's pretty simple and
+this is exactly what you would expect. But what happens if you have one
+element on top of the other element. Which let's say these are two divs and
+each one is specifying a margin. So one is specifying margin of 30,
+margin top for the bottom. For the bottom element margin top is 30,
+and for the top element margin bottom is 20. Would you expect this to be 50 pixels,
+the cumulative? Well, the answer is it won't be,
+the answer is the margins collapse, and the larger margin wins. So the actual distance between
+the border of one element and the border of another element will be,
+in this case, 30 pixels, meaning the larger margin will
+win and the other one will just collapse. Let's take a look at an example
+inside our code editor. Okay so going back to the same
+file Box Model before that HTML, we can take a look and
+see that we have a h1 here and we defined a margin-bottom
+of 30 pixels on h1. Let's go ahead and go to our box and
+recture we'll move the margin altogether. And refresh, will take a look
+what it is without the margin. So, you could see there's
+some margin going on here and that margin is coming from
+this h1 here margin bottom. Let's go ahead and define a margin top so, when you need a margin bottom is on h1
+here, when you need margin top on our box. Let's define a margin top of 20 pixels and when we do that when we refresh
+absolutely nothing will happen. And the reason that is is because
+the box is defining a 20 pixel margin. Yet, the h1 ia already
+defining a 30 pixels margin. So when they come together and touch, they collapse into whatever
+the larger margin is. So in this case, that's 30. However if I made the margin to be 40 and let's say even 50 pixels now you'll see
+that the box will move down because now the box has a larger margin
+than the one specified on h1. So there is now a bigger distance
+between the box model h1 and the actual box and
+it's actually 50 pixels. We can also notice, by the way,
+that the box model, the words box model are not flush at
+the top with the corner of the browser. Now why is that? Let's go and investigate. Let's go and inspect the element. Let's take a look,
+it's got a margin of 21.4 something. And where is this margin coming from? Well, it's coming from, again,
+the user agent style sheet. And the reason it's coming here is because
+of some browser specific prefixes that we actually haven't talked about that
+are defining the margin before and margin after. We're not going to delve too much into
+this, but the bottom line it means that before the element and after
+the element they'll define some margin. Now the reason our margin on
+the body that was specified margin: 0 is not working here is very simple. Body says anything that is below me and inside of me is going to
+have the margin inherited. But that's only if you don't override
+it specifically for that element. As you see here, the user agent
+stylesheet has a selector h1 that is specifically overriding
+the margin, which therefore, wins. This is a bit of a side point but
+how do we override this? Well, now that we know about
+the star selector, it's easy. You could just say and move the padding
+in the margin to the star selector. And now, what this is basically
+saying is that I am selecting every element specifically, and
+then I'm overriding its margin. So, if I refresh the page now, you could
+see now it's flushed together to the top. We won't necessarily be doing
+this in our pages left and right, but at least now you know
+that if you wanted to reset in, it's called CSS resetting, if you wanted
+to reset the CSS browser defaults you would do this most of
+the time using the star selector.

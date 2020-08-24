@@ -1,0 +1,67 @@
+[MUSIC] Okay, one more small topic
+before we finish this lecture. We spoke before about box sizing,
+so specifying the size of the box. And we talked about box
+sizing being the border, box meaning that if I specified some
+width or some height, it will include, always include from the edge of the border
+to the other edge of the border. And we'll also show that as we
+change the width of our element, since the content inside the box shifted,
+the height of the box shifted as well. So let's go ahead and
+add some more content into our box, and then we'll us the Emmet plugin,
+E-M-M-E-T, go ahead and look it up. We'll save it. We'll refresh it, and
+now we see it's much bigger than before. Let's lower this a little bit,
+so you can see. So because I added extra content, you can see that the height
+of our element is now 162. But what happens if I constrain
+our element's height as well? Something's going to have to give,
+right, because there's no space left. So let's adjust a couple of things. First of all, let's go ahead and
+make this back to ten, so the padding will be just ten all around. And the border is kind of looking
+unseemly, so we'll make it like five, five pixels. And go ahead in the margin,
+those margins doesn't matter now. So let's refresh, and
+now it's a little bit better. Okay, so let's go ahead and now give it
+a height that will clearly not be able to fit all the content of our box, so let's
+give it a height of, let's say, 50 pixels. And we'll save and refresh. As you can see, what's happening now
+is is that our contents spilled over, outside of our box. And if we actually place
+some element right below it, let's go ahead and place another div, and
+and we'll say again, Lorem ipsum here, and we'll refresh, you could see it's spilling
+over right over the other content. So it's basically spilling
+over out of the box. I'll just go ahead and
+remove that for a minute. Okay, so how do we deal with this? Well, there's a couple of
+ways of dealing with it. And there's just a property
+to help us do that. And the property's called overflow. So we are overflowing, at the moment, we are overflowing our
+content outside of the box. So what should we do with that overflow? So by default, the overflow is visible. And this is exactly what's going on. So if I save this and
+refresh this again, it's the same thing. However, there's a couple
+more options we could do. Number one is we could just clip it. So in order to clip it, we could go ahead
+and type hidden, so if it If it's hidden, then if we refresh, it'll just go
+ahead and clip it where the box ends. However, there's a couple
+more options we could do. We could say auto. Auto means go ahead and put scroll bars
+wherever they're needed, in order for us to look at the entire content. And so let's go ahead and refresh that,
+and you can see I have a scroll bar here, and I can now scroll through my
+entire content right inside that box. If I wanted to, I can keep the scroll
+gutters always visible, no matter whether or not I need them or not, by just
+saying scroll, as the property value. If I refresh, now I have scroll both
+ways even though there is nothing to scroll here, but
+I could still scroll up and down. Lets go ahead and
+change it back to auto and refresh. Okay, so now we have the scroll
+bar just where we need it. While this is a perfectly acceptable
+solution to get your content inside the available space that you have, I will warn you that users
+absolutely hate double scrolling. Having the scroll bar on the side of the
+browser plus having to scroll inside some element is something
+that is not preferred. However, there are cases where it's
+perfectly normal and expected to do. For example, if you're looking through,
+let's say, terms of service, and you just really want to pack in your
+entire UI into one visible chunk, yet you want them to be able to scroll
+through some terms of service or something like that,
+or some of the content. A solution for your overflow being
+auto is certainly an acceptable one. Okay, so in summary,
+we spoke about the box model. And really,
+the box model is this very essential topic to understand about CSS and
+as we go onto CSS layouts. We talked about the fact that you should
+prefer to use box-sizing border-box. And that will keep things consistent for
+you as you change the border and the padding properties. We spoke about the universal selector,
+the star selector, and how it can affect every single
+element in the entire HTML page. And we also spoke about cumulative and
+collapsing margins. Remember, horizontal
+margins are cumulative, and for the most part, in most circumstances,
+the vertical ones collapse. We also spoke about the cases where
+the content overflows the size of the actual box and what do we do
+about it using the overflow property. Next we're going to talk about
+the background property.

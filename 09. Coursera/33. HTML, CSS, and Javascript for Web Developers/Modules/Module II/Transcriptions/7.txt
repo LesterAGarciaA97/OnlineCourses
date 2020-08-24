@@ -1,0 +1,87 @@
+[SOUND] Next, let's talk about
+the concept of specificity. Now specificity also has
+a pretty simple rule, and that is most specific
+selector combination wins. While this is a pretty
+simple sounding rule, I would say that forgetting about
+the concept of specificity and how its simple method in CSS is what
+trips up developers most often. Let me show you a pretty straightforward
+technique that will let you figure out which selector combinations
+are most specific than others. You can think of specificity of
+your selectors as keeping a score. The selectors with the highest score win. In other words, the selectors with the higher score
+would be considered the most specific. It's easier to calculate the score if you
+arrange the types of things that affect the score from left to right, with the left being the highest
+value of specificity. Then simply take your CSS rule and
+fill in the number of times you see a particular type of selector being
+used in it's proper location. The number that's created
+is your final score. So let's take a look at our
+four boxes on the screen. The most specific targeting
+that exists in CSS doesn't actually use any selectors at all and
+that is the style attribute on an element. And that happens when you
+define your CSS declarations straight on the element
+using the style attribute. And that makes perfect sense, right, since
+specifying the style attribute is like pointing to an element with your
+finger and saying, that one. There's nothing more specific than that. And that is why the style
+attribute is the most left box. Next is specificity value, comes the ID,
+then the class or pseudo-class, and then the number of elements that
+are used in your selected combination. So if we tale a look at this example, which says h2 style equals color green
+we see that we're using the style attribute which means this box gets
+a one and the rest of them get a zero. And this is pretty much the highest
+score a thousand that you can get. Take a look at a different selector,
+for example, div p and color green, you see that it's not defined inside
+of a style attribute so that gets a 0. There's no ID selector so that gets a 0. There's no class definition
+selector either so that gets a 0. But there's two elements, here we're using a descendant
+combination of selectors, div and p. So, therefore, the number of
+elements that we have is two. That's why the last box gets the number 2. So let's see how this would
+work if you had to compare and see which one of the selector
+combinations would win. So if you're targeting a particular
+paragraph tag and in one case you're targeting it with the set of
+selectors that are shown on the left side of the screen, and in another case
+you're targeting it with a set of selectors that are shown on the right
+side of the screen, which one would win? In other words,
+the color of the text of that paragraph. Would it be blue, or would it be green? Well let's quickly calculate their scores. The one on the left is not using the style
+attribute, so you know that gets a 0. It does use an idea attribute,
+so that gets a 1. There's no class So that's a 0, and the number of elements is a 1,
+so that gets a 1. So the final score of the left is 101. On the right, likewise we're not using
+the style attribute so that gets a 0. We're not using an ID attribute,
+so that gets a 0 again. We're using one class, so that gets a 1. And we're using two elements so
+that gets a 2. So the score is, 101 versus 12. So obviously the one on the left wins and the text color of our paragraph
+will be blue, not green. Looking at the score on the left and the selectors we've chosen to get that
+score, we could see that we really could have won this selector battle by not
+specifying the div there to begin with. We could have just expressed
+it with an id selector and still would have won this battle and therefore the color of the text to that
+paragraph would have still been blue. So let's jump in to our code editor and
+see this concept in action. Okay, so here we're in sublime text,
+and we're looking at specificity.html. And this is a pretty simple document. All it has is really one paragraph tag,
+and it's sitting inside of a header
+tag with class navigation. If you look at the styles
+that are specified for this document,
+we have two competing styles. One is trying to make the text color blue,
+and the other one is trying to
+make the text color red. Obviously, as you can see on
+the right side in the browser, the text color ends up being blue. Why is that? Well keeping in mind what we just learned, the specificity rule
+here is what's in play. Both rules have one class so
+that gets us a ten. However, the first rule has two elements
+specified and the other one only one. So this gets a score of 12. And this gets a score of 11. So this rule wins. There's one more concept
+that I'd like to show you. And that is a concept of overriding all
+these rules taken all together with the !important. Here we have a third way to
+define this paragraph tag. And its color,
+its text color, to be green. And this time I'm going to define
+it with the word !important. An !important basically says,
+it doesn't matter what the specificity is, I want to override everything and make
+this property they way I'm defining it. So here, we define the color being green. So if we refresh the browser, even
+though this is a much less specific rule then this one, this is just, gets a score
+of 1, and this, remember, is a 12. Since we specify important,
+our color of the text will turn green. Now, I want to warn you
+about using this !important. While very tempting to skip understanding
+all these cascading rules and specificity rules and just slap important
+everywhere whenever things don't work out, this will very quickly on a real world
+project become a maintenance nightmare where you'll be overriding one important declaration with another important
+declaration and you'll basically start working out your own system where gigantic
+mess will be your most important rule. So avoid using important
+unless you absolutely have to. In summary, in this lecture we spoke
+about the Cascading algorithm. The origin, the origin precedents, how the declarations merge as well
+as inheritance and specificity. The Cascading algorithm provides pretty
+precise control over targeting content while allowing you maximum reuse
+of styles across your website, and that is basically what makes CSS so
+powerful. Next, we're going to
+talk about styling text.

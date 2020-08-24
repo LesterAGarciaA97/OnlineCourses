@@ -1,0 +1,79 @@
+[SOUND] There are ton of CSS properties that effect the way text is displayed. I'm not going to attempt to
+cover every single one of them. Instead, we'll take a look at a few that
+illustrate the concepts behind their stylings. Let's jump straight into
+the code editor and take a look. Okay, so I'm in Sublime Text and I'm looking at the file called
+styling-text-before.htlm. Let me quickly rearrange this screen so
+you can see the browser, and the code editor at the same time. Okay so the first thing we want to do
+here, is we have a class called style, and we're applying this class to
+the second paragraph, in our html file, we have two paragraphs here. The second one is what
+we're applying this to. As you can see in the browser, there's a
+couple of paragraphs that are being shown, and both of them at the moment have
+the default styling from the browser, so our task here is to style the second
+paragraph just to see a comparison. So the first thing we want to do
+usually is specify font-family. So font-family is the property name. And the value for font-family could vary. And in fact, I provided you here a link
+right straight in the HTML page, and we'll go ahead and click that link. It basically gives you commonly
+used font combinations. So what you usually put in the font-family
+is the value is combinations of fonts. And the reason you put not just one font,
+but a few fonts is because when you specify font-family in this way,
+you're relying on the client's computer, you're relying on the user's computer
+to have that font installed. And it's possible that a particular
+font will not be installed on the user's computer, so you want to provide some
+options, and at the very least, you want to provide whether you want a serif type
+of font, or sans-serif type of font. Because every computer will have some sort
+of a default serif or sans-serif font. And just in case you don't know the
+difference between Serif and Sans-Serif, Serifs are the fonts that
+not only have the lines, but also have a bit of an embellishment
+at the end of each line. So, as you can see, there's these little
+squigglies at the end of each line. As opposed to Sans-Serif,
+they're just very straight lines. Personally, I prefer this
+particular font combination, so I'll copy it and paste it right here. Give it a semicolon and let's go back,
+let's save the file, and refresh. And now you see that now we have, Arial most probably as the font for
+our paragraph. Next let's change the color. Now you've seen me use color
+multiple times already but, the truth matter is while it's
+probably okay to use red, green, blue, predefined color names
+in testing for real websites, you would want to use a hexadecimal
+value for a particular color. And whatever color you want to have is
+something that obviously is up to you. So I'll pick this color and
+this is a hexadecimal value. And the way this color is specified is,
+the first two numbers is red, second two numbers is green, and the last two numbers
+is blue, ff being the highest blue value. So, basically it's the same RGB
+specification that a lot of colors are specified as, except it's expressed in
+hexadecimal, so let's save it, refresh. As you can see now, it turned blue. Now there are various shortcuts for
+specifying colors, and I'll let you look it up yourself,
+but needless to say, if you specify a six digit hexadecimal
+color, it's certainly good enough. The property font-style is
+the one that specifies whether or not you want something to be italic or
+normal. And we'll give it an italic to
+just change it a little bit. We'll save it, refresh, and
+now you see the font turned italic. Next thing is font-weight. Now font-weight can be specified
+from basically normal to bold. And you can also specify it using numbers. So if I specify it all the way to 800,
+900, and bold. Well 900 will be pretty bold so if I save
+it and refresh it, it will be pretty bold, but in practice people just use the word
+bold as a predefined keyword so that's also good enough and
+about equals 900 anyway. Next we'll specify font size. And we'll give it 24 pixels. And this will obviously give it a little
+bit of a bigger font size than it is right now, as you can see right there. Just about every browser out there
+has a default font size of 16 pixels. And that should give you an idea as to
+what an on-style text would look like and by on-styled I mean the one that has
+the browser default styling applied to it. Now don't confuse this with points,
+these are pixels. Points are used in print when you do
+Microsoft Word or something like that, but not on screen. On screen you use pixels. Pixels are what's considered absolute
+unit of measurement for size. However, they do have a bit of
+a relative component to them. Pixels are relative to the viewing device. For low DPI or low dots per inch devices, one pixel is one device
+pixel dot of the display. For printers and high-resolution screens,
+one pixels implies multiple device pixels. Point is, higher DPI devices will give
+you sharper text, because for every pixel that it's drawing, it's actually
+drawing multiple pixels on the device. With all that said, pixels is still considered
+an absolute unit of measurement. We'll talk about relative
+units of measurements, as far as font size is concerned,
+in just a little bit. But for this short segment,
+let me just show you a couple of more text properties that you
+might want to know about. There's another one
+called text transform and it allows you to basically
+control how your text looks. Capitalize it, lowercase. If I capitalize, for example, save it and refresh, you could
+see that every word now gets capitalized. But there's more. There's lowercasing. I could have the entire
+text get lowercased. Or I could get the entire
+text get uppercased. And let's leave it that way. Another useful property is text-align. And what it allows you to do,
+it allows you to either center, right, justify, left the text within
+its block level element. For this one, let's go ahead and
+right justify it. Let's refresh, and here you go. We'll continue this lecture with part two,
+and we'll speak about relative font sizing.

@@ -1,0 +1,64 @@
+[SOUND] Media queries allow you to group styles together and target
+them to devices based on some criteria. For example, you can target
+a device by its width, its height, or orientation like landscape or portrait. Of course one of the most obvious
+differences between viewing a website on a desktop browser and
+your cell phone is the screen size. Remember that using CSS you have the power
+to produce very different web page layouts from the same HTML. Remember CSSgarden dot com? So, it only makes sense then, that the
+most common way to adjust the styling and layout of your page is to
+provide different styles for different screen sizes
+of the user's devices. This is why it's crucial to learn
+at least the basics of how to utilize media queries. Without them responsive design, which
+we'll start talking about fairly soon, wouldn't be possible. Let's go ahead and
+explore the basic syntax of media queries. A media query starts with
+a keyword @media, and then it is followed by a media feature,
+and followed by curly braces. Within those curly braces
+you have your styles, it's basically like a style
+sheet within a style sheet. Each media feature resolves
+to either true or false. You can have more than one media features
+combine together using logical operators. If the media features resolve to true,
+the style within the curly braces apply. When writing media queries,
+make sure you close the curly braces for the media query as a whole and
+then separately each styling rule. There are quite a bit of these
+media features that are available. So you can have max-width, you can have
+min-width, you can have height which is not listed here, you can even target
+orientation of your device, portrait or landscape, you can target only screens
+as opposed to targeting only print. Again, if any of these things evaluate
+to true, the styles contained within the curly braces of the media
+query will be in effect. As I mentioned before, even though there
+are quite a bit of these media features that are available the most common ones
+are the max-width and the min-width. And again, the fact that they're the most common
+really is connected to the fact that the most common way of targeting different
+devices is by the width of the device. In addition as I said before, the media features can be
+combined using logical operators. One of the most common logical
+operators is the and operator. As an example, here's a code
+snippet that targets a width range. Here you see we're targeting any
+device that falls within the range of its width being anywhere from
+768 pixels until 991 pixels. If the devices has a width
+that is smaller than that or larger than that the styles applied
+within this media query will not apply. Another way to combine media features is
+to place comma in between them which will basically translate into being
+equivalent to an OR operator. In this code snippet we're
+showing that we're targeting any device whose width is no
+larger than 767 pixels or any device that is at
+least 992 pixels in width. Now, practically speaking,
+when you approach responsive design and responsive layouts, the most common
+logical operator is the and operator. So if you know that operator,
+you're in pretty good shape. Now before we jump into a code example I'd
+like to show you a very common approach how you structure media queries
+within your style sheet. What usually happens is you have
+a few of these media queries, but you almost always start
+with some base styles. Base styles will apply across
+the board no matter what screen size you actually are viewing the website on. Then you go ahead and
+start targeting a particular screen size by either changing some of
+the properties of the base styles or adding something else to them or
+maybe taking something away. Now an important point to point out, and especially when you're using
+widths of screen sizes of the devices is that you have to be very careful
+not to overlap range boundaries. So in this example you will notice that
+the first query has the minimum width of 1200 pixels and the second query
+is coming up it's a range again. And it comes up,
+up to max width of 1199 pixels, if I were to say 1200 pixels it
+will mean there always inclusive. It will mean that both sets
+of styles will apply and most probably things will be pretty
+messy and very hard to maintain. So it's important when you structure these
+media queries that you have very clean, separate boundaries. In part two of this lecture, we're
+going to jump into the code editor and see these concepts in action.
