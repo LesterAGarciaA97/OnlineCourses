@@ -1,0 +1,176 @@
+[MUSIC]. In part one of this lecture,
+we wrote the code to position and form the sizing of our tiles,
+the menu specials and the map. In this lecture, we're going to
+continue by filling out the content. We'll put in the pictures for the menu and
+the specials and we'll embed the map. And we'll take a look at writing
+the special styles we need for the responsiveness of these tiles. Let's go back to our code editor. And the next thing we need to do
+is we need to place the images that we actually are seeing
+here from the restaurant. I happen to have already the images
+that we want to use for specials and for the menu from the real restaurant. These are just kind of placeholders. If I didn't, however, I could always
+go to this website called placehold.it. And I'm able to basically
+size any image I want. And it would put some labels inside those
+images simply by providing a URL to that type of image. So, but for now we're, I think, good here
+and we're going to use the real images. So let me bring in a couple of styles that
+I already defined for this purpose and we'll paste them right here and
+let's discuss them for a little bit. So, first of all, I'm selecting
+menu-tile and as you can see, I'm using a background image to
+fill in the menu-tile and fill in the specials-tile.jpeg, which by the way
+are sitting inside the images folder. Also notice that since our URL is
+relative, how it's going to get served to the browser, we do need to say dot-dot,
+which means we're going up one directory from the styles, up one directory and
+then down to images right here. Okay, so the point is it's going
+to be a background image and I'm already sizing it exactly
+to be 250 pixels tall. And also notice that I'm positioning it
+in the center of my container element. What that's going to give us is that
+as the container element, that tile, shrinks a little bit, since the main
+dish is still sitting in the center, we're still going to see quite a bit
+of it and eliminates the need for us to provide different sized images for
+different screen sizes. And the truth of matter is,
+if this is a huge image, I will probably have to do this because I
+wouldn't want to waste so much bandwidth. But it's a fairly small image and
+it's just not worth it for me to keep switching
+the images at this point. Plus, it's a good opportunity for
+me to show you this technique of being able to position an image
+as a background image and still not have problems when the container
+element starts shrinking around it. And you just position it in the center and
+you should be good to go. So let's save that and go ahead and
+take a look as to what this looks like in the browser, and it's certainly
+starting to look pretty nice. So here's our dishes,
+our menu, and our specials. We still haven't done
+anything with the map. Well, let's go back to the code editor and in the styles.css, let's go ahead and
+position our tags. So these tags right here are the labels. We really need to be
+right here at the bottom. Let's go ahead and do that. Again, I have some code that I
+prepared before the lecture. And let me cut and paste it right here and
+let's go over it right now. So first of all,
+we are targeting menu-tile span, which means it's the span inside
+the element that is IDed with menu-tile. And the same thing with specials-tile and
+map-tile. So the first thing you see
+here is position: absolute. And that means we're going to be
+positioning these spans absolutely within the containing element,
+which is the menu-tile. Okay, so positioning absolutely, we need to bring them all the way to
+the bottom, let's go take a look. We need them all the way
+at the bottom right here. Well, that's very easy to accomplish. It's bottom 0, right 0. Well, that's easy. And we want the width to be 100,
+which means 100% of the containing element again, I want it to stretch
+all the way across the tile. Okay, text align: center,
+that's pretty simple. And we want to bump up the font
+size to be about 1.6 ems, which is 60% above the whatever
+it is that it's going to land on, meaning whatever it's
+inheriting at this point. And text transform is uppercase,
+I want all of them uppercase no matter what it is that we type
+inside of our HTML. Background color is going to be black and
+the foreground color, the text color, is going to be white. And also I'm going to bump
+the opacity down a little bit. So if I put 1 here,
+that will be 100% opacity, meaning it won't be see-through at all. But if I do 0.8, it'll be just a tad
+see-through so we will be able to see our nice picture of some dish that's
+in the background of our tile. So let's go ahead and save that,
+and take a look in the browser. And here we go, so here's our tiles,
+and you can see the menu and the specials and the map, nicely done,
+right at the bottom here, the specials and the text is very nicely visible. And you can see that there's opacity
+a little bit tuned down so you could actually see this dish in the background
+which gives it a really nice touch. Okay, next let's go ahead and embed
+the map right here into this map tile. The first thing we want to do is we
+want to go to maps.google.com and you want to search for the location
+that we need to map into that tile. And I already did this,
+here we go, it came up right here. And so, in order to get the embedded map,
+so what you have to do is you have to go to this menu right here and
+go to share or embed map. And it's going to come with
+either a link or embedded map. So the first thing we're going to do,
+we're going to go ahead and copy the link that we have here and
+go back to the code editor. And we'll go to index.html and we'll paste
+the link right here inside the href. And it's kind of a crazy-looking link,
+but that's all right. Okay, let's go back to the browser and
+this time we'll click on embed map. And then it's going to give us an iFrame
+with basically all the code that we need. We'll again go ahead and copy that. We'll go back to the code editor and we need to past this iFrame right
+here in the middle of this div. So we'll go ahead and do that right now,
+we'll paste that right here. And we're almost done,
+except we need to adjust the width and the height of this iFrame. If you look at our styles.css, you'll see that we're styling all
+the tiles to be height 250 pixels. So let's go ahead and
+do the same thing here. Right now our height is 300,
+so let's turn it down to 250. And the width,
+we actually need to be 100%. Because once again, the width is
+going to be defined by the grid, by the bootstrap grid, and
+we want the style to stretch as much as possible to the edges of
+that cell inside that grid. So let's go ahead and save that and
+go take a look in the browser. Let's switch to our site and look at that, we have a very nicely done map tile
+here next to the specials and the menu. Okay, but what about our responsiveness? Let's go ahead and try to squeeze
+the browser and see how it's reacting. So now it's a little
+bit smaller right here, and you can see the tiles became smaller. That's good. And we'll go to the small
+size instead of medium. So you can see the first two tiles
+are taking half the screen each. And then the third one stretched
+to all the way to the 12. So the first one took 6, the other
+one took the other 6 columns, and this one is taking 12. Let's go and keep squeezing it more and see what happens when we
+get to a smaller size. And even though they
+are stacking nicely and the map looks good, but the menu and
+the special tiles kind of look weird. We really don't want these
+borders to stretch all the way. We want them kind of to stay
+together with the picture. Otherwise the whole thing looks weird. So we need to fix that. So let's go ahead and do that right now. Instead of going straight to the code
+editor, let's go and try to fix it in the browser and then we'll copy
+the code into the code editor later. Let's go and open up our Chrome
+developer tools and actually, what we'll do is we'll open
+up the mobile version of it. And it tells us we should reload,
+so we'll go ahead and reload. Okay, so let's bring the problem
+here in front of our eyes here. There it is. So I know that this picture
+is 360 pixels wide. So I wonder what would happen if
+I go ahead and select that and inspect it right here, and
+there's our menu-tile, and go ahead and
+give it the width of 360 pixels. Well, we got the border fixed, but now this whole thing moved to the left
+instead of sitting in the middle. Well, there's actually a very quick and
+easy fix is to specify margin: auto for both the right and the left margin. And that only works if you
+actually size the element. So we'll go ahead and say margin,
+we'll give it a top of 0 and to the side of auto and
+to the bottom of 15 pixels. Now I could actually,
+technically speaking, say auto here, but you don't really need that. It automatically assumes that
+whatever is in the second position goes into the fourth position as well. So if we do that, we have a nicely
+positioned element smack in the center of the screen, so that's good. And since this is clearly an issue
+in the 767 pixel breakpoint, we could go back to our code editor and
+we'll go to styles and we'll need to scroll down all the way to
+the media query where that says 767 pixel. We'll scroll down to the bottom here and
+we'll give it our sizes here. So we really need two things. Number one, we need menu-tile,
+and we also need specials-tile. And both of those we want to give
+it a width of 360 pixels and margin of 0 auto and 15 pixels. So now when we save that and go back
+to our browser, we should reload that. And now we could see that in this
+breakpoint, things are working quite well. Now, it's always a good idea to actually
+try it out on some real devices and the Chrome browser actually
+lets you simulate that. So let's go ahead and
+try it on iPhone 4, for example, but that seems to be
+the smallest device here. So if we look here and scroll down,
+we could see that, you know what? The 360 width is not really working for this particular device because it's too
+big with the margins and the paddings. It's really not fitting in there anymore. So that means we really have to create
+a custom media query just for this. And I also don't really like how this
+David Chu's China Bistro is sitting here. It's a little too small, I would really
+like it to fill it up a little bit more. And let's see, if we stretch it out,
+right, it gets to about here. And we really want to increase that. So if you play around with it,
+you'll notice that this actually gets the perfect sizing right around 476
+pixels, if you mess around with it. So we're going to go back to our code
+editor and we're going to create yet another media query. So this one closes the previous one. So we'll create yet another one and we'll
+call it, I'll cut and paste some code I already prepared, for super extra small
+devices only, which is iPhone 4 and so on. So we'll go ahead and close that
+bracket and we'll cut and paste some styles right here that will help us out
+with our menu and specials tiles, right? And so we basically decrease
+the width of the actual tiles, so that way, things are fitting nicely. Let's go back to our browser and
+take a look. Let's go ahead and
+refresh that just in case. And if we now look at iPhone 4, and we could see now that things
+are fitting in very, very nicely. And the only thing is, what I don't like
+here, it's a little too small, right? We would like the name of the restaurant
+to be a little bit bigger. So let's go back to our code editor and
+let's go ahead and, in this media query, we'll increase it just a tad so
+we can see it a little bit better. And again, I have some styles
+prepared that I played around with, so you don't have to watch me
+play around with it live here. And so let's go ahead and
+put them in right here. So all I'm doing is basically saying
+navbar-brand h1, that's the brand that's the name of our restaurant, and
+I'm giving it some padding, basically preserving some padding,
+maybe making it a little smaller. And I'm giving this font size
+just a little bit bigger than it was defaulting to from
+the previous breakpoint. So let's go ahead and
+save that and go to our browser. And you can see now
+David Chu's China Bistro gets a little bit more prominent and
+that's probably a good thing, right? We wanted the restaurant name
+to be very nicely visible and doesn't look like it's a secondary text. So just for completeness,
+let's go ahead and check this out, and let's pull out this thing just to
+see how everything's behaving. And this seems to be working just fine. And since we centered the picture in
+the background so it's actually always sitting nicely and you see the focus point
+here, the broccoli looks kind of good. So anyway,
+as you stretch it all the way out, and we can actually take now it out of the
+mobile view, everything looks just fine. And I think at this point we could say
+that we are done with these tiles.

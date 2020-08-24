@@ -1,0 +1,168 @@
+[NOISE]
+Okay not that we've completed
+our menu categories page. Let's take a look at the mock up as to
+what would happen if the user clicked in one of these menu categories
+in the menu categories page. Well what would happen is that they
+would go to that single category page that would have all the menu items. That this category contains. Let's go to the single category page and
+take a look here. So we have the name of
+the category up front. Maybe some information underneath. And every single item here
+in that particular category. Notice that the layout here is one menu
+item followed by another menu item on the same line and
+then it keeps repeating over and over. Which means this is probably
+going to be a bootstrap grid and we're going to divide
+this six in six columns. So it'll divide the width
+of the browser nicely. Now also notice that we have yet
+another grid within individual cells. So here you can see that there's
+about half and half again. But I would say that maybe this is
+a little smaller, so maybe five and seven. So basically, this is going to
+be one cell of the grid and this is also going to be
+one cell of the grid. This one is probably going to
+take about five columns, and this one is probably going to
+take about seven columns. So we have a grid within the bigger
+grid that contains six and six columns. Okay, so let's go back to our code editor. Well, let's first actually take
+a look at our main categories page. And if we click on this, this will go
+as you can see, to a single category. And right now, we don't have a single
+category at HTML, which is fine. There's actually that I noticed right now
+it would be nice to give some sort of education to the user that we're
+sitting on the menu page all ready. Right now it just looks like we're
+again kind of in the nowhere land. So the way we could do that is by
+going to our menus categories page. And I'm right now in
+menus categories.html. Which is located in examples,
+Lecture 38 after folder, and I can find my menu item right here. I should actually make it
+capital Menu right here, and this is that menu item,
+that navigational menu item. Well the way to make this stand out
+Is to give it a class of active. And that's a bootstrap class. And I believe we might have
+actually overridden this class or at least overridden some of
+the properties in this class to match kind of the hover over effect. So let' s go back to our browser. It has a nice indication that
+we're sitting on the menu page. And it's the same time of background that
+we get and have over of other pages. Okay, so that's good. So let's go back to our code editor and
+copy the menu categories page because all the pages is going to be again
+the same except for the main content. So if we scroll down,
+let's close up this menu, the images. Let's go to the menu categories page and
+what we'll do is we'll click duplicate, and we'll change that to single category. Single category. Okay, so now it's a single category. Okay, so now what we need to do is we
+need to clear out all the menu categories related content out of this so
+we have a clean slate to start with. So we'll probably need to get
+to main content right here. So we'll go all the way here and
+find where the main content ends. Right there.
+That's easy to see. And we'll erase all that. So here's our clean slate
+that we can start coding. Let's go back to the browser and
+take a look as to what happens now. If I click on one of the menu categories,
+it should go to single category.html and sure enough, it does accept of course,
+there's no content here in the middle. So let's go back to the code editor and
+start coding up our content. So the first thing we need to do is
+give our page some sort of a heading. So the way we're going to do that is by
+having NH2, and we're going to give it an ID so we can nicely target it later
+of menu categories categories title. Okay menu categories title, and class
+we're going to give it text center so we'll want to center this thing, and the title is going to be
+something like lunch menu. And this is something that's
+probably going to change or definitely going to change
+from category to category. Now every single category is going
+to have some sort of a sub section where we're going to list some kind of
+message about this particular category. So I don' know what that
+is is going to be for lunch menu but
+I do know that I want to text center it. So I don't know what's going to be here
+but I don't know maybe something like lunch is not served until after 1 PM. Okay so
+let's say that's what we're going to say let's go back to our browser so I have the
+title of the page, and it's a secondary title H2 because the first title is
+obviously David Chu's China Bistro. And it says lunch is not
+served until after 1 PM. That's good enough for me. Okay. The next thing we need to do is
+start coding this layout here, which is about six here and six here. And I would assume that this is
+the type of layout when I have up through the medium type
+of size of the screen. And the second it gets too small we're
+probably going to want to stack these one up on the other. So the first thing is to have these
+things right here inside of a grid. So the way we start a grid is
+we're going to need a row. Well what we're going to do here is
+we're going to code up a section. So we're going to use a section tag, and within the section,
+is going to be our grids. Which means, the section itself
+is going to need class = row. Okay, now why didn't I put
+this in the container? Well the reason I didn't put this in
+a container, because it's already sitting inside of a container,
+which is our main content right there. Okay, so let me cut and paste some code
+that I prepared from before this lecture to kind of flush out the grid itself,
+this grid cell. And it's' a little bit evolved so
+let me go over it in a bit more detail. So first of all we know that
+the actual cell we want the cell to be about half the screen, or
+not about exactly about half the screen. And that's why we're saying colon
+medium screen, medium screen 6, which means that the second
+it gets to small screen, these tiles will start
+stacking one upon the other. Okay, so that's really all we need for
+our outer, kind of a cell. But there's inside kind of a little
+bit more complicated than that. The inside we have another row and the reason we have another row is because
+we want it to sub divide the picture. Let's go back and take a look at this and
+zoom in a little bit. So want to sub divide this
+picture into one cell. And take up about five columns. And the other part where it is going
+to tell us the name of the dish and maybe some description of it is
+going to be a little bit bigger. So it's going to take about seven columns. Okay, so let's take a look here. So what we're doing is
+we're subdividing it. The first thing is we're
+going to have a row. And inside of that we're
+going to have a column span of 5. And the reason we chose small here is
+because when the screen is medium or small or large, so small, large or medium, we want these things
+to be horizontal to each other. So this cell should be
+horizontal to this cell. And, if it's smaller than that,
+meaning if it's extra small, I'm okay with that point to have
+this cell stack upon this cell. So they are basically going to be
+positioned one on top of the other one. Okay, so let's take a look at
+the picture part of this grid. Okay, first of all we
+going to have a DIV and we going to give it a class menu item
+photo, and this is something we going to over in a minute in the CSS
+which is give it a class. So, we could kind of style every
+single one on the same way. Number two is well actually give this D1. This is that number that we want to
+put onto the actual picture, so let's take a look here,
+this is the number. And this number comes directly,
+kind of a number code, comes directly from the restaurant's menu,
+so we want to make sure to keep that and kind of let it correspond
+to the menu itself. And the way we're going to position this, if you take a look at
+the bottom right over here, is very similar to the way we positioned
+the menu titles and the category titles, is we're going to make this item
+a relative, position relative, and then I position this absolutely to the
+bottom right, which should be fairly easy. Next thing is the image itself,
+well image, we're going to give it
+a class img-responsive. That's a bootstrap class
+that lets it stretch out and contract depending on
+the size of the screen. And we're going to give it
+the width of 250 and height of 150, simply because I know that that's
+the image size that we have. We'll give it an alt,
+just an item for now, and we'll dynamically fill that in later. Now notice that I'm not really using
+a responsive Images in the sense that I'm not really substituting this image,
+depending on the screen size. So I could have just made
+this a background image and then substitute the image depending on the
+screen size for the larger screen size. That would give a higher resolution lower,
+lower, lower and so on. And the reason I'm not doing it is
+because it's already a pretty small resolution as it is. And I don't think it's going to
+be such a big deal to load, even on a mobile device
+over a cellular connection. Okay, so that's our div menu, photo div. The next thing we need to do is,
+we need to give it some pricing. And this is something
+that's not shown here, but this is just simply because we
+didn't think of it at the time. But we want to give some pricing
+right underneath here somewhere for this particular item, and that's why the
+pricing is still sitting inside of this grid in this five column grid. Okay so
+the pricing is going to be just a div and we're going to give it a class menu
+item price give it some price. We'll isolate the unit for the particular
+price inside of a span so we could basically target this a little bit more
+specifically and make this smaller. So the price will extend out, but the unit
+for the portion is going to be smaller. And the same thing, second price,
+and again, unit for the portion. We're going to isolate into a span. Okay, and that's going to be our picture
+or picture with some information. The second which is going
+to span seven columns, and again it's going to be small
+because we want it to stack. If it's smaller than small
+which means extra small. So we want these two grids to
+stack one up on the other. And so what we;re doing is,
+we're using an h3, it's yet another subheading even
+lower down the line. We're giving it a class menu item title. And this is something obviously we're
+going to have to define ourselves. And this is the name of that
+particular dish, It's totally made up. I don't even know if
+it exists in the menu. But for now that's really all we need. We have some lorem ipsum
+in a paragraph right below. Again with a manual item details
+class that we're going to code up. And that's pretty much how we're
+going to finish this div right here. The div that spans the seven columns. And then we're finishing the div
+that spans the entire thing. The entire row. Then we're going to close
+the div that is the row for those two items within that cell. And then right before we close the div for
+the entire cell, we're going to put in the HR that
+is only going to be visible using this bootstrap responsive class,
+visible-xs, extra small. And the reason we'll want that here is
+again, kind of similar to our footer, we did the same type of trick there is
+that we'll put in a HR just as a visual separator between the menu items. But we only want them when the menu items
+are going to stack one up on the other. And that's only going to happen at the xs,
+which is the extra small screen size. So now that the basic HTML is written
+we are ready to move on to styling this with CSS. And that's exactly what we're going to
+do in part two of this lecture.

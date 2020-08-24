@@ -1,0 +1,62 @@
+[MUSIC] Okay, so, before we proclaim
+a complete victory over our layout. Let's go ahead and
+test this website on a real phone. So, I have here an iPhone 6 and
+I'm going to load up the site on iPhone 6. And let's go ahead and click around and see if there's anything that we
+notice that we might need to fix. Okay so here I am on my iPhone 6 and this is our
+website the front page of our website. Let's go ahead and scroll around a little
+bit to see what it looks like and it seems to look just fine to me. Let's go and click on the menu tile and
+it should take us to the menu categories page and it does
+that seems to work pretty nicely, also. Let's click on one of the menu categories. And that will take us to
+the single category page, which shows us menu items one by one. And that seems to work pretty well,
+as well. Let's now go ahead and tap the phone
+number button, and see if it's going to try to make a phone call and sure it does,
+it is trying to make a phone call. Let's cancel that, and let's go take
+a look at the menu here on the top right. If I click here, and
+then the menu shows up. So if I click on the menu,
+it will go to the menu categories page. Lets go back to the single
+category page and there it is. And lets go ahead and open up that menu. One thing that bothers me about it is
+that there is no home navigational menu that I could click. It's only menu, about and awards. And even thought in the desktop version
+we'd probably get away without it. And we don't want to crowd the desktop
+version, but for this we would like to really have other options other then just
+tapping on the David Chu's China Bistro the actual restaurant name in order
+to get back to the home page. So we'd really like to have
+the home page selected right here. There's another thing
+that's a little bit weird. If I for example tap on lunch
+menu try to select the lunch menu it really would be natural for me to
+assume that my menu, my drop down menu, really should automatically just go
+ahead and go away, but it doesn't. It only does it if I actually
+tap on the menu button. Well, that is something we're not really
+going to be able to address right now, because that's something that cannot
+be addressed with HTML and css alone, it needs to be addressed with JavaScript
+and we're going to learn JavaScript next. So until then we're going to
+leave that alone, but putting the home button in our drop down menu,
+that's something that we can do right now. So let's go back to the code editor and
+add that in. Okay so here I'm back in sub line text and
+I'm located in examples, lecture 39 after folder and
+I'm looking at the index.html. Really all we need to do is
+add another menu item, and that's actually fairly easy. We just have to find our list of menus. And there it is, our list of menus. Each menu is an Li, and so we'll just need
+to make some space in the front here. Let me cut and
+paste some code that I already wrote. So we want this menu item to only
+be visible when the screen size is extra small. And in this case, wanted to be active
+since we're sitting on the index page, that's the homepage, so
+we want to mark it as being active. So, in the mobile view it will
+actually put a line through it, like a grey background through it. And all it is just a link to index.html. And we're also using the glyph icon,
+glyphicon-home. Basically it's going to have a little
+like house, little button looking thing. And space home, just to give it some text. So go ahead, let's go ahead and
+save that, and let's go back to our browser, and
+click on that, and there it is. Now we have home here, if we go to menu,
+and then we click again. And now it's menu so we really
+didn't put that on the menu page, the menu categories page. So let's go ahead and fix that. Let's copy that right here. Let's open up our menu categories page and
+again, scroll down to the Lis, right here. And we'll cut and past, right here. Except this time we want to
+remove the active out of here. Because it's not active on
+the menu category's page. And the single category page,
+the same thing. We scroll down and find our LI list,
+which is right about here. It's a little jumpy. Okay here we go. And we're going to cut and
+paste, and again, we're going to remove the active here,
+because on this page, it is not active. Okay let's go back to our browser. And let's click this button. And here we go. So now, if we're in menu, if we click home we get to be at home and
+home will be selected. If we go to menu,
+go to the single category page and select that we're still on the menu,
+that's good. Click to home and
+we get back to the home screen. Okay, so it seems like we've fixed our
+minor issue, except for some things that we're going to need JavaScript for,
+and we're ready to move on.

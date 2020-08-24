@@ -1,0 +1,48 @@
+[SOUND] In part one of this lecture,
+we styled the footer so it's nicely laid out on
+a desktop type of size browser. In this lecture ,we're going to
+concentrate on styling the footer so it works nicely, even on smaller
+screen sizes, such as tablet and even mobile screen sizes. Okay, so this is all and
+well when we're in the full desktop mode. But what happens when we
+squeeze the browser a bit? Let's see what's going on. So you can see here,
+first of all it jumped and kind of squeezed itself a little bit. That's a good thing. So if we go back and
+get a little bit more tight here, it's still squeezing pretty well. And if we go back all the way here,
+we can see that it's pretty good. We see that the HR here showed up and
+it's pretty good. The only thing is ,of course, it looks
+like it's a little bit too close maybe. And it would certainly be
+nice if these things became centered in the screen
+instead of going to the left. Let's go ahead and
+see if we can do something about that. So let's go back to our code editor, and I
+believe I have some pre -made styles here and we're clearly trying to target
+the extra small media query. So let's scroll down to
+the extra small inquiry. There it is right here, and we'll go down
+to the last one after the header and we'll place our styles right here. We'll copy and paste them ,and
+let's go over them real quick. Number one is we're kind of increasing
+the margin bottom to 30 pixels. I believe it was a little
+bit smaller before and the sections are now going
+to be text aligned center. Okay, so now we're saying we're targeting
+every section within that panel footer, and we're aligning them center and
+making the margin bottom larger. However, on the very last one, on the very
+last section, we already have a margin applied to it from the previous styles,
+just as the general desktop version. So we wouldn't want to add another
+margin to the section again. So what are we doing,
+is we're saying margin bottom is zero, because margin already
+exists on the entire row. So the eighth child three, the third
+section, right, the testimonials in this case, will not get another margin because
+they already have one from the row. And just to make it look a little nicer,
+instead of having HR go all the way across the screen,what we're doing is saying we
+want to target that section horizontal rule and want to make its width 50% of the
+screen and it will look like a nice, neat, little separation line
+between the sections. Okay, we can save that and go back to
+our browser and let you take a look. Look at this, now it's all centered and there's like a nice
+little line in between. And we don't have double margins here,
+and it seems to look pretty good. So if we test it and
+see how it's looking at different sizes, this is looking pretty well. And if we stretch it out, it should, when it gets too small,
+it will go to three column layout. And as we stretch it out,
+everything looks pretty good and we can see that on the bottom it's
+all separated and nicely aligned. Very good.
+So this is our footer and this is really the end of the main page. Next, we're going to start
+looking at the sub-pages. Those are the pages you're going to be
+able to get to by clicking either this menu file or the special tiles, and obviously we're going to have to drill
+down once we get to the menu categories, to be able to drill down to
+each particular menu item.

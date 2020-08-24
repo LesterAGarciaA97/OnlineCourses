@@ -1,0 +1,155 @@
+[SOUND]
+Okay, so now that we're done with
+the jumbotron right here, our next task is to code
+up these tiles over here. And these tiles are the menu,
+the specials, and the map. Now it's worthwhile to take a look at
+how these tiles is supposed to behave when they're on a smaller device. So this is a view of the larger,
+the desktop view basically. This is, I believe, the tablet view, and you can see it's basically
+just about the same. Then when we get to the mobile version, you see that what we want to do is to have
+the menu and specials stay on top, but the map should basically slide down and
+now take up two spaces. So it will be nice and
+even between two of them. And finally, on the very last one,
+if we have it here, but we actually don't have it here listed. But obviously when it becomes super,
+super small we want them all to just stack one upon the other menu,
+specials and the map. Okay, so let's go to our code editor and
+see how we can accomplish it. So I'm looking right now at index.html
+which is located in examples > Lecture35 of the after folder,
+and this is the index.html. Okay, so we still want it to
+be part of the main content. This is our div for
+the main content that ends right here. And we want it to be just
+right under the jumbotron so we'll put it right about here. And since the whole main
+content is already a container, then I don't have to
+provide another container. Remember that every Bootstrap grid
+has to be inside of a container or an element that is marked
+with a container class. So I don't need to it anymore,
+but I do need to define a row. So I'll go ahead and define my row,
+and there it is right here. And I'll even give it an ID. We'll call it home-tiles so
+it'll be easier for us later to style this and
+have this kind of as a base. Okay, so let me copy and paste some
+of the code that I've pre-made for this lecture, and I'll go ahead and
+go over it afterwards. Let me close this div actually right here,
+and we'll take a look at it. Okay, so again, we're inside the row,
+and now we want every class. For the desktop,
+we'll concentrate on desktop first. For the desktop, we want md-4, md-4, and
+again, md-4, which means they add up to 12, which means every single one of them
+is going to take a third of the screen. And therefore we're going to
+have these three tiles on md. So at the medium screen and above, this
+will become a three tile type of layout. Moving on down at the small level,
+meaning at the smaller screen size, so it's column small,
+the first two are column small 6. So they'll take up half the screen. And the third one,
+if you take a look, is 12th. So when we are at the small screen size,
+the first two will take out half the screen each, and
+therefore will take one, basically, row. And the third tile will slide
+down kind of to the second row, even though it's not a technically
+Bootstrap second row. But it'll slide down, and it will
+stretch the entire width of the grid. So therefore it will basically equal to the first two columns
+because they're 6 and 6. And finally, at the smallest level,
+at the extra small screen, we want every single one of those
+things to stack one upon the other. And therefore we're doing extra small 12. So now it's going to take up the entire
+width of the screen at the smallest screen size which is probably going to be mobile. Okay, before we look at the browser, let's go ahead and take a look at
+the contents of each of these tiles that I'm kind of calling them tiles,
+at least in my mind they are. So each one of them is going
+to have a link a href. And the first one is going
+to point to menu-categories. In another words when user is going to
+click on the menu item which is what this is going to, or menu tile I should say,
+which is what this is going to be. I don't want to display the entire
+menu item item by item to them. Instead I want to display menu categories
+to them and then let them choose a menu category that will show them the menu
+items for that menu category. So the way that's broken up is we have
+a link that is surrounding a div, and the div has an id menu-tile. And inside that div we
+have a span called menu. And the reason I'm breaking them out
+like that is because the div with an id menu-tile is going to be something
+we're actually going to size and make a particular square
+rectangle looking thing. And the menu span we're actually going to position absolutely within
+the div of the menu tile. And since, if you remember take
+a look at our design here, let's go take a look at
+our design real quick. You can see that this is smack
+on the bottom right here, and I always want it to stay on the bottom. And the way we're going to achieve that
+is we're going to size this square right here and then make it relative, which means all i's
+children can now be positioned absolutely. And we're going to be very easily
+positioning them right at the bottom, without having to worry about this
+element's overall position on the screen. So it will be absolute, but
+it will be, at the same time, relative to the tile within
+which it's going to live. Okay, so that's that. And the second one is going to
+be exactly the same one. The second tile is going to
+just point to specials. So we're going to have a special
+category called specials. And let people basically jump
+to that category straight away. And for now we're going to
+make these separate pages. But as we build out the site, we might
+make a different decision as to how we're going to host these particular pages and
+present this information. The last tile is going to be the map. And I purposely left it out because I want
+to show you how I would embed a real map. But the structure of the thing
+is going to be about the same. We're going to still have an a element. And we're going to leave
+the href of it alone for now. And what we are going to do is we're
+going to define a target of _blank. And the reason we are going to define
+a target of _blank, is that if somebody clicks on this map I don't want them
+to forget about our restaurant website. So it will automatically either open
+a new window and, or usually or just open a new tab. And this is kind of a controversial
+topic a little bit. I mean, I've seen some people say that
+that's not very nice for users to do. But overall I think everybody agrees
+that the user is going to forget about your site if you willingly and easily
+take him to a different website, and basically have no other way other than
+the back button to get back to your site. So it's probably easier just to
+open in the separate tab, and let them look at the map. And the restaurant site is still going to
+be around, still open in their browser, so they won't forget about it. Okay, so inside the a tag I'm
+going to still have a div. And the div is going to,
+I will give it an id so it will be easier to select it later. I will say it, map-tile. So these ones are supposed
+to be right home tiles. So each one is either id menu-tile,
+specials-tile, or in this case is map-tile. And if this site sold crocodiles,
+there would be another one called reptile. I just had to do it.
+I couldn't hold myself back. Anyway, so this is the div within
+which the map is actually going to go. This is where it's going to live. And it's actually going to be an iframe,
+but I'll show you how I'm
+going to embed it in here. But one last thing we need to do
+in this div is that span element that is going to say map. And that's also going to be that part
+where it's going to say map right here, this little element span. Okay let's save it, and let's go ahead and take a look as to what it
+looks like in the browser. And just like I thought,
+there's really nothing much to it yet. We have some links here, but we really
+didn't style any of the actual tiles yet. We just have a bunch of
+links here showing up. Let's go back to the code editor and
+open up our styles.css and we'll scroll down to the home page area
+which I should have somewhere here. Here's the homepage,
+there's our jumbotron. And let's make a couple of spaces here,
+and let's go ahead and style these tiles. I already wrote some styles for this. So let me go ahead and copy and
+paste a couple, and we'll go from there. So, here is the styles for
+the sizing of them. So, first of all, we're going to
+select every single one of them. And we'll put a comma in between,
+so we can share the styles, because they're really supposed to
+look about just about the same, at least on the desktop browser right. So first of all I'm going to say that
+their height is going to be 250 pixels. Their width each one
+is going to be a 100%. Well, I don't really mean
+100% of the screen obviously. I mean a 100% of whatever their
+container element is going to be. Let's go ahead and take a look as to what
+the container element I'm talking about. So this is that div right here. And the div is sitting inside
+the anchor element, the a element. And that's sitting inside the div. This is the div that's going to get
+sized by the bootstrap grid system. So therefore, what I'm essentially
+saying is, is that I want this div, this div that encompasses the label,
+and the entire contents of it, I want it to be as wide as
+this grid will allow me to be. Which is at the point where it's
+going to be a desktop browser, going to be a third of the web page. Okay, so let's go back to
+the styles.css and keep reading here. So margin-bottom,
+I want the margin-bottom to be 15 pixels. So this is more for when it starts sliding
+one underneath the other and also to separate it a little bit from the footer
+that's going to come right below it. And this is the important part here. Well all of them are important,
+but this is the positioning part, position relative. So position relative, as you remember,
+will not actually move the style anywhere, but it will set up something
+like an anchor for the rest of the child elements
+of whatever these IDs are. So now I'll basically be able to position
+them absolutely within this element. And I'll give it a nice border, and it's going to be a maroon solid border,
+2 pixels. And overflow hidden, that's really
+there to clip anything that we end up having to stick out a little bit. And for the most part that's
+really going to be the map. I don't think the rest of the content is
+actually going to stick out because it's not going to be an iframe. We're actually going to size
+the other elements very exactly, but the iframe is a little
+bit harder to control. We also want to give a user some sort of
+indication when they position their mouse over these tiles that they are in
+fact about to select something. So we're really going to just provide
+a bit of a gray shadow around our border just to let the user know that they
+are about to select something if their mouse is over it. So let's go ahead and save that. And let's take a look as to what
+it looks like in a browser. And now it's starting to
+look a little bit better. So now I can actually roll
+my mouse over it, and I could see that the border selects. There's obviously no
+content inside of it yet. But we'll go ahead and stop here for
+part one of this lecture, and in part two, we're going to start
+filling out the content. We'll put the pictures in and
+start styling the labels of these tiles.

@@ -1,0 +1,47 @@
+[MUSIC] In the last lecture, we coded and
+styled the menu items for the main screen, as well as the collapsed version. In this lecture,
+we're going to pick it up and start styling the button that opens up and
+closes the collapsed mobile menu. Let's go ahead and
+go back to the code editor and we'll give it some more styles
+to fit into our overall theme. So the first thing we're going to do, and
+let me cut and paste some code here that I prepared, is we're going to change the
+color of the borders around the button. So you can see here we're targeting by
+saying navbar-header, that's where we want it, inside of it there is a button
+that has a class called navbar-toggle. And also navbar-header when there's
+a class inside that's called icon-bar, right, all those those lines, we want to target with this border that's
+going to be a little bit more maroon, that same background color that
+we have for the rest of the site. So if we actually take a look at the site
+now you can see that now the color is how we want it, it's the maroon or whatever
+it is, the kind of napkin color borders. And the reason this is showing up as kind
+of whitish color in the back is because it's currently selected, we haven't really written code to
+kind of make it deselect automatically. So if we actually click out of it, you'll
+see that the button has a rollover effect, and when you actually select it and
+leave it alone like that, it still stays selected, so if you click
+out of it, it will be yellow again. So that we'll fix a little bit later. For now, however, let's take
+a look at this yellow line here. You can see that it's kind of right
+against the name of the restaurant, and this is spilling over. Well, the reason it's
+happening is because, as you know from the floating lecture
+from before, is that since this is being floated, everything else is kind of
+collapsing to the minimum height. So we could fix that by just simply
+applying the clear property. Let's go ahead and do that right now. Let's go to our CSS file and I'll cut and
+paste some code that I have prepared for this, and we'll close this curly brace,
+we'll save it, and we'll go back. And you can see it's no longer collapsing, it's actually now including
+all of those things together. Now there's still a problem with this. I don't really think we want to
+keep the name of the restaurant in this gigantic font,
+even on a small mobile browser. That's just not really going to work. So what we really need to do is squeeze
+both of those things together and make it much tighter and
+much smaller font and make this whole yellow
+section much smaller. Well, we could do that by simply
+applying a negative margin on this nav bar header button,
+navbar-toggle. Now let's go ahead and do that, and it's going to undo a little
+bit as to what we just did. Now let's give it about -30 pixels,
+and we'll go back to the site. And as you can see, we made the height
+of this yellow region a bit smaller, and unfortunately it has undone
+the things we did before with removing the collapsing
+of the floating element. Well, the real way to fix it is actually
+to make these things smaller and make them fit into this region and
+not make this region any bigger, and we're going to do that
+in a different lecture. But for now,
+we have our toggle button, and it's working just fine, and
+we're able to squeeze the browser and expand it, and our navigation
+menu shows up very well as well.

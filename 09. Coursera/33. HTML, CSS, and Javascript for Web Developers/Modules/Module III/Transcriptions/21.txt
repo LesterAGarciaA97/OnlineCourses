@@ -1,0 +1,167 @@
+In part one of the this lecture we wrote
+the HTML for the first cell in our grid, in this lecture we're going
+to start styling that cell. Okay so for now we have only one cell so
+let's go ahead and grab this and copy it, so we at least have two cells
+to take a look at in the browser. Let's save that, and
+let's go to the browser. And, here we are. So, we see that we have our picture here. Picture with what looks like an egg roll. With to the right of it, we have our
+title of the menu and some lorem ipsum text that's going to be a description
+with, it's not really styled yet. This D01 is sitting all the way here,
+Instead of down here and this is not styled 100% either. So let's go back to the code editor and
+give it some styles. First of all, let's give the second cell
+instead of d1, let's give it a d2 so we can understand
+the difference between the two. Let's go open our styles.css and I already have some pre-made styles
+that I prepared before the lecture. So let's go ahead and copy and paste them
+right under our menu category styles. Let's go find them real quick. They should be under home,
+menu categories, page. And here it is so let's go ahead and
+paste it right here and what we're going to do is we're
+going to comment them out so we'll go one by one and
+explain them a little bit better that way. Let's comment them out right here and the first thing we want to
+do is the menu item tile. So the menu item tile is this one
+right here its that single cell grid, in other words that's this whole thing
+that is this single cell grid right here. So what we're doing here is I want
+the margin bottom to be 25 pixels, so basically what we're doing is we're saying
+I want to separate this a little bit from the next row even though it's not a
+technically bootstrap grid row it's going to be a next row just because some of the
+items or a lot of these items are going to start spilling over to the next line and
+there is going to be two of them per line. Okay. This hr here, the item tile hr,
+should only show up when we're squeezing the browser past, I believe the small,
+when it gets to be extra small. So let's save it and
+take a look at our browser and let's see what's going on here. Let's squeeze the browser a little bit and
+see if that hr shows up. And when we get to super small,
+the chart there shows up to visually separate the first item
+from the second item and so on. So let's go ahead and
+stretch it back out and go back to our code editor and
+let's style the pressing here. Let's remove this down
+the line right here. In fact that's actually those
+are two pricing type of styles so let's style them together, okay so
+the first thing we're doing is the menu item tile that is followed
+by menu item price. So the menu item price that is sitting
+inside of the element with a class name menu a new item tile,
+let's go take a look at the HTML of that. So the menu item tile is right here and
+the menu item price is right there. So basically, we're targeting this thing
+right here, this dip where the prices are. So let's go back to styles.css. And what we're doing is we're
+increasing it's font a little bit. Aligning it to the right because we
+wanted to align to the right over here, to the right of this picture. So we're aligning it to the right. And we're giving it
+a margin top negative 15. And a margin right of negative 15, so that is probably something that you will
+probably see that we need to adjust. In fact, let's go ahead and comment that out just to see what
+would happen if we didn't have that. Let's go ahead and comment that out. And let's go back to the code editor. Well actually before we do that,
+remember that stand that we had, the kind of unit portion,
+either pint or quart. Well we're just making that smaller. That's how we're targeting it, we're
+saying that inside the menu item price is a span, and that span should
+have a font size that's smaller. So let's save that and
+go back to our browser. And it looks pretty good. We see that we have the pints and
+the quarts smaller. These things are a little bit bigger. The picture is done pretty well so far,
+so I don't remember why I coded up these margins when I prepared to code for
+this lecture so I'm going to just leave them off for now let's go ahead and
+keep going in styling some more things. So let's go ahead and
+move this over here and actually these two things probably go together very
+well so let's leave those alone together. And so we're styling here is the picture. So let's move that up. So we're styling the picture. First of all remember that
+picture is going to have a little sign at the bottom right of
+the item number that corresponds to their, to the restaurant's existing menu. So for that we need to make the container
+element which is this item photo, .menu-item-photo, position: relative;. So we're making that position relative,
+giving it a nice maroon border, two pixel border. Again, if anything overflows,
+we're going to go ahead and clip that, make it padding zero,
+move the margin 15 pixels. To the left, meaning margin right will
+be moved to the left a little bit. And the margin left we'll leave as auto. So this is something that's going to
+basically separate nicely between the left side of our cell, and the right
+side of our cell where the description is. We'll give it a nice margin
+bottom of 20 pixels or so. And the maximum width of 250 pixels. Let's go ahead and take a look at the HTML of the menu
+item photo, right here, menu item photo. And you see that we made
+the image responsive. Well the image is 250 pixels wide. We don't want the image to be any bigger
+than that, otherwise this is going to become pixelated and the layout is
+probably going to get messed up as well. So that is why we're saying that
+the maximum width it can ever go is 250 pixels. Don't stretch this element anymore. Okay, then there's the menu
+item photo followed by a div. Well let's take a look as
+to what we're targeting. So the menu item photo is right here. And the div is that kind
+of corresponding ID of the menu that's corresponding
+to the restaurant's menu. So let's go head and position that. And obviously we're in position absolute,
+bottom zero, right zero so we'll be in the bottom right corner and we're going to
+give it width of 80 pixels, the background is going to be this greenish color, and
+we're going to center it within that div. The text is going to be
+centered within that div. So if we save that and
+go back to our browser we see that it's now nicely sitting
+right inside of that picture and kind of identifies for
+us what the menu item is. Now I actually can see because of
+positioning of this element and all the margins and all the different
+paddings that we're having over here this whole price thing
+moved down quite a bit. So now if we go back to the code editor, I know understand why I
+originally put the margin here. So let's go ahead and remove the comments
+here, because if I actually do need these margins, to move up the pricing and
+make it a little bit nicer looking. So when we do that, look at that. It's aligned down nicely
+together with the picture. This still looks kind of
+misaligned a little bit, but we didn't work on that yet. So, right now, the left side of our
+cell grid, both of them because they're old class base so they apply to
+both sides or both grid cells. They're looking pretty good. Let's go back to the code editor and
+continue our styling here. So, the description, so let's move that down here and we'll go
+ahead and actually remove it altogether. And here's our description so
+padding right is 30 pixels. And the reason we're doing
+this is we want the content of the item description to be moved
+a little bit away from the right either element which is going to be
+a second cell in our grid or if its the second one then we want to move
+it away from the edge of the browser. The h3.menu-item-title and
+we're giving it some margins. So let's take a look as to
+what we're talking about here. So here is the h3 and the h3.menu-item-title basically says,
+this is the title of our menu item. And what we're doing here is
+we're giving it some margins. So we're giving it top zero,
+right zero ten on the bottom. And again the zero transfers
+to the fourth location. So to the left of zero. So basically we're just giving
+it a margin bottom really. A fancy way of giving it
+a margin bottom of zero. And possibly also zeroing out some margins
+that this item inherited from it's parent. Last but not least,
+the actual menu-item-details class. We're going to decrease its font slightly
+to .9 m's, and we're also going to give it a font style of italic so
+it will look a little bit nicer that way. Okay, so now we'll save this. I'll go back to our browser, and now it's nicely aligned and
+everything looks pretty good. So the only thing that's left
+is to check out whether or not the responsive part
+is working pretty well. Let's go ahead and
+squeeze the browser and see. Well in this case this looks alright and let's squeeze it a little bit more,
+and this looks not so bad. And in this case,
+this doesn't look so good at all. So this is probably around small, right? So this is the small screen size. What we really want is we
+want this whole item photo, we want it to go all
+the way to the center. And we want this to be centered as well. We don't want this kind of
+this going to the right, and this going to the left,
+that looks kind of weird. And let's check out first as to what's
+the screen size that this is happening at. It looks to me like that's the extra
+small, but let's just double check here. Let's see, this is around what area? This is 700 and xix hundred and
+seventy something pixels so that definitely sounds like extra small because
+extra small starts around 767 pixels. So let's go back to our code editor and
+let's scroll down to the extra small device media query right here,
+the extra small. And let's put some styles that will
+fix this, the whole issue here. But first,
+let's go back to the browser and investigate why this thing
+is going to the right. Well, let's go ahead and
+inspect the element right here. And we'll see that menu item right here. And let's see what we're applying here. As you could see when it is stacking
+our margins really are working out. We have a margin at left of auto. We do have a maximum width which
+is good because that makes us kind of anchored as to what with this. But the margin right is -15 pixels when in fact it really should
+be probably outer as well. If it's going to be outer on the right,
+and outer on the left this element will
+naturally position itself in the middle. Okay, so
+that's as far as this is concerned. What about the description
+of the menu item. Let's go ahead and inspect that,
+let's pull this down so we can see what we're inspecting here. That's the menu item
+description right here. So why is that on the left? There really does not appear to be any
+other reason other than the fact that it's just simply not aligned to the center. Okay.
+So we could do that. Let's go back to the code editor. And inside of our small,
+extra small screen size, inside of that media query,
+we'll go ahead and write some styles. So first of all, the menu. Menu-item-photo, that's the first one, that's the actual picture but
+what we were missing there, what we're missing margin-right being
+auto instead of negative 15 pixels. So if we just do that and
+go back to our browser, very good. So we could see that this
+is now aligned properly. Now this is still sitting up to the right. But that's probably because we just
+need to center it on the screen. Let's go back to the code editor. And we'll go ahead and
+find the pricing that's going on. So the pricing is menu-item-price
+that's sitting inside menu-item-tile. So if we actually go into styles C-S-S,
+we could say. Menu-tem-tile followed by menu-item-price. And that's the thing that we'll need
+to make text aligned to the center. So if we do that and
+go back to our browser and there we go. So this aligns now very nicely
+together with this picture. So the only thing that's left is to
+align the description of the menu item. So let's go back to the code editor. And let's go ahead and do that. And let's look in our HTML. That, what is that description? The description is
+the menu item description. That's the class. So let's go ahead and copy that. And we'll say menu-item-description. And we'll do again,
+text-align being center. Okay. So, let's save that. So go back to our browser. And now we have both things nicely
+aligned in the center for both items. So this point we seem
+like we're good here. Okay, so we're going to stop here for
+part two of this lecture. And in part three of this lecture
+we're going to take a look at an issue that often creeps up, especially with
+the data that you don't control like, for example, the description of items that
+may come from the server later and may be shorter or longer depending on how
+the owner of the site decided to describe each of the menu items.

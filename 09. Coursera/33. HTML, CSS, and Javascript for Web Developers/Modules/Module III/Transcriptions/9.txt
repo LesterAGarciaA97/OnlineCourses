@@ -1,0 +1,140 @@
+[MUSIC] Okay, so let's continue building our site,
+and right now, we're going to concentrate on these
+buttons right here, these menu items. So let me go back to the code editor,
+and I'm right now located in lecture 32 after folder I'm
+looking at the index.html and I'm going to go ahead and scroll down
+to right below where our navbar header, this one right here so,
+let's let sublime text help me out here. And show me where that ends. Right here is where it ends. I actually can remove this line and
+just put it right here. So I need to put it right below where the
+navbar header ends, because that's now not part of the navbar header that's going to
+show up when the main menu collapses and kind of disappears, and only is
+accessible through this toggle button. Okay, so I'm going to go ahead and
+paste some code that I pre-baked. And let's go over the code. Okay, so the first thing you see is this
+is the div that contains all of our menus, all of our navigation buttons. And you see the ID that I gave
+this div is collapsible na, nav. Well, you've seen this before. There it is, collapsible nav. And the way we specify or do a selector API type of ID is we
+put a pound sign in front of it. So very much the same as CSS. So here, we're saying I want to select
+pound sign collapsible nav which means ID, that's collapsible nav, well the ID
+collapsible nav is right here and the collapse.js,
+the plug-in from Bootstrap, will use this information right here
+to know where to target it's collapsing kind of behavior functionality and
+it will know to target it right here. There's a couple of required
+classes that I need to put in here. One is collapse another
+one is navbar-collapse. And again if you look at the bootstrap
+documentation this is what they tell you to put on the collapsible menu. Okay so that's how our container div, it's
+going to contain all of our menu items. Next the way we're going to
+display the menu items, which is a very common practice to do,
+is to create an un-ordered list. And we're going to give this un-ordered
+list an ID called nav-list, and we're going to target that later for
+styling. And we're going to give it a few classes. One is nav, navbar-nav, and navbar-right. Well nav and
+navbar-nav is basically saying that I am going to be a component of
+our navigation bar or navigation. And these are the classes that
+basically turn our un-ordered list into this nicely done menu. Right there in the navigation bar. And the class here is navbar-right. Well that class is very similar
+to those classes pull-right, pull-left, except this one is
+specifically for the navbar. So this is navbar-right means I want to
+still have a navigation bar, but I want it to be pulled to right. I want it to float all
+the way to the right. So if I actually look at our design these navigation menus they're not sitting
+next to the name of the restaurant. They're sitting all the way to the right. And actually they're aligned to the right. And the way that's done is
+through this navbar-right class. Okay, so the next task is to
+start listing these LI items. And each Li item is going
+to have an A element. A, H, or F element that is
+going point to some page. Usually within the website. And not only is it going to point to it,
+it's going to say things like menu, so that's going to be the actual
+name of the button. But right next to it is going to have
+the spin with a special couple of classes. Glyphicon, glyphicon-cutlery. And what these classes do is they're able
+to bring in what's called an icon font. An icon font is basically a vector
+based image that is able to behave in the same way that
+that the font would behave. In other words you could size it,
+you could colorize it, give it a color, basically use it the same
+way you use a font except it's usually some
+sort of vector based shape. Well in this case glyphicon or glyphicon
+and glyphicon-cutlery will give us kind of a fork and a knife and
+that will be our menu. Also notice, we're putting a break between
+the actual icon and the word menu. But we're not just putting a break,
+we're putting a class on it and we're saying hidden XS which means
+I want this break to go away when the screen size is extra small. And the reason that is is
+if you can take a look, right now the cutleries on top and
+the menus right in the bottom, well the way it's achieved is
+through that break element. When we actually do the expanding of
+the menu when you use the toggle button, I don't want the icon to be on top and
+make this button super thick. Instead, I want them to
+laid out the icon and the menu or the words for
+the menu, I want them to be flat. I want them to be horizontal. So therefore I'm going to go ahead and hide the break element
+at that screen size. And basically the same code is done for
+about in the words. And this is again a glyphicon. Now where do you get these glyphicons? Well actually a whole bunch of them
+already come by default with Bootstrap. And if you look at the Bootstrap
+documentation you can actually look at these glyph icons right here. If you go to components and glyphicons. And you can have a whole bunch
+of different glyphicons and it will tell you exactly
+how to specify it. So in this case, for example,
+it's glyphicon space glyphicon star. And that's the glyph icon that you're
+going to get and you're able to, again, style it however you want in
+terms of color, in terms of sizing and so just like a regular font,
+even if you make it super big, the shape of it is still going
+to be very sharp and clear. The one last item here that I want you
+to take a look at is this last LI, which contains our phone number. And there are a couple of things here. Number one is I'm telling you tel
+with a colon and the phone number and what's that going to do is if actually
+somebody clicks on it or taps on it they will trigger the phone to try to
+call it, so let's say you have calling program installed on your computer in
+the regular desktop, they'll trigger that. Or if you're on a mobile phone, this type
+of set-up will trigger the phone to try to call or use its phone feature to call. Now notice what we're doing here. We're setting up this LI
+to be hidden XS meaning when the screen size is going to be super
+small I want this phone number hidden. Phone number together with
+the words we deliver. Just the whole thing. I want the whole thing hidden. So why would we want to hide this
+element when the screen is extra small? Well, let me show you. When the size of my browser is mobile. Meaning, I'm in a mobile phone, I don't want the phone number
+to show up as part of this menu. I actually wanted to show up right
+across the entire width of the browser, the mobile browser. And I want to have actually pretty
+drastically different styling for it, and that is why I want to hide
+this element all together when we're at the screen
+size of extra small. Okay time to save the page and make sure
+that we have our browser sync started. Let's start our browser sync. And let's switch to the browser. We'll go into the HTML. And now we see that we have some work
+to do in terms of styling but the menu about and awards and we deliver and the
+phone number all showing up just nicely. Let's go ahead and
+add some styling to navigation. We'll go to our CSS folder and
+we'll open up the styles.css. And we'll scroll down to
+the available space here, and I already have some code that
+I've pre-baked especially for this, so let's go ahead and paste that and
+I'll go over this code right now. So the styling starts with targeting this nav list which is an element
+with an ID nav list. Let's go ahead and
+orient ourselves a little bit. Where's this ID nav list? Well the ID nav list is this UL so
+the entire UL is the nav list and that's kind of our anchor from where
+we're starting to style the rest of them. So here all we are doing is just giving it
+the entire menu a bit of margin on top, so the entire menu will just move down. Every link within the menu is going
+to have a color, which is that maroon color that we basically are using
+throughout the entire site. That's the color of
+the napkins of the restaurant. And we're also going to center it. If you remember. The menu, the text at least of those
+menu items was a little bit shifted. I think it was shifted to the left but
+or to the right. But anyway we need to make
+sure it is aligned center and we also need to let the users know
+when they move the mouse over the menu that their mouse is in fact
+over the clickable region so therefore we're going to do this nav
+list a hover and we're going to give it a little bit of a light, close to
+white type of a color as a background. And the text of those menu items
+was a little bit too small, so we're going to increase it about 1.8 em's,
+so that's about 80% increase. So it will extend out a little bit
+more than just a very small text. For the phone here we're going to give it
+a margin top of five pixels just to move it down a little bit and the actual phone
+number will again align to the right because we want it to go all the way to
+the right of the edge of the design and we'll give the bottom padding of zero so it's actually right there at the bottom so
+it's not pushed up in any way. Right next to or right below the format
+I should say, we have this we deliver message and it's going to be ingrained,
+just to stand out and a text align will align it again to
+the right, similar to the phone number so the phone number and the words we
+deliver will align its right edges. And just to align it with
+a phone number exactly, we'll go ahead and
+give the padding right for that we deliver message we'll give
+it padding right at 15 pixels. Let's go ahead and save that and
+take a look at what our website looks now. Well it looks much better look at this
+now and when we roll over we could see that there's a background color that
+shows up on everyone of those things. And so is the shop and
+the phone number which I'm actually not so crazy about but
+we'll probably fix that later and we deliver as you could see is also
+aligned very nicely with our phone number. And you may or may not have realize but
+since we put all the IDs in right places, this should now work then when we squeeze
+the browser, and obviously this is still something that is going to need to be
+fixed, that's way too low at this point. But if we squeeze the browser and get to our collapsible menu state, when
+we click on this the menu will show up. And it's a real menu and selectable. And we click on it again, it will go away. And all of that is really done
+completely out of the box. We really didn't write
+any code to do this. This is something that
+Bootstrap already provides. Now one thing besides, this obviously
+needs to be styled a little bit better, but the one thing we do need to start
+right away is this collapsed button and that's exactly where we're going to pick
+it up in the part two of this lecture.

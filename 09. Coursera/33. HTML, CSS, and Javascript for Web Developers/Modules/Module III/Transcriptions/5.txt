@@ -1,0 +1,144 @@
+[SOUND]
+Okay, before we begin,
+let me go over some ground rules, and we'll also give a very quick overview
+of our development environment setup. First of all, remember that it's a video,
+so use it like one. So if you feel like I'm going too fast,
+pause it. And rewind it a bit if you
+want to hear something again. If it's too slow, you know feel free
+to increase the playback speed and make me sound like a chipmunk. So go ahead and try to use the video for what it's good for,
+which is adjusting to your own pace. Now remember that source code is
+available, so if you miss something or you want to look something up later,
+it's there for you. So don't have to worry about
+missing something on the screen, the source code is definitely
+100% will be available to you. Even though it's going to be
+a real commercial website. Now, what we're going to do is we're going
+to build up the site piece by piece, which means, will mean that
+the current lectures "before" folder will contain the previous lectures
+"after" content as a starting point. That way you can jump into any lecture and
+see where we started and see kind of where we end it as well. And that keeps going. Now, certain things will have to
+be done off screen to save time. So sometimes I also have times when
+I just need to pause and think for a second where we're going next. I certainly don't think you want to sit
+there and wait with me while I think, so certain things will have to be paused,
+done off screen. And then put back on. But certainly once I put it on screen, I
+will go ahead and go over and explain it. So to avoid having you watch me type,
+which could be pretty boring, I will go ahead and try to do some things off screen and then
+we'll just explain them as we go along. But some on screen typing will probably
+won't be able to be avoided anyway. Another thing is I would love
+to have recorded both screens. I usually try to when I develop,
+have two monitors in front of me, that way especially if we use something
+like browser sync, which we're going to go over in a minute, it's so much easier
+to have a code editor in one screen, on one monitor, and then the display or
+the browser on another monitor. That way, whenever you change
+something and you code, it immediately appears on your monitor. However, this is unfortunate
+luxury we can't have, since there is only one
+screen type of video. On top of which I can't even
+put both the browser and the code editor in the same
+window like I did before, since we're going to need to actually
+code things as they stretch. So when the browser gets really big,
+it's going to be a different layout than when the browser is half size simply
+because my screen is zoomed in so you can see everything much better. So unfortunately we will have to be
+switching a lot between the coder editor and the browser screens, so I apologize
+for that, but there's nothing I could do without having you not be able to
+see very well as to what I type. Okay so let's jump into the code editor
+and see what our starting point is. Okay, so
+I'm right now in my terminal window and and if I do pwds, which gives
+us the current director I'm in, you'll see that I'm in examples
+lecture 29 before folder. And if we do an ls on it, you'll see
+that I have css, fonts, js folder and the starter index.html. So the first thing we want to do is
+want to start using browser sync. And the way we want to do it is if
+we actually go up one folder and do an ls, you see it before and after. And we're going to be kind of
+living in the after all the time. So let's go back to after, because that's
+what we'll going to be developing. And this is the place where we'll want to
+actually startup our browser sync, so whenever we edit anything this is going
+to automatically appear in the browser. So let's go ahead let me recall
+my browser sync command. And will go over it. So hopefully in the welcome videos ,I
+went over how to install browser sync and if you haven't done that please
+go back to that video and go through how to install it. You will need install no gs for
+example and so on. Go ahead and review those videos. So browser sync is a command browser-sync. We're going to say start,
+we're going to start the browser sync. It's going to be a server for
+us in other words, browser-sync will itself serve our
+website from the directory that we're in, which is right now in
+the lecture 29 after directory. And we're also going to say --directory,
+which basically tells browser-sync to go ahead and list the directory structures
+instead of trying to serve up a file. So it go ahead and show us all
+these files as the starting point. And the last thing is, I want to see which
+files do I need to watch for modification so that the browser sync can go ahead and
+reload my page automatically and immediately the second any of those
+files that match this criteria change. In this case I'll just put star because I
+want any files in this directory to change to immediately be reloaded in the browser. So I'll go ahead and press enter,
+and start my browser, and go ahead, you'll see that I'm now in
+the browser, it jumped me straight to it. And let's actually go back to take a look. What it's telling me that
+here my access URL's and it went ahead and
+jumped me straight to this page. But if you take a look here, there's
+another page called http://localhost with a different port, 3001. And that's a UI of the browser sync,
+which I haven't showed you before, so let's go ahead and jump into that UI and
+you'll see that's a whole configuration UI for our browser sync and I encourage you
+to go ahead and explore it a little bit. Meanwhile, this is our
+directory right here and if we click on this we really are going to
+see absolutely nothing because in our code we have absolutely nothing so far. So let's go to our code. So what we have here is a standard
+bootstrap starter page. And if you notice, we kind of dropped
+support for Internet Explorer 9 so you don't see the shims here and
+you don't see that we're using jQuery 1. something.
+We're actually using jQuery 2.1.4. So we're dropping support for IE9. Hopefully the very, very little
+number of people that still have it won't even be on the site at all so,
+we don't want to support that. So, the only thing we really have here is
+the standard setup of the meta tags and we put out titled as David Chu's China
+Bistro that's the restaurant name. And, the only thing we want to do here
+is we want to try to at least set up the first thing is our styles.css. If we go to CSS folder and there's a whole
+bunch of files here we really don't need. We really just need the minified
+bootstrap.min.css and that is in fact what we're
+including right here but just for reference if you wanted to look into
+them later, I left all of them here. I'll probably erase them before we deploy. And what's important is
+that you see styles.css that's sitting right in this folder,
+and we'll go ahead and open that file. So the first thing we want to do here is
+set up some global styles that the entire page, and really,
+across all pages, will be true. So we'll do that using body. And we'll set up,
+first of all, the font size. We'll set up a standard font size,
+we'll go ahead and use 16 pixels. We'll set up the color, and the color
+will be fff, and that will give us white. So that means any text we
+have is going to be white. And the background color that
+we'll set up is going to be. And this is something that we actually
+have to look at our design, so let's take a look here. The design of the background color was
+this particular reddish color, but what we're going to do
+instead is use 61122f, and that's going to match
+kind of the napkin style and the different restaurant paraphernalia
+that we have seen in the restaurant. So we'll go ahead and use 61122f and
+we'll give it a semicolon. So now if we go ahead and look at our
+browser and somebody didn't refresh. Here we go, now it's refreshed again. Should have refreshed automatically,
+I'm not really sure what happened. We see now we have this
+kind of maroon color. In the background. So that's our background. And the last thing we want to do is take
+a look a look as to the general font. And the general font here, it says oxygen. We'll let's go ahead and
+put the general font. So font na, font-family. And we'll say oxygen. And this is really not going to work,
+and let's take a look here and we'll just go ahead and
+put a simple paragraph here. And we'll say, Hello World. And this is not going to work. Hello world. The reason it's not going to work is
+because we don't really have Oxygen on my machine as a font. Now it's very possible that
+actually I imported it, because this looks very close to
+what Oxygen actually looks like. So it's possible that I
+imported it onto my machine. But on regular machines you're
+not going to have this font. So how do we get this font? Well the way we get this font is, we could
+go to Google.com/fonts and search for this Oxygen, oops Oxygen font. And you'll see the first one is Oxygen. The second one is called Oxygen Mono,
+so that's a different one. And the way to get that font into our
+page is to go to this button right here that says Quick use, we'll go
+ahead and click that and it tells us, asks us, well what kind of font do
+you want, do you want just normal, do you want the light and the bold? We're going to go ahead and
+take both and you can see that Google is telling you also how much of a
+load on the pages it's going to give you. Sometimes these fonts have
+lots of different options. You could load it so
+much that it will go in the red, which would mean that every page
+will download a lot of different kind of things about this font that
+will make the page load slower. We don't want that, but we certainly
+are okay since it's sitting in the green. Now if we scroll back down
+a little bit here,you'll see that here's a code to add to your website. Well that seems pretty simple,
+we'll go ahead and select that. And we'll go ahead and copy. Go back to our page and we just
+need to paste this link right here. And now our page has that font. The only thing is, that if you go back to the page it tells you here's
+actually how you should specify it. We'll go ahead and use that too, we'll
+copy that and we'll go back to our code editor and we'll replace this font family
+with what they tell us to specify it as, which is this line 'Oxygen' and sans-serif
+in case 'Oxygen' is not available, which it should be and
+now that we've imported it from Google. So now we can go to our webpage. Let's go ahead and take a look at our
+webpage, and we'll refresh just in case. Yeah, and the font basically probably
+wasn't on my machine because it's exactly the same fonts that's showing up. So let's go back to the code editor,
+we'll go ahead and erase this. We don't need that and
+we're basically ready to go. So now we have set up our background
+color, a default font size and we even imported a font from Google Fonts. We're good to go and we're ready to
+move on to the next thing which is going to be the header of our website.

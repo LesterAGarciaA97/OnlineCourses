@@ -1,0 +1,194 @@
+[SOUND]
+Okay, so now that we have coded up the front
+page, the very main page I think it's a good time for us to review what the
+Navigation Structure is going to be like. Well, the Navigation Structure is
+actually going to be pretty simple. When the user first comes to the front
+page, they'll have an option to click on this menu button, or they can click on
+this menu tile, and they will end up at the exactly the same place and where they
+will dub is the menu categories page. So, this is the menu categories page and all this page will do is list categories
+for us that are part of this menu with a picture associated with it and
+the name of the category. Now, one of the categories is called
+specials well that should remind you of something, on the very front page
+we have a tile called specials. Well, all that is, is just a direct link to a particular
+menu category called specials. So, point is when they click in
+the menu they will end up in this view, which is going to list, all the menu
+categories with their pictures and the names of the category. The same thing will happen if they
+click on the menu button right here, they will also end up with
+this menu category page. Okay, so let's go back to the code editor
+and we'll start coding up this page. Okay, so here I am in sublime
+text in examples of folder lecture 37 in the after folder. And even though
+the structure of the page or the pages in the end product is
+going to be a little bit different once we introduce some JavaScript and
+start writing dynamic HTML at this point, it's much easier, since it's a design
+stage, it's much easier for us to simply copy in the index HTML, and call it
+something like menu categories.HTML. So, we'll go ahead and do that. We'll just call duplicate and the reason
+we're calling duplicate is because a lot of the things that are inside index.HTML
+are going to be exactly the same. So, the header and the footer and the menu
+items, they're all going to be exactly the same it's the main content
+that's going to change. So, we'll call this
+menu-categories the HTML. So, there's our menu-categories HTML,
+we could close index HTML, we don't need it for now. So now,
+what we need to do is we need to wipe out, out of the menu-categories.HTML, anything
+that has nothing to do with that page. Well, all the menus, the collapsible things, they all have
+to do with it and the only thing that doesn't have to do with it is anything
+that's inside this main content container. So, we'll go ahead and select this,
+and we'll go all the way down. And it will say here, this is where it
+says end of main content very convenient. So, we'll press shift and
+we'll select all of that content and we'll go ahead and wipe that. Okay.
+So now, we're ready to start writing
+our menu categories, HTML, and if we look at this page in
+the browser, well this on is index.HTML. But now, if we click on the menu
+tile will actually end up at menu-categories.HTML,
+as you could see we only have the header, the footer,
+there is no content in the page. So, let's go ahead and
+start filling it out. So, the first thing we need to do
+is we need to kind of let the users know what page this is, right? So, we're going to go ahead and
+paste this h2, it's not going to be h1 since h1
+is David Chu's China Bistro but h2 the secondary heading is
+going to be menu categories, that's the name of this page that we're
+at and we're going to give it an ID, menu categories title, that's going to
+be this ID and the class is going to be text center, which is a boot strap class,
+just to center the text in the middle. So, if we save that and
+go to the browser we should see a nice menu categories title here
+appearing in the middle. And the next thing, it really comes directly from the original
+menu and that's just a reminder to the customers about substituting white
+rice with brown rice and etc here. This is just real [LAUGH] real
+business stuff that has to do with this particular restaurant and
+again, we're just going to put in a div with a class text center
+just to center this in the page. Now, we're probably going to
+style this a little bit. Let's take a look as to what
+it looks like on the page. Actually it doesn't really look that bad. You might want to make it
+a little bit smaller we'll see. Okay, so that's basically it for
+the heading of the page. And now we need to start coding our
+tiles and of course, our tiles or the menu categories themselves,
+are going to have to be in a grid. So, let's go ahead and try to do that. So, let's go ahead and
+put the entire thing in a section. So, we're already inside
+a container right here, right? So that's a container class that means we
+don't need to have another container, but we do want a grid. So, we're going to go ahead and
+create a section with a class row, so we're going to put everything in one row. And if you take a look as to
+how we want to position this, we want six tiles across when it's a full
+browser and obviously as we squeeze it, we want to fit as many as possible
+that will still look good, but at the same time obviously some
+of them will need to be stacked. Okay, so I know each grid in
+the cell is going to be a div, we're going to surround that in a div and
+I have some code prepared for inside of each grid cell and I'll go
+ahead and copy and paste that right here. Let's remove that space right here. So, let's go over it real quick. So, we haven't really assigned
+any columns yet to this grid but this it going to be the content
+of pretty much every single grid. So, number one is, we're going to have
+a HHREF to single-category, HTML. So, single-category.HTML is really just
+going to be a generic page that we haven't even written, yet but
+it's going to point to that particular category that's going to be identified
+by this div and by this picture. So, each category is going to have
+a anchor tag pointing to a single category that HTML, which in this place is just
+a placeholder page, and in the future will be actually a designated either a page or
+we'll see how that works with JavaScript we'll be basically designating a place
+that will show this particular category. And inside of it we're
+going to have a div and a div is going to have this
+class called category tile. Obviously, a custom class that we've
+created and inside of it we're going to have an image of 200 by 200 and
+this is something that we've sized before. And the image source is
+going to be in images. And actually that's
+probably the wrong path. So, let's take a look at images. Is going to me menu and at this point
+let's just pick something like B.jpeg. So, it is images, then menu, then /B /B.jpeg and let's save that for now and
+we'll call this particular category lunch. Even though I don't
+think that's what it is. But, at this point it doesn't really make
+any difference we're just styling each of these categories that they
+should fit in the page, and then we will fill in
+the actual data later. Okay, so far so good. Let's go ahead and
+preview it in the browser. And obviously, we can see the picture,
+and lunch is somewhere to the right, and things are obviously not styled 100%. Okay, let's go ahead and copy this whole
+div which is going to be our grid cell and let's paste it a few times. Basically paste it three, four,
+five, six, seven, eight, nine. Let's say that's good enough. Now, we actually have a grid. And they're all going to be really
+the same the only thing that's going to be different about them is where they're
+going to be pointing in terms of the URL in the a HHREF tag and where the image
+source is going to be pointed but other then that they're
+going to be all the same. So, let's go ahead and
+start styling our grid. So, what we wanted to do is we wanted to
+have six of these things basically in one row and then, whatever doesn't fit should
+go ahead and spill over to the next row not technically a next bootstrap row but
+just the next row visually. Som how do we accomplish
+a six cell layout? Well, that means that each cell is
+going to have to cover two columns. So, let's go ahead and do that. And we probably want the six category
+layout even at the medium size screen so we'll do column md and 2. So, if that's going to be the case,
+that means this is going to take 2. Let's go ahead and copy that, and
+we'll just insert it into every div. Okay, so let's go ahead and save that. And let's take a look in
+the browser to what we have. So, we see right away here that
+this isn't really going to work because you can see that the pictures are
+kind of stepping one up on the other and this is at the full size,
+this is even at the large size. So, definitely as we squeeze this, this is not going to work very well
+they're kind of stepping up on each other. So, what that means is that the, six picture layout is really not going to
+work, so we have to kind of rethink that. So, the six picture's not going to work,
+how about we try, four pictures across. We can try that very easily
+by just selecting those two, let's go ahead and
+select at every single place all across our classes selecting this two and
+changing it to three. Okay, so that's that, so
+go ahead and press three, so every single place has changed three. So, now what we're going to have is
+four pictures across the screen. So, lets go ahead and
+go back to the browser. Well,even though it looks
+all messed up at the moment, it does look kind of okay, in terms of
+the pictures fitting in the screen. So, things are kind of messed up here but
+we'll take care of that in a minute. Okay, so that sounds about right. And let's go ahead and start styling some
+of the things inside the actual cell using our styles, that's CSS. Let's go ahead and style CSS and let's scroll down to somewhere
+maybe under the homepage. Here's the footer, here's the homepage and
+we'll scroll down right around here. So, let's remove that space over here, and
+let me cut a paste some of the code that I made before the lecture, and
+we'll go over it right now. So, first of all the category tile. Lets go ahead and
+take a look at our HTML here. The category tile is that
+inner tile inside the ATag. So, the category tile is all that and we kind of have the very same type of
+structure that we had In a menu tile and the specials tile is
+that we have some text. In this case, it's actually just an image
+and then we have a span and we're going to target that span and position it
+absolutely within the div element itself. So, the div element will be
+like a relative anchor for the span that's inside of it and
+we're going to put it on the bottom. So, let's go ahead and
+take a look how we're doing it. So, first of all, the title itself is
+going to be relative like I told you it's going to be the anchor and the border, we're going to have
+a nice border around it. The overflow will be hidden so if anything's sticking out in
+terms of the picture whatnot. It should not be actually sticking out and
+protruding it should just be clipped. And since we know that the picture or
+the image is going to be 200 by 200, we're going to go ahead and style the width and
+the height to be 200 and 200 pixels. And we're also going to have
+some margins the top will be 0, they, right will be auto. The bottom will be 15 pixels, and the auto is going to actually
+carry a word to the left as well. So, this is that same trick we spoke about
+before as to how to center something as long as you give it a width and you give
+it auto on both sides margin right and margin left,
+it will automatically center itself. Okay, so that's the actual container
+div that's going to have that picture. Now, what about the spin, that's kind
+of the title of the actual category? Well, the spin is going to be
+positioned absolutely, and it's going to be again bottom zero,
+right zero the width is going to be 100%. So, we'll stretch the entire width
+of that picture we'll center it, we'll give it 1 point m size text. And we'll transform it again to uppercase. The background color will get to be black. And the color be white. And again we'll tune down it's
+opacity just a tad here so it'll be just a little bit transparent
+to give us that nice see through effect. Okay, the next thing we'll
+do is the hovering part. We're going to give some box shadow,
+the same type of box shadow that we had on the front page when you rolled over
+this particular category and remember, each one of these category items, these
+pictures, are going to be clickable items. So that's why when you, some sort of a
+visual indication that a a person can, or the user can click on that. And last thing we're going to do here is
+target the id menu categories title + div, which means the next
+sibling to this element. So, let's go take a look what its menu
+categories title is all the way at the top here and we have menu categories title
+that's the one that says menu categories. And its next sibling meaning
+the next element of the same parent, so this H2 has a parent of this div and the next sibling of this H2 is this div
+right here, so we're saying I want to target the element with this ID and I want
+to target its next sibling right after it. Which happens to be right here,
+this substituting white rice stuff. So that one we want to give
+it a margin of 50 pixels. And the reason we're doing this is because
+we want to give a nice separation between the title of the page and kind of its
+subtitle note to the customers and actual menu categories that
+are going to be underneath. So, we're go ahead and save this and
+we'll go back to the browser. We can see that, at least the first row,
+seems to be looking pretty well and the second row is,
+something's wrong with it. Well, let's go back to our code and let's
+take a look as to what we've done here. So, they should all be at
+this point "col-md-3". Let's see if we maybe messed up somewhere. "col-md-3" and sure enough we messed
+up forgot to do "col-md-3" here. And I think that's about it, right? I think they're all
+"col-md-3" from there on. Okay, so let's go back to
+the browser now that we saved it and now they're nicely all nicely aligned,
+so and if we squeeze them here, squeeze the
+browser, they'll get a little closer and at some point they'll jump since we
+haven't really specified anything behind MD, medium screen size,
+they'll go ahead and start stacking. But obviously, we don't want them
+to stack just yet, around MD. We want to specify something for
+the small and the extra small and that is what we're going to deal
+with in part two of this lecture.

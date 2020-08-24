@@ -1,0 +1,89 @@
+[SOUND]. Okay so
+let's continue building out the site. As a quick review here where we are so
+far we have the logo the name of the restaurant and this kosher certified
+sign and we have the logo disappearing when we squeeze the browser to be a little
+bit smaller right around I think medium. I think below medium right. So medium and
+large the logo will show up, but the second it becomes less than medium and
+that is small the logo will disappear. So the next thing we want to do actually
+is let's go back to our design document and before we start coding the menu
+buttons that will show up in the header, these menu, about, awards, and so on. Let's go ahead and try to take care
+of the mobile view of our site where those menu items will not be there
+and they'll be collapsed and what will be here is this button right here that
+will let us open up the navigation and choose one of the menu items. And the reason I want to jump straight
+to this is because our navbar header kind of includes everything
+that will be in the mobile view. So I want to kind of take care of it right
+now since we already took care of these couple of things, I want to take care of
+this as well so then we'll be on our way. Okay, so before we code it, let's take a
+glance at the bootstrap documentation and the bootstrap documentation is
+really actually right here and for us to really see that button, we would
+have to squeeze the browser ourselves. Let's squeeze about here and let's
+going to refresh it again to go to menu, or to the nav bar. And when we scroll down, we'll see that's
+the same examples in all those menu now. All those menu items are now below and
+when you click, they kind of show up. And here's the code that shows you the
+code in order to achieve that same effect. So we're going to go ahead and
+do that in our code. Let's put the browser back to the max and
+we'll refresh that here, we already have our
+browser sync started so what we need to do here is I have
+some code that I prepared and we need to paste is right in here where
+it would be inside the navbar header. Note that I'm working in the after folder
+that's located inside of the Lecture31 folder. So let's go ahead and paste it right here. And here's that same code,
+this is same code you saw on that website, on the bootstrap documentation website. So let me go over what
+we're looking at right now. The first thing is the class
+navbar-toggle, and that is the class that is actually controlling
+the positioning of this whole button, and if actually go ahead and, let's go
+ahead and let's copy that real quick. Let's look at it in our bootstrap itself. Let's go search for it over here. Okay, so you see nav bar toggle and
+you see that the position is relative and it's floating to the right, but if we
+keep looking for it, oops I messed up, if we keep looking for
+nav bar toggle you'll see in a minute that at a certain media width it will be
+display none, in other words it will only display when it is less than, I believe,
+less than medium or maybe it's small. Or something like that but
+it's all automatic but I don't really remember 100% but
+you'll see that it will work. So navbar-toggle is basically
+giving us our positioning and kind of styling at the same time. Now the collapse class actually
+does not exist in bootstrap. If you take a look and I will actually
+will search for good and search for collapsed and you'll see that
+there's really nothing there. Now, so what is this collapse class doing? Well what it's doing is
+signifying to a plugin, a bootstrap plugin that this
+button is in a collapsed state. That is, nobody's clicked on it yet,
+and once somebody clicks on it, this collapse class will go away. But all of that is done automatically
+by the bootstrap plugin, the collapsed plugin. And you can actually see the name of this
+plugin right here under data-toggle. Now this data dash and
+this data dash are HTML5 API attributes that allow JavaScript plugins
+or JavaScript code in general to get at these attributes very,
+very easily in a standardized way. Now if I actually take
+this collapsed word, and go to our, not CSS but
+actually JavaScript, and we'll open up Bootstrap.js, we can
+actually go ahead and search for collapse. And you'll see here, there's a plugin
+called collapse, collapse.js. And that is what's actually taking care
+of that whole, pulling the menu down and pulling it back up. But actually, to us,
+it doesn't make any difference. We're just users of this plug in so we really don't need to know all
+of its gory details on the inside. Now this aria-expanded="false",
+that is really for screen readers. And we're not really covering in this
+course screen readers specific attributes but it's kind of got swept up
+in here because it is part of the commentation to put it here and
+it's a good idea to leave it. Now the rest of them are span and
+that's really again for screen reader to say toggle navigation. Those words toggle navigation
+will actually never show up and it says here as you can see sr,
+screen reader, only. Meaning this will not show up
+on the actual browser screen. And then we have three spans,
+icon-bar, icon-bar, icon-bar. And all it's doing is putting those icons,
+those horizontal lines, inside of our button. Let's go ahead and save that. And go back to the browser. And you don't see anything. The reason you don't see
+anything is because our page isn't squeezed enough yet. So let's go ahead and squeeze it and
+see if that button will show up. Bam, and
+that button shows up right around here. Right?
+I don't know what that is in terms of the sizing. I guess we could find out real
+quick by opening that up. So it's around It's around
+700-something pixel, 768, 767 that these buttons show up. Now, if you see it's the hover works but if you click it nothing is
+actually going on, yet. Well, the reason nothing is going is
+because we haven't really enabled that behavior in our HTML and we haven't hooked
+up the JavaScript to it yet, but we will. And when we do, this data dash target is
+going to be very important because its value is collapsable-nav, and
+that is totally a name that I made up, and that name is going to be used for
+an ID of an element. That is going to be lower down, and
+it's going to include all of those navigation menus that will be kind
+of disappearing, and collapsing, and again expanding, and so on. Okay, and I don't know if you noticed, but
+actually if we squeeze the browser again you'll see it, is that our button's not
+really styled to the rest of the site. It's kind of got the default
+bootstrap styles. And we're not going to
+leave it alone like this. We're going to fix that but we're
+going to do that in a different video.

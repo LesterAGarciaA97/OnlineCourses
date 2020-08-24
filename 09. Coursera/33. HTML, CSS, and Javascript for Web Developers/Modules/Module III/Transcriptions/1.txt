@@ -1,0 +1,9 @@
+[MUSIC] Welcome to module 3. This module is a real journey where
+we will code a real web site for a real client from scratch. And you will get to sit right next
+to me as I go through this process. We'll start with going over some tips
+on how to work with your client and how to extract requirements for
+you projects. Then we will dive into our main topic,
+coding the website. In the previous module, we only briefly introduced
+Twitter Bootstrap CSS framework. In this module, we will be learning the Bootstrap
+framework as we code this real website and we'll finish off the module with testing
+our completed website on a mobile phone. Pretty exciting stuff. See you in the module.

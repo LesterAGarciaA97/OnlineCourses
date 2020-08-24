@@ -1,0 +1,74 @@
+[SOUND]
+In part one of this lecture, we laid out the
+menu categories page for the medium and large, and larger screen sizes. In part two, we're going to start looking
+at smaller screen sizes below medium, so small and extra small. So let's take a look at
+what we need to do next. Well if at there's four of them
+meaning it is column three. So that means that maybe it's small. We want column four. So let's go ahead and
+select each one of these. Regents, courtesy of sublime text editor, that lets us edit multiple
+regions all at once. Let's go ahead and do that. Okay, so let's say space,
+column dash small, and in this case we'll do four,
+and we'll save that, and let's go to our browser, and let's squeeze
+it now and let's see if it's going to. Get into three, three. So right now it's one,
+two, three, four, and when it gets to small screen size should
+be three of them across the page. Let's get to, there we go. So right now it's three, and whatever doesn't fit just start
+spilling over to the next line. So what happens when we
+go even less than that? And they should stack and again there's
+enough room for at least two of them so we're not ready to stack just yet. So let's go back to editor and what we'll
+do is we'll do extra small to be six and that way there will be two of them. Again, let's multiple select
+every region real quick. Make sure I don't miss any this time. It seems to be just about right. New column. Dash extra small six. Okay that sounds about right. We'll save that and
+we'll go back to the browser, and now if we squeeze it, it will become
+four to three and from three to two. So, what happens if we squeeze
+it any more than that? Hm, seems like there's a problem here,
+right. It seems like the pictures are just not
+quite fitting in into this particular screen size break point. Seems like we need just yet another break point just to tell them
+at this point go ahead and break it up. So there is not smaller break
+point than extra small. In Bootstrap, so we basically
+going to have to create our own that is going to say that when we get to
+a certain point right around here, we'll want the columns to start snacking instead
+of continuously staying at six columns and six columns, so let's go head and
+try and do that. Let's go back to our code editor. Let's go to styles.csx and
+we'll scroll all the way down here. And in this case seems like we
+already have that from before so, we already have a slower
+media query from before. So all we really need to do
+is define one more column class that will actually work for
+our case. So let's go ahead and do that. And let's call it column dash xxs,
+so extra, extra small, 12. So at this point is going to be that
+the element that has this class assigned, is actually going to take
+the entire grid of 12 columns. Okay, so how do we do this? How do we define this column xx 12. Well, one good trick here is
+to look in on Bootstrap and to see how it defines column xxs 12. Because really it's exactly
+the same thing as ours except we are sitting in a different
+media query then the xs 12. So really exactly the same thing, but now
+sitting on their different media query, which we already here. So let's go ahead and go to. Let's copy this and
+we'll modify this in a minute. Let's open up Bootstrap and
+let's search for column access 12. And there it is, we've found it, so
+let's see what the styles are for that. And here are the styles. And I'm not sure that I understand all of
+them I must tell you because I'm not sure why it needs to be relative and
+I certainly don't understand why it needs to be minimum height of one pixel,
+but it really doesn't matter for me because I just really want to
+mimic the same bootstrap behavior. That already exists. So let's go ahead and see if there's anything else that
+we're missing, what else is there? Oops, I didn't want to erase that. Go and find another one, so
+there's another place here. And float left so they're all
+floating left even though again in our case I'm not sure that we really
+need that, but just to be consistent with Bootstrap I'll go ahead and
+keep that as one of my styles. Column xs and width 100%. That's a really important
+one right because. Without width being 100%, we're not really going to be able to
+stretch the entire width of the screen. And at this small, super small,
+extra small screen size, we want whatever element gets this class to stretch across
+and stretch across the entire screen. Now let's see if we have anything
+else that we need to look at. And I believe that's just jumped
+right back to where we were, so that's pretty much it. So, now that we defined our column xxs-12,
+we could save that and go to menu categories at HTML,
+and then define of every single one of those elements,
+col-xx 12 access s dash 12 and save that and we go back to our browser and
+see if that's working. So four goes to three. Goes to two and right around
+the smaller part here, the super small. It should jump to one and so it does. It actually is working, okay. So, I think we're basically
+done with this and we could go back to our Menu categories,
+the HTML and really it's a question of how many categories we have in just basically
+copy and pasting every single one of them, if we wanted those categories to
+be manually entered in this page. Now that happens to be,
+as we're going to go into JavaScript, we're going to dynamically
+output all these things. So, It really doesn't matter that
+they're sitting here this way. We're going to take care of that later. But at this point,
+it's laying out just fine, and the entire layout of the page
+of many categories is working. So we're done with this page,
+and we can now move on.

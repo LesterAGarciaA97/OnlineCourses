@@ -1,0 +1,103 @@
+[MUSIC]. Okay. We're ready to go on our field trip. We will meet Amy, the owner of the
+restaurant, who will be creating a website for in a sense of what she wants in her
+website, and maybe even get lucky and interview some customers to get a unique
+perspective about the restaurant. Let's go. [MUSIC] When you get right down to it, this
+really is all about setting expectations. Whether it's expectations about what
+the client is expecting from us or our expectations of what
+the client is going to provide. So, if we can achieve that of
+communicating those expectations very clearly, we've done our job. Seriously, how many
+computer science courses do you have to take you on a field trip? [MUSIC] Taking a job, Guy Fieri. >> [MUSIC] >> [CROSS-TALK]. >> [NOISE]. >> David Chu's how can I help you? >> [MUSIC] >> Yeah, I come to this restaurant very
+often, usually about once a month or twice a month. >> I would come here once
+a month with my wife. >> I always enjoy the atmosphere and
+I enjoy the service. >> I like the fact that it's Kosher. And the fact that the food is very
+good all the time, consistently good. So that's why I like to
+come to this restaurant. >> Me, personally, I always eat chicken,
+that's my favorite dish. >> And I can also, when I don't finish
+much ample portions, I can take home. Tastes good. [LAUGH] I mean that's why I like it. It's the type of thing which I
+expect a good Chinese dish to have. >> I love the chicken itself,
+I just love the way it's made. I enjoy it. >> Have you ever heard of Johns
+Hopkins Whiting School of Engineering? >> Of course. >> You think it's a good school? >> It's absolutely a good school. >> The food is exceptional, and
+I know it's Zagat rated, so I can always trust that the food is
+going to be fresh and ready to eat. And, I always enjoy it. >> Joseph Rosenblatt,
+class of 1964, Hopkins. >> So you actually went to Hopkins? >> Yep.
+[MUSIC] >> Hello. >> Hi.
+>> Ready for our meeting? >> Sure.
+[MUSIC] >> So
+if you had to do a little self-criticism, Is there anything about the restaurant
+you would want to improve? >> Yes, to get a better website. >> Get a better website,
+that's a very good answer. [LAUGH]
+>> Thank you. >> Okay, so what I did was I
+prepared a few websites for you to look at and what I want you to do
+is, I've pulled them up on this iPad here. What I want you to do
+is take a look at them. And let me know, these are all
+sites of Chinese restaurants. And take a look and
+see if you like any of them and if you want your website to be kind of
+similar or something like that. >> Sure. >> And you can scroll back and
+forth over here and take a look. And if you do like it,
+what do you like about it? What appeals to you about that website? Or what doesn't? What do you not want to
+come out of that website? What do you like about it? >> The colors. >> You like the colors? You like the colors. >> Very clear. >> You like the fact that it's clean and
+looking very clean, okay. >> Yeah.
+>> Okay. >> And the item are very,
+very user-friendly. >> User-friendly? Looks very user-friendly to you? Okay, so this site looks very
+user-friendly to you, okay. >> Yeah. >> And it looks clean. >> Very practical. >> Very practical, okay. Very good, very good. So you like,
+this the type of site you would like. Okay, that's good. Is this something like, obviously we're
+not going to do these colors for your website, because your website is going to
+be more with the colors of the restaurant. >> Of course, I mean, I understand. >> But you like this setup. >> Yeah. >> So we're going to have some decisions
+to make as we go and develop the website. You know, we're a good thing,
+stuff like that. Can you designate one person
+who's going to be responsible for all decisions regarding this project? And who would that person be? >> It would be me. >> It'd be you, so
+it be you who's deciding. And you're pretty much available so we can
+call you if there's something going on and there shouldn't be a two-week type
+of wait before we hear an answer. We need something for a decision. So you'll be able to decide? >> Yeah, no problem. >> Okay, great, very good. So we can do that. So let me explain to you a couple of
+what the process is going to be like. Basically, we're going to create a mockup
+of the website, not the real website. So just a mock-up,
+a drawing of the website. And we're going to show it to you and basically see if you approve
+of the way it's going. And we'll give you three revisions,
+three times that you can update the thing and say,
+I want something different a little bit. And after that, you'll try to finalize it. Are you okay with that? You're okay with that type of setup? >> Yes.
+That's fine. >> Okay, great. Okay.
+You saw the pictures on that website and you really like the fact that
+there's pictures on there, right? >> Yes.
+>> So pictures that have usually, especially,
+a website like this is very important. Would you be able to commit to providing
+the entire menu of the restaurant? So, we could come and
+bring a photographer and actually take a picture of
+every single item on the menu. Would you be okay with doing that? >> Yeah, as long as still be kosher menu- >> [LAUGH]
+>> That's fine. >> It'll still be a kosher menu, yes. >> [LAUGH]
+>> Absolutely. Okay, so very good. So we'll bring a photographer in, and then
+you'll basically have to cook every single item in the menu, and we'll bring it out
+and the photographer will take a picture. >> Sure, that's fine. >> Okay, excellent. Very good. So this is a Kosher restaurant,
+is that correct? >> Yes.
+>> Kosher restaurant? >> We're Kosher. >> And so what does that you know,
+in terms of cooking and if there's a dealing with stuff. What does that mean for you? >> We have a [INAUDIBLE] here. >> You have somebody who is a supervisor. >> Yeah, nowadays, people start making
+a lot of ingredients with a Kosher logo. So that means we have a lot of choices. >> So I spoke to quite a number of
+customers that you have here and not everybody wanted to be on camera,
+but everybody loves your food. >> Thank you. >> Do you like chinese food yourself? >> Of course. >> Do you eat all the chinese food a lot? >> Of course. >> Really, okay. >> [LAUGH] I'm a Chinese. >> So you're not sick of it.
+So you're not sick of it. >> No, not at all. >> So you eat it, even though you see it everyday in
+the restaurant you're not sick of it. >> No, not at all. >> Okay good.
+>> I never get tired of chinese food. >> This restaurant is
+actually pretty cozy. And it's small-
+>> Thank you. >> But at the same time it feels
+kind of cozy, it's relaxing, right. Is that kind of the feel
+you're trying to go for? >> Yeah.
+>> On purpose? >> Yeah. >> Okay, so now we're ready
+to leave the restaurant and start designing and coding our website. But before we do,
+one of the most important rules is, don't ever code on an empty stomach. I know you really are anxious
+to start coding the website. But I'm a little busy. So I'll be right back. [MUSIC]. We'll do the website after this. [MUSIC]. I don't know what my line was. [LAUGH].
+>> I'm going to put this in bloopers. >> [LAUGH]. >> Okay. And your line was? What's it called? >> I don't why I got into computers. Food tasting seems like a much better job. Anyway. [LAUGH]
+Okay, one second. Think so, you do it like this? It's hard to do it this way. >> [LAUGH]
+>> It's two fingers. >> Two fingers.
+>> Instead of ten fingers. >> Two fingers instead of ten fingers? >> Yes. Okay. >> Just hold it with two fingers? >> Yeah. >> Like this? This is very hard. >> Put the, bring this finger here,
+in the middle. >> Put the middle finger in
+between those two fingers? >> Yeah. >> Like this?
+>> Yeah. And then try to [CROSSTALK]. >> And then you have to grab it like that? >> Yeah, exactly. You're good. Uh-huh. Yeah.
+>> Let me ask you a question, do you have a fork? [LAUGH]
+>> This is much better than a fork. >> This is much better than a fork? >> Can you pick up a rice with a fork? >> No. >> Can you? >> But I can do it with a spoon. >> See I can pick up
+rice with a chopstick. >> You can pickup rice with a chopstick,
+let's see it. Wow, that's some skill. Let's see if I can do it,
+I can pick up a carrot, it's much bigger. >> Much better, good job. >> Wow, look at this, look at this. I'm learning, this is incredible, okay. Next, I'm going to do the rice, ready? >> Uh-huh. Good. >> My goodness. >> Good job.
+>> At the same time I have to eat this. Right?
+>> Yeah. >> It's had to balance and
+eat it at the same time. >> Yeah.
+>> It takes some skill. >> Good job. There you go. >> Tastes much better from the chopsticks. >> You're a good student.
+>> [LAUGH] [MUSIC]

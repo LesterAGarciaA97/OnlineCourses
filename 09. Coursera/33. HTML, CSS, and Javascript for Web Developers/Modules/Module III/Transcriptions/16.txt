@@ -1,0 +1,144 @@
+[SOUND] Okay, so we made pretty
+nice progress with our homepage. We've coded up the header. The jumbo tron and our main tiles
+that will let us have navigation. As well as a map showing
+where the restaurant is. And letting the user click on it and
+get directions directly to the restaurant. So the last thing we're going to be coding
+on this particular page is the footer. So basically we need to code
+up this piece right here. And the way we're going to do it is we're
+going to make sure that it stays this way, in other words, in these three
+columns through the small screen size. And as soon as it goes down
+below this small screen size, we want them to stack one upon the other,
+maybe even give them a horizontal line in between them just to give
+it a visual distinction. Okay, so let's go back to our code editor,
+and I already have some code prepared for this lecture. So I'll copy and paste it in a second and
+we'll go over it. However first let me give you a quick tip. It's very convenient sometimes to end the
+div, especially in a page that goes on for a while, has a nice amount of content,
+to end it with a HTML comment that will basically say it's the end of whatever the
+div it is, that you're pointing towards. In this case,
+it's the div with an ID home tile. So if I actually scroll up, my ID or my editor is going to help me out say,
+this is the div that I'm actually on. The closing div I'm on is
+corresponding to this one. But however, visually sometimes
+it's hard to tell what's going on. So it's helpful to put
+these type of notes in. Okay, moving on to the footer. Well, if it's the footer I guess we
+should use the semantic tag footer. And we're going to give it
+a class called panel footer. And what panel footer class does is sets
+some default background, some padding, and things like that. So this is a convenient class. Inside that panel,
+we're going to a panel footer. We're going to have a div
+that is a container. And, the container is going
+to nicely correspond to our container in every single section. So, in the main section, we also had
+a container that basically had, I believe, the whole main content in it. And, in the top, in the header of the site of our website
+we also had a container as well. So, they should all very nicely line up. And of course since we're going to be
+subdividing this into these three cells, or three grids then we're definitely going
+to need the container in order to place the next div in here that's
+called the row class div. So, here we go. So this is the row class. And, the way we're going to divide it, as I told you, is we're going
+to have these three sections. One, two, one section's going to be just announcing what hours
+the restaurant is going to be open. The second is going to give
+us some address information. And the third is going to show
+the testimonials meaning just give a couple of quotes from customers. So again the way we're going to
+divide that is we want three grids or three cells across the screen, and we want them to stack as soon as it gets
+to be smaller than the small screen size. because as you remember
+this means this will stack as soon as it gets to be smaller
+than the small screen size. Which is I believe about 768 pixels,
+so around 767 pixels you'll be become extra small and, all these sections,
+will start stacking one upon the other. And since we have, four,
+as our column, identifier, it means that we're going to have four,
+four, and four, that's twelve, so, we're going to have, three different
+sections visible across the screen. Okay before we go into trying the stylist, let's just take a look at
+the actual information here. So here we have a span and
+this span has a break after it so we want basically a break line to go here. And then it's going to have the hours,
+again a break, it's going to have other hours, again a break and then
+it's just going to say Saturday closed. Now the reason we kept
+the span only on the hours is because we want obviously the hours to
+be a little bit of a different font and maybe a different size than
+the rest of the information. And the rest of it is going to
+be pretty much the same. Now we're going to anticipate
+that it's going to stack under when it gets to be smaller then the small
+size and the extra small size, and therefore we want some kind of a other
+visual distinction between these sections other then just some spaces. So we're going to place
+the horizontal rule right here HR, the HR tag and we're going to give it
+class visible xs, which means this HR is only going to show up,
+when the screen size is extra small. And if the screen size
+is any bigger than that, this HR is not even going to show up,
+so we're good to go here. The rest of it is
+basically exactly the same. It's the same structure, we have
+the section, the column definition, and the span with some paragraphs here, and again we're going to be able
+to target them specifically. And again in HR that's going to be only
+visible when the screen is extra small. And the testimonials are pretty much the
+same except here we have some paragraphs and that's about it. The last div here before the footer ends is just the copyright sign that
+is David Chu's China Bistro 2015. Probably should just change
+it to 2016 at this point. And we place the copyright
+sign here as well. Okay, let's go ahead and
+save that and go to our browser and take a look as to what this looks like. Okay, so looks pretty bad, but
+the positioning is pretty good, right? So the default colors of the footer didn't
+really quiet agree with this whole thing. So, it's kind of hard to really
+see what's going on here, but if we squeeze the browser. Let's go ahead and do that. And let's see,
+this is still pretty at the small range, see what happens when
+we go to extra small. And extra small, you can barely see
+it here, but this is the text and you can see the line here showed
+up the HR, the horizontal rule. The address and the copyright
+here is also working quite well, it's sitting right in the center. Okay, so let's go to stretch our browser
+back out and go to the code editor and let's scroll down a little bit below
+the ending of the header styles. Should be right around here,
+here and the header. And let me copy and paste at least some
+of the styles that I've pre-baked for the footer. So we'll start the footer
+styles right here. So first of all we're going to
+give it some margin, we'll want to kind of separate ourselves from those
+tiles that are going to be right above it. And we're also going give
+some padding as well so we kind of separate within
+the actual footer itself. And padding-bottom also let's us separate
+a little bit better from the very bottom of the edge of the browser. And we'll change the background color so it's something that's decently
+able to be seen on the screen. And we'll give it a border top zero. We don't want the border untapped. Notice what I'm doing here, I'm actually
+overriding a bootstrap css class. Which is fine because whatever
+it is that it's providing for us is going to merge and some things
+are going to get either negated or just overwritten by
+what I've written here. So let's save it right now and let's go back to the browser and
+take a look how we're doing here. It's looking, much much better so far. We still need to style a BS, maybe
+the separation a little bit better and still need to style these headings
+a little bit better as well. Well let's go ahead and try to do that. Let me go ahead and paste a couple
+of styles that I prepared for this lecture and let's go over those. So the final style, panel footer div.row
+is basically targeting that whole entire row of the address,
+the testimonials and so on. And we want to give it
+a margin bottom of 35. So actually let's go ahead and
+comment out the rest of it so we'll see what actually is going on. Let's save that and let's go back. And we can see that we separated
+the copyright from the rest of the row and it's now looking a little bit nicer,
+because the copyright really has nothing to do with these three
+cells here in this grid. That's one. The next one is, we're going to increase the line height
+a little bit of the address and the hours. And if we go back we could see that
+we separated it a little bit better. So it's not so
+kind of squished in together. So it's still looking pretty good. And as far as the testimonials
+are concerned we left them alone because we want to apply a little bit of
+a different style to them altogether. So, let's go back to our code editor, and
+let's move our comments all the way here. And let's see, now what we're doing is, we're increasing the font size
+of anything that is within span. So our span and
+address span is going to get the font size increased by about 30%, 1.3. So as we save that and go back to browser
+you can see now that the hours and the address headings stand
+out a little bit better. And you can see that that's
+actually a heading and the information is right below that. Let's go back to the code editor and
+move our comment down a little bit more. So with a #address p, what we're targeting
+is we're targeting that, let's go and take a look as to what we're targeting. In the address we're targeting that
+delivery area within 3, 4 miles, and that we want to have to
+stay kind of green and smaller because it's a kind
+of a note on the side. So let's go back to our styles, and
+say we're making this green and this font size we're making
+a little bit smaller. And the line height we're making
+a little bit smaller as well. The line height before was 2, so in this
+case we're making it just a bit smaller to 1.8, just to kind of squeeze
+them a little bit better. So let's save that and
+go back to our browser. And you can see here that this turned
+green and also line height is just a tad smaller than the line height
+between these two lines. Okay let's go back to the code editor and
+move our testimonials, actually all the way down here,
+so we'll erase it all together. Let's take this spaces out of here. We don't need them. Okay. So, the testimonials,
+we obviously want them to be italic just to make it look like it's
+actually people's writing. So it at least reminds people
+that it is something personal. And testimonials and pnth-child(2). So the number two one we
+want the margin to be 25. So what we're saying is. Let's go back to our HTML but what we're
+saying is that the second paragraph, I want the second paragraph to
+have a margin, a margin top of 25. So I want to be able to separate
+the second paragraph from the first one a little bit. So let's save and
+take a look as to what that looks like. You could see there's now this area
+right here is about 25 pixels, so we separated the first testimonial
+from the second one and you could see also that both of them
+are italic so they look kind of nice. So that's it for part one of this lecture, and in part two we're going to start
+looking into styling this footer so its laid out nicely even
+in smaller screen sizes.
