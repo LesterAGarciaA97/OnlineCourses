@@ -1,0 +1,26 @@
+Using functions
+Sequential
+Conditional
+Iterations
+Store and reuse patterns
+
+DRY
+Dont Repeat Yourself
+
+
+Stored (and reused) steps
+
+def
+Thing()
+print
+thing()
+
+Call the "thing"
+
+print is a function
+
+big = max('HelloWorld')
+
+Returns something
+
+--------------------------------------------------------------------------------
