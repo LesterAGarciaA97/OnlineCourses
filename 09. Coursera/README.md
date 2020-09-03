@@ -39,7 +39,5 @@
 ### Folder 37 -----> COVID-19: What you need to know (CME Eligible)
 ### Folder 38 -----> Software testing and automation
 ### Folder 39 -----> Google IT support
-### Folder 40 -----> AWS Fundamentals
-### Folder 41 -----> Open source software development, Linux and Git
-### Folder 42 -----> Programming with Cloud IoT platforms
-### Folder 43 -----> Develop and deploy Windows applications on Google Cloud Platform
+### Folder 40 -----> Programming with Cloud IoT platforms
+### Folder 41 -----> Develop and deploy Windows applications on Google Cloud Platform
