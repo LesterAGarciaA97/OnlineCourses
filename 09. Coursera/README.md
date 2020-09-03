@@ -38,10 +38,8 @@
 ### Folder 36 -----> Competencias digitales. Herramientas de ofimática (Microsoft Word, Excel, PowerPoint)
 ### Folder 37 -----> COVID-19: What you need to know (CME Eligible)
 ### Folder 38 -----> Software testing and automation
-### Folder 39 -----> Programming with Google Go
-### Folder 40 -----> Google IT support
-### Folder 41 -----> AWS Fundamentals
-### Folder 42 -----> Object oriented programming in Java
-### Folder 43 -----> Open source software development, Linux and Git
-### Folder 44 -----> Programming with Cloud IoT platforms
-### Folder 45 -----> Develop and deploy Windows applications on Google Cloud Platform
+### Folder 39 -----> Google IT support
+### Folder 40 -----> AWS Fundamentals
+### Folder 41 -----> Open source software development, Linux and Git
+### Folder 42 -----> Programming with Cloud IoT platforms
+### Folder 43 -----> Develop and deploy Windows applications on Google Cloud Platform
