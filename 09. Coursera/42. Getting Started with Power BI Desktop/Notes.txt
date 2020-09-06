@@ -1,0 +1,3 @@
+With Power BI Desktop qe can create interactiv reports and
+dashboards quickly
+

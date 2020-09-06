@@ -1,0 +1,16 @@
+Getting Started with Power BI Desktop
+
+Now we will learn the basics of using Power BI Desktop. We will accomplish this by completing each task in the project:
+
+    Task 1: Introduction
+    Task 2: Overview of the Rhyme interface
+    Task 3: Importing the Data
+    Task 4: Fixing the Column Names
+    Task 5: Transforming the Data
+    Task 6: Getting Started with Reports
+    Task 7: Defaults by Education Level
+    Task 8: Defaults by States
+    Task 9: Defaulter Ratio and Slicing the Data
+
+While you are watching me work on each step, you will get a cloud desktop with all the required software pre-installed. 
+This will allow you to follow along the instructions to complete the above mentioned tasks. After all, we learn best with active, hands-on learning
