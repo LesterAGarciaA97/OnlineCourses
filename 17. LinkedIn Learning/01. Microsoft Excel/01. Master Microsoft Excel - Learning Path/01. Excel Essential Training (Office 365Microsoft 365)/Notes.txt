@@ -1,0 +1,118 @@
+GETTING STARTED WITH EXCEL
+
+spreadsheet package
+
+File tab = "backstage view"
+Right click to add to the quick access toolbar
+
+Shorcut menu
+Mini toolbar (right click on rows, columns or cells)
+
+Workbook = excel file and have at least one work sheet
+
+
+F1 = Help
+
+
+------------------------------------------------------------------------------------------------
+
+ENTERING DATA
+
+Substract and add dates
+=B2+100 **Here it adds 100 days to that date
+
+
+: = times
+/ = dates
+
+
+Undo can remember over a 100 last steps we did
+
+Ctrl + z = Undo
+Ctrl + y = Redo
+
+When saving, ask your self  "Where to save?"
+
+------------------------------------------------------------------------------------------------
+
+FORMULAS AND FUNCTIONS
+
+FOR USE FORMULAs we start tipyng an = symbol
+Double click on sum button and autosum data, automatically recognize numbers even on up, or left side, up and down
+
+XLOOKUP ans LOOKUP functions
+
+Find employee name by id in a huge list:
+=xlookup(lookupvalue, lookup array, return array)
+
+XLOOKUP => BuscarV
+
+-------------------------------------------------------------------------------------------------
+
+FORMATTING
+
+Superscryt
+Subscrypt
+
+Numbers on color red = means negative
+
+--------------------------------------------------------------------------------------------------
+
+Adjusting worksheet layout and data
+
+Rows and columns: insert, delete, hide and unhide
+to unhide a column you  need to select the two columns where the hide column was and selec unhide
+
+If you hide many columns, select all the sheet and select unhide
+
+----------------------------------------------------------------------------------------------------
+
+PRINTING
+
+-----------------------------------------------------------
+
+CHARTS
+
+Insights = Ideas
+
+-----------------------------------------------------------------------------------------------------
+
+Adjusting worksheet views
+
+Freeze panes
+View tab
+
+Split screen
+Making presentations with to many data columns or rows
+
+-------------------------------------------------------------------------------------------------------
+
+Multiple worksheets and workbooks
+
+Renaming, inserting and deleting
+
+Moving, copying and grouping sheets
+
+-------------------------------------------------------------------------------------------------------
+
+DATA MANAGEMENT FEATURES
+
+Sorting data
+
+Using filters
+
+Creating pivotTables
+Pivottable = tabla dinámica
+Always refresh table.
+
+-------------------------------------------------------------------------------------------------------
+
+SECUTIRY AND SHARING
+
+Coomands
+Protecting a workbook
+Review -> Protect a workbook
+can add a password
+
+
+
