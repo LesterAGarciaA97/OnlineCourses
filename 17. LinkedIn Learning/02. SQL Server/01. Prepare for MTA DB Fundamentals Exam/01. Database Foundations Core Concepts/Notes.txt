@@ -1,0 +1,81 @@
+UNDERSTANDING DATA STORAGE MODELS
+
+DB's are at the core of our modern technologyAre highly structures data files
+allowed data input, organization and retrieval
+
+DB management system
+Program that allow the manipulation of DB's
+
+DBMS
+Structural rules
+Data entry
+Data protection
+
+Retrieving data
+Create one or more indexes to the data
+Query the data in flexible ways (sort, filter, summarize and organize)
+
+
+Flat file DB's
+2 dimensional tables
+made up of rows and columns
+tipically stored in text files
+
+Flat File structure
+Rows store records about an individual item
+Columns stroe attributes of the record
+
+Columns = fields
+Normalization
+
+Flat files = a simple data structure that follows some basic organization principles
+
+
+Hierarchical DB's
+Consist of several related table
+one table has many child tables
+
+Organization chart is an example
+Part diagram is another example
+
+Limitations: DB's cant model complex relationships
+
+
+Relational DB's
+Follows structure of the flat file tables
+Adds relationships between multiple tables
+No restriction on the number of parent and child connections
+
+Common keys:
+social secutiry number
+book isbn
+upc barcode
+bank account number
+
+Fundamentals:
+Data types
+Constraints (Unique, check, default, Not null, PK, FK)
+REFENTIAL INTEGRITY: Ensures that related data exists in a parent able before allowing an entry into a child table
+structures query langauge = SQL
+
+
+calculating value
+InvoiceTotal
+TaxDue
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+BUILDING YOUR SERVER
+
+sERVE = RUN ON PHYSICAL OR VIRTUAL MACHINES
+CAN INCLUDE MULITPLE INSTANCES OF THE DBMS
+
+Fast and read writes to disk
+multicore processors
+faste network connections
+Lots of installed memory
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UNDERSTANDING DATA DEFINITION LANGUAGE (DDL)
+
