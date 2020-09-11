@@ -1,0 +1,4 @@
+El proceso de creación de un modelo de datos complicado en Power BI es sencillo. Si los datos proceden de más de un sistema transaccional, antes de saberlo, puede tener docenas de 
+tablas con las que tendrá que trabajar. La creación de un modelo de datos excelente consiste en simplificar el desorden. En este módulo, obtendrá información sobre la terminología y la 
+implementación de un esquema de estrella, una manera de simplificar un modelo de datos. También obtendrá información sobre por qué es importante elegir la 
+granularidad de datos correcta para el rendimiento y la facilidad de uso de los informes de Power BI. Por último, aprenderá a mejorar el rendimiento con los modelos de datos de Power BI.
