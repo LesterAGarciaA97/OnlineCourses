@@ -79,3 +79,92 @@ Lots of installed memory
 
 UNDERSTANDING DATA DEFINITION LANGUAGE (DDL)
 
+Transact SQL
+1) Data definition language (DDL)
+2) Data manipulation language (DML)
+
+DDL:
+USE, CREATE, ALTER, DROP, TRUNCATE AND DELETE
+
+Syntax conventions:
+* Case insensitive
+* Write keywords uppercase letters
+* White-space insensitive
+* Use statement terminator (;)
+
+Comments
+-- Comment
+/* Comment */
+
+Intellisense
+Code hinting pop-ups
+Suggest object names
+higlihts or duplicate name
+To refresh cache make with Ctrl+Shift+R
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UNDERSTANDING DATA MANIPULATION LANGUAGE
+
+DML
+ADD, MODIFY, QUERY OR REMOVE data from a DB
+
+DML Statemente
+SELECT, INSERT, UPDATE, DELETE, MERGE
+
+Transactions
+Everything succedds or nothing succeeds
+If an error is generated during the operation, the DB rolls back to its prior state
+
+WHERE clause
+Applies a criteria that must be met
+Limits changes to specific targeted records
+
+Use AS to return columns of a DB with a differente name
+SELECT Item AS [Producto Name]
+FROM ProductListing
+
+DELETE is more flexible than DROP or TRUNCATE
+
+
+Merging data tables
+Compares contents vs 2 tables and update, insert and many other
+using those elements
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UNDERSTANDING RELATIONSHIPS
+
+Types of relationships
+One to one
+One to many
+Many to many
+
+One to one:
+Created between primary keys of two tables
+
+One to many:
+One table can reference to multiple values of anothe table
+
+Many to many:
+Registry will appear multiple times in other tables
+
+
+CONSTRAINTS = Conditions
+
+Adding indexes to table
+Speed up search
+
+Naming conventions
+* Avoid spaces an special characters 
+* Use PascalCase or camelCase
+* Use plural or singular, dont combine
+* Dont use reserved words
+
+Table name should be consistent and logic
+
+
+Schemas
+dbo
+use to organize tables
+group tables to each group it belongs to it	
