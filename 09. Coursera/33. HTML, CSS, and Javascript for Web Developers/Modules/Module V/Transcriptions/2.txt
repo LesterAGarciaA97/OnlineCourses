@@ -1,0 +1,83 @@
+[SOUND]
+JavaScript in the browser wouldn't really be any fun
+if you wouldn't be able to manipulate the page that that
+JavaScript is attached to. So in this lecture, we're going to
+speak about DOM manipulation, otherwise known as
+Document Object Model manipulation. So the first question that comes when we
+start talking about DOM manipulation is how to include the actual script.js, how to include your JavaScript
+library inside your HTML page. Currently, I'm looking at script.js,
+which is located in the Lecture53 folder. And I'm going to go ahead and
+just close the file browser so we have some more space here. And before we even start going on
+about where to include the script.js, let's go ahead and learn about this
+special object called document. And the document object represents
+the entire HTML document, the document object model. So we know that there is an object called
+window, otherwise known as this, and it contains a whole bunch of things. One of the things it contains
+is a document property. So if we go ahead and say,
+let's clear this, and say window.document, you'll see that
+what you get is a document object. And if you open it up, you can see that the document object
+contains our entire HTML page. This document object is
+the stepping stone for us to be able to get at individual
+elements within our webpage. And there's a few ways to do that. So let's go ahead and take a look at our
+index.html just to familiarize ourselves as to what's going on here. So what we have here
+is a very simple page. It has an h1 title,
+which just says, Lecture 53. We'll give it an id called title. Then we have a paragraph that says, Say
+hello to, and we have an input field again with an id name to type text, so
+it's going to display a text box. And we also included a button
+that just says, Say it! And then, at the very end here, we have this div that is an empty
+div that just has the id content. And we'll see why we need
+that a little bit later. So one of the central methods
+that the document object has is being able to get at
+the element by the id. So let's go to our console and let's try
+to get at this h1 element right here. So, the way we could do that is by the
+special method called, let's go ahead and say, document.getElementById. And, in parenthesis, we're going to
+specify the actual id in quotation marks. But the id is going to be
+without the pound sign. It's just the actual id. In this case, it's just title. So if we execute that statement, you'll see what it returns is
+the element h1 that has the title id. Now, of course, we could do console.log
+inside our script.js to accomplish exactly the same thing. So let's go ahead and try that. First, let's include script.js, which is located in the js folder inside
+our head section of the document. So we will say, script and we'll say src="js/script.js". And we can omit the type attribute here
+because JavaScript is really the only type that's possibly here. So go ahead and save that. Let's go to our script.js and
+execute exactly the same thing. Let's go say document., now the reason we're able to use document
+here is because we're in the global scope. And global scope is window. And window has an attribute,
+has a property called document in it. So when we say document,
+this will obviously go ahead and look on the window object to see if
+document is one of its properties. And, in fact, it is. So document.getElementById,
+and we're going to say title. Let's go ahead and console.log this. So let's see what happens when we do that. Let's save that, and we get null. Well, that's kind of strange. Why would we get null? Why are we not getting
+this Lecture 53 title? Well, the reason we're not
+getting it is because of when this line is being executed. Let's take a look at our index.html again. This line is executed just
+like any other JavaScript, is exactly where it is mentioned. So it's as if we took this line
+right here and we copy and pasted it right in the middle
+of the script tag. Well, the problem is, is that, when you
+are calling and asking the document to retrieve for you something that
+has an id title, at this point of the rendering of the HTML page,
+the h1 with an id title doesn't exist yet. So, therefore, you get null. So how do we solve that? Well, there's actually a couple
+of ways of solving it. One is to have a special method that
+listens for an event in the life cycle over the page loading, and says, when page
+is loaded, go ahead and execute this line. However, there's even
+a simpler way to fix that. Especially with the fact that
+what we're trying to do is insert some behavior into the page. It's not how the page is going to look,
+it's how the page is going to behave. And whenever things like that,
+JavaScript code like that is executed, it's always best not to
+keep it in the head, but actually place it at the very
+end of the document. So, which is what we're
+going to insert right here. So this JavaScript is going to execute
+after all of these things have been already processed,
+loaded in the browser's memory and the document object model is
+now going to be alive and well. So now, if we save that,
+you'll see that now, we are getting, at this point,
+the h1 that is an id equal to title. So this code executes just fine only when this element has all
+ready been loaded and rendered. Now the reason we're able to use
+this function called getElementById is because document is
+a special object and the object name of
+the document is HTMLDocument. It's a special object that has
+a whole bunch of different methods that you could call in the document. So in fact,
+we can actually console that out, console.log(document) and
+find out is it an instanceof. It's an instanceof operated we actually
+haven't seen before that tests whether or not our particular instance is actually
+an instance of a particular class. In this case, it is HTMLDocument. So if we print that out to our console or
+save that, you'll see that that's true. So document is actually
+an instance of HTMLDocument. So if you go on the web and look up
+HTMLDocument, you will be able to see all the methods that HTMLDocument defines for
+you to help you manipulate the webpage. So now that we know about this
+special object called document, otherwise known as HTMLDocument,
+in part two of this lecture, we're going to start using this special
+object to manipulate the webpage.

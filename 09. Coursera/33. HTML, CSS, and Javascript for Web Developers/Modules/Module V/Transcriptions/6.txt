@@ -1,0 +1,69 @@
+[SOUND]
+There's an argument that's passed by the JavaScript engine
+into every single event handler. And this is something I glanced
+over in the previous lecture, so let's talk about it now. I am located in the script.js file,
+which is located in the Lecture 55 folder. Let me go ahead and
+close the file browser of Sublime. The first thing we'll do is let's
+go ahead and log the event. Let's go ahead and say console.log. And let's go ahead and log the event. When I print it out and let's say say it. And we see that the object that
+event is is a mouse event. If we open it up actually, we'll see there's a whole bunch of
+properties that this mouse event has. Here's a clientX, clientY, where the X and
+Y coordinate was on the page, there is the movement page X,
+there's the path, there's the screenX, screenY which is the location of the X
+coordinate visibly the entire screen, there's the shiftKey
+which tells us whether or not the shift key was being pressed down
+at the the time that the click happened. So even though we haven't
+really used the event object, this is something that is passed
+in to every event handler. Let's take a look at the API
+documentation for event and we'll see what it actually gives us. Let's go to the event. So this is the event page of
+the Mozilla Developer Network. And it talks about all kinds of
+events that can happen and obviously, depending on what type of event that
+happens, either a key press or some kind of interaction with the keyboard, or
+a mouse press or a mouse move which is interaction with the mouse, you're
+going to have different types of events. There's going to be different types of
+objects to contain different types of properties that are related
+to that type of event. So you can see here, for example,
+we have a KeyboardEvent object. That's probably related
+to keyboard events. And there's also a mouse event object and
+again that's related to the mouse events. So I clicked on it and it gives you a whole bunch of different
+properties of the mouse event that is passed into you and explains to you every
+single one of them is what they do. So there's the clientX and clientY. And it tells you that clientX is
+the X coordinate of the mouse pointer in the local DOM content coordinates. If we scroll down, there also should
+be a shift key, the shift key property. And it returns true if the Shift key
+was down when the mouse event fired. Now, there are different
+types of mouse events. There's mouseout, mouseover, mousemove. The click of mousemove, basically what it
+tells you is that mousemove event is fired when a pointing device (usually a mouse)
+is moved while over an element. Let's go ahead and try to implement
+a different type of behavior. Let's go ahead an implement a console.log. We're going to log to the console,
+client X and client Y position of the mouse pointer,
+but only when I press the shift key and move the mouse over any
+part of the body element. Let's make this back into
+a little bit of a smaller screen. Let's go back to our page, and
+we'll go ahead and clear that. So what we're going to do is we're going
+to create yet another event listener. So here, we have an event listener
+that's called, sayHello, and we're actually assigning it right here. And we are going to create another one. So and we are going to create
+another one exactly the same way. We'll say document.querySelector and
+this time we'll say on the entire body. And I want to add EventListener. And EventListener I want
+to add is mousemove. So it's mousemove, and notice since
+I'm using the addEventListener, it's not on mousemove it's just mousemove. And then, let's go ahead and put
+a semicolon at the end so we don't forget. And then what were going to do is
+were going to create a function. And the function is going to get an event
+obviously by the JavaScript engine. And in this function, what we want
+to do is we want to do console.log. The event.clientX. And again console.log. And then clientY. So if we save that now and as I start
+moving the mouse over, you will see- You will see that we're logging
+where my mouse is moving, we're logging the x and y coordinates. Now we didn't really specify what they
+are, so it's a little hard to tell. It's probably a better idea
+to do something like this. X is this. And Y is that. That's probably a little bit better. So now when we mouse over,
+at least we see X and Y. Okay, but we wanted to do, is we wanted to only log this
+when I press the shift key down. So in our function, in our EventHandler, what we're going to
+do is we're going to put in a statement. We're going to say if event.shift, and I can't remember what the name is so
+we'll go ahead and look this up. Let's go back and look up the property
+name's called shiftKey, just like that. So we'll say event.shiftKey equals true, if that's the case,
+that's when we're going to log this. Otherwise we're just going to ignore
+this mouse movement completely. Okay, so we'll do this, we'll position it like that and
+now let's go ahead and save that. Let's go back to our browser, and now you see when I'm moving my mouse
+around nothing really happens. But if I press the shift key,
+which obviously you can't see, and start moving the mouse around, all of a sudden the mouse move is printing
+out the clientX and clientY coordinates. If I let go of the shift key, see? The mousemove EventHandler is
+no longer printing out the x and y coordinates because the if
+statement is basically saying, skip it because the shiftKey
+property is not equal to true.

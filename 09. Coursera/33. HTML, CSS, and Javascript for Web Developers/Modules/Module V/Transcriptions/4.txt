@@ -1,0 +1,142 @@
+[MUSIC] In part one of this lecture,
+we'll learn about a special JavaScript object called HTML Document,
+that allows us to manipulate the webpage. In this lecture, we're going to use
+that object to actually do just that. Let's go ahead and
+comment that out for now. And let's turn our attention to index and
+HTML. We have this paragraph here that says,
+Say hello to, and it has an input element and a button. Now the button is not really going to
+do anything, as you can see right here, as much as I click it, it won't really do anything because no
+behavior has been really assigned to it. Now we're going to have a whole
+lecture on event handling. But for now,
+let's assign it some simple behavior, and the way, one of the ways at least you
+do it, is you could say, onclick, which is an attribute that exists on
+basically every single element in the HTML document, you can assign
+it some functionality in that. So I mean in other words, you could
+call a JavaScript function in here. So we'll say, sayHello. We'll call the function,
+sayHello, onclick of this button. Let's, in fact,
+actually put it right here, so we can see it a little bit better. So, onclick of this button,
+we're going to call a function, sayHello. Let's go ahead and define the sayHello
+function, let's go ahead and save that. And actually, go ahead and click this now. We'll get an error,
+because sayHello is not defined here. So let's go ahead and
+define that sayHello function. So, let's say function, and the function
+name is going to be sayHello, and we don't need any arguments for now. And for now, in the body of this function,
+all I want to do is be able to retrieve the value that
+the user typed in into this text box. So how do I do that? Well, I can, once again, use my document, let's do console.log, and
+once again, can use my document. Let's give some spacing over here, document.getElementById, and
+I could say, what ID do I want? Well, let's go take a look at our HTML,
+and the ID of the input element is name. So I could go ahead and copy that. And I won't get only ById name. But if I just do that and leave it alone
+right this way, and save that, now when I click Save, Say It, what I'm going to get
+is, I'm going to get the actual element. Well, I don't really want the element, I want the value inside the element
+that the user typed in. So, the way I do that is by
+accessing the value property. That value, when I do this and
+save it, so now if I say Say It, nothing's really going to show up because
+I didn't really type anything, but I'd say, Say Yaakov, and say, Say It,
+now Yaakov value is going to show up. Now my ultimate goal
+here is that the webpage in this space right here should great me,
+Say hello Yaakov. So one of the ways I could do that is,
+first of all, save the value that I retrieved from the input element that
+the user typed in, save it in a variable. So let's go ahead and do that. Let's say var message, or
+let's say name, actually. And, let's go ahead and erase this. Let's see if this will fit. And no, it doesn't. So let's go ahead and just put it in
+a second line, and it'll just say, var name =, and we'll retrieve
+the name that the user typed in. Okay.
+So far, so good. Let's go and define a message. And the message will be, Hello, space, last name that we retrieved, plus, and
+let's give it an exclamation point. Okay, so now that we have the message, it's time to actually insert
+this message somewhere here. How do we do that? Well let's take a look
+at our HTML document. There's this div that we defined and
+left completely empty. And it has an ID called, content. Okay, so that means we could retrieve it,
+as well. Okay, so let's go ahead and do that,
+we know how to do that, at this point. We could say document.getElementById,
+and ID was content. So how do we now insert things? It wouldn't be that value because
+that's only for input elements and a div is not an input element. But there is a property to be able
+to insert text inside of an element. So let's go ahead and
+actually put this on a separate line, so I could see it a little better. And the value is textContent. So if I say textContent, and
+say the textContent is equal to message, and put a semicolon after that,
+and save that, so now when I say, Yaakov, and say, Say It,
+this message shows up. And in fact, if we actually inspect
+the element, let's go ahead and do that. And you could see,
+let's lower this a little bit somehow. You could see that we
+have div id = content. And inside of it, you see Hello Yaakov. Now, that's all great. Except now, what I really want is,
+I want this Yaakov to be in h2. This is Lecture 53, that's an h1,
+I want the Yaakov to be in h2. Well, let's try to see
+if we could do that. Let's go back to the console, and
+let's just augment this with a h2, and we'll close h2 right here
+to make it into a string. Okay, so now if we save that, let's say
+again, Yakov, and we'll click Say It, hm, not quite what we wanted, right,
+h2 thinks, or at least the browser thinks, that this h2 is just text, not really
+something that the browser should render. Well, we can actually fix that because
+there's another property that tells the browser that what I'm inserting is
+actually HTML for the browser to render. So let's go ahead and
+copy this and comment it out. And we'll have another line that
+looks almost just like that, except the text content is going to be replaced
+with another property called innerHTML. So when we say innerHTML, the thing
+that gets assigned to it is going to be interpreted as HTML and
+therefore rendered. So now if we save that, and
+type in Yaakov right here, and now, we see that this is now, in fact,
+an h2, so if we inspect the element, we could see here now that the div with
+the ID content has an h2 inside of it, that is actually being
+definitely rendered as an h2. Now believe it or not,
+armed just with this knowledge alone, you could already do quite
+a bit inside your HTML page. Let's go ahead and put some behavior into this that has
+a little bit more smarts into it. I want this thing to say, hello, whatever
+the name is that the user provides, unless, of course, they say,
+hello student, student, in which case, I don't want it just to say,
+hello student. I want that value to trigger
+a side effect to the page and change our title a little bit. So how can we accomplish that? Well, we could definitely test
+inside this sayHello method, or sayHello function, we could test,
+if name, let's actually, let's move that all the way here, if name
+is ===, because we want it to be a string, equal to student,
+then I want to do a couple of things. Number one is I want to
+retrieve what this title is, because I want to add a little
+bit of a string right here, I want to add something else to it, I want
+to say, Lecture 53, and something else. So, the way I do that is,
+I could say, var title =, and at this point, let's go ahead and
+actually put it on the second line. And say, document, and we can,
+if we want it to say getElementById, right here, and basically specify title,
+because if we look at our index HTML page, our title,
+our h1 has a title as an ID. However, there's another method that's
+very worth while for you to learn, and it's much more generic than
+getElementById, because getElementById really just restricts you to be able to
+select things within your page by ID, but you might want to be able
+to select it by other things. So, like for example,
+the way you select things using CSS. So, the method we could use,
+and instead of getElementById, is called querySelector. And in this case, querySelector takes not
+the ID name but actually, a selector. So if we wanted to select it by ID,
+in this case, title, you would do the same thing you
+would do in CSS by selecting this element. Well, the way you would do that is,
+you would actually specify #title, right, because that's a CSS selector,
+not just title itself. So, this should go ahead and
+grab the h1 element out of our HTML page, except we don't just want the h1 element, what we want is the textContent
+of the h1 element. So let's go ahead and say, .textContent. And that will be the value of our title. So now, all we're going to do is now we're
+going to augment the title a little bit. So let's go ahead and say, title,
++=, you've seen this before, it just means title equals
+title plus something, but the easier way is just to say +=. And we're going to add something. Let's say, & Lovin' it!, so
+it's Lecture 53 and Lovin' It. So, the students are really
+loving it at this point. Am I correct or am I correct? Anyway, so let's go on. So now, let's go ahead and save this. And, we'll go ahead and put a name here. Well, if I put Yaakov, right? It will just say, Hello Yaakov. But if I put student,
+got to spell it correctly, and say, say hello, Hello student!, but,
+nothing really changed here. Why is that? Well, that's actually simple. Right?
+Remember, pass by reference, pass by value? Or copy by reference, copy by value? Well, this is a primitive, and we're copying a primitive out
+of textContent into this title. So therefore, when we change the title to textContent,
+property is not changed at all. What we actually have to do is
+turn around and explicitly set it. So let's go ahead and
+grab this whole document thing right here. And we'll put it over here and
+we'll say textContent equal to title, that's the new title that
+we've updated right here. So now, when we save that, and
+go ahead and try it with, let's say, Yaakov, and if we say, click Say It,
+we will see, Hello Yaakov. But if we actually put student in here and
+click Say It, now, we not only said hello student, but
+we've also updated our h1 title, and now it says, Lecture 53 & Lovin' it. Now, the last thing I want to point out
+to you is that this is a selector by ID. But we don't have to select it by ID
+because this is nothing more than using CSS selectors to select
+elements within our page. Well, if we take a look here,
+we could use something else. We could use the fact that there's only
+one h1 element in the entire page. So if I wanted to,
+I could simplify this by saying h1. So, I erase this and just say h1. So, h1 is the only element that this
+is going to select, and, in fact, if there would be more than
+one h1 element in my page, what this will return is
+the first matching element. If you wanted a list of elements that
+matches a particular query selection, you would use a different method, I think,
+I believe it's called query all selector. So, anyway, so at this point,
+we just want one. So if we say h1, this will accomplish exactly the same
+thing as calling it by title. So if we save that, and
+test that out by saying student, and click Say It, and you can see this
+was just the same as before and it's Lecture 54 and still loving it.

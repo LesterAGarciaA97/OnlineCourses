@@ -1,0 +1,119 @@
+[MUSIC] We've already seen a simple example
+of how to bind an event handler to a particular element. I'm located right now in the index.html
+in the lecture 54 folder. Let me go ahead and close the file browser
+so we could see a little bit better. So you remember this html document. We had a button the middle here
+that says unclick==sayhello and as you can remember when entered
+some name over here and click say, Say it, it will say hello yaakov
+using this say hello function. I'd like to explore now couple
+of different ways that you can actually assign in van
+handlers two elements. Now first of all, what are event handlers? Well event handlers
+are basically functions that you bind using specific methods to certain
+events that happen in the browser. Now those events might be
+triggered by just a lifecycle. Meaning something like the page loaded. That's an event. Or it could be triggered
+by user interaction, like a user typed a character or
+user clipped something. So one of the most simplest ways to assign
+an event handler to a particular element is to just use the on something
+attribute on that element. So here we could see that
+we're using on click and we say SayHello executing that
+JavaScript function sayHello. But the truth is if you take a look,
+there's a whole bunch of these and they really have to do with keyboard and
+mouse events as well as focus events. So for example, onblur means when
+this particular element loses focus. So I can actually go to my input
+field here and say onblur and we'll say sayHello. Well the same function will execute
+when I type something in here. Let's go ahead and refresh the browser. And let's say I'll say yaakov. And the second I lose the focus from here,
+like that. So let's go ahead and save our index
+html and this will get reloaded. So if I go and type in Yaakov, and
+the second this field loses focus you'll see that say hello will get
+executed and Hello yaakov will appear. So let's actually erase that for
+a minute so we don't crowd our space here. So placing an unclick or unblur or un-some
+event straight on the HTML is one option. Now this option comes
+with some side effects. One side effects is that you kind of have
+to dirty up your HTML with these onclick, onblur, onkeydown and
+so on on these events. And typically and as we've been speaking
+about it before, HTML is really just for content it's not really there for
+behavior. So that's one difference. Second difference let's go ahead and save that, second difference is this,
+if we go to the sayHello function which is what we're executing when somebody
+clicks the say it button. And we go ahead and council that log this. What is this pointing to? Let's go ahead and save that, and
+we don't have to enter anything here, we'll just hit save. And it's apparently pointing to
+the window object, so why is that? Well, since this sayHello function is
+being defined in the global context, it makes perfect sense that when we say
+this, this will be pointing, again, to the global context,
+which is the window object. And since in here we're
+not doing anything at all by assigning this to
+this onclick attribute. We're not doing anything at all to change
+that context for this hello function. We actually are executing it right here. So that remains the same. However, there's a different
+way of doing the same thing. That is binding this
+function to the clicknet. Let's go ahead a take a look
+at another way of doing this. In this way it's called
+unobtrusive event binding. And the reason that's called that way
+is because the HTML doesn't really need to know anything about your JavaScript. So let's go ahead and go to the HTML and
+let's go ahead and erase this out of here. So now the HTML doesn't know
+anything about the click handler. Let's save that. Go to the script, and
+here's what we're doing here. We're saying
+document.querySelector("button"), so we selected that element and we're calling this function
+called end .addEventListener. And we're saying that I want you to listen
+for the click event and when that happens, I want you to use this function
+expression, or this function value. Which is sayHello, which is
+pointing to our sayHello function. Now when we do this, let's take a look as
+to what this now is going to point to. Let's go ahead and go to,
+let's save the script. And let's go ahead and click, Say, and
+obviously we didn't provide anything but as you could see,
+this now is pointing to the actual button. So, and that makes perfect sense since
+we're passing the value of this function into this particular element. So this element button gets
+a call called addEventListener. And inside of that call we somehow
+assigned this sayHello to its event. So therefore, this variable is now
+pointing at the containing object, which at this point is the button element. Now there is a similar way
+to assign that click handler except using the on click property. Let's go ahead and comment this out and
+un comment this line right here. I can see there is a typo in here,
+it really should be un click. So point is whatever the on
+click on blur on something that you have available
+on the element itself. You can use that as a property
+of the object that you selected. So in this case we're selecting again,
+the element object and we're setting it's on click property to
+be the value of the function, sayHello. Again, it's just a value,
+we're not providing parentheses here after the function we're not executing it,
+we're just setting it's value to it. So what do you think
+the say hello function is going to say when we
+say console.log this. Well since this is pointing or
+is being executed inside of an object, that is the button object,
+when we go ahead and click say. Is going to be once again a button object. And you know, while this way might seem
+a little bit more complicated to assogmed event handlers then simply
+just saying onclick over here. It does provide us a little
+bit more flexibility. Let me show you what I mean. So let me comment this out and leave just the addEventListener
+Way of editing the click event. So what I'm going to do now
+is I would like to do is, as I'm typing this,
+when I say and I click save it, I want the name of the button or
+the label of the button to change. Well that's very easy to do if the this
+variable inside of the event handler already points directly to the target
+element that you're working on. So let's go ahead and go here and
+say that when this happens, I'm going to go ahead and say that this
+dot, text content equals to said it. So we're going to say that
+the button said it already. So when I save this, and I say, Yaakov. And when I click say it,
+you will change to said it. And it's a much more convenient way of
+doing things instead of having to once again select using the Core API select
+this button and change it It's label. And that's because in this JavaScript, I don't really have to know
+what triggered the click event. If I had to do it the other way, I would have to know that the button is
+the one that triggered the click event. In this case, I don't need to know that. I just need to know something
+that has text content triggered that particular event. Let's discuss one more event that
+is a life cycle event of the page, that will let us actually assign
+the events to the elements of the page once they load, but
+before anything else loads. Before any images load,
+before any CSS loads, and so forth. And since we are going to be listening for that event, we no longer need to provide
+this script at the bottom of the page. We can actually cut this
+script out of here, and place it very easily in the head. And let's save that. And now what we need to do is
+we need to actually listen for a particular event on
+the browser lifecycle. And that event is called,
+let's say document.addeventListener. And the event is called DOMContentLoaded. And what we want to do is we
+want to assign a function, let's go ahead and put our semicolon. And what we want to do is we
+want to assign a function, and when you need a name and every event
+handler function gets this event object. So, and inside this function, we can
+now start assigning different events. So what we can do now is we can
+create this function, hello, and grab this whole text right here. Cut it out. And place it right here. And maybe move it over a little bit. Okay. So now we have the entire function
+sitting inside of addEventListener, so it will get executed. This function will get executed when this
+Event files called, dom content loaded and that will happen before any images, or
+any CSS, or any other script is loaded. So, if we save it, and say, Yaakov. Click say it. As you could see we still have our
+functionality working just as before. Except this time we didn't have to put
+all this code at the very end when all the elements have loaded all ready. Instead we're listening for the event
+when all those elements have loaded. And in that case, we're able to execute
+these functions and get element by id, and be sure that these elements already
+exist in the document object model.

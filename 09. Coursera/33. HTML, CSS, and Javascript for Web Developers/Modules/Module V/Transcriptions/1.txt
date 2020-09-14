@@ -1,0 +1,8 @@
+[MUSIC] Welcome to module five,
+the last module of this course. Now that above learned JavaScript language
+fundamentals, we will dive into using JavaScript and manipulate elements within
+our webpage as well as use AJAX to pull real data from a server, without the need
+for the user to reload the entire page. We'll finish off the module by using
+our newly acquired JavaScript and AJAX skills to complete the restaurant
+website, so it pulls its content and menu data from the server and
+dynamically generates HTML for the view. See you in the module.

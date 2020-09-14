@@ -1,0 +1,75 @@
+[SOUND] So now we're ready to speak about some Ajax basics. So what is Ajax exactly? Well the word Ajax used to stand for
+Asynchronous Javascript and XML. The thing though is while
+Ajax started with XML, and that was the data type that was
+being sent over the wire browser and the server back and forth,
+very few apps actually use it nowadays. Instead, most of the time nowadays, plain
+text sometimes is just regular HTML and then JSON, which we're going to talk
+about later, is used instead of XML. Now why does Ajax exist to begin with? Well we can answer that
+question by taking a look at how traditional web applications
+worked and what their flow was like. A traditional web application
+started with a web page and usually a user is going to press a button,
+and that is going to generate an HTTP request
+that is going to be sent to the server. And the server is going to
+respond with some response, which is going to be a whole new page, and that whole new page could be basically
+one 99% identical to the original page. And there might be only one string really
+that changed between the first page and the second page. But in the traditional Web App Flow,
+the entire page with all the same elements need to be returned anyway
+just to display a minor update. Now in the Ajax web app flow,
+you have a web page and it also makes an HTTP request. And that is usually sent by Javascript,
+and that HTTP request is sent by Javascript. And the server also replies, and its response is a small piece of
+data that's inserted, usually, into a current page, and the only thing
+that changes is some minor piece of data. Now obviously, this is way faster. The response is faster,
+you use less bandwidth, because only one small
+piece of data is returned. And obviously, it's a much
+nicer user experience, as well. Now, before we through
+the process of how Ajax works, let's remind ourselves what is
+synchronous versus asynchronous execution since Ajax has asynchronous
+as its first word. So what is synchronous
+execution first of all? Well synchronous execution is execution
+of one programming instruction at a time. What that means is that you can't
+start execution of another instruction until the first instruction
+has finished its execution. On the other hand, on the asynchronous
+execution, what that means is that it's execution of more than one
+programming instruction at a time. Asynchronous instruction
+returns right away. It sends off its instruction and it's
+ready to execute the next one right away. And the actual execution of
+that asynchronous instruction is really done in
+a separate thread process. So at this point you might be wondering,
+if Javascript is asynchronous language, everything in it is executed
+asynchronously, how's AJAX even possible? AJAX is asynchronous. Well, let's take a look at a diagram. While the Javascript engine
+lives in the browser, it's not the only thing
+that lives in a browser. There are other software components
+that also live in the browser. For example, you have an event queue
+that is responsible for handling and queuing events, like a mouse click or
+a browser load or something like that. You have an HTML rendering engine that
+is responsible for taking HTML and knowing how to display it
+in the browser webpage. You have webGL, which is responsible for letting Javascript reach out and
+do some really higher end graphics work. And you also have another component
+that let's call it HTTP requestor. And that component is responsible for
+making HTTP request. And while the Javascript
+engine itself is synchronous, HTTP requestor is certainly not. HTTP requestor is asynchronous. So armed with this knowledge,
+let's take a look at the AJAX process. So we have the Javascript engine and
+we have this HTTP requestor component, and the Javascript engine is going to
+have some Javascript line of code being executed. Then another Javascript line
+of code being executed. Then finally it comes to a Javascript
+line that executes an Ajax request. So what happens at that point? Well at that point, the Ajax request
+uses a special Javascript object to reach out to the HTTP
+requester component. And notice what I am
+indicating here on the slide is that the next line of Javascript
+code executes it right away. The response of the HTTP
+requestor is not waited on. Instead, when we make the actual Ajax
+request and reach out to this HTTP requestor component, along with
+our request, we pass in an address of a Javascript function that is going
+to serve as the response handler for when the response from the other server or
+this HTTP requestor comes back. However, meanwhile,
+we continue on our merry way, and the Javascript engine keeps
+executing one line at a time. At certain point,
+it's executed all the code it can, and its execution stack is empty. Even that point,
+the HTTP requestor is done and has received its response from our server,
+it may, at that point, use that address of that Javascript
+function that we gave it to start with and reach out back to the Javascript engine
+and execute the handling of the response. And that's the callback function,
+that's the function that's going to handle the server response, so
+that's the basic AJAX process. And that's really enough of the theory,
+and in part two of this lecture, we're going to jump into the code
+editor and see this in action.

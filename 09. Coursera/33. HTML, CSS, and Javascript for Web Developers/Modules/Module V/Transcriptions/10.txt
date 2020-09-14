@@ -1,0 +1,86 @@
+[SOUND] So
+in the previous part of this lecture, we looked at ajaxUtils.js which is
+small library we wrote in order to make Ajax request to the server and
+process the response at least some what by being able to give our
+user the use of our library that is. And then this case it's just us. The use of our library to be
+able to give them the ability, to give a function that he'll
+be able to pass to us and will then get called when
+the server returns the response. So right now I'm located in script.js
+which is located in lecture 57 folder. So let's go ahead and
+close the file Explore of Sublime Text and let's take a look at our script.js. You can just as a very tiny review,
+ajax-utils.js is where we're defining our ajaxUtils object to which we have one
+thing attached, which is send request. And again send request is
+expecting a requestUrl and it's also expecting
+a responseHandler function. So we'll be passing in a value of
+the function and a request url. So let's go ahead and go to script.js and
+see what we're doing here. The first thing we're doing is
+we're adding an EventListener for dumb content loaded. So which means this is only going to
+execute when the page is loaded all the HML content, but hasn't yet
+loaded all the CSS or pictures and so on. Well we don't really have any pictures so
+either way. And then what we're doing is if
+we take a look at our HTML we have this button right here, and
+that's the only button in the entire HTML. What we're doing is, we're unobtrusively
+attaching an event binding to that button. So we're doing document.query select and
+we're saying the button. And that's the only button
+in the document, so therefore that's the only
+one should get returned. And we're adding an EventListener
+waiting a click EventListener. So when the user clicks that button, we want this function right
+here to get executed. So let's see what we're doing here. Well first of all we're setting var
+self = this, and we've seen this before. So and I'm setting up a name, at this
+point just going to be and empty string. And then I'm using our agency tools
+to call the server to get that name. So I'm saying agency tools,
+remember we set it to with a dollar sign. Let's take a look at it
+we bound the dollar sign global.$ajaxUtils to our ajaxUtils object. So, the ajaxUtils.sendGetRequest and
+we're providing it the URL. So we're giving it the URL
+of /data/name.txt, and it wants a handler function. Remember the response handler function? That takes a request object is going to
+have in it our response from the server. It's a little bit weird in
+JavaScript that the response object is still called the request. But it is, so
+we're just going to continue doing it. So the function is, again,
+we're defining it line. We're not providing a function value. But it's a inline function expression. And we're saying that this name right
+here should be returned self.name, that's the name right here. And we want to request that response text. So request .responsetext or
+the response text property. Of the request object is what holds
+the response from the server. So we want to save that response
+straight inside self.name. Once we called the ajaxUtils and sent
+this request, now that the name is set, we're doing a query selector on
+the content and remember the content in the dot HTML is just this empty div place
+holder, so we're calling this content. And we are using the idea of the content. And we're saying that innerHTML
+should be h2Hello plus self.name, that's that name right here,
+plus the exclamation point. So it should say Hello and
+the Yaakov Chaikin at the end. So let's go ahead and save that and
+let's go to our page and open up our Chrome developer tools so
+we can see the console, just in case. And let's go ahead and
+click this button and see what happens. Not quite what we expected, right? It says hello and there's nothing there. Well let's verify that
+the server communication worked. Let's go ahead and
+print out the self as the console .log and
+let's print out self.name to see and make sure that self.name actually
+contains the words Yaakov Chaikin. Let's save that, let's go here and
+we'll say Hello again. And as you can see,
+Yaakov Chaikin is returned. So what's going on, why isn't this
+outputting Hello Yaakov Chaikin? Can you tell what we did wrong? Well, what we did was forget that
+this is an asynchronous call. So what's really going on is,
+when we're executing this call right here, send request, it goes in and
+executes this call. And it immediately returns and goes and
+executes this second line right here. Remember that visual from the previous
+lecture that I showed you? When the Ajax call gets
+made to the server, the very next JavaScript line
+gets immediately executed. It is not going to wait for the server to
+respond before it executes this next line. That's because this call is asynchronous. So what do we do in this type of case? Well, what we do is we actually
+have to put all the functionality. That is, functionality that's based
+on the response from the server inside of our response handler. So we will have to take this whole
+line out of here cut it out and we'll go ahead and erase our console and
+we'll put it right here. And that's a whole line is
+going to have to be right here. And in this case we don't
+really need self anymore do we? We don't really need to
+have kind of a global or outside of this lexical scope name. We can erase all this. And we would just do var in here and
+say var name = request.responseText. And then when we're just
+doing a query selector, we don't even need self here either. I can see if it actually fits
+on the next line, and it does. So we're just saying Hello,
+name, exclamation point. And that's really all that our function or respond handler function
+is supposed to do. So all right,
+let's go ahead and save that. And now, when we go to our browser and
+click Hello, we actually get Hello Yaakov Chaikin. And this string, Yaakov Chaikin
+is coming now from the server. So made the full round circle from setting
+up the ajaxUtils to making a call to it. And remembering that is
+an asynchronous call, so if we're expecting something from it,
+we really can't do this after the call, we need everything to handle that response
+inside our call back function which is what this handler call back was about.

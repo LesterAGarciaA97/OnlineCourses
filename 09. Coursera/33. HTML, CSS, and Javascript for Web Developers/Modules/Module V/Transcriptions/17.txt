@@ -1,0 +1,76 @@
+[NOISE]
+In the previous lecture, we pretty much completed our David
+Chu's China Bistro website except for one small thing. And let me demonstrate that
+by going to the command line. I'm actually going to go to
+the before folder of Lecture 63, which is our current lecture, and I'm
+going to go ahead and start the browser string to let us see what was before
+we started and implemented the change. Let's go back to the code editor or the
+browser and let's refresh the page here. Okay, so
+when we go to the Menu categories page and click in it, there's something missing. This Menu right here, this Menu button should be highlighted
+just like that, but it's not. And the reason it's not is because
+obviously it's not a separate page. So the active class that used to be in
+here that used to light this up like that is not there. So what we need to do is
+unchange when this happens, when the Menu Categories page gets loaded,
+and for that matter when the single category view gets loaded, we need
+this button to be in the active state. Let's go back to our code editor and
+see how we implemented that. We create this function
+called switchMenuToActive and wheat we're doing in it is the following, first of all want to remove the active
+class from our navHomeButton. Remember, if we go to our browser and
+actually squeeze it. What's going to happen is that
+even though you don't see it but actually it's sitting on
+the Home button and if we go to right now we actually are already on
+the particular Menu category page. This should be on the Menu
+button on the Home button. Okay, so let's go back to the code editor,
+and what we need to do first is we need to remove that active class
+from the Home button. An what we're doing, it is we're selecting
+an element with an ID navHomeButton and actually if we select that and
+go to our index in HTML and try to find that it's right here. It's that menu item right here
+in the top right of our site, unless of course it's squeezed and
+now it's in the collapse menu. But it's possible that the navHomeButton
+has the active at the moment, and actually that is the default when we load
+up the page, is that the nav home button, which is hidden on the desktop
+browser display is the active one. So we need to remove this active class
+from the list of classes over here and we need to insert it into
+the MenuButton instead. So let's go back to our script dot JS, and
+we just scroll down a little bit again. And so switch menu to active. Okay, so the first thing is
+we're getting the class name. And the class name is not one class name,
+it's really just the class attribute. And the class attribute
+can have many classes. In our case, in HTML here, you can
+see that has visible XS and active. So there's a couple of classes that
+could be in there, separated by spaces. And the way we're doing this is we're
+using that same replace function of the string class to say we're going to
+create a new regular expression, and again, it's not going to be
+a very fancy regular expressions, it's going to be just an expression
+that looks for a little string active. And the only reason we're using it again,
+instead of just saying right here in the first argument is active the string
+active is because we want to use this flag g, which let's us say that anywhere you
+find this, so there's more than one for some reason in there, it will all
+get replaced with the empty string. So we removed the the active class from
+our element that has an ID navHomeButton. And the result of that, we're going
+to save in this classes variable, and then we're going to turn around and
+override the class names or the class name attribute value for
+that navHomeButton, to the classes. But these classes are now, or this
+string is now without the active class. And the second thing we're doing,
+is we need to add the active to the active class, to the menu
+button if it's not already there. So the first thing we're
+going to go ahead and grab, what are the class names
+inside this navMenuButton. And check if the index of active,
+this word active, is- 1 and this function indexOf
+returns- 1 if it cannot find the string inside the string that you
+are applying this method on. And if that's the case
+we're going to go ahead and add classes equals classes plus active. This is what this plus equals,
+as you remember, means. And obviously we want to make sure to give
+it a space because there might be a class there already. So we'll put a space in here. And then we're again selecting using
+our querySelector the navMenuButton and having that class name or the class name attribute equal to
+the classes that we just constructed. Which is whatever classes were there
+before plus the active button. Okay let's see if that actually works. Let's go back to our command line and switch our browser sync to
+being from before to after. And let's go ahead and
+fire up our browser sync. Let's go to the browser. And then we can just close this and
+just simply refresh this. And here's our browser sync. And now if I go to let's say Menu, right, Home was selected, if I go to Menu and I
+see here that now Menu stays highlighted. So if I actually open this up I can see
+that the Menu button is high lighted and if I go to a particular Menu item or particular Menu category
+with older items in it. The Menu is still highlighted. So if I go back to Home and go back to
+Menu and go to a particular Menu category. I could see that the Menu
+button stays highlighted. Okay, other than maybe putting up some
+information in the About section and the Awards section, our website is
+100% done and ready to be deployed.

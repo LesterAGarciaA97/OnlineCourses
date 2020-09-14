@@ -1,0 +1,163 @@
+[SOUND]
+>> Before we launch into discussion about AJAX,
+which is essentially a client-server communication technique, let's talk
+about the language in which the client, that is the browser,
+communicates with the server. And the language that they use,
+otherwise known as protocol, is HTTP. So let's talk about some HTTP basics. Number one is what is HTTP? Well HTTP stands for
+HyperText Transfer Protocol, HTTP. And it's based on a request
+response stateless protocol. And stateless in this context means
+that when the server responds to a request from a browser, that response does not depend on any
+previous requests that the browser made. In fact, as far as the actual language
+in which the client, the browser and the server communicate,
+the server has no idea whether or not the client or the browser has
+requested anything from it before. Now, obviously, in the real world, you
+need to be able to know that if I click to buy a book two minutes ago,
+that when I go to my shopping cart and want to check out, that I'm the same
+person who clicked to buy the book. And it's a little bit outside of the scope
+of this course to explain how that works, but the protocol itself,
+the HTTP protocol is stateless. There's nothing inherently in it that
+remembers that you are the same person who requested or
+made that request between the browser and the server a couple of minutes ago. So the way the client-server
+communication works is as follows. The client, the browser usually,
+opens the connection to the server. Then the client sends an HTTP request for
+a particular resource. And then the server responds with
+an HTTP response to the client, usually with a resource that
+the client requested, but sometimes the resource is not found or
+some other error occurs. And then the client, that is again the browser usually,
+closes the connection to the server. Now before we speak about the actual
+communication language, the HTTP protocol, for a little bit, let's talk about how
+to identify a resource on the web. And the way we talk about it, we have three terms that we need to
+understand that are kind of thrown around. And it's a good idea to
+understand what they mean. The first one is Uniform Resource Name,
+otherwise known as URN. What a URN is, is a way to
+uniquely identify a resource or a name of a resource. The thing though about URNs is they do
+not tell us how to get that resource. And URNs are very commonly
+used by organizations and institutions who want to standardize to
+maintain some uniqueness of a particular resource within that organization. So, for example, if Coursera wanted
+to maintain unique names for each course that they have,
+they could make my course or this course you're taking and
+could generate a string that says HTML/CSS/Javascript/Web
+Developers/Yaakov/Chaikin, with the slashes in between, and it will
+probably uniquely identify courses or this course within all the other number of
+courses that they have on the platform. It will not, obviously, uniquely identify
+my course all over the world, but it might uniquely identify it
+within the Coursera platform. Another term is URI, and URI stands for
+Uniform Resource Identifier. And what that does is uniquely identifies
+a resource or a location of a resource. But even though it identifies
+uniquely the location of resource, it still does not necessarily tell
+us how to get to that resource. And the reason it doesn't
+is because within a URI, the context is usually missing. It's very similar to URN except
+the URI is much more directory type of structure looking thing. So, for example, a URI might be
+/official_web_site/index.html. While if I'm sitting at coursera.org, this will mean a unique URL put
+together with the coursera.org. But if you just give me the URI itself,
+it doesn't really tell me where to get it. And if you just come over to me and give me this URI
+/official_web_site/index.html, I will not be able to get that resource because
+I won't know where to go to get it. Once you take me to where to get it,
+if you take me to coursera.org, and I start from the root of coursera.org,
+and I could start searching /official_web_site/index.html, then
+I'm able to get it. But URI by itself doesn't necessarily
+tell us how to get that resource. The last final term is URL, and
+that stands for Uniform Resource Locator. And this is something that's
+obviously thrown around on the web all over the place. When you ask somebody for
+a website address, it's a URL, it's a Uniform Resource Locator. And URL is a form of URI that provides the
+information on how to get that resource. So, for example, if you tell me that it's http://www.mysite.com/official_web_site/i-
+ndex.html, I know exactly where to get it because
+mysite.com only exists in one place. So I know where to go
+to get that resource. So let's take a look at an HTTP
+request structure, in other words, the actual language that the browser
+communicates with the server. And this is an example of a GET request. So this request starts with the word GET,
+and it's almost like a command. I want to get some particular resource. And that command is called a method. And there's many methods and we're
+going to talk about a couple of them. Then follows the URI string. So this command has particular
+parameters you have to pass it. So it starts with a GET, and
+then you pass it a URI string. And then you pass it a query string,
+which is not a requirement, but a lot of times you do see that. And a query string is nothing more than
+a name value pair separated by ampersand. So, for example, in the orange box, you can see that question mark, which is
+something that starts the query string. And you see first=Yaakov&last=Chaikin. So those are two name
+value pair parameters. And the last part of this
+command is HTTP/1.1, and a long time ago,
+already at this point was HTTP/1.0, it's the HTTP version,
+the version of our language. So this is the command
+that the browser issues to get at a particular
+resource on a website. I'm sure, looking at it, you could start seeing that there's
+something strange about this command. Where is the website name? How do I know it's a URI, it's not a URL? The reason it's a URI,
+not a URL, is very simple. This command is only issued once the
+browser actually connects to the server. So we're already connected to
+coursera.org or to mysite.org. And now that we've connected and
+established a connection to that particular website, now we are asking for
+a URI within the context of that website. And the way we ask for
+it is using a particular language, and that language is called the protocol. It's the HTTP protocol. A good analogy would be, if you and I both speak English,
+that's our language, that's our protocol. When I say hello, you say hello back. However, it's no use for
+me to stare at my phone and keep saying hello to you if I've
+never even dialed your number, right? The first I need to do is I need
+to dial your number, connect, our phones need to connect together,
+and once the connection is established, I could then ask you and
+say hello, and ask you questions. Before then, I really can't do anything. Well, very similar to here. The browser first has to make
+a connection to the server. And once it makes a connection,
+it starts the HTTP protocol, starts the language of communication
+between the browser and the server. So what you see in front of you in
+the slide now is a GET command, otherwise known as a GET request. And it's named after the method, or the command, that is issued as
+the beginning of this line. Now there are a number of these methods,
+and let's go ahead and take a look at a couple of them that, at least for
+us, is going to be pretty important. One of them is, again,
+the GET command or the GET method. And what that does is it says, I want to retrieve the resource
+from the particular location. And the way you pass
+the data using that method is you pass it to the server
+as part of the URI. As you remember, we had the query string,
+well, that's how you pass the data. And the data is not so much to be stored
+on the server as much as really a way for us to tell the server and
+identify a particular resource, or maybe filter a particular resource,
+the data from that particular resource. So we need to pass the data to the server
+in order to get the data back. It's not really for
+the server to store it, necessarily. The other command, or the other method,
+HTTP method, is POST. And this method sends the data to
+the server in order to be processed. And the data that you sent to
+the server is sent in the message body. Now the server may still respond,
+and most of the time does, respond with some sort of response, maybe
+an HTML page, maybe some sort of data. But that data is more viewed as
+a status or kind of a confirmation that the data that you sent to the server was
+in fact processed, whatever that means. Stored or some other side effect
+happened because of it, but it's an indication that it was processed. Now, there's many more methods
+that we're not covering here, but these are good enough just to
+get an idea of the actual protocol. So when we talk about POST request and the
+data being sent as part of the message, let's go ahead and
+quickly visualize what that looks like. So this is a typical POST request, and you could see there's a POST /index.html,
+but there's no query string. The query string or the data that we're passing comes
+as part of the body of the message. So there's a few parts here that actually
+exist on pretty much every POST request, which is the first line, the POST request
+itself, followed by some request headers. In this example, Accept-Charset
+is telling the server that our browser knows how to process
+utf-8 character set. And, after that, we have the message body. This is where the data is
+being passed to the server. So this is the POST request. Let's take a quick look as to what
+an HTTP response structure is like. Well, it starts with just
+a response status line. And the response status
+line has three components. The first one is the HTTP version. So the server spits back out
+the version of HTTP it's communicating. The second is the response status code. And the third is the English phrase
+describing that status code. And all three parts
+are separated by a single space. So a typical HTTP response
+may look something like this. It will start with HTTP/1.1 200 OK. It will follow by some
+HTTP response headers, in this case, it will tell you
+what the date of this document is. It will tell you the content type,
+in this case, it's text in HTML. And then the body of the message or
+the body of the response will be HTML. Now the message body of
+the response need not be HTML. It can be, for example,
+plain text, XML, or JSON, something we haven't
+really talked about yet. So let me show you some
+common response status code. One of them is 200 OK. And that basically means that the server
+is saying, okay, I got your request, and here's the content you requested. Another one is 404 Not Found. In this case, the server says, I just can't find
+the resource that you requested. 403 Forbidden, and that means that,
+for whatever reason, the server thinks that the client,
+your browser, is unauthenticated and tries to access a secure resource that
+requires some sort of username and password or a certificate or
+something like that. And another one, pretty common,
+is 500 Internal Server Error, and usually that happens when some
+error was raised on the server and was unhandled on the server and
+it kind of spilled over. And now, you as the user probably in
+the browser are seeing 500 Internal Error. So, in summary, it doesn't take a rocket
+scientist to understand that if you're going to be doing
+client-server communication, you need to understand at least
+the very basics of HTTP protocol. Now remember, the GET method sends the
+data to the server as part of the URL or part of the URI. That's going to be important for
+us as we move forward. And the POST method sends the data
+as part of the message body. And some common response codes are 200,
+that's fine, the data is coming, 404, it's not found, 500,
+there's some internal server error.

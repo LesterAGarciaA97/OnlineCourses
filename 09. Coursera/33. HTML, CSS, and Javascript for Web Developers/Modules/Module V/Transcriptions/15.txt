@@ -1,0 +1,143 @@
+[SOUND]
+So in part one of this lecture we spoke about
+CORS, the Cross Origin Resource Sharing. And we spoke about where
+we are going to get data. That is, we have a Heroku app, a deployed app that is going to service
+JSON with the data that we need. In this lecture we're going to go over the
+code that actually makes the Ajax request to that app. Brings in the data as JSON, parses it and
+populates an HTML snippet that is then able to be inserted inside of
+that HTML as the complete set of HTML tags that we need in order to
+display the menu categories page. The first thing we're going to do
+is look at a couple of snippets. So remember, we took out
+the menu categories, that HTML. And we actually substituted
+them with a couple of snippets. And I separated the menu
+categories page into two snippets. One is categories title snippet.html, and all it is is just a heading
+of that particular page. Remember the heading two is kind of
+the sub heading already and that's just going to say menu categories. And the reason I separated that is
+if you look at category snippet.html that only has one category or
+HTML for just one category. And the reason that is, is because as
+we get an array of these categories, we're going to loop over that array and
+every time we get a category with this information, we're going to want
+to populate this little snippet and then make a copy of it and then insert
+it and keep building up our HTML. So this is what the snippet is about. This is really something that
+is more like a template. And if you look closely I placed
+these what they call mustache or these double curly braces. That have properties that I'm going to
+want to insert into this HTML. And there're actually many libraries out
+there that do this very, very well, but since we don't want to introduce more and
+more libraries to this course, we're going to just stick to a very simple
+approach as we're going to have a string, which is this HTML. And we're going to look for
+this particular string inside of it, using the property names, and substitute
+this property name with actual values. So every time through the loop,
+we're going to grab these values and substitute these particular property
+name placeholders, if you will, into the HTML so we can get the real data. So you can see here what I'm doing
+is that every single menu category, I'm going to create this onclick event and
+I'm going to call this dc, loadMenuItems. Well, we're not really going to write
+loadMenuItems in this lecture yet. But we're going to prep
+it right now anyway. And what we need here is the short_name
+of our particular category. If you take a look at the data that we
+have here, let's open up this again and refresh, so we could take a look at
+the actual data, so if you look at the data here, we have the short name for
+each category that is going to be very important because we're going to use that
+to pull out other data from the app. So let's go back to the code editor,
+and basically that's what it is. It's really nothing more than that. And we have obviously several different
+properties here that are the same because they show up in different
+places of the same snippet. Let's go to script.js and
+see how we're accomplishing that. So first of all we have some
+more URLs to deal with. And here, I declare them here at the top. One is all categories URL. Well, that's the URL where you can get
+the JSON from our server side app. That will return all the categories that
+we have in our menu as adjacent string. And we have a couple of URLs that
+are just passed to our snippets. One is the categories-title-snippet and the other is
+the category-single-snippet.html. insertHtml you've seen before,
+showLoading you've seen before as well. One you haven't seen yet
+is insertProperty. Remember, this snippet right here,
+category-snipet.html, somehow we're going to
+grab this as a string. We're going to grab that
+using Ajax request. And then,
+we have this entire HTML as a string. Well, we need to then substitute every
+property that has these mustache or double curly braces around it,
+we need to substitute it with a value. Well, this is the function
+that's going to do it. It's called insertProperty and I'm asking
+it for a string, the PropName, and the propValue. So this is the string where we're going
+to insert things into, the PropName, propValue. And it's going to return,
+as a return value, it's going to return the string already
+with those property values inserted, instead of the property names there. So the way we're going to do this is, we're going to set up first
+of all the property name. And remember those curly braces. And what we're going to do is we're
+going to use a replace function of the string class. And use a regular expression object
+except we're not really going to use any kind of a fancy regular expression. It's just going to be the property to
+replace that property that we've set up. So just the verbatim
+string that we've set up. We want that replaced. And the only using we're using this
+regular expression is because we want to specify this flag g,
+which just tells us go ahead and replace it everywhere you find
+in the string right here. So not just the first place you find,
+but everywhere you find. So since we have, for example,
+this category snippet we have this name property showing up
+quite a few places here, we don't want it to replace
+just the first one it finds. We want it to replace all of them. And here's the propValue with which you
+should replace that particular string. Once we're done with that,
+we return the string and we're good to go. So this is how we're going to
+take the string, the snippet, and we can populate it with property values. So scroll on down. We have the Ajax seven request,
+that is for the main content that we've seen before. And here's our
+loadMenuCategories = function that is going to get triggered in order to
+pull all these categories into the page. So the way we're doing it is, again, we're
+first going to show our loading icon, and usually on these sites the server is
+going to be fast enough that you probably not even going to notice that loading
+icon kind of flashing and going away. But if the sides get a little slower or the data comes back a little slower,
+you will eventually see it. And we're making our Ajax
+request afterwards and we're using our allCategoriesUrl,
+that's URL to our Heroku app, and we're passing buildAndShowCategoriesHTML, that is a value of a function that
+is defined actually right here. And since we don't really need
+the true right here, it is default, which is going to go ahead and leave it
+off, which means that this function right here will get categories, will get
+whatever that is the first argument in the function is, is going to be an object
+that is converted from the JSON string. It's going to be a full blown object. So once this Ajax call is done and
+this function is called, we end up here. But we're not done with Ajax just yet. First, we need to go ahead and
+request the category's title HTML. That is, that snippet of HTML
+that just gets the category, and we need that string in order to
+append it to the rest of it. So once we get that string,
+I'm not ready to do much with it yet. We need to make yet
+another Ajax request and notice that that Ajax request
+is sitting inside of this one. Because it only makes sense to make the
+second one when the first one is actually over and where in the context such that we
+could grab the result of the first one. So there it is. So technically speaking this would be
+the third Ajax request we're making. And we're making that request to
+get the category categoryHtml and that's that snippet,
+category-snippet.html. And once we're done, we have all
+three pieces of data that we need. We have the categories object
+that it lists all the categories. We have the title of the page, the snippet
+of the title of the page as a string and we have a single catergoryHtml
+snippet that we could now use, so all we need to do now is maybe call some
+function like buildCategoriesViewHtml. So now we actually building the view. Pass it the categories object,
+pass it our title snippet, and pass it our actual category snippet. And we're going to go ahead and build that
+view, store it inside a variable, and once we're done with that and
+that is a synchronous call, there's nothing asynchronous about this,
+it's just synchronous call. We're going to use our insertHtml to
+place it inside the element with ID main content and there's that string
+that we're placing inside of it. And notice both Ajax calls, this one and
+this one both pass false because we don't want the Ajax utility to try to process
+our snippet, our html snippets as JSON. So let's go ahead and take a look
+at this buildCategoriesViewHtml. Well, it's a pretty simple function. It goes ahead and builds up our final HTML
+snippet by grabbing the categories first. Remember we need to put that
+whole thing into our row so remember that section piece is not really
+here anymore because it only comes once and is a whole bunch of these
+that's supposed to happen. So that is what's happening here where
+inserting a section with a class row and then we're looping over our categories
+object and every time we pull out the name, the short name, and all we're
+doing then is just insertProperty. Remember that insert property
+function that we discussed, well, this is what we're it's coming very handy. We insert property and
+every place where there's a name property inside our snippet it gets replaced with
+the value name, same for short name. Finally, we're done and
+we're looping over this every single time. And notice that every time we're
+copying the category HTML, that's that snippet that has the properties in it,
+into HTML, which means we're separating. Remember the pass by value? As by reference,
+well this is copied by value, which means this is a copy that
+is not connected to this anymore. So every time through the loop,
+we get a new copy of it right here and then we can insert the new
+values to it once again. And once we're done, we just return
+our final HTML that's built up, we close the section tag, and then it
+goes back right here where we use to talk about before and that just
+inserts that inside our main content. And that's how we get to this place
+right here where when we go to the front page and click on this menu, it executes a function that pulls in
+all of this right here into our page. So now we're done with the menu
+categories page and it's time to move on to a single category page, so when
+the user clicks on the soup category or appetizers category, they should be
+able to see all the menu items for that particular category and
+that's what we're going to code up next.

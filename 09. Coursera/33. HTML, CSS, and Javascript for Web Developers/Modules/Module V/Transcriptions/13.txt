@@ -1,0 +1,132 @@
+[MUSIC] Okay, so in this lecture,
+we're ready to move on. And our next task is to
+load this entire content. This main content of the front page to
+load this whole content dynamically. Now first of all,
+why do we want to do that? The reason we want to do it is because
+we're trying to move towards what's called an SPA, or SPA and stands for
+single page application. So a single page web application. And besides for being a pretty
+popular web coding technique nowadays, since SPAs heavy rely on Ajax, this whole content right here is
+going to be inserted dynamically. But the rest of the content
+is going to stay. So we're going to basically update
+the least amount of the page possible to make it functional. And that's very advantageous because
+obviously it's going to be faster and also is not going to refresh the page for
+the user. It's going to be a much,
+much nicer user experience. So let's go ahead and
+go to our code editor. And right now, we're located in
+Lecture60 in the after folder and we're looking at index.html. Well, for that purpose in order to make
+the entire content, the main content the dynamic, we actually need to wipe
+it out and this is exactly what we did. We don't have any more in
+the index.html the main content. There's only just a placeholder for
+the main content with id main-content. Now, where did all of that stuff go? Well, we have a new folder
+here called snippets. And if we open it up,
+there is a file called homesnippet.html. So if we open that up, the entire contents of our homepage
+are really contained right here. So you can see there's our jumbo tron,
+home tiles and so on. We did change a couple of links, cause you notice the menu item
+here is no longer just a link, it's actually a link to basically
+nowhere with an onclick event handler. And we'll talk about that
+a little bit later, but we just kind of prepped it for
+the next step. because obviously we're going to have
+to display our menu category page and then individual single category page and
+we're still going to have to do this, using this spot technique or using Ajax. That is, we'll need to take that
+content and dynamically insert it into the index dot html right here
+at the place holder in the content. But for this lecture all we need
+to do is figure out how to insert the previous mint page content
+inside the main content placeholder. Let's go to our script.gs,
+where I have prewritten some code, and let's go over that. So first of all,
+you could see this code up top. This is what we just wrote
+in a previous lecture. This is just to make
+the collapsible button collapse the menu when it loses focus. Okay, so what we're going to do is
+first of all we're going to set up an immediately invoked
+functional expression. As you can see here we're starting with
+prints global and going all the way down here we're executing this function
+passing it to window object. So our global right here Is
+really just the window object. And we're setting up the namespace dc,
+just probably for David Chu's. That's how I named it. And as you could see, we're exposing this thing right
+before the end of this call function. We're saying global,
+which is really window. .$dc, that's that where we want to expose
+this as and dc our internal theme space. So whatever we attach
+to the dc as a property is going to get exposed to
+the global object in order for us to use it in some other page or
+some other script. Okay, so let's take a look
+as to what we're doing here. First of all we're
+setting up our home HTML. That's nothing more than just the URL as
+to where the snippet is going to sit. And then we're going to have a convenience
+method here so we don't have to write this from scratch every time because we're
+going to have to do this several times. Is if you give me a selector and you give
+me the HTML, I will go ahead and take, select that selector. Take that argument, take that element I
+should say, grab that element, the target element, and set its inner HTML, to
+whatever the HTML string that you send me. So this is just a convenience method to
+say, insertHtml, pass it a selector, and the HTML string, and
+it will insert it into the target element. Another function that we need is show
+loading icon, it's this showLoading here. So obviously an HS request is going
+to be done asynchronously and it will go out to the server and
+bring us back some content. But meanwhile,
+what is going to be displayed to the user? Well, we obviously don't
+want to display nothing. We don't want to display blank. We would rather display some
+sort of an animated icon that is going to show the user
+that something is going on. Well, ajax-loader.gif is an animated GIF. And I'm going to tell you in
+a minute where I got that from. But let me go over the code first. So showLoading basically
+says give me a selector to which I should attach
+this loading icon. And I'm going to set up a very simple div. I'm going to put an image inside
+of that div and close the div. So this is just a,
+building up an HTML string. And it's pointing to this
+images/ajax-loader.gif. And then I'm reusing my insertHtml
+that I just defined, and basically inserting that into
+this particular selector. So I'm able to then display this. Rotating or whatever it is Ajax loader
+icon inside this selective past send. Now where did I get this index or
+ajax-loader.gif. Let me go back to the browser for
+a second. There's a great website called
+ajaxload.info and it allows you to basically choose different types of
+loading icons that you could choose and then set whatever background color you
+want and whatever foreground color you want and generate that icon for
+yourself, and there it is. And then you could click
+to download that GIF, and then you could use it in your web site and
+absolutely free. So it's a great web site for
+these type of activities. But it's not the only one,
+there are others out there, and definitely google for
+it and you'll see some others that are perhaps a little bit more
+creative but not as straight forward. So let's go back to our code editor,
+and keep going here, so. So we want to set up an on-page load. What we're doing here is we're waiting
+till the dom content has been loaded. And in that case, once it is loaded,
+we're able to start executing things and basically executing queries. The selector quarries that will
+actually find things since we need HTML to be loaded at that point
+in order to execute query selectors. And here what we're about to do is we're
+about to make that Ajax call we've seen before. But before we make the Ajax
+call we want to go ahead and turn on that showLoading. And that showLoading is going to insert
+in the main Content ID that element is going to insert our
+rotating Ajax loader so it's going to place it right here
+as the inner HTML of this element. Once it's done it's going to
+issue our ajax request. The Ajax request is going
+to be a fairly simple one it's going to give us the home URL or
+the home HTML URL. And that's something we've
+defined right here, previously. That's just the URL as to
+where that snippet is sitting. And since we're passing false as
+the last argument, as you remember, false means I don't want you
+to pre-process this as JSON. And we don't want this as JSON, because,
+all it is is just an HTML snippet. What is going to come back
+in our handler function is just some text to actually
+just a response HTML. And once it does come back we're going to
+select our element with ID main-content and set its innerHTML to whatever
+the responseText came back to be. And that's about it. So once we're done with this,
+we can save this, go to our browser, and switch to David Chu's China Bistro
+through our browser sync. And we if we actually reload this right
+now, it should very quickly get loaded so the entire content is here. So let's actually take a look
+at The Chrome developer tools to make sure that we think is
+going on is in fact going on. Let's go ahead and open it up and
+leave it on XHR, which stands for XMLHttpRequest that's the Ajax request,
+so we don't want to see all the requests. We just want to see the Ajax only. So let's go ahead and refresh
+the browser that's going to give us a whole bunch of requests here because
+we have Google Maps embedded in as well. So there's definitely a lot
+of things going on here. But one of the things you see is there is
+an Ajax Request for home snippet.html. And that's exactly what we get,
+we get that little snippet over here. And that happens once the page loads and
+kicks off this whole Ajax process, which then goes ahead and fills in
+the content, the main content of our page. So if we take a look right now and try
+to click on this Menu button right here, nothing's really going to happen,
+it's just going to sit right here. But if we open the Chrome Developer Tools
+and look at our console, we going to see there's an error, the
+dc.loadMenuCategories is not a function. Well, that's true it's not a function
+because we haven't defined it yet. That function is supposed to swap
+the content of our HTML page, the main content,
+to the MenuCategoires content and that's what we're going to
+do in the next lecture.

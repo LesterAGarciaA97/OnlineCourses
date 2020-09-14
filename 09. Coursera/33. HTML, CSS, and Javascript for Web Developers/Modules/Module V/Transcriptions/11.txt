@@ -1,0 +1,115 @@
+[SOUND] This lecture we're going to
+speak about processing JSON. And JSON is a format that
+is used pretty widely, especially when we speak about passing
+data between the server and the client. So what is JSON? Well, JSON stands for
+JavaScript Object Notation. And what it is, it's a lightweight
+data interchange format, and I'm taking this
+directly from JSON.org. And it is simple textual
+representation of data. It can't really get any simpler than this. And it's great for a couple of reasons. Number one, is it's easy for
+humans to read and write JSON and it's easy for machines to parse and
+generate JSON. So in a lot of sense this is very
+similar to XML because it also was pretty easy to write for machines and
+for humans to read and write. But JSON notation is quite
+a bit simpler and shorter. And most importantly it is just like XML,
+completely dependent of any language, any programming language. So what's the JSON syntax rules? Well, they're pretty simple. Number one is it's a subset of
+JavaScript object's literal syntax but with a couple of exceptions. Number one is the property names must
+be in included in double quotes and the string values must be
+in double quotes as well. And that's it,
+there's really nothing else to it. Syntax for everything else is exactly
+like for object literal in JavaScript. Let's take a look at an example. So here I have an object literal,
+what looks like an object literal. But you can see that
+the property is included. Every single property name is
+inside double quotes and any string values have double quotes around them as
+well, not single quotes but double quotes. All the other value like false, like a number, are listed in the same way
+you would list them in an object literal. So this is a typical string that would
+really go over the wire from the server to the client. But even if you're in the browser,
+and you're in your JavaScript program, you can certainly take the string and
+store it inside a variable. All you have to do is put
+single quotes around it. The reason you put single quotes around
+it is because there are already double quotes inside of that string. So this is no different than any
+other string you would in JavaScript. Which brings me to a common
+misconception about JSON. JSON is NOT a Javascript Object Literal. JSON is just a string. The syntax of JSON is based on object
+literal but it is not one and the same. You still need to covert between JSON and
+string. If you wanted an object in Javascript,
+you would have to take the JSON string and convert it to an object. And similarly, if you want JSON,
+you would have to take an object and convert it back to a JSON string. And JavaScript provides
+a couple utilities for that. Number one is if you wanted to convert
+from a JSON string into an object, you use this JSON parse function, and
+backwards if you wanted to convert from an object to a JSON string
+you use JSON.stringify method. And yes since we're in computer
+science we are allowed to make up completely
+arbitrary English words. Stringify, there you go. Let's jump to the code editor,
+and redo our previous example, with JSON coming from the server
+instead of just the regular string. Okay, so
+we're looking at name.Json file, and it is located in Lecture 58 data folder. And we basically substituted the name
+that PXT with this name .JSON. This has what looks like
+a regular object literal, except we know it's just a string. It's a string that is sitting on
+the server and you know, it's adjacent, you can see all the property
+names are in quotation marks and the strings are also in quotation
+marks and they're both double quotes. So this is the same string we
+actually saw in the slides. Let's go ahead and go close the file
+browser, and go to our ajax utils.JS, and what we're going to do is we're
+going to enhance them a little bit. When we say send date get request, we're going to provide one more
+argument called is JSON response. So we want to pre-process
+our response in instead of having to process JSON.par
+everytime inside of our custom script. So let's go ahead and do it once. So what we're doing here is we're saying
+is JSON your as a client of this code, you could pass it a true or false or
+just admit it and it will automatically, if you admit it will automatically
+assume that you want JSON. But you can pass a false in here and
+that will work as well. And onreadystatechange property, which is going to go ahead inside
+our anonymous function, our closure, we're going to pass this isJsonResponse
+into the handleResponse function. Let's go ahead and take a look at this
+handleResponse function because it got updated a little bit. So now we are passing isJsonResponse. And after we figure out that it is
+time to handle our real response, we're going to first check whether or
+not we need to kind of default it to true. So if json isJsonResponse is
+actually equals undefined. Then we want to set
+isJsonResponse to true. So if nobody passes us anything, we'll
+just default the response to be true. And then we check that
+if JsonResponse is true, then the responseHandler
+is going to be passed when we execute our responseHandler
+that the client of this code. Right now it's also us, but a different script.js is passing to us
+here The response handler function. What we're going to pass to
+the response handler function is actually going to be
+already a parsed response. It's going to response the text,
+we're going to parse it using JSON.parse. So what response handler function is
+going to get as its argument when its going to get called is
+a parse JSON string. Which at that point will be an object,
+it's going to get a JavaScript object. And in the else, if they want to actually
+not to have JSON be handled in this response handler, then we're just going to
+get them the actual response text and they can handle it, whoever has the color
+of this can handle it however they want. Okay so
+let's take a look at our script.js. Script.js now has the same call
+as before except this time what we're getting as part of our response
+handler is not any longer a request, it's actually the response JSON text
+that was converted into an object. So this R-E-S, res,
+response is actually a JavaScript object. So, we can now start
+building up our message, so here we're saying res.firstName
+plus res.lastName. So we're able to use it just like
+you would use in your regular JavaScript object. And in fact we remember that we had
+a property called a likesChineseFood, if we take a look at name that Jason. LikesChineseFood was equal to false. So, we can actually use it inside
+of a new statement, like a true or false value likesChineseFood, and we'll
+properly resolve to false in this case, because that the name that JSON returned. And message will be said
+does not like Chinese food. And the message will continue
+to be appended to and finally we could say number of displays. And this is supposed to be
+a number a real number. So if we wanted to say
+something else like plus one, we can but right now let's leave it alone. And when we do this here we can
+finally say the final message and we'll select our content, which is our div
+placeholder in the index.HTML page and we can go ahead put that message in
+between the opening and closing h2 tags. So let's go ahead and do this,
+save this and let's go ahead and click Say Something. You can see it says Yanikov Chaikin
+doesn't like Chinese food and uses two displays for coding. So we can change that. We go to name.JSON and change that
+to true, to see this in action. And we can even change this to
+say that display's plus one. So we're using it as regular
+primitives in both locations here, but we're using through this res response
+object that json.parts built for us. So as we save all that and
+go back and say saySomething. It says Yaakov Chaikin now likes Chinese
+food, which is definitely closer to truth. And uses the three displays for coding. because we edit to the two that
+was responded to by the JSON and was converted into a number. We edit a one so now it's three. So to summarize,
+JSON is a lightweight data representation. It's a great format for passing data
+from the server to the client, and a lot of times back as well
+from the client to the server if you want to give it some
+more descriptive data. The syntax of JSON is based
+on JavaScript object literal. But please remember,
+JSON is not a JavaScript object literal. It's just a string. JSON.parse will let you convert
+from JSON string to object. And JSON.stringify will let you convert
+from the object to the JSON string.

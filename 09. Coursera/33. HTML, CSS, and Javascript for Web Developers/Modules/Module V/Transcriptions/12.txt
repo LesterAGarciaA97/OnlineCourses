@@ -1,0 +1,85 @@
+[MUSIC] Okay, so now we're back to
+David Chu's China Bistro website again and now that we're armed with JavaScript we
+could do some really neat things with it. Number one is let's go ahead and
+fix the issue that we left over for the JavaScript part that we couldn't
+fix before, and the issue was this. If we squeeze the browser and turn it when the button over here comes
+up that the menu now is a collapsed menu. And if I click on that the menu comes up,
+but if I click anywhere here I really expect that the menu should
+collapse by itself, but it doesn't. So what we need to do is we need to attach
+an event handler to this button that after we click i,
+the second the button loses focus, which means I will click
+right here somewhere, so in other words in the JavaScript
+event handler speak it's the blur. On blur, on blur means that
+the particular element loses focus. Okay, so how do we achieve that? So first of all we need to figure
+out when to do this, right? We obviously don't want to do
+anything similar to this on blur when we're dealing with these big buttons. We only want to do this when it
+becomes this collapsible button. So if we actually turn on
+the Google Chrome developer tools we'll be able to tell what the size is,
+and it's very clear that the button comes up
+around the 768, 60 something like that and that's a break point obviously that
+we had and we've established before. So let's go back to our code editor, and right now I'm located in
+lecture 59 in the after folder. That's where I'm going to be working from. In the before folders again,
+is a copy of the after folder the last time left over the David Chu website
+in the state that we left it over. That's where this before folder is. The contents of the before folder are, so what we need to go is to our script.js
+file and I have some code here that I've prepared for this particular
+lecture that we'll go over right now. So the first thing is we need
+to do something on blur. Well I'm going to talk about this in just
+a second, but before we do we really want this functionality to start
+when the dom content is loaded. Well, the thing is that we would love to
+do just straight forward JavaScript, but we can't because we need to use the jQuery
+library because the collapse menu was what we're trying to do here Is a plugin that
+is based, that is hosted in bootstrap .gs, bootstrapmean.gs, and it's based on and
+it's dependent on jQuery. So can't really avoid the jQuery library
+at least for this particular piece. And even though this query doesn't
+really include jQuery library you're certainly now equipped enough with
+JavaScript to understand what's going on. So let me go over in some detail
+as to what's going on here. The jQuery function name is actually $. That is exactly right. The name of the jQuery function is $, so
+what is happening here is there's a $ and then something is being executed as
+you could see the opening parenths and a closing parenths, so
+we're executing a $ function against that. Well, what that does in jQuery, the $
+sign function is it's the same thing as the
+document.addEventListener("DOMContentLoa- ded", which means anything inside
+of this function that we provide in here that's what that $ function expects
+in this type of scenario that if you put a function inside of it what's going
+to happen is it's going to get loaded or this function is going to get executed
+when HTML has been processed, but before all the images and
+extra resources have been loaded. So, this is exactly basically
+the DOMContentLoaded event. So, this is what when this
+code is going to get executed. It's really as simple as that. So now,
+let's take a look at what's going on here. Yet again,
+we're reusing this dollar sign function. Well, the jQuery dollar sign function
+also has another functionality, and that is serves as a query selector. So if we out something in quotes
+inside the parens after the $, then that becomes or that serves as
+a selector so really this statement right here is no different than this statement
+right here that I wrote in the comments, which is document.queryselector
+then #navbarToggle. So what we're doing is we're selecting
+element with an ID navbarToggle. ANd if we go and look at our HTML. Let's go and copy that and move it out
+index.html and let's search for that. So this is our button right here,
+the navbarToggle, right? That's the button. So if that button loses focus, and
+as I told you that means on blur, and on blur just means .blur, which is exactly
+pretty much the same as we would do here. Once we would select it in
+a regular JavaScript we would say addEventListener and
+blur is the event. So this what basically we're doing here. We're saying that blur when that
+happens I want you to execute that function right here and
+this function just says the following. I want to first grab the screen width and
+you'll see we're doing window.inner width, which means it's the width of the browser
+itself not the entire screen of the monitor, and then if the screen width
+is less than 768, so we're basically checking if we're within that break point
+where the collapsible button shows up. If that's true, right? And that button lost focus what we want to
+do is we'll once again select collapsible nav, collapsable nav is that menu, and
+we could take a look at it right now if we go to index.HTML and search for
+collapsible nav, and there it is. So you can see that's all
+our menu items right here. So point is if we select that and apply this function called
+collapse with a value of hide. Now this collapse function and
+if you copy+N we'll go to boot strap and we'll search for
+it in here there's the collapse.js. So this whole thing is coming from inside
+Bootstrap, but is a plugin to jQuery. So we can't really avoid jQuery
+unfortunately at least for this course, or fortunately I guess. You now learned a little
+bit something new. Okay, so now that we'd collapse
+it we're good to go, and if we save that right now and
+go back to our browser. And now if we squeeze the browser to
+have the button show up if we click on the button the menu shows up, but
+if I click anywhere else the blur event will fire and
+this whole menu should collapse. If I click the menu collapses. Great, so now we're done with that
+little nugget and we're ready to move on to make the main part of our
+webpage become much more dynamic.

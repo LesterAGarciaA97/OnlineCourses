@@ -1,0 +1,170 @@
+[SOUND] In the previous lecture, we populated our menu categories page dynamically from
+the server, pooling the data for our menu categories page from the Heroku
+app that is implemented in Ruby on Rails. In this lecture, we're going to
+do something very similar, but this time we're going to pull
+the specific category and all the menu items for
+that specific category. Right now,
+I'm looking at category-snippet.html, which is located in Lecture62
+folder in the after folder. And the reason I'm looking at
+the categories-snippet.html, which is something we implemented in
+the previous lecture, is because I want to take a closer look at the hook that we
+used in order to get, or at least set up, in order to get to the point where we
+could click on a single category and get the single category menu items. Well the hook is right here. It's onclick, and we're saying dc,
+or $dc, loadMenuItems and we're putting in this
+short_name right here. Well loadMenuItems is something we're
+going to look at in a minute but the short_name is very important is
+because that is seems to be at least the property which we use to get at
+the data for a particular category. Let's go back to our browser and
+go to our David's Restaurant app. And see that there's
+another rest api endpoint, as they're called,
+that says menu_items.json. That's what we want. And we're passing it a request
+parameter called category. And depending on what this letters are,
+this letter or letters, we're going to get different results. So, for example, if we do VG and actually
+refresh that and click on that and let's take a look, so here, VG, it gives
+us an object or gives us a string, adjacent string that will be converted to
+an object that has two properties in it, category and menu items. Category is yet another object and
+menu_items is an array of objects, so if we open that up, we could see
+all these objects that are inside that menu_items array, they're really just menu
+items for the category that was returned. And the category is returned
+as a property called category. Now depending on what we place here, let's
+place here L, for example, for lunch. And if we scroll back up here, we'll see
+that now we're in the Lunch category. And here are all the items for
+the Lunch category. So point is that short_name
+is pretty important for us, because that is what we're going to use
+to append to this base URL right here, this is going to be our base URL. And we're going to append this,
+whatever that they click on, we're going to append that letter or
+number of letters like VG, to be able to get at the particular
+data for that particular category. Let's close up this
+extra window right here. Let's go back to our code editor. And let's take a look. Let's close this snippet and take a look at the couple of snippets
+that we're going to use for this. Number one is menu items title HTML. And since I have this implemented already, let's actually take a look
+at the end results. So if we are in the front page and we
+click on our menu item here ore menu tile, we get to our menu categories page and
+if we click on, let's say, lunch, we'll get to our specific menu category,
+which is lunch menu. And you can see that we have
+a whole bunch of menus here, a whole bunch of menu items with pictures,
+and we have two components here, which is what I divided
+over there into snippets. One is the component of
+the actual heading of it. So it says lunch menu and gives some
+sort of specific instructions for that category, special instructions. And then we will have a separate
+one that just lists every menu item in that category. So let's go ahead and take a look. Here is the menu items title. You can see here we're going to
+say whatever the menu name is, menu like lunch menu or
+vegetable menu or something like that. And we're going to list the special
+instructions right under that. And both are basically bound to this
+particular thing with these curly braces, double curly braces, mustache,
+whatever you want to call them. But from the previous lecture, we already
+know how easy it is for us to insert our property values instead of these property
+names, so that's enough said about that. Let's go to our script.js and take a look
+as to how we're accomplishing this. Okay, so
+we have a few more URLs to deal with. Number one is we have the menuItemsUrl,
+and as you can see, the URL is the same URL we use,
+except category equals, doesn't have anything equal to. Well that's because we are going to append
+the short name of the category on the fly. And then there's the two snippets, the
+menuItemsTitleHtml and the menuItemHtml. So if we scroll down, these are all
+the functions we've seen before. And we get to this one
+that's called loadMenuItems. And it looks very,
+very similar to the one before. It's basically almost the same,
+except that when we make the Ajax request, we are taking the menu item's URL, while appending the short name that was
+passed to us through the HTML snippet. Remember the HTML snippet,
+the category snippet, when it said dc.loadMenuItems, and
+it passes the short name right here. Well, this is the one we're
+looking at right now. It got closed for a second,
+let me scroll back to that function, loadMenuCategories right here,
+loadMenuItems. So this is the categoryShort. That's what got passed into us when
+the user clicked on that particular item. So our URL that we're
+making Ajax request is now complete when we put those two together. And we're also designating in a function
+that is going to process the results of that Ajax request. And again, it's going to be JSON so
+we don't need to put false in here, we're actually going to
+default to JSON processing. So build and show menu items HTML. Let's go and take a look at that function, which is right here at
+the bottom of those two. And basically, we know that category menu
+items is going to be an object that's going to get returned because our
+JSON is going to get processed. And again, we have these double
+Ajax request and very similar. First we're getting the
+menuItemsTitleHtml, that's that snippet. Then we're going to get the menuItemHtml,
+that's the single one. If we take a look at here, menuItemHtml,
+it's quite involved, but this is exactly what we basically pulled out of our
+single category, that HTML page. And all it is is just basically placing
+those properties in the proper places in order to construct, for
+example, a URL that we need for the JPEG that is going to be
+sitting inside the images folder. We have the prices here, and
+price small_portion_name, sometimes the price is small, but
+sometimes there's only one price. So we're going to have to deal with
+the fact that sometimes we're not going to have a small_portion_name,
+which is going to have one price and no other price here, and the name and
+the description of a particular item. So there's a formatting, really, there's
+nothing for us to do, because we've already done all the formatting through
+Bootstrap in the previous lectures. Okay, so if we go back to our script.html
+or script.js, all we're doing here is very similar construct as we're
+building up our menuItemsViewHtml. And again, we're passing that
+object categoryMenuItems, passing the HTML snippet for
+the title, and passing the HTML snippet for
+the one single menu item. Once that gets built up and
+saved into menuItemsViewHtml, all we have to do is insert it into an element
+with an ID main content, and we're done. And again, false false here
+because both of those Ajax requests don't need to process
+these snippets as JSON. They need to process them as
+just the regular strength. Let's take a look at this
+buildMenuItemsViewHtml. Unlike the previously similar function, we actually need to insert some
+values inside of our title as well. So, in this case, it's going to
+be name and special_instructions. And the name and special_instructions
+come from categoryMenuItems. That's that object that was returned for
+us from the Heroku app as our JSON that was converted into an object,
+.category, that's our property, .name. And the same thing here, MenuItems, categoryMenuItems.category.special_instru-
+ctions. So once we insert that,
+our menuItemsTitleHtml is actually ready to be used for
+our final HTML. So that's why we're starting this final
+HTML with this particular variable that's already kind of pre-inserted
+with the values of our object. And again, starting the section as a row,
+this is something we stripped out of that particular snippet because, again,
+this is only one of these lines. And that snippet is going
+to get repeated over and over and over again for
+every single item in the menu category. So once we're done with that,
+we are looping over the categories. We are looping over the menu items,
+so it says the categories, really it's menu items. There we go,
+this first mistake right here. Okay, so looping all of the menu items,
+and we pull out the short name, because we're going to need that for constructing
+our urls in order to get to our images. Because if you look at our images,
+our menu items are inside the menu. And then every single one has a letter,
+that's the folder for a particular menu category, and inside that folder,
+we have this A1, A2, A3, and so on. That actually needs to be constructed
+using the short name of the category, not necessarily just of the menu item. Okay, so that's basically a bunch
+of inserts that is going on here. And the only difference here is that
+we have a separate function for insertItemPrice, and
+insertItemPortionName. And the reason we do that,
+let's take a look at insertItemPrice. Is because not every time do we have
+a price, for example, a price for a smaller portion might not even exist. So we first check whether that thing
+even exists, and if it doesn't exist, what we insert instead of that, obviously,
+we can't just leave that curly brace, curly brace, a small portion price
+value or property inside our snippet. We don't want that showing up to the user. So what we're doing is we're inserting
+the property named price PropName, which in this case, I think, it's something
+like either small price or large price. And we're substituting with an empty
+string, so basically just wiping it out, so nothing is in that particular snippet with that value if that value
+doesn't actually exist. And what we're doing next is we're
+actually, if it actually exists, we're going to go ahead and
+use toFixed(2), which basically means we're going to
+not have $3 or something like that. We're going to have dollar 3.00. And so we're formatting our price
+to be a proper dollar amount. And then we're using our insert property
+as before in order to put that in. And so that's in the case that it actually
+exists, that price value actually exists. If not, we'll insert an empty string. And the rest of the HTML is very,
+very similar. We keep inserting the values. The portion name is the same thing. Sometimes portion doesn't exist
+in that type, particular value. So large portion may not exist. Or small portion, it may not exist. So that's why we need to send
+it through a special function. And all this code is available so
+you could take a look at your leisure, a little bit slower. The way I'm kind of flying
+through is a little bit, but I want to give you the concept of it,
+not necessarily go line by line. There's one more thing we need to do. Remember the clearfix, right? We can't control how large these
+menu descriptions are going to be. Some might be too large,
+some might be too short, and we don't want our grid to be messed up. So what we need to do is
+after every second menu item, after every second menu or
+after every second grid cell, we need to place this clear fix HTML,
+and that's what we're doing here. We're using actually
+the remainder function, or the remainder operator in Javascript. So we're saying i remainder of 2,
+division of 2. And we're saying if that's not equal to 0,
+meaning there is a remainder so we have item 0. We have item 1, item 2, item 3, and so on. Well item 0 is our first item, right,
+because it's a 0, our arrays are 0 based. Item 0's our first item. Item 1 is our second item. And it's after the second item that we
+need to place our, [COUGH], clearfix html. Well, that means that every odd number,
+and this is basically what we're saying, that every odd number, every odd number index is where we
+need to append this clearfix html to. And if it is, we do. And we move on. And finally, we produce our final HTML,
+and that final HTML, just like before,
+gets inserted into our main content, gets saved into this menuItemsViewHtml and
+gets inserted into our main content. And that's how we get, when we get
+to our page and click on here and click one of these items,
+we get our single category items page.

@@ -1,0 +1,181 @@
+[SOUND] In part one of this lecture, we spoke about the
+theory behind the Ajax call to the server. In this part, we're going to speak
+about the actual practice of it, and show you some code to do it. So right now, I'm located in lecture 57,
+so that's lecture folder 57, and I'm looking at actually
+quite a few files here. And, there's a couple of new files
+that I want you to pay attention to. Number one is, ajaxutils.js. And this is the file which is
+going to give us the JavaScript, in order to make those Ajax calls. So we kind of separated it into a separate
+file, so we could see the Ajax procedure in its entirety, and
+then just use it inside the script.gs. Notice, that in html, the index.html, I place the Ajax utils.gs above,
+js/script.gs is because script.gs uses things
+inside of ajaxutils.js. Which means that I actually have them, I have to have them loaded in the browser
+already, before I start using them inside. So that's why I, inside script.js. That's why I placed them, above that. Now unlike previous examples, where we
+had the web page click and say hello, to whoever was, the name that was in the
+text box, this time, I want to click and say hello, and get the name, of the person
+I want to say hello to, from the server. And for that I actually have something
+a little data file on the server, it's sitting inside a data
+folder in name.txc. And all it is is just says Yaakov Chaikin
+there's nothing else to it, it's just simple text file. And I want to verify that I can access or
+grab that file or the data from that file through
+the browser while my browser sync is running by simply putting the URL in and
+saying data. That's the data folder. And it's name.txt. If I say press Enter and I see that
+that's exactly what get's returned. It's a very simple two-word strain. So we could close up for now. Okay, so let's close the file
+explorer in sublime text and let's go to our ajaxutils.js. So the first thing I want you to notice is
+that I am using the iifi, the immediately invoked function expression,
+in order to wrap my entire code. So it comes from all the way here, and
+if I scroll down, all the way here. And I'm passing it the window object,
+that's my global object, and that's how we remember it right here,
+global. And then what I'm doing is I'm setting
+up a name space for my utility. So, this is ajax utils, and
+all it is is just an empty object. So I can then attach things that I
+want to expose to the outside world. And you can see the very first function
+here is not attached to my ajax utils. Which means, that when I expose
+ajax utils, to the outside world, meaning outside of this iifi. This function will not be directly
+available to the user of ajaxUtils. Okay, so let's go over what this
+function does, first of all. Well, it says it returns
+an HTTP request object. And what it does is it checks what
+type of object is available to us. Now the very first if
+right here is the most most important one because this
+is the most current object or the most current version of
+the Ajax object there is. The rest of them are kind of for the old
+browser, so window.ActiveXObject that's something old Internet Explorer browsers
+used and really is not used anymore and if you wanted to you could really probably
+take out this whole thing out of here. Very few Microsoft Explorer browsers
+out there that are that old. And the last thing is just,
+just in case there's a browser out there that's going to access this that
+does not support Ajax at all, which means this object
+will not be available. Neither will this object be available. We're going to go ahead and
+pop up a message, an alert here on window object which
+is what this global is pointing to. And we'll just say Ajax is not supported, not necessarily the best message
+to return but it's good enough. It's probably never going to happen,
+anyway. And instead of the object,
+we'll just return null. So point is, this is that object
+that we could use to make a request. And we're creating here a new
+XML HTTP request object. And this is what we're going to use in
+our main function that we're going to write in a minute,
+we're going to see in a minute. And the reason we really pulled it out
+into a separate function is because it's just easier to put all these if
+statements in a separate place so we don't have to deal with it right
+in line with everything else. Okay, so let's take a look at
+the main function that we really, really care about. So that function is attached to ajaxUtils, as you can see I'm defining it as
+ajaxUtils.sendGetRequest, and what we're going to do in this function is we're
+going to send a GET request to the server. So here's how this function is defined,
+there's the function right there. And I can see that I really need to put
+actually a semi-colon at the end because this is just an expression, right? Expression of the function. Okay, so let's see what of this
+function is expecting as parameters. Number one is expecting the request URL. Well, that makes sense. We need to know where to request,
+where to go, to make that get request on the server. So that's the url. And, we'll need a response
+handler function. So after the server response,
+the response handler function is what is going to handle the result
+of what the server returns. Okay so those are the two arguments we
+expect to be passed into this function. The first I'm going to do is I'm
+going to get that request object and this is just that function we just spoke
+about this request object right here. So we basically are going to get
+this new XML HttpRequest object. So once we're done with that,
+once we got this request object, we're saving it in this local variable. And then we're setting this request object
+onreadystatechange to another function. So onreadystatechange is different
+stages in the network communication between the browser and the server, and
+we're going to see that in a minute. So what we're doing in this function is
+we're calling this handleResponse, and the handleResponse function is passed
+a request, this request object, and has passed the response handler as well. So when the server comes back with
+a response, this is the function that's going to get called every time there's
+a change in communication state including the very final one that we're completely
+ready, and here's your final response. This is Is the function
+that's going to get called. But we're not done setting up the request. The other thing we need to
+do is actually go ahead and make the open command, with a get request. So that's the type of request we want,
+that's the method of our request. We're going to pass it the URL, and
+we're going to make sure to say true here. And if you pass false here, it will
+make this request a synchronous request, which means the browser will freeze,
+and will wait for the response before doing anything else. And we don't want that, we want this
+request to be asynchronous, in other words the second this request is made,
+we want the browser to continue operating. So and the last step here is actually
+to go ahead and send the request. So all of these lines right here were
+really just to set up the parameters of the request, what it's going to be like,
+and this line right here, the last line is actually the one executes
+the request and sends it to the server. The reason we're passing a null here
+is because if this were a post request our request parameters would not be part
+of the request URL, as you remember from a previous lecture but it would actually
+be part of the body of the request. And this is where you put
+the body of the request. So if you wanted to have named value
+pairs for the request parameters, you would put that string right here,
+or probably save it in an object and then kind of paste that
+whole thing in here. Now, let's take a look at our
+handle response malfunction that we provided here. The handle response function as you can
+see takes our original request object and the response handler function that our
+client, meaning our user whoever is using this whole library, this whole
+ajaxUtil library is providing for us. So we're kind of doing some, kind of nitty gritty work that
+they wouldn't have to do anymore. Number one is, request that ready state, we want to make sure there's four
+states in this request already. Number one, we want to make sure we're
+in the last state, so it is ready to go. We don't have ay other lower level
+network communication's going on. And what they are is really not important
+but what is important is that you have to check whether or
+not it's really straight forward. That's number one and number two is we want to check
+that our request.status is 200. And this 200 is that response status
+code we spoke about previously. So 200 means everything is fine and
+here comes your response. And if those two conditions are true only
+then should we then take the response handler, that is the function that
+the user of this library provided for us. And then we could go ahead and pass it
+the request that the user of this library will start pulling out of this
+request the response of the server. So that is how this response
+handler is being used. The last but not least is we want to
+expose this utility to global objects so we can actually use it. And what we're going to do is we're going
+to change the name of it a little bit, we'll say global dot and we'll use
+the dollar sign, because we want to be all fancy obviously, dollar sign ajaxUtils,
+so just like jQuery uses dollar sign, we'll also use dollar sign
+as power of our variable. So dollar sign ajaxUtils, that's what's
+going to be exposed to the global object, is going to be equal to our ajaxUtils
+that is the local objects right here in this immediately invoked
+function expression. Now I hope you're wondering,
+at least a little bit, as to why this crazy setup
+is being made right here. Onreadystatechange, we're passing
+it a function expression, so we're not executing this function. We're just passing
+the value of this function. Not the return value, but
+just the value of the function object, and we're setting it to this
+property onreadystatechange. And inside of that,
+we're calling handleResponse, and this is what is going to be executed, since
+you can see the parenthesis around it. Why not simply erase this and
+happily call, I'm not going to be able to fit in on one line here, but
+happily call this function right here? Why not have onreadystatechange
+equal to handleResponse? Well first of all,
+we need to equal it to a function value, not the return of a function,
+so this will have to go away. You can't really pass parameters
+into a functional value. Only when you're executing a function,
+can you pass parameters into it. And we're not quite ready to execute
+this function, we just want its value. Well when we did that,
+this function right here, wouldn't really have the request,
+or the response handler available. Well, one way we could take care of it,
+and unfortunately, and you'll see why I'm saying unfortunately, a lot of people
+do take care of it, is by doing this. We can just take this line out of here,
+and make it a little bit more global. And now our request is
+available everywhere. So it doesn't have to be part of these
+parameters, part of these arguments. We could just pull it out of the global
+part, outside of this function. And obviously we need to take care of
+this as well, to make it a valid syntax. So let's take a look
+as to what we've done. What will happen now? Let's say somebody on the page clicks some
+button that invokes this send-get request. This will go ahead and use the request that already has been done
+right here which it seems pretty good. We'll assign handleResponse
+to our onreadState change, that's that function and
+I go ahead and make the request. The only thing is this handle response
+also really wants, at least in our case, wants the response handler function and
+we're not passing that. But that's easy to remedy by just
+saying var myhandle response or myhandler is equal to, and
+we will just equal it to this, right? So now to do that,
+we could just say this is equal to null. And once we're done, we could just
+say myhandler = responseHandler. Okay, so now it's all complete. So at this point this handler function,
+handleResponse, we'll be able to get the request and will
+also be able to get the response handler. So we really don't have to have
+these arguments this function. The problem is is that this whole
+thing is being called asynchronously. Remember what asynchronous means? It means that more than one thing
+could be executing at a time. Which means once we send this request off,
+and the server is waiting to respond, it could wait two,
+three seconds before it responds. Well meanwhile, either the user or some other JavaScript process can call
+this again, and if it calls it again, it's going to end up using the same
+request object, as we use for the previous request and therefore they will get
+crisscrossed get confused and the response you're going to get is probably not
+the response that you are waiting for. And what you will have is what is called
+in computer science a race condition. In other words there is some code that is
+going to be erasing another piece of code and whoever wins is going to
+over ride this with its data. But the second one will
+never be able to get to it, it will give you the wrong data. So this is really going to be
+a gigantic mess, so let's go ahead and do a bunch of undoes. And put it back the way it was. So now we're ready to see
+how we're actually going to use this library in our script.gs. And that's what we're going to do
+in part three of this lecture.
