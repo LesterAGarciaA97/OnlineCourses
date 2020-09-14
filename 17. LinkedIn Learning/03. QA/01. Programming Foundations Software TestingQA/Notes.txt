@@ -1,0 +1,173 @@
+Prevent errors
+QuALITY ASSURANCE 
+A systematic process used to determine whether
+a product meets specifications
+
+QA
+QA Engineer
+QA analyst
+Software engineer in test
+Tester
+
+Helps their teams move quickly with confidence
+
+They stablish and mantain standards
+
+GooD results can be measured by:
+* Cusotmer happiness
+* Economic revenue
+* How app works overt time
+
+TEAM
+Clear specifitcations
+Code implemented
+Code tested
+Code released
+
+Skills
+Technical  aptitude
+	Manual and automated testing
+Business knowledge
+	Feature scoping
+	Test planning
+	Test care management
+	Bug management
+DevOps principles
+	Configure tools
+	Set up CI
+	Set test environments
+	Automate processes
+Process and release expertise
+	Deifne and improve testing practices
+	Optimize release process
+
+High exoectations of sole QA
+BUild form ground up
+Need excel across skills
+
+Software Development Life Cycle (SDLC)
+Quality software in minor time
+
+6 parts:
+PLAN
+DEFINE
+DESIGN
+BUILD
+TEST
+DEPLOY
+
+PLAN
+Identify risk
+Identify use cases
+
+DEFINE
+Write specs and acceptance criteria
+Decide what's in scope
+Write test strategy and test scenarios
+
+DESIGN
+Solidify test scenarios
+Get feedback on scenarios from team
+Manual and automation tests
+
+TEST
+Manual and automation tests
+Accepting
+
+DEPLOY
+Validate functionality
+Release
+Test in production
+
+TEAMS = BETTER UNDERSTANGING
+
+Developer
+designer
+QA tester
+Product manager / business analyst
+
+SET EXPECTATIONS AND GOALS
+
+
+TEST STRATEGY
+
+Scenario
+Expected result
+Latest result
+Automated
+
+
+Acceptance Criteria (AC)
+Conditions that a software product must satisfy to be
+accepted by a stakeholder
+Look and function
+
+
+Model testing as a box
+
+BLACKBOX TESTING
+WHITEBOX TESTING
+GRAYBOX TESTING
+
+Identify test scenarios before testing
+Identify both typical and nontypical use cases
+
+INTEGRATION TESTING
+another perspective
+interaction between components
+Integrations testing = gray box testing
+
+Performance testing = black box testing
+	Load testing
+	Endurance testing = Workloads
+	Stress testing = measure stability
+
+COMMON PERFORMANCE PROBLEMS:
+* long load time
+* Poor scalability
+* Bottlenecking
+
+SECURITY TESTING
+Exposes problems in the app that can cause 
+unexpected behavior or crashes
+
+COMMON HACKER ATTACKS
+* SQL Injection
+* Denial of service (DoS)
+
+
+BOX TESTING
+MANUAL TESTING
+UI automation testing
+Integration testing
+Performance testing
+Security testing
+
+
+BUG REPORTING
+bUGS CAN BE Low or high impact
+
+Report bugs
+Jira
+Rally
+GitHub
+Bugzilla
+
+
+Bug report
+Name
+Description
+Steps to reproduce
+Expected result
+Actual result
+Screenshots
+Browser/version
+Logs
+Tag
+Priority
+Status
+
+Traige bugs
+
+
+
