@@ -1,0 +1,4 @@
+Is a relational database management system (RDBMS)
+SQL = Structured Query Language
+
+SSMS
