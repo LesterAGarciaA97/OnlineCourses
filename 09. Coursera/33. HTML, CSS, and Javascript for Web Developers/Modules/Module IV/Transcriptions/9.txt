@@ -1,0 +1,57 @@
+[MUSIC] In part one of this lecture, we left off speaking about strict
+equality versus regular equality. In this lecture, we're going to go
+ahead and pick up speaking about what JavaScript considers boolean true and
+what JavaScript considers boolean false. So like all languages, Java Script
+has a specific set of things that it considers to be false or true when
+you evaluate boolean expressions. So let me go ahead and
+comment out this whole section, and let's go to the next section where
+it's talking about the if statement. But we're actually going to list
+everything that the if statement would consider true, and everything that
+the if statement we consider false, or actually the other way around. False first. Okay, so in this if statement I listed every single thing that
+the if statement will consider False. The first of all it's going to
+consider the keyword false is false. Now then you see something that is an or
+operator. Now the way the or operator works, is that
+if something evaluates to true on it's left side, it does not check anymore
+what is going to be to it's right side. And since I know that to it's left side
+at the moment, is going to be false. I can be sure that it's going to
+evaluate this, and if this false, which it is, it's going to try to
+evaluate this for truthfulness. And if this is true, it will stop and
+will not evaluate anymore. However, null also get's coerced
+to being false in JavaScript. So therefore, we keep continuing, saying
+no which is again false or undefined. Undefined is a keyword that also
+gets coerced to false in JavaScript. Next, it's an empty string, so it's basically double quotes
+with nothing in the middle. That also gets coerced into being false. Zero gets coerced to being false. And NAN, not a number,
+gets coerced to being false. So point is that everyone
+of those things is false, that means this line will
+actually never execute. And in fact, it's going to go to the else
+clause, and execute all is false. Let's go ahead and save that. And you can see it says all false. Now let me show you a very quick
+trick that if you ever forget, if you have something and you're not sure is
+it supposed to evaluate to false or true. Well, JavaScript provides these
+wrapper objects around the primitives. So even though boolean
+is a primitive type, there's a wrapper object called
+Boolean with a capital B. That you can actually pass things to,
+to see what it would coerce to. So, for example, if I pass it a null,
+that would coerce to false. And there you go, it shows you false. If I pass it something like an empty
+string, it'll coerce it to false. But if I pass it anything else that is
+not in the list of false things that we listed right here in that if statement. So if I pass it something like,
+hello world. That will evaluate to true, which brings us to the next thing
+of what is true in JavaScript? Let's go to this if statement, and
+here what is true in JavaScript? Well, first of all the true keyword
+is evaluated as true in JavaScript. After the keyword true,
+you see two ampersands. And two ampersands signify the logical and
+operator. And the way the logical and
+operator works, it will only return true if both things on the left and
+on its right are true. So if both of these things are true,
+this will be true. And again, since we have a non-empty
+string here, this will evaluate to true. Then we ending it, ending it again with
+a number one which is a number not a 0. Anything not a zero also evaluates a true. And just in case you think a -1 would
+evaluate to false, it does not. It actually also evaluates to true. Any number that is non zero
+will evaluate to true. And if we end it with the string false, even though the string itself
+has the value false, but since it's a non-empty string,
+that will evaluate to true. So if we save this,
+we'll see the statement all true. Go ahead and save that. The first one is all
+false from this clause. And the second one says all true. Okay.
+So we're going to stop here for part two of this lecture. And in part three of the lecture, we're
+going to pick up speaking about whether or not putting curly braces in the same line
+or next line is a matter of style with Java Script, or
+really an established best practice.

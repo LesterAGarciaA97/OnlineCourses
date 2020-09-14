@@ -1,0 +1,102 @@
+[MUSIC] Okay so, enough of boolean expressions so
+let's go ahead and comment that out and let's go to the next topic which is
+best practice for the curly braces. Curly braces on the same line or
+on the next. Whenever you speak to people about
+their preference, whether or not the curly braces, either for
+a function of some other construct, should be on the same line as some wording or key
+wording, or should it be on the next line. Sometimes, you get into a pretty
+big religious war whether or not you should have it one way or
+the other. Well, that religious war does
+not have to be in Java script. Because in Java script there's
+actually an established best practice. And that best practice is
+not just a matter of style. It's a matter of syntax and
+how Java script engine works. So let me demonstrate that for
+you real quick. Let me uncomment this and what we
+have here is we have two functions. One is function a, the other is function
+b, and we're going to execute function a and then execute function b,
+logging the output of each function. So function a follows the style where
+it's always putting the curly braces on the new line. So function a starts and the curly braces
+on a new line and returns an object. Actually this is object literal and don't worry about that we're going to
+talk about objects a little bit later but the point is this is something that
+needs to be here which is a curly brace. So it's returning the object literal, and it's also putting the curly
+brace on a new line. Function b does exactly the same thing,
+except it follows the style that puts the opening curly brace on the
+same line as the function declaration, and on the same line as the return statement. Now let's go ahead and execute function a,
+and then execute function b. And see what it gives us. Let's go ahead and save that. Did you expect that to happen? The first value for
+function a is undefined. Now why is that undefined? Well, this actually brings up another
+interesting issue that is going on in JavaScript. The reason it's undefined is because what
+a JavaScript engine does behind the scenes when you execute this code is it
+looks at the return statement, doesn't see anything after it, and places
+for you, a semi-colon right after it. So basically, what this function is
+doing is starting to execute and immediately returning and
+it's returning nothing. And since it's returning nothing, when we try to output nothing
+it gives us undefined. As a side point, even though semicolons
+at the end of statements are optional in JavaScript, it is pretty much an accepted
+best practice to always put them there. Now there's some minor I would say
+very minor controversy about that and there are people out there that
+insist that they want to have it without the semicolons at the end. However, by and large, people put
+semicolons are very strict about it so you should probably follow
+the best practice of the majority. So now you understand why,
+in this case, it returned undefined. And in this case, it's actually returning
+the object with a name value pair, name being the name property and
+value being Yaakov. Okay so let's go ahead and
+comment this out and go to our last topic with this
+lecture which is the for loop. What language can there be without a for
+loop? Let's go and comment that out and
+here's the for loop. Well this for
+loop is doing something very simple. It's defining a sum variable
+to be 0 to begin with and then it's looping from 0 to nine, and
+summing up everything in between. And then it's outputting
+what the sum from 0 to 9 is. So let's go over this for loop real quick. So just like many languages,
+the for loop has three parts to it. First is the initialization part,
+initialization of the counter variable or other conditions. The second one is the condition that
+the engine will check to see whether or not the loop should be run again. And the third one's some sort of
+either increment or decrement or something like that. So the first thing is we're
+declaring a variable i equal to 0. That is going to be our starting point. By the way, if this variable i has been
+declared in this scope already once, declaring it again with a var
+would by a syntax error. So if I have a for loop a little bit above
+it that also has var i equals 0, this for loop would just start with i = 0,
+I don't have a for loop above so I will go ahead and
+declare the variable i = 0. Jumping to the last part we see i++, well, that is another one of those
+short-hand notations for i = i + 1. It's the increment operator. Order to make this a little bit
+shorter to type, i++ will do. There's a very simpler operator by the way
+that is i-- that subtracts one from whatever variable it's applied to. In this case we want to increment
+it by one, so it's i++. So we're starting with 0 and the very
+first time i is being compared to 10 and 0 is less than 10. And I is being incremented by 1. Then the body of the loop executes and after that when we hit the curly brace,
+it comes right back. Increments i by 1 and
+then checks it again. Is i, in this case 1 less than 10? It will go again and again and again until
+i reaches 9, in which case it will go ahead and execute it is equal to one more
+time increment i to become 10, and 10 is not less than 10, and it will go ahead and
+exit the loop and output this line for us. So let's go ahead and put a console
+that logon here and we'll output i, as the loop keeps going. So let's go ahead and save that and
+take a look at the result. So as you can see,
+it's gone all the way from 0 to 9. And the sum of 0 through 9, is 45. So we went over quite
+a bit in this lecture. So let's quickly summarize. We went over the string concatenation. We went over math operations and
+how the typical precedent rules applies there just like it would apply
+at pretty much all the other languages. If you want to know more about it, there
+is certainly much more to learn about it, you can go to the Mozilla
+developer network and delve deeper into that implementation. We spoke about type coercion. That is dynamically converting
+a type to a different type for either addition or comparison or
+a different type of other operations that you would need both sides of
+the operant to have the same type for. We also spoke about the regular and
+strict equality. The regular equality being with double
+equals and the strict equality being with triple equals and the big difference
+between them is that the strict equality will first compare to see whether or
+not both sides are the same type and if they're not, it will not consider them
+equal and will not check anything more. So type coercion will happen with
+double equals the regular equality but strict equality prevents type coercion. We also spoke about what is true and
+what is false in Javascript. What is considered true and
+what is considered false in Javascript. We also talked about opening
+curly brace placement. It's not just a style in Javascript. In Javascript, it's very important that
+you adapt the style of putting the opening curly brace on the same line
+as the function definition or a object definition and so on. Now, as a general good practice, always place semicolons at
+the end of every statement. Now there are some that disagree,
+and I've provided a link here for you here to an article that makes
+a really good case as to why you might not want to do that, or at least might not
+have to do it, absolutely have to do it. Kind of makes fun of
+the people who insist on it. But the bottom line is most
+people do do that, and place the semicolon at the end
+of pretty much every statement. So you should probably adapt it,
+no matter what anyway. And last but not least,
+we spoke about the basic four loop syntax, and I showed you some simple code
+to sum up numbers between 0 and 9.

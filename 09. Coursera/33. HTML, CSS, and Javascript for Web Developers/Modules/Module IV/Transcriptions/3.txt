@@ -1,0 +1,64 @@
+[SOUND] Okay, now that we've set up our
+development environment the way we want, the first thing we should talk about is
+where do you include your JavaScript code? Where do you write it? Well there's essentially a couple
+of places where you could do that. The first one is you can have
+a script tag inside the head section. So we could write script,
+if I could type right now script, and we could say type,
+equals text/javascript. Now, the type is technically not required,
+so if you wanted to you could basically just
+avoid it altogether, and just have script. And here's our script write out. So, this between the opening script and the closing script tags,
+you can now write your JavaScript. Another place where you could do that is,
+an external file. So an external file also starts
+with a script, except it has a source attribute,
+where you could specify an external file. And in this case, it'll be script.js because our script
+is sitting inside js/script.js. Now notice that whenever you include
+an external JavaScript file, you still have to provide
+the closing script tag. A script tag is one of those tags that
+always requires a closing script tag, whether or not there is actually
+body within the script tag or not. Now, just like CSS in HTML,
+JavaScript code is executed sequentially. So it means whatever is
+inside of this script.js file is going to get executed first. And whatever is inside this script
+tag is going to get executed second. So let's go ahead and try that out. Let's put JavaScript or script.js,
+let's declare a variable, we'll talk about declaration variables in a minute, but for
+now let's just declare a simple variable. It's going to be a string and
+it's going to say hello world, so we'll save that. We'll go to our HTML, and
+inside this script, we'll go ahead and say console.log. And console.log is something that
+we're going to be using a lot. And basically that is a function
+that is available on every single browser except some really old
+Internet Explorer browsers, where it will log whatever it is you
+write in between these parentheses. It will log that to our
+console right here. So let's go ahead and
+log our x, since we declared x. And now that I've saved the file, our browser sync went ahead and
+synced the code with the browser. And it immediately said hello world. Well, where did this x come from? Well the x came from script. Since inside script I already defined
+this x, I am certainly very much welcome to use it outside of it,
+obviously after it has been defined. And the value Hello World is
+obviously coming to this x, because it has been defined
+already inside the script.js. It's also important to remember that
+the JavaScript engine inside the browser, is a single threaded engine,
+which means that as the code in your JavaScprit executes,
+it will execute completely without being interrupted by any other
+JavaScript code from somewhere outside. So it is not a multi threaded environment,
+it's a single threaded environment. And also as you could see already,
+it's a sequential execution, which means JavaScript will execute
+line by line without jumping, and inserting other lines of
+code from other places. Now the head section is not the only
+section where I could define JavaScript. I could define JavaScript
+in a very similar manner that I defined it in the head. I could define that JavaScript
+in the body as well. So for example right before body ends, I
+could say script and close the script tag. And I can have some code right here, so
+in this case we'll say console.log, and we'll say right before body closing tag,
+given an exclamation point. If I save it now, you'll see that
+Hello World gets executed first since this is what gets triggered first
+in the sequential execution of the code. And then you see right before body closing
+tag message, and that gets executed over here at the end since it's coming
+after the other JavaScript code. Likewise, I could really take this
+entire construct, go ahead and cut it, and paste it right here,
+right at the end, and it will still have exactly
+the same effect as before, at least in this case and if I save it,
+you'll see that I say, Hello World! Because I can include a JavaScript file
+right in the middle of the body of the HTML page as well. So to summarize, there's a few places
+where you could actually write your JavaScript code, you could write it inside
+the head tag, inside the script tag, you could write it outside of the head
+tag, inside the script tag or again inside or outside of the head tag. You could include a JavaScript file, the effect of which will be as if you're
+cutting and pasting the contents of that file right into the place where
+you declare it inside your html page.

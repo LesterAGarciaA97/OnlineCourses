@@ -1,0 +1,81 @@
+[MUSIC] In a lecture on JavaScript types we
+mentioned one very special type, that is object type. An object is, again,
+a collection of name-value pairs. In this lecture we're going to go over how
+to create objects in different ways and how to assign properties, in other words
+how to create those name-value pairs. Okay, so
+currently I am in the sublime text, and I'm looking at script.js and
+I'm located in the lecture 45 folder. Let me go ahead and
+close the file explorer and what you see in front of you is
+a very simple object creations, so we're creating a company variable and
+we're setting it to new object. Once we created a reference to an object, we're ready to create
+properties of that object. Now in JavaScript, when a property doesn't
+exist and you simply mention that property in an object, JavaScript engine
+creates that property for you. So for example, we'll say company.name and that property name doesn't exist yet but
+but the second I set it to something or the second I mention it on the object, it
+becomes a reality and now it does exist. So now if I go ahead and
+do console.log and I output the company object, I'll see. Let me save that and you'll see that now
+the company object has a name property and the name property value is Facebook. But let me erase that and
+I can keep going and say company.ceo and I want ceo to have several properties and
+I want ceo to be an object by itself so let me just go ahead and try this. First name is equal to Mark and
+let's go and save that and maybe we'll do console.log and
+we'll output company again. Then let's see what happens. Then we save it. We're going to get an error. What is the error? The error is, cannot set
+property first name of undefined. Now what is going on here? Why is this not working? The reason this is not working is because,
+company.ceo, is something that hasn't been defined yet. Remember just like if we had said,
+var a and then try to do a.hello equals hello. Let me comment this line out. So if I save that it will
+give me a hello of undefined. Cannot set property hello of undefined. So it's the same type of issue. So what do I have to do here? Let me uncomment this line. What I really have to do here is
+I can specify that firstName, but I first have to create the .ceo property. So let me go ahead and
+copy it here and say here, new object. Once I set ceo to the new object, now I
+can set the property firstName in it. Let me go ahead and save that. And now I can see that Object
+has firstName, and it has ceo, which is also an object. So if I open that up and as ceo is
+an object and ceo has first name, Mark. Well, let me set another property. Let's give Mark his favorite color. The ceo fav color. Now give it blue, since Facebook is blue. And we'll print it out again for
+the screen. So now we have ceo fav color and
+first name. And just like I set the properties
+with a dot notation, I could certainly get at
+the property with a dot notation. So for example, let me do another
+console.log and I could say that, let's say company CEO name is and put a space and I'll do string cognition
+and I'll say company.ceo.firstName, okay and we'll put a semicolon at the end. And we're kind of going
+off the border here. So when we will just JavaScript is very
+liberal with spaces so we'll just do that. And when we save it, we can see it
+now says, Company CEO name is Mark. So the JavaScript engine
+traversed the object's company and went to the CEO property,
+which is also an object. And then, went and
+retrieved the first name property. Now the dot notation is not the only
+way for me to get at the properties. I could also do the following. I could say consoles
+go in the console.log. Console.log and what we'll do this time is
+we're going to use the bracket notation, so we'll say company and
+we'll say bracket name, and name will be in quotation marks because
+now we're getting at the property name. And the name is a string. And go ahead and output that. So you see now it's
+getting to be Facebook. So I can get at the company name
+using the bracket notation, not just the dot notation. Now why does there two notations here? Why can't I just use the dot notation? Well the reason I can't always use the dot
+notation, is because the dot notation will only work with whatever is
+a valid JavaScript identifier, or valid JavaScript, either function name,
+or valid JavaScript variable name. So for example, if I wanted to say,
+that company.$stock. And remember dollar sign is
+something JavaScript variables, identifiers and
+function names are allowed to start with. And I'll say stock = 110. Let's say that's how much it is. And I'll go ahead and do console.log and
+console open up company and we'll output that. You can see that the stock
+property got set to 110. But what if I wanted to be kind of,
+you know, very dramatic. I don't want to just say stock. I want to say stock of company. And put spaces in here. I can't really do that,
+I can't really do that either. That wouldn't work either. However what work is, instead of the dot notation,
+I'll put it in the brackets notation. And when I do that and
+save it, you'll see that our property's now named stock
+with a dollar sign of company. And we could probably
+remove the dollar sign now. That was only for
+the effect of the variable name. So now if we look we have stock of company
+and that is the name of our property. So I can now go and retrieve the stock
+price by saying, okay, stock price is and we'll concatenate
+this string and say company and since I can't really do a .stock
+price because it's stock of company, what I could do is I could use
+the bracket notation the same way and say stock of company. And if I save that I'll
+see stock price is 110. And notice that it doesn't have
+to be a string literal here. I can actually set it to a variable so
+if I go ahead and cut that out of here and say, var stockPropName and I will set it to "stock of company" and I'll go ahead
+and use stockPropName right here. And we'll do the same thing over here. Let's do stockPropName. And if I save that,
+everything works exactly the same way. So I'm able to actually calculate the name
+of the property in my code on the fly. Okay, so let me fix this up so
+you can see it a little bit better. So, if I save it again,
+everything works as expected. Now this is a way to create an object and
+it kind of looks kind of verbose. That there's new objects everywhere, and I
+wish there would be kind of a shorter way to create the same thing that
+would be much more readable. And in part two of this lecture, we're going to take a look at
+a syntax that does just that.

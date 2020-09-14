@@ -1,0 +1,104 @@
+[SOUND]
+Okay, so now that we spoke about objects, it's time to speak about what functions
+really are underneath in JavaScript. I'm located in script.JS, and that is
+sitting inside the lecture 46 folder. Let me close the file browser here. And let's take a look at a very simple
+function, here function multiply and it takes two arguments x and y and
+returns just a multiplication of x and y. So the first thing I want you
+to know is that functions in JavaScript are what's called,
+first class data types. What that means is, is that whatever
+you could do with the variable, whatever you could do with an object
+you could also do with the function. You could pass that around, assign it to
+a variable which as you've seen before, you could pass it as an argument
+to another function, you could return it as a return
+result from a function. Functions in JavaScript are objects. They're regular objects that have
+some special properties to them. So since they're regular objects,
+I should be able to set properties on them just like I set properties
+on the other object. So for example,
+here I have a function called multiply. And let's test that it works. Let's do multiply let's say 5 to 3,
+multiple 5 by 3, and if we save that we'll see that, I forgot to console it out,
+let's console.log(multiply(5, 3)). And we should see 15 and we do. Okay, so now what I could do is I
+got set a property on the multiply function just like I set
+on any other object. Let's go ahead and
+set a property called multiply.version and let's set it to version V.1.0.0. And let's go ahead and
+console that log and let's console that log
+the actual function multiply. So we're not actually
+calling the function. If we call the function, we would
+have to put the parenthesis after it. But we actually just want to
+output the value of the function. Let's go ahead and
+output the value of the function. Let's save that and
+we forgot to put console.log. No problem. We'll fix that. And the value of function is
+the function code itself. So the reason that's happening is because
+every object has this inherent method or inherent function to it
+that's called to strings. So if we do toString, and call to
+string and we're going to save that and get exactly the same thing. So what we want to do is actually
+get that property version. So if we do, multiply that version, and now we save that, you'll see that
+the version has been set on our function. So our function is nothing
+more then an object. Now the fact that it's
+an object allow us to do quite a number of interesting things that are so
+useful in every application. Let's go ahead and actually erase
+a couple of these code statements so we'll just have the multiplied version. And what we'll do is we'll start
+making function factories. Okay, so let's call this Function factory. So what we're going to do is
+we're going to create a function. And the function's going to
+to be called makeMultiplier. And we're going to provide
+a multiplier for it. So what we're going to do
+is we're going to return a multiplier function
+out of this function. So we're going to say vaar myFunc = and we're going to make it
+equal to a function. So we'll do function and the function's
+going to take an x as an argument. And again, as I told you I will
+put the semicolon right here so I don't get confused later. And what I want to return is multiplier, where's my multiply multiplier,
+I meant to say multiplier. So, I'm going to return
+multiplier times x, and that's what I'm going to
+return out of this function. There you go. So now what I need to do is I
+need to now return this function as the return result of
+the function makeMultiplier. So what I need to do is say return myFunc,
+and now the value of this function. The value of this function
+that is sitting right here, is going to be returned
+as a returned result. And that allows me to do
+quite fun things here. Let's try to make a multiplier by three. So we'll say, multiply by three. And we're going to create
+a function that does that for us. Make multiplier and
+our multiplier's three. So now what multiply by three is, is a reference to a function that
+we made inside this function. So in order to invoke it,
+we'll do console.log so we can see it. And we'll do multiply by 3. And we'll put, let's say, 10. So multiply by 3, so it's 10 times 3,
+so it should return 30 to us. Let's go ahead and save that. And sure enough, it returns 30. So we can make another one. Let's say we'll make another
+one called doubleAll, so everything's going to get doubled, so
+we're going to say makeMultiplier again. And it's times 2, so
+now console.log, let's say multiply, or double it all, doubleAll, and
+we'll pass it, let's say 100. So this should return 200 when we save it. And sure enough it returns 200. So you see what we're doing here. We're creating a function,
+we created a function double 0. And the way we created it is by
+passing a multiplier into our make multiplier function. Or make multiplied function
+that creates a function for us inside of itself, and
+then returns it as a value. So, since again functions are just
+objects, we should be able to pass them around just like we passed
+around any other arguments to functions. So let's call this one passing
+functions as arguments. So let's go ahead and
+create a function called DoOperationOn and we'll give it an x, that's the value we
+want the operation to be done on, and the second parameter we'll call operation. So in this case let's go ahead and
+create the curly braces here. In this case what we want to
+do is we want to actually execute whatever function you
+pass to us on the value x. So what we need to do is return and
+it's operation and we need the parentheses in
+order to invoke the function. And it's invoked on x. Okay so let's save that. And now we could say result, var result,
+and we could doOperationOn and we could create a value or pick a value. Let's say 5. And let's say we want multiplyBy3. Now notice we're not passing
+multiplyBy3 with parenths. That would actually execute
+the function multiplyBy3. We just want to pass a reference
+to that function, multiplyBy3. So when we do that we get a result and
+the result will be multiplied by three passed in with a 5,
+so it's 5 times 3. So let's go ahead and
+console it out, we should get 15. So our result is let's go ahead and
+save that, and we do get 15. We can do the same thing again,
+result equals. We don't need to declare it anymore,
+because we already set. So, it's doOperationOn 100, and then we'll
+do doubleAll, so We are multiplying now. We're having a doubleAll as
+a reference to our function doubleAll that we created right here. And we're passing it
+into our doOperationOn as a reference to that function. And once we get it as a reference
+we could go ahead and put parens around it and
+pass it to x that we're passing though. So they do operation on and then we'll
+execute that function, return the result, and store it inside the result variable. So let's go ahead and cancel out again. Let's makes some space here so
+you can see that log and the result and this time it should give us 200 and
+sure, it does. Okay, so in this lecture, you can clearly see that functions
+are first-class data types. You can pass them around, they're nothing
+more than special type of objects. You can pass them around and treat them
+as objects, pass them as arguments, return them as a result of
+a function execution, and even set properties on them
+just like on regular objects. This is actually one of the core features
+that makes JavaScript so powerful and so flexible at the very same time.

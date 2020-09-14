@@ -1,0 +1,80 @@
+[SOUND] There's a concept that's very important to
+understand for really all languages. And certainly, JavaScript is no different. And the concept is passing variables
+by value versus by reference. And this is what we're
+going to discuss right now. Now for
+first of all what does it mean to pass or copy things by value variables by value. So the loose definition is that given b=a,
+so if you have an a and a b and you're copying the contents
+of a into the variable b so passing when it's talking
+about functions or copying in case of regular equality,
+b equals a. So copying or passing things by
+the value means that changing the copied value in b, does not affect the value
+stored in a, and vice versa. So if I change b after I have
+copied the value of a into b, a stays the way it was before and
+b changes but does not affect a. On the flip side, passing or
+copying things by reference means that given b equals a, again, we're copying
+the contents of a into b, passing and copying by reference would mean
+the change in copied value in b does indeed affect the value
+stored in a, and visa versa. So they're kind of pointing
+to the same location. Now in JavaScript, the way it works is
+that primitives are passed by value, and objects are passed by reference. Or to say it another way,
+primitives are copied by value and objects are copied by reference. Now the truth is that underneath the hood in the JavaScript engine everything is
+actually passed and copied by value. And the difference is why one is
+really called passed by reference and one passed by value really comes
+because of the way the objects and primitives are stored in memory,
+so let's go ahead and take a look. So here, on the left, we have primitives,
+a is equal seven, and then we're copying variable a, or the
+contents of variable a into variable b. And on the right, we have a variable
+a that is equal an object that has a property x, it will be equal 7. And then in the second line,
+we're copying the contents of a into b. So b in the end of the day, in both
+circumstances ends up with the same value, a's a, at least at this point. So the question is how does that work? Let's take a look at some
+visualization to understand this. So when it comes to primitives the first
+thing that happens is we declare variable a and we equal it to 7. So what happens in memory is
+that a gets memory allocation, in this case the memory address is 001. And the value that's sitting
+in that memory is seven. Now when we declare variable b and then
+copy the contents of variable a into b. What we're doing is we're allocating
+another memory location, in this case 002, and we're copying the value
+seven into that memory location. So, then when we override
+the variable b with the value 5, what we're actually doing
+is replacing a different value into the same memory
+location that b is pointing to. In this case, 002. So, in this In this scenario, what you end up is that a is still
+pointing to its original location, 001, which still has number 7 in it as
+the value in that memory location and b is now pointing to 002,
+with a different value so therefore a and b have nothing to do with each other. But at this point they are not
+effective on the other. And this scenario is what is referred to
+as passed by value or copied by value. So let's take a look at the same
+scenario but in case of objects. The first thing that happens, of course,
+is again we declare an object. In this case we declare an object
+literal with a property x: 7. So what's going on is that a gets
+again allocated a memory location. Again in this case 001 is the address and
+memory. And what gets put into that memory
+location as the value is another memory address so inside the address 001
+the value in that position is another memory position that is
+pointing to another point in memory. And then the address 003 is
+where the value actually sits. Now the truth of the matter is,
+I'm actually simplifying this. What is actually sitting in
+the memory location 003 is a list of other memory locations where they have
+the same type of relationship where it's a primitive now and it's pointing
+to a particular memory location at which memory location the value 7 is stored. But, to make this a little bit simpler and
+not to confuse you further, I'll just say that memory location 003
+is where the actual value is contained, or the actual value stored. So then when we declare variable b and
+we equate variable b to a, what's actually happening is that
+again the value of variable a, where variable a is pointing to,
+Is copied into variable b. Well, the value is 003. It's a memory location. And it's copied into b. So b now, even though it's
+sitting at memory location 004, it's value is another memory
+location with a value of 003. So what ends up happening is they're both
+both pointing to a memory location 003 so finally when we update p.x = 5,
+what we are actually updating is the memory location of what b
+is pointing to and that is 003 so the direct value of b
+still stays the same, it's the value that it's
+pointing to that is changing. And since both a and
+b are pointing to the same value, the end result is is that both
+are pointing to a changed value. And this is what's called
+passed by reference. So the bottom line is,
+the difference between passed by value and passed by reference is that in
+passed by value the values once it's changed do not affect the original
+value of the original variable. As I posted by reference
+when you change the value, the original object that's
+pointing to it is changed as well. So that's the theory behind how passed
+by reference and passed by value works. In part two of this lecture we're
+going to jump into the code editor and we're going to see these
+concepts in action.

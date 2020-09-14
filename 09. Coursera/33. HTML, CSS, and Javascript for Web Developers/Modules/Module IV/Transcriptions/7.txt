@@ -1,0 +1,53 @@
+[SOUND]
+Okay. So here I am in Sublime code editor. And I'm located in the script.js, which is located in the js
+folder of the lecture 42 folder. And again, I opened up Sublime the same
+way I've been opening it up for the last couple of lectures. Let's go ahead and close the file browser. And let's take a look as
+to what we have over here. So here we defined the variable X and
+then print it out straight to the console. Let's go ahead and
+do that by saving the file and as we can see,
+the value of the variable X is undefined. Well the reason it's undefined is
+because it's never been set to anything. So if the next line I say X=5 and
+save it again, the value would be five. Okay, so let's go erase that for a second. And let's go and
+uncomment this line of code right here. So this line of code
+directly tests whether or not X is actually equal to undefined. And if it is, it will go ahead and
+print out to the console X is undefined. So let's save this and
+see what our console says. And sure enough, X is undefined. This kind of demonstrates to you
+that this is a reserved keyword, that you can actually test against
+to see if it's undefined or not. You have to be a little bit careful,
+because JavaScript has this concept of type coercion which we
+haven't covered yet. But in general, this is something
+you could definitely test. Now let's see what happens
+if we uncomment this. And what this does is
+actually sets the value to 5, so now X is explicitly defined. And if we test it against
+the undefined keyword, it should jump out of the if statement. And we haven't covered if statements,
+but if statements are pretty generic across many languages so
+I'm sure you understand this code here. So if x is equal to undefined, then we'll say x is undefined, otherwise
+else we'll just say x has been defined. So what is it going to do? It first should tell us x is undefined and
+then it should jump and tell us x has been defined. Let's go ahead and save that. So we get our undefined,
+x is now undefined and x has been defined. Okay, so, all this is well and good. Let's go ahead and
+comment this out for a minute. And, let's do this, let's comment
+out the actual definition of x. If we comment out the actual definition
+of x and let's try to print out x. And, if we go ahead and
+save that we're going to get an error. And the error message is
+a little bit confusing. It says, "Uncaught ReferenceError:
+x is not defined". Well, what, is this a joke? We just said that x is undefined, so
+is undefined not the same as not defined? And that is correct. Undefined in JavaScript
+has a specific meaning and the meaning of it is, is that it has
+been declared, or defined, so to speak. But it has not been set to any value. So in this case the variable has been
+declared and a memory space has been allocated for it, but no value has
+been placed in that memory space. That's the state that assigns this
+variable to be a type of undefined. Now if I save that, now it will tell me
+that the variable is actually undefined. So to summarize, JavaScript defines seven built-in types,
+one object and six primitives. Now object type is a collection
+of name value pairs. It is nothing more than
+that in JavaScript. A primitive type can only contain
+a single, immutable value. And remember thar immutable means that
+once you set it, it cannot be changed. You could create new values
+based on this values, but you cannot change
+the original value anymore. Now, there's a particular interesting type
+called undefined among the primitives, and undefined means variable
+memory has been allocated, but not value has ever been
+explicitly set yet. And it's important to distinguish between
+that and a variable that has never been defined, in which case if you try to use
+it, you're going to get a reference error. And it will be a real error that will
+pop out in your browser console.

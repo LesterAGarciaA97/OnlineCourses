@@ -1,0 +1,22 @@
+[MUSIC] Welcome to Module Four. This module is all about
+JavaScript the language. Now JavaScript is one of the most
+used programming languages out there. Yet a lot of people don't
+really appreciate it's power. In my personal experience, this is
+largely due to the lack of understanding of the language fundamentals. I know, I was once in the same
+boat as well, I admit it. This is why I believe learning
+its fundamentals is crucial. Another reason why JavaScript doesn't have
+such a great reputation is historical. In the early days of the web, the browsers
+implemented JavaScript support much in the same way they implemented
+HTML support, however they pleased. This called a lot of heartache for
+developers because you couldn't be certain that your code would run in
+the same way in all browsers. In addition,
+JavaScript used to lack tooling and frameworks that ease the difficulties
+with everyday programming. While things aren't perfect nowadays
+either they're much better. There are quite a number of good editors
+that support JavaScript development and a hefty number of frameworks and libraries that simplify
+programming JavaScript today. One word of warning, this module assumes that you have
+the basic understanding of programming. If you don't know general concepts like
+variables, looping, what an if statement is and so on, you will have
+a tough time getting this module. If you fall into the category I suggest
+you find and go through a programming basics tutorial first then come back and
+finish this module. See you in the module.

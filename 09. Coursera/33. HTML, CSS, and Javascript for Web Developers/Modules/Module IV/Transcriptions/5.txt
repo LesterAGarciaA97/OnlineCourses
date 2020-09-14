@@ -1,0 +1,57 @@
+[SOUND] Okay, so here I am in Sublime Text, and I'm looking at script.js, which is located
+in lecture 41 in the examples folder. Now, again, we opened up this workspace exactly the
+same way we opened it up in lecture 40. So if you don't remember how to do this,
+please refer to that lecture. We also have our browser sync turned on. And I have my developer tools open
+that is connected to index.html, which includes script.js. So go ahead and close the file explorer so
+we could see it a little bit better. So the first thing we're doing here is
+we're defining this variable message in the global scope, and we're just
+giving it a string called in global. And then what we're going to do is
+we're going to just console it out. So let's go ahead and save it and
+see that message pop out. So as expected, we're seeing message = in global,
+just like we defined it right here. Now, where is this
+message variable stored? As I told you before, each execution
+gets its own execution context. So it is inside the global
+execution context, which also has a special
+object referred to as this. So let's go ahead and
+type this and take a look. This actually is referring to window. If you type window here,
+it's the same object. As you can see, this window object has
+lots of different name-value pairs. And one of them is message: "in global". So the message variable is actually
+attached to this this variable which is our global execution context. Let's go ahead and uncomment some
+more of the code that we wrote here. And we'll comment the very last line of
+this function, so we won't execute b. So now we defined a function and
+stored the function in the variable a. And this function defines its own message
+variable that the value of which is inside a. And all it really does is just output
+the message value to the console. Now, obviously, you need to also execute
+this function, so we'll go ahead and uncomment this line. So when we save this, the browser
+sync should refresh our console. And we should see first,
+global: message = in global, since this is something that is
+sitting in the global scope. And then when we execute function a, we'll
+see a message equals inside a, since this message variable is sitting inside of
+the function scope of the function a. So let's go ahead and save that. This will get refreshed. And just like we thought, we see
+the global in global, and a is inside a. Now what happens now if we
+call b from inside a and b is also going to be
+defined in the global scope? So here we're not
+defining our own message, we're just using whatever message
+comes to us from our outer scope. Well, the outer scope of
+function b is the global scope. So what we should see is first
+the message that it's in global. Then we'll see a,
+because a is being invoked right here and the message defined in site
+a will be output to the console. And finally, when we invoke b, we'll see
+this message referring to the global one, since its outer reference is global. Let's go ahead and save that. And as we predicted, message equals
+from the b function is equal in global. Now let's see what happens if I take
+this function and I cut it out of here. And I actually define this
+function inside function a. So let's go ahead and
+indent this a little bit. So now b is defined inside function a, which means b's outer reference
+is function a variable scope. So let's go ahead and save that, and now this message b will be
+the same as message in a. Let's go ahead and save that. As you can see, message in b is inside a,
+which is exactly the same as message in a. So, in summary,
+we spoke about defining variables. We spoke about the fact that all variables
+in JavaScript are dynamically typed, which means its type is
+determined at run time. Now, we also spoke about
+defining functions and the fact that when you execute a function,
+it creates its own scope, the lexical scope or functional scope. Now, it's important to remember that all
+JavaScript code runs within some execution context, and each execution context has a
+number of things that are available to it. One of those things is
+the outer variable environment. And scope chain is used to retrieve
+variables from outer variable environments that are not found
+within your own execution context.

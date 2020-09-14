@@ -1,0 +1,94 @@
+[SOUND]
+In part one of our lecture, we spoke about the theory and kind of
+tried to understand what does it mean to pass something or copy something
+by references versus by value. In this lecture,
+we're going to look at some examples, so we can experience these concepts in code. So, I'm currently looking at lecture
+47 at this script.js file that is located in the lecture 47 folder. I'm going to go ahead and
+close the file explorer here, and sublime, and let's take a look at our example code. So here, we have a variable a = 7 and
+then what we're doing is we're copying a into b and 7,
+obviously is a number so it's a primitive. So it should copy into
+variable b by value, which means b is no longer pointing
+anywhere to where A is pointing to. So if we console them out,
+console.log them out. Let's just go ahead and do this right now,
+just comment this out for now, you'll see that both are 7. Now, what happens when we change b = 5? Well, since b is pointing to its own
+memory location b is not going to effect where a is pointing to, so they're
+both going to go on their merry way. In other words, after b's update,
+a is still going to remain to be 7 and b now is going to be 5. So, let's go ahead and
+save that and take a look. So, sure enough a is now 7 and b is 5. So, that's pass by value. Let's go ahead and comment that out and let's take a look at a different
+different example, let's save that. Take a look at a different example,
+which is pass by reference and now we're speaking about objects. Let's uncomment that. So in the first line here,
+we're having a equal to an object literal that has a property 7 and
+then we're copying a into b. So as you remember from the first part,
+what we actually do is copying the memory location that it's pointing to this object
+literal into b not the actual values. So if we now output a and b,
+let's go ahead and do that. You'll see there both objects
+that have x property equal to 7. So now if we go ahead and
+update b, in other words, b.x = 5. What we're actually
+updating is we're updating this object which both
+variables are pointing to. So after b.x update,
+if we log a and log b again, you'll see that both a and
+b have changed the x value to be 5. So, let's go ahead and save that and
+you can see here after update x is now 5 from log in a and
+x is still 5 from log in b. And again, that is simply because they're
+both pointing to the same memory location. So these two examples are examples of
+copying by value and copying by reference, but we've been using a different
+term called passing by value and passing by reference and that term really
+only applies when we speak about passing value into function calls. So, let's go ahead and
+take a look at one of those examples. So, let's uncomment that. So here, we have a function
+called changePrimitive and we're going to pass
+a primitive value into it. We're going to go ahead and
+tell our console that we're inside the changePrimitive and
+we'll log the value before we change it, then we're going to change the value and
+log the value after we change it. And afterwards,
+we're going to go ahead and invoke that. So we'll say the value = 7, we'll pass
+it inside that change value function. And notice that when we pass value
+inside the changePrimitive function, what is really going on is that the value
+7 is being copied and equal to primValue. It's really no different when we're
+passing it here than saying and I'll put it in comments, but in the memory what's really going on is
+that prim value is being equal to value. That's really what's going on. So, it's really a different form
+of copy that we saw before. So actually, let's leave that on so
+it'll be a comment here. So and afterwards,
+we're going to go and announce that we're done with the changePrimitive and
+we're going to log our original value. And the original value should stay
+7 even though we changed it inside the changePrimitive function, simply
+because they're pointing to primValue, and value as still pointing to
+different memory locations. So, let's go ahead and
+save that and I'll execute. So we're in changePrimitive before it's 7,
+because we passed 7. So, it'll get copied into
+this variable primValue. And after, right here, it's 5,
+because we change that. And after changePrimitive has been called, the original value of the value
+variable is still 7 and it's because they're pointing to two
+different locations, just like before. It's really just a copy
+of the value itself, it's not pointing to
+the same memory location. So let's go ahead and comment this out,
+so it doesn't crowd our console and save that. I should clear it and let's go to the last
+example here and let's uncomment it and we're doing exactly the same thing,
+except now we're changing object. And since objects are passed by reference,
+what we should end up with is we should end up with the same object that's
+pointing to the same location. So the setup is very similar, we have value that is a object little
+with a property x equal to seven. And again, when we're passing it into the
+changeObject function what we're really doing is we're saying, object value is
+equal to value and this is the same thing that's going on in the previous example,
+except that now we're calling it passing, right because we're actually passing this
+value Into the function changeObject. And inside the function, we're going to
+announce that we're in the changeObject function kind of console out the object
+value that is passed into us. Changing the x value of it. Loading it afterwards,
+loading the entire object again, just to see what it is
+after we change the x. And then when we come
+back from the function, we want to know what the original
+value is, has it really changed, because we changed it inside the function. And obviously, it should change,
+because both the objectValue and the value variables are both pointing
+to the same memory location. So let's go ahead and save it. As you can see before object
+is x: 7 after object is x: 5. And after, we call changeObject,
+the original value now is changed and it's x: 5, because both of those
+variables were pointing toward the same memory locations so
+they are effecting the same values. So, this is how passing by value and
+passing by reference works in code. So to summarize, it's very important to
+understand this concept that is passing by value versus passing by reference. You can't really code without
+understanding this basic concept and the simple rule to remember is this,
+primitives are passed or copied by value and objects are passed or
+copied by reference. And again, copying and passing by
+value means that the new variable has no relation to the old variable and
+changing the value in it will not affect the old variable, as opposed to passing or
+copying by reference. Changing the values in that new variable
+will affect the values of the old variable from which the object was actually copied.

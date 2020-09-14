@@ -1,0 +1,74 @@
+[SOUND]
+This lecture we're going to speak about a pretty
+common scenario and how to resolve it. And we'll look at some
+best practices as well. Right now I'm in Sublime Text and
+I'm located in the lecture 52 folder. Let me go ahead and close the file browser
+here so you could see a little bit better. And I'm looking at
+index.html at the moment. What I'm doing here is I'm
+actually loading three scripts, one after the other, script1.js,
+script2.js, and app.js. So this happens a lot when you
+actually import a couple of libraries. So those libraries could be
+something you wrote yourself, or it could be external libraries as well. In this case these are two libraries
+that I wrote myself and they're very, very simple. The first one is just
+declares a variable name, it's my name Yaakov and
+then the function sayHello. And the function sayHello does nothing
+more than just says logs( "Hello" + name) and it should say is Hello Yaakov. Script number two,
+which is what is declared afterwards. Script number two is declaring a name,
+"John". And then it declares a function
+called sayHi and all it does, again, is just logs "Hi" + the name John. Now app.js, this is the third
+one in the list over here, app.js, it invokes sayHello. This is from the first one, sayHello,
+so it should say Hello Yaakov. And then it invokes sayHi which is
+right here and it should say Hi John. Let's go ahead and save this and
+see what the console prints out. We save it and
+it says Hello John and then Hi John. Now that's kind of strange Hello John. It really should have said,
+Hello Yaakov, not Hello John. Now why is this happening? Well, it's actually pretty
+simple why this is happening. If you look at our index.html, the first thing that the browser loads,
+is script1.js. And script.1.js declares a variable name. And this name variable is
+sitting in the global scope and is also declares a function called
+sayHello again, in the global scope. So, when this executes, it will take whatever name variable
+is sitting in the global scope. Now, right after script one,
+we're loading script2.js, which again declares
+name in the global scope. Which basically means that
+at this point right here, my name = "Yaakov" gets
+overwritten with name = "John". And then we declare another function which
+is a little bit of a different name that says Hi, sayHi, and
+that is the one that prints out Hi + name. So by the time we get to sayHello, our name variable has actually
+changed from Yaakov to John. And what's going on is that
+one script is stepping on the toes of the other, basically. So how do we solve this situation? Well, one way of solving the situation is
+introduce name spaces, and a name space is basically just a container for some
+functionality and for some declarations. The only thing is, is JavaScript doesn't really have name
+spaces that other languages have. However, in JavaScript we could
+fake name spaces very easily. Let's go to script.js script1.js and
+instead of just saying Yaakov here, let's declare a variable
+called var yaakovGreeter. And we'll just make it
+equal to an empty object. Now instead of just declaring name
+right here in the global scope, what I'll do is I'll declare name
+as a property of yaakovGreeter. So yaakovGreeter.name is Yaakov, and
+the function will be the same way. I'll just cut it out of here, and I'll say yaakovGreeter.sayHello
+= this function. So now we have yaakovGreeter and
+I can now refer to the name and I can refer to sayHello
+as three yaakovGreeter. One more thing I need to change is this
+name right here really should be not just name but yaakovGreeter.name. Okay, so we're good here. If we go to now script2.js,
+we could do the same thing. We'll say var johnGreeter, and
+we'll make it equal to an empty object. And now everything else that we have
+in this file we're going to start with, we don't need to declare a variable
+any more because we already have one. We're going to start
+with this johnGreeter. So here it's going to be
+johnGreeter.sayHi, and we're going to take out
+the sayHi out of here. And this again is going
+to be johnGreeter.name. Okay, so now that we've converted this to
+a name space and now everything that we are referring to inside this,
+in terms of the variable names, and the functions are going to have to
+go through these name space object. So inside our app.js, in order to say
+sayHello, that's no longer going to work. So, if I go ahead and save this and save that, you could see here now it
+says that sayHello is not defined. Well, ti's not defined
+because in the global scope, there's no such function to sayHello. However, there's an object that
+has this function attached to it. So if I say, yaakovGreeter.sayHello and this will be johnGreeter.sayHi. And I save that, you can see how now,
+it's says Hello Yaakov and Hi John. So that worked perfectly. So this is something that you
+could do in order to separate kind of your name spaces, separate your
+functionality into separate files and also into separate name spaces, so
+you don't step one up on the other. But there's something you could do to
+go even further in order to separate the different variables that
+are sort of like private variables between different scripts and
+different execution contexts. And that's what we're going to speak
+about in part two of this lecture.

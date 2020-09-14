@@ -1,0 +1,58 @@
+[SOUND]
+Okay. So let's talk about a very common scenario
+that happens a lot when you're coding. And before we begin I am located
+now in lecture 44 in the script.js. So I have a function here. And the function is order chicken with,
+and it lets you pass a side dish and really
+it's very simple, just prints back out to the console the order chicken with and
+whatever the side dish is. So in this case we're calling
+it order chicken with and we're passing the string noodles. What it should print out is chicken
+with noodles to the console. So if we save this, and indeed
+chicken with noodles gets printed out. Now, what happens if I call the same
+function but I pass nothing to it. Well, sideDish will become undefined,
+in this function. So, when the sideDish is undefined
+it should print Chicken with and it will coerce this side dish
+variable into string undefined. So if I say that, I'll get chicken
+with noodles that's the first call. And the second one chicken with undefined. Well obviously this is not something
+we want the user to see, or really is not very helpful. So what can we do to avoid that? Well, we could create a default value
+that if the value for side dish is not provided, we could substitute it with
+a value, so let's go ahead and do that. The simplest way of doing that is
+just to create an if statement, so say if sideDish is equal, and we could
+even do triple equal, to undefined. And we'll go ahead and say that our side
+dish is equals to the string noodles. There we go,
+it's already sitting there, okay. So now, when I save this the second
+time it calls it will say noodles. In fact actually let's change that
+to let's say sideDish with whatever. Okay so now when I call it without
+any argument's you will see that the side dish is undefined and
+will print out chicken with whatever. Let's go and save that, and
+there he goes a chicken with whatever. Now this is all nice and well but
+the thing is this is a little too verbose. And Java Script has a short cut
+way of doing the same thing. And let me go ahead and
+code that for you now. So what you could do instead you
+could say side dish is equal too side dish or whatever, the string whatever. Now so how is that working? First let's see if it's working, right? So let's save that and
+it still says chicken with whatever. So how is this working? Well, the reason this is
+working is because each and one of these values is getting
+coerced into a boolean value. And we spoke about coercions before. So we'll make the second cull without
+any arguments, the sideDish here, this variable, is undefined. So undefined right here gets coerced
+into a boolean and becomes false. So if it's false or
+this second statement will get evaluated. And the second statement, since it is a
+non-empty string, gets evaluated to true. And what the or statement does in this
+circumstance is actually returns the value before it was coerced. So what it actually returns to
+sideDish here is the string whatever! Well let's go and
+check that out in the console. So we have this wrapper class called
+Boolean and we could say okay, what happens if you do true. In fact forget that,
+we'll just do true or false. If we do true or false, it will say true. What happens if we do empty string or
+true? It will say true, but what happens
+if we say hello or empty string? It will say hello. So it will return whatever
+courses is to true first. So here we never even go to
+evaluate the empty string. So if we reverse that,
+we'll still get hello. We'll still get hello, this hello, and the reason this never got evaluated,
+since this evaluated itself to true. The or statement no longer has
+to evaluate anything else. Because the or
+statement by it's definition says if the first thing it sees is true, it
+has no reason to evaluate anything else. Because it's an or, right. It's either this is true, or this is true. Well once you know this one is true, then it no longer matters what
+anything else is coming behind it. So, this is one way to set up a very
+quick default value type of scenario. And if you open up professional
+code of jQuery library or any professional libraries out there, or really any professional JavaScript code,
+you will see this construct quite a bit. So I wanted to make sure to cover it here
+so if you ever see this code kind of in action you won't be confused as to
+what it's trying to accomplish.

@@ -1,0 +1,73 @@
+[NOISE]
+Okay, so before we launch into JavaScript, and
+the beginnings of JavaScript, I'd like to rearrange my work space a little bit to
+make it a little bit easier on sublime. Now why am I doing that? Well the reason I'm doing this is
+because when I am going to be editing inside some JavaScript file, or for
+CSS, for that matter, at this point. Sublime is going to try to help
+me out a complete as I type. The problem is that Sublime
+at this point thinks that all 40 lectures from beginning to end and
+are part of our project, and every single one of them as you
+can see has some CSS in it. Some of them when we get to bootstrap
+already have some JavaScript in it as well. So all that is going to be try
+to put into the context and put in to memory of Sublime. To try to help us out. So that's going to create some slowness,
+so let's go ahead, and redo our work space, and only include the lecture, the particular
+lecture we're on, in our work space. Okay so how do we do that? Well if we go to the command line,
+and let's go ahead, and CD into our lecture folder. 40.
+There is a command that Sublime comes with and it works on Windows,
+Linux, or Mac, and this command allows you to start
+Sublime in a particular directory. So, in this case,
+I mapped it to the keyword sublime and if I say dot, which at this point is
+the current directory, and open it up. Sublime will open the Sublime editor, and it will only have that particular folder,
+as its kind of a work space. So nothing else will be included. So let's go ahead and do that, and
+I will rearrange my windows, so we can see a little bit better. Now how first of all did
+I get to this sublime, Or supple as it's called
+actually this command. Well, if we go to the browser, I opened
+up a couple of links for you which I will include right after this lecture
+that will allow you to go step by step, and it will explain to you how to set this
+up so you could actually do this yourself. Again, it works on mac which
+is very similar to lynx so you can pretty much follow the same
+directions, except maybe for the fuller structure, and on windows
+the same way, this is another link for windows, you could certainly
+follow this command line tutorial. So you could open sublime for
+whatever directory you want. Okay so here I am I rearrange my windows a
+little bit so now I am sitting in lecture 40 in index.html, and
+here's our index.html. So we just like before
+can start brows sync and have the code that we write
+sync together with the browser. So we won't have to refresh that anymore. So let's go back to our command line,
+and we are in lecture 40 right here, and as you can see,
+it's in examples lecture 40. Now let's go ahead start the browser-sync. We'll say browser-sync,
+it's the same command as we did before. Start, server, directory, and so on,
+and we do need star star star because If we actually go back, you'll see
+that we have a js directory, and if we do a ls in that js directory you'll
+see that there's a script.js in there. So if we change something
+in that script.js. We want that to be reflected
+in the browser as well. So let's go ahead and start our browser
+sync, together with our star, star, star, so it will go ahead and
+go down directories as well. We'll start it up and
+we'll go to our browser, and you can see here it loaded up the page,
+but didn't execute the index.html yet. So let's go ahead and click on that,
+and here's our lecture 40 heading one. Okay, so what we're actually interested
+in is not so much the page anymore. Is we're interested in the JavaScript that
+is going to run, and chrome developer tools which is part of chrome browser is
+a great tool to have and to actually use. So what we're going to do is
+we're going to do Cmd+Alt+I, and on Windows I believe it will be
+Ctrl+Alt+I, so we'll go ahead, and open Chrome Developer Tools, and this is
+basically where we've kind of been living for the last so many lectures,
+we've been living in the elements tab. Where we're going to be living from
+now on, at least for a little while, is in a consult tab. So when we click the consult tab,
+this is where the JavaScript, and the JavaScript messages
+are going to show up. Now, we don't really need to see this
+lecture 40 thing all the time and I do want this window to have
+a little bit more space. So, the way we could do that is
+by going this dot, dot, dot, and actually undock this whole panel. So, we'll do that right now and that just
+threw out this panel all the way here. So, what we're going to do is, we're going
+to make it a little bit smaller, and we'll align it just like so,
+and now we can have our full blown JavaScript console right
+in front of us as we write our code. So in this here, in the sublime text, we could try to make this a little
+bit more minimized, but what we actually should do is just to close it all
+together, because we know where we are. So at this point, we'll go ahead and
+open up our script, the JavaScript.js, and now, index.html, and
+we'll do Cmd+K+B or Ctrl+K+B on Windows. And we'll just close
+the file explorer Okay, so now that we have our development
+environment the way we want it, in part two of this lecture we're going to speak
+about where to place JavaScript code.

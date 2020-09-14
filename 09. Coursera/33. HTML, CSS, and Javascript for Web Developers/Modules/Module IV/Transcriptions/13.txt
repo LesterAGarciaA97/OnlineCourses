@@ -1,0 +1,71 @@
+[SOUND]
+Okay, so I'm located still in script.js,
+which is located in lecture 45 folder. And in part one of this lecture, we spoke look about how to create a simple
+object and how to set properties on it and we even talked about how to set
+an object within an object and so on. Now in part two would like
+to take a look at the syntax that simplifies all this object creation. What we'll do for now is we'll go
+ahead and comment all of this out, and we'll create a new one. And we'll create the object in a bit of
+a better way, or at least simpler way. So let's go ahead and make a comment here,
+Better way: object literal. And what we're going to do now is called,
+object literal notation. Let's go ahead and set our object to
+a little bit of a more interesting name. Let's call it facebook and
+we'll give it an object literal. An object literal is just curly braces,
+and we can put a semicolon at the end because it's a statement, or actually
+it's an expression that's going to have its value sitting inside
+the facebook variable. And since JavaScript is very liberal
+with spaces we can actually make it much more readable. By putting space right here and starting
+to type properties just like this, name, Facebook, name the company's Facebook, and
+we're separating our name value pairs. The name-value pair itself is
+separated with a colon and the actual name-value pair is separated
+with a comma, so we'll put a comma in. And we'll put ceo. That's what we wanted to have as
+a subobject within this object. And since it's a subobject,
+we again put curly braces. And we open it up this way. Let's erase that extra line, okay. So first name was Mark. And we put it, separate this with a comma. FavColor was blue. Notice the last name value pair inside of the object curly braces
+does not get a comma at the end. That's very important. Now this right here from this
+curly brace to this curly brace is an object little by itself. And this, ceo, together with curly
+brace object, is a name value pair. So since we want yet another name value
+pair to appear afterwards we want to put a comma after here and
+then say something like stock, and the stock is going to be equal to 110. So if we save that,
+this is going to get cleared, and we're going to do console,
+let's actually make some room here. Do console.log(), and output facebook. So let's see what it comes out to be. And it looks exactly like
+the object we created before. And we have the ceo subobject sitting
+here with a favorite color mark and don't worry about this proto property for
+now, but ceo is an object has a favorite color,
+first name, and we still have the name of the outer object
+be Facebook and the stock price, 110. We can also repeat the same thing, as we
+did before here, where we wanted the stock name to be a little bit more
+of an elaborate type of name. So we wanted it to be stock of company,
+right? So let's go ahead and copy that name and
+we could do the same thing here by specifying the property name to be e
+string, so we could just say, quotes, don't forget the colon, and paste
+the name of the property right here so when we save and it refreshes. Now we have the value, or the name of
+the property the stock_of_company with the spaces, which is something you would
+be able to set using the dot notation. But here we'll just set using
+the object literal notation and certainly are able to set
+using the bracket notation. And we could access the properties of
+this object exactly in the same way as we accessed it before. So there's really no difference between
+the way to create the object this way and the way we created it with a new object. So we could still say facebook.ceo.name. And when we save that we'll see
+that I messed up something here. Right, because we had not .name but
+.firstName. Let's go ahead and do that. And save that. And you can see it still outputs Mark. So everything works. And this is exactly again the same
+way to create the object. And this is a much better way,
+because it's much more readable. And a much faster to type. I'll let two more words about
+how to type up these objects. Now a lot of people make a mistake because
+when they say var, let's say company, and they say equal, and they do this, and they start expanding this thing before
+let's say ceo and again, like this. It's much easier to first put all
+the ending things on the line. So for example, the way I type things is,
+when I say a company and it's equals to curly braces and
+I know that it's going to be an object and I know that this is an expression and I want to put a semicolon at the end,
+I put a semicolon in to write a way. So that way when I put my cursor
+in between the curly braces, and just put a space, now the syntax doesn't
+look as bad, because it's much easier for me to type. So when I say ceo, again and
+I put two curly braces right here, and I know there's going to be
+a second property after this. I will put a comma right here and
+then say stock of company. Something like this and say 110. So, that way when I get to here and
+I put a new line here I'm not really worried any more to try to
+remember what is this curly brace closing, do I need a comma here, maybe there's
+another sub-object in here, so it's much easier to put all the ending
+characters to your programming line up front instead of wait til the end and
+try to match them up later. So there's just a little quick tip for
+you to know going forward. Okay, so we have our two ways
+of creating the objects. One way is using the object,
+the new object syntax, and the other one is what's
+called object literal.

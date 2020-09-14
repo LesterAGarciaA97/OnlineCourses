@@ -1,0 +1,57 @@
+[MUSIC] In this lecture we're going to talk
+about JavaScript built-in types. Now, first of all, what is a type? A type is a particular data structure. Now each language defines some built in
+types, and JavaScript is no different. Built in types, can be used to build other
+data structures, that you can then use for your particular business logic. Now JavaScript has seven built-in types,
+six primitive, and one object type. So what is an object in JavaScript? Well in JavaScript
+an object is nothing more than a collection of name/value pairs. You can have one name value pair, or
+it can have zero name value pairs. But it is a collection
+of name value pairs. Let's take a look at one a quick
+example might look like, visually. So, here I have a person object and it has
+a bunch of different name value pairs. First name, Yaakov,
+last name Chaikin, social and so on. So first name would be the name and
+Yaakov would be the value and so too a value doesn't necessarily have to be a
+single value, it could be a nested object. So a name here, for example is social,
+the name of the property of the object. And the value of that property,
+is an entire other object, that has again, name value pairs. So that's object type. What about primitives? Well primitive type is a type that
+represents a single, immutable value. So what do that mean? A single value means it's not an object,
+remember an object is collections of name, value pairs, even simplest object there
+is there is a name of value pair. Well the very simplest one
+has zero name value pairs. But the very simplest one that has
+some data in it is a name value pair. It's not a single value. What does immutable mean? Immutable means once it's set, once
+that value is set It cannot be changed. It means that once you set it, the value
+of the variable becomes read-only. You could certainly create another
+value based on an a existing value but the memory space that was allocated for
+the first value is not changed. Instead, you create a new memory space for
+the new value. So let me run down one by one of all the
+primitive types that JavaScript defines. First of all, boolean. Well boolean can only have two values,
+either true or false. And true and false are reserved
+keywords in JavaScript language. Now if you've ever done any programming at
+all and this course assumes that you have. You should be very
+familiar with this type. Enough said, really. Another type is called undefined. The undefined data type signifies
+that no value has ever been set on this particular variable of this type. This is the value that every variable
+gets when the JavaScript engine sets up the variable in memory when it defined but
+has never been assigned any value yet. And it can only have one value. And it's a reserved keyword undefined. Now you can set a variable to
+the keyword undefined yourself manually, but you should never ever do that. And the reason is, is because it's
+meaning is that it's never been defined. So defining it and then setting it to undefined Is
+really counter to its core meaning. If you ignore this advice and
+explicitly in your code, set a variable to the value of undefined, that will
+create tremendous confusion in your code. And confusion and
+code is never a good thing. Another value that the JavaScript
+language defines is null. Null signifies the lack of value. Now, the lack of value
+as opposed to undefined which signifies the lack of definition. There's only one value that
+could ever set for that type and that value is the reserved keyword, null. And it's also perfectly normal and perfectly okay to explicitly in your
+code set a variable to the null value. Another type is number. Well number is actually the only
+numeric type in JavaScript and it's always represented under the hood as
+a double-precision 64-bit floating point. In other words,
+JavaScript does not have integer type. Integers in JavaScript
+are just a subset of doubles instead of a separate data type. Another data type is strings and
+string in JavaScript is very similar to the string type in other languages in
+that it is a sequence of characters used to represent text and you can
+define strings either using single or double quotes, either one is 100% legal. The last primitive type that I'll mention,
+is symbol. Now we're not really going to cover
+this data type in this class. And the reason is, is that it's new to
+the ES6, otherwise known as ecmoscript 6. Now ecmoscript 6,
+was released in 2015, around mid 2015, and it just isn't widely supported. Were really used yet. It will probably become quite popular
+in the next number of years, but it's not there yet, so
+were going to skip it for this course. Okay, so time to go to the code editor and
+see some examples.

@@ -1,0 +1,87 @@
+[MUSIC] In this lecture, we're going to
+talk about JavaScript closures. Now, closures is a pretty
+essential topic to understand. In fact, without this concept
+implemented in JavaScript something like Ajax wouldn't
+really even be possible, and believe it or not closures is
+something you've already seen. So right now I'm looking at my
+sublime text at script.js, and I'm located in lecture 51 folder,
+so let me close the file browser. And let me give you an example
+that you've seen before. Let me create a function, and
+the function we'll call makeMultiplier, and we'll pass it an argument
+called multiplier, and in this body of this function
+we're going to return, and what we're going to do is we're
+going to return a function. So we're going to say return. Let's put parentheses around it, so we could see it a little bit better
+with a semicolon at the end, and what we're going to do is
+we're going to return a function. Function without a name,
+we don't need a name for it because it's just the value of
+the function, and the function that we're returning should be able to take
+one argument, let's call it x. And what we're going to do is we're
+going to return multiplier times x. So, this function makeMultiplier is
+going to take a multiplier that is supplied to it, some number and
+it's going to return another function as part of its return value that is going
+to take an argument, a number and it's going to multiply it using the
+multiplier provided in the outer function. So let's go ahead and
+execute this function. So let's say var double O. We're going to double everything and double O is going to be
+equal to makeMultiplier 2. So double O is now a function
+that doubles everything. So let's go ahead and say console.log
+double O, and let's say 10, and when I save that it will go ahead and take 10 multiply it by 2 and
+we should see 20 over here. So, let's save it and 20 is what we see. Okay, great. Now let's for
+a second understand how did this work out. The very first time we called
+makeMultiplier we passed it a value of 2. So now, when we get this portion right
+here it's really no different than saying var multiplier
+right there equals to 2. That's really what's going on. So, according to our rules I should
+be able to use this multiplier inside of an inner function. So, before I even get to the return let's
+go ahead and create another function. Let's call it function, I don't know. Let's call it function B,
+and we'll just say console.log multiplier is and we'll output the multiplier, and
+let's invoke the function right there. Now, when we invoke the function
+let's go ahead and do that, save it. We invoke the function
+it says multiplier is 2. Now, how does the inner function right
+here B know that the multiplier is 2? Well, we spoke about what happens
+when a function is executed. When a function is executed
+it gets a few things. Number one,
+it gets it's own execution context so it's isolated from everything else. Number two, it gets a special vis
+variable, we spoke about that before. Number three, it gets a reference
+to its outer lexical environment. So when a variable is
+referenced inside of a function the first thing it does
+is check whether or not this variable has been defined inside
+of it's local lexical environment meaning has the multiplier variable been
+defined inside the B function? And the answer is it's not,
+it's not defined. And if it's not defined it means the next
+thing that the JavaScript engine does it looks at the outside lexical
+environment of this function. Well the outside lexical environment
+of this function meaning where it's defined the outside of
+that is the makeMultiplier function. And the makeMultiplier function has
+that variable, so once it finds it it goes ahead and uses it in the function
+B that we're executing right here. Now, that's all great. Now, let's take a look
+at our return statement. The problem is that our return
+statement doesn't really create its own execution environment,
+because this is not a function execution. This is just a function value. This is the object a function
+that gets returned back to the caller of
+the makeMultiplier function. Okay, so if this is not
+an execution of the function that means it doesn't get
+its own vis variable. It means it does not get
+an out of reference. It simply gets returned to the caller. So now, when it gets returned to
+the caller in this line right here, so this variable is now equal
+to this function, and in the next line will be actually
+execute double all and pass it a ten. This function is now finally being
+executed, which means it is now getting it's own execution environment and
+it is now in this line right here. It gets its own execution environment, and it gets its own outer variable
+environment, and so on. So how then can it possibly know
+what the multiplier variable is? Because at the time that this is executing the makeMultiplier function is no
+longer in the execution stack. It's done. It returned whatever we needed to return,
+and is no longer functioning. It's done.
+It's part of the execution stack. Well, the reason this still works
+is because of JavaScript closures. Since a function like this returned
+from inside of this function JavaScript preserves its outer lexical environment
+memory space for this function, so this function can go ahead and
+produce what it needs to produce. So the multiplier is something
+that's still sitting in memory in lexical outside scope of this function. So even when we call doubleALL it will
+go ahead and execute this function. It will create its own
+execution environment. It will go ahead and look for the multiplier variable in its
+own execution environment. It will not find it and it will then try
+to look for for this variable in its outer lexical environment, and
+the outer lexical environment memory space will still remain even though the
+makeMultiplier function no longer exists. That's how we basically are able to trap
+or to close in whatever variables and whatever memory space is sitting
+outside of the lexical environment of this return function, and
+that's how closures work.

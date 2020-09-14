@@ -1,0 +1,144 @@
+[SOUND]
+In this lecture, I'd like to show you one more way
+to create objects in JavaScript. And it's a very common way, especially if
+you have functionality together with those objects, very similar to like
+a Java class, for example. Right now, I am in script.js and
+I am in located in the lecture 48 folder. Let me go ahead and
+close the file explorer. Before we jump into yet another way
+how to create objects in JavaScript, I'd like to explore one particular topic. Let's go ahead and write a function,
+and we'll call this function, let's say, test and
+all this function is do console.log and we'll say, Hello Coursera!. Okay, so if we save that now,
+well, nothing's going to happen, we actually have to call that function. So let's go ahead and
+call the function test. And now, we see, Hello Coursera!. Now, we discussed in one of the previous
+lectures as to what happens when you actually invoke a function. We discussed the fact that a new
+execution context is created within which this line or whatever is inside
+the function is actually executed. And we also discussed the fact that
+that execution context gets a special variable called this. Well, let's find out what
+this variable is pointing to. Let's do a console.log, sure that we
+could just delete this and just put it right here, and let's log what this is
+at this point, the special variable. Let's go ahead and save that. And this is pointing to
+the global Window object. That's the object that has all of these
+parameters, all of these properties. And in fact, if I actually set
+a property on this object, say, this.myName, give it "Yaakov". So if I save that and
+if I output this again. And in fact, I could do it right here. I could say this or window.myName, and I could log that out, console.log. And it will say Yaakov, because what I
+did here is, since this is pointing to the global object, window.myName or myName
+property was created on the window object. Okay, so that's all nice and well. But if we actually wanted to kind of
+encapsulate some data within a particular object and use a function for it, then we would need this
+to point to something else. And this is where function
+constructors come in. Let's go ahead and erase that and
+create yet another function. Let's just say, Function constructors. Okay, so
+let's create another function, and let's call this function Circle,
+we're going to create circles. And this time,
+we're going to say Circle with capital C. Now, there's really nothing about
+capital C that does anything special other than it lets me know that
+it's a function constructor. So it's basically just a convention
+to let other developers know that this is a function constructor
+as opposed to a regular function. And a Circle should have a radius. And what I'm going to do inside the body
+of the circle is actually nothing more than just say, console.log, and
+I'll go ahead and log this. And here comes yet another way that we're about to
+learn as to how to create objects. So let's go ahead and
+create a variable called myCircle. And what I'm going to do is, instead
+of just invoking the function Circle, I'm going to use the new keyword and
+then say Circle, and give it, let's say, 10 as the radius. When I invoke a function together with
+the new keyword, the JavaScript engine makes this point to the object itself
+that got created, which is the Circle. So if I go ahead and
+console.log the actual myCircle, and so now I'm going to console.log this and
+I'm also going to console.log myCircle. It really should be the same thing. Let's go ahead and do that. And then both are empty objects that are
+of type Circle or sort of of type Circle. It's not a real type, but
+it's an object with a name Circle. So this means that technically,
+what I could do here is I could say, this.radius, so I could create
+sort of a member variable or a property of this Circle object,
+and I could say, radius. So now, the radius that I'm creating
+the Circle with is going to be stored as part of my object. So if I go ahead and log Circle now, you'll see that now I have a Circle
+that has a radius property of 10. Now, what's really going on behind the
+scenes here is that this line right here is really pretty much equivalent to
+saying new Object as we've done before. And then that Object gets named
+after the function that created it. So it's really a function constructor
+in that it creates a new Object by executing this function in a special
+way using this special new keyword. Now, the function constructor itself or the function Circle
+cannot return anything. So if they function returns, let's say,
+an empty object, an empty literal, and I'll save that, you'll see that we're not
+really getting the behavior that we want. MyCircle is now just an empty object. So we can't return anything
+from the function constructor, it has to remain without a return value. And the new keyword will arrange for us
+that when it creates an empty object and then sets it to be a circle, it will
+go ahead and return that object and store it in whatever variable
+that we're providing for it. So let's save it again. Now we see our circle with the radius 10. Now, what would be an object
+without some methods? And methods in JavaScript
+are just functions that are set on properties of objects. So let's go ahead and create one. Lets go ahead and create a this.getArea. And this.getArea is going to be
+nothing more than a function. And let's go ahead and
+put this function on a separate line. And the function is
+going to have no arguments, because we're actually going to get
+at the radius using the this keyword. So we're going to go ahead and
+have curly braces, we'll won't forget to
+say a semicolon here, because this is just an expression
+that gets set to the getArea variable. And here we can use a JavaScript
+predefined object that actually has been pretty much created the same way
+that we're creating our Circle. So we'll say Math.PI times, and there's another Math
+method that's called pow, power of our this.radius. And we want to raise it to the power of 2,
+and I'll go ahead and put a semicolon after that. Okay, so
+now we have a getArea method, well, getArea function that will
+calculate the area of the circle. So here we created a Circle with a radius
+10 and we're outputting the Circle. Let's go ahead and
+output myCircle.getArea(). And we need to put parentheses after it,
+because this is a function and we're invoking it. So now that we save it, we can see
+that the area has been calculated. So 10 to the 2nd power,
+that's 100, times pi. Sounds about right. Let's go ahead a take little bit of
+a closer look to this myCircle object that gets created. Let's go ahead and log it one more time. And you see my Circle
+object has a radius of 10. And if we open it up,
+we'll see the radius is 10, and it has another property called getArea,
+and the value of getArea is a function. The problem is, as we keep creating these
+Circle objects over and over in our code, we're going to keep creating this getArea
+function over and over in our code. Because every time we say new,
+this entire thing gets created. Well, for radius, it's perfectly normal, because each circle should
+have its own radius. We really don't need our type Circle
+to have its own getArea on every object that's created. It really should be just created once,
+and all the circles, all the instances of a Circle,
+should share it. And the way we could do that is by using
+a special property called prototype. So let's go ahead and
+cut this out of here. And we'll say Circle.prototype.getArea. And that is what is going to
+be equal to our function. And the function is going to be anonymous, since we already have
+the name getArea right here. And again, we don't need an argument,
+because we're going to use this keyword. And in the body we're going to say, Math.PI * Math.power of
+this.radius to the 2nd power. So that is actually
+what we need to return. Okay, so there's our getArea. So let's go ahead, and before we even call
+getArea ourselves, let's go ahead and take a look at myCircle
+object one more time. Let's go ahead and save this. And I'll put in my myCircle object,
+and we'll take a look. And you could see that the radius is here,
+the radius equals 10, but the getArea doesn't exist here. Well, where is it? Well, it's actually sitting inside
+of the special variable __proto__, that's a special property. If we open that up, you'll see that
+getArea now is right here, and __proto__ is something that's going to be existent
+on every single instance of this object. So if we, for example,
+create another one, var myOtherCircle, and we'll say, new Circle, and
+we'll give it 20 as the radius, and we'll go ahead and
+console.log(myOtherCircle), you'll see that the radius here is 10 and there's no getArea, and
+the radius here is 20. And again, both of them are pointing to the same
+proto variable that have a getArea, and this getArea is actually the same
+location in memory as this getArea. It's the same thing. So it doesn't get recreated over and over. Now, a couple of words of caution. Number one is, Circle.prototype.getArea
+is not something you should cut and put inside this function. You could certainly do that,
+but that would be a mistake. And the reason that would
+be a mistake is because this function is going to get executed
+every single time you create a new Circle. Well, every single time,
+you don't need to define a prototype. In other words, what you'll be
+doing is you'll be overriding the memory space of getArea every
+single time you're creating a Circle. So basically, that's wasted processing. It's not really wasted memory space, since
+it's going to put in the same memory space this function over and over again,
+but it's wasted processing. So you really should not be putting
+that inside of a function constructor. So definitely put this outside,
+let's go ahead and indent it this way. So that's caution number one. Caution number two is, make sure
+you don't forget the new keyword, because if you omit the new keyword,
+let's go ahead and comment this out. Let's go ahead and log this variable,
+you'll see it's undefined. Well, the reason it's undefined is because
+this is nothing more than a function, it's just a regular JavaScript function. So, a regular JavaScript function
+that you're passing 10 to, and it actually does not return anything. Well, when it doesn't return anything,
+this myCircle becomes undefined. And if you actually tried to say .getArea,
+right, we're going to get an error, because it
+says, cannot read property getArea of undefined, because myCircle
+at this point is undefined. So make sure you remember to
+put the new keyword there. One clue is to always make the function
+constructor names capitalized, that's why you will remember that
+this is not just a regular function, it's actually a function constructor and
+you must use it with the keyword new. So let's uncomment this back out and
+save it, and now everything works as we expect it. So these are function constructors,
+you could create an object using them, using the keyword new. And you could set a prototype property
+on that function such that whatever property you set on it will only be
+created once and will not be created for every single instance of that object.

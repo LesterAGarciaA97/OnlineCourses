@@ -1,0 +1,7 @@
+[MUSIC] Congratulations on completing module 4. While I didn't cover everything there is
+to know about JavaScript, since JavaScript is only one topic in this fairly short
+course, we did go pretty deep, and what we did cover should give
+you a very solid foundation. I would actually bet that even some
+seasoned developers don't know all the topics from this module. In the next module, we'll start applying
+JavaScript to creating web applications. Keep going, you only have one module left
+to go and you complete the entire course.

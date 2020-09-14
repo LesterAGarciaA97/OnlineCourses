@@ -1,0 +1,113 @@
+[SOUND]
+In part one of this lecture, we spoke about faking namespaces using
+JavaScript objects such that certain variables and functions can coexist in
+the global scope without stepping on each other's toes, so to speak, but there is
+something you could do to go even further. A lot of the times when you have a bunch
+of functionalities sitting in a script, a lot of it is not really
+something that you'd necessarily, even want to put into some namespace. Sometimes, just wanted to execute when
+the browser loads that JavaScript. You just want it to execute and
+kind of go away, so you don't necessarily need
+to put it in any space. So for example, if I didn't want
+to hard code the string saying, hello, if I wanted to, for example,
+let me cut it and say greeting. In this greeting, I just want to
+declare as a regular variable. So, I just want that to be a string. So, I just want to be able to use that
+string inside of my sayHello function. Well, I could do the same thing var equals
+greeting in the script number two and say, var greeting. So this time, I want to say, Hi and
+it just substitute it with greeting. Well, and we kind of have exactly
+the same problem again, don't we? Greeting now is going to be part of the
+window object, part of the global object in script two and in script one is going
+to be again, part of the global object. So once again,
+I'm now going to end up with Hi Yaakov, Hi John instead of hello Yaakov, Hi John. Well, one more thing we could do is
+introduce something that's called immediately invoke function expression. Let's go to our app.gs and
+I'm actually going to comment this out for a minute, and show you what an immediately
+invoke function expression is. I'm sure you've seen a function before
+that in this course that we've done where let's say, we're going to go ahead
+console.log say, "Hello Course!". So in order to now for us to execute
+this function, we need to say a and put our parentheses behind it and
+go ahead and save that and now you'll see "Hello Coursera!" and
+you'll also. Remember that I could save
+this function in a variable. So I could say,
+var a = function log "Hello Coursera!" and this is exactly the same thing. If I save this, you'll see, you'll refresh
+and it'll say, again, 'Hello Coursera!". Well, the way we execute a function is
+by putting these params behind its name. Well, remember, function is just a value. This whole thing is nothing more than
+an object, it's a function object. So technically speaking, I could just wrap it in parenthesis
+right here as just an object. So if I save it again,
+nothing really changes. Well, how do I execute a function again? I execute it by putting
+parenthesis right behind it. Well, then, it follows that if I
+erase this variable right here, I can invoke this function right in line
+by just putting parenthesis right after its declaration. So, this declaration right here is
+going to produce a function and the parenthesis right behind it is
+going to invoke it immediately. So this is what's called
+Immediately Invoked Function Expression, otherwise, known as IIFE. So immediately, one functional expression. It's an expression,
+because this line right here or this set of code is actually
+something that produces a value, that's an expression,
+something that produces a value. Well, what value does it produce? It produces a function object and
+then we're taking that function object and we're just putting parentheses
+right behind it, and that invokes that function object. And therefore, when we save, we're once
+again, going to see "Hello Coursera!" and I could certainly even pass
+parameters through it. For example, if this function wanted
+a name to be passed through it. Instead of just saying say, Hello,
+I'll just say Hello + name. So if I execute it right now,
+what do you think it's going to say? It's going to say,
+Hello undefined, why is that? Well, because it's asking for
+a name to be passed through it and we're passing nothing through it. So let's go ahead and pass Coursera and when we save, it will say once again,
+"Hello Coursera!". So in the same vein,
+let me go ahead and comment this out. So you have it for your records, so
+to speak and I will uncomment the Greeter. If I do this again,
+it still say, hi and hi. So, how can we separate that? Well, if we go to script1, we could wrap this entire
+thing with parenthesis, (function) and
+wrap this whole thing into a function. So now, this whole thing is
+sitting inside of a function. Technically speaking, I could just
+Indented a little bit like this, so this whole entire thing is
+sitting inside of a function. And if I just leave it like this,
+this will be kind of dead, because all I will be doing
+is declaring a function. Well, I don't want to just declare it,
+I actually want this code to execute. So in order to get this code to execute
+and execute just a load of script.1.js, all I need to do is put parentheses
+behind it and put a semicolon. So now, this is going to
+execute the second it loads. Now if I save that,
+this is not really going to work. Why is that? Well, because in app.js, yaakovGreeter.sayHello is undefined,
+is not defined. So, where is yaakovGreeter? Because this is at this point is looking
+in the windows object to see where yaakovGreeter is and
+yaakovGreeter is not defined there, because now we've put it in
+its own execution context. So yaakovGreeter is only living
+inside of this function. So, how can we expose this Yaakov
+greater to the window object? Well, we could go ahead and pass the
+window object as part of the parameters to the function and
+we'll say, window here. And at this point,
+when we say, yaakovGreeter, we can even do it right at the end. We could just say, window,
+that's this window right here .yaakovGreeter = yaakovGreeter. So, now what we've done is we've
+exposed our yaakovGreeter object and we've placed it into the window object. We can expose it to the outside. So now when we're in app.js, yaakovGreeter
+is indeed exposed to the outside. So let's go ahead and save that and
+now you can see Hello Yaakov, Hi John. And the truth of the matter is even here,
+we still want to do the same thing. In fact, let's go through it this way. Usually, the way I want to type it up is
+not try to wrap those curly braces all around. It's very confusing that way,
+but instead do this. You have parentheses, you know there's
+going to be a function inside of it and I know I'm going to want to
+invoke that function. So really, I'm going to put
+the parentheses right behind it and put a semicolon at the end. So now all I need to do is declare this
+function and the function is going to have the parentheses right behind
+the word function, and curly braces. And now I can just open it up and
+take this entire thing, cut it out of here and
+maybe even indent it, place it over here. Let's indent it a little bit more and
+there it is. Except, again, the johnGreeter, we want to expose that johnGreeter to
+the window object, to the outside. So we'll go ahead and pass the window
+object here, and pass it in here, and now right at the end or
+we could do it right here. It doesn't really matter where, but
+we could do it right at the end. We could say that
+window.johnGreeter = johnGreeter. So the window johnGreeter we're creating
+a new property on the window object and we're setting it to the johnGreeter, that is the object that we set inside of
+this execution context of this functions. So we save that and now we see,
+Hello Yaakov, Hi John. So notice we're able to use something
+that we want to expose outside and it was whatever we wanted to expose
+outside, we simply placed it as a property on this johnGreeter object and whatever
+we wanted to use inside like a greeting. So, like almost like a private variable. We could still use and we could
+still use it inside the function and we don't have to expose it to the outside. And at the same time, this greeting
+who is not going to collide with this greeting inside the yaakovGreeter or
+inside this function, basically, but not inside the yaakovGreeter, just inside
+this function, because each one of those variables is being defined in
+their own execution context. Meaning, in this function and this greeting is being
+defined in this function. So what we've done is we've learned
+about namespaces or at least how to fake namespaces in JavaScript,
+which is totally legitimate and we also learned about how to utilize
+immediately invoked function expressions.

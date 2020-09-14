@@ -1,0 +1,112 @@
+[SOUND]
+In this lecture we're going to speak
+about arrays in JavaScript. I'm assuming you already
+know what arrays are, but if you don't arrays are just
+a collection of data. In JavaScript however,
+since we have dynamic typing, arrays take on pretty
+interesting set of properties. So right now I'm in sublime text and I'm
+looking at script.js and I'm located in the lecture50 folder, okay so let me close
+the browser, and let's create an array. So let's call it var array,
+and we'll say new array. Once I created the array I can
+now set items into that array. And arrays are zero based, so I can say
+zero and let's say in the first position, which is position zero, I'll place
+a string, and I'll use my name, Yaakov. In the second position, which is position
+one, I'll place a number, let's say two. In the third position, which is two,
+I'll place a function, and let's say it's going to be a function
+that you could pass a name to. And let's put a semicolon there,
+and all this function is going to do is just going to say hello and
+whatever the name is, plus name, okay. So in the third position,
+which is right here, or the fourth position I should say,
+I am going to place an object literal. We'll put a semicolon over there. And object literal will say course,
+that's the property name, and the name of the course is HTML,
+CSS & JS. Okay, so here's my array. And if I do a console.log
+on the array itself, you'll see that we have the array,
+and as you can see inside the array, we have different types
+of objects stored there. Some are just primitives, and
+some are strings, some are functions, which are also objects,
+and some are just objects. So because of dynamic typing,
+in JavaScript I'm able to store different types of objects in the same array,
+which is not true of most languages. Most languages when you have an array,
+and you store data in that array, the data in one particular array has to be
+of the same type, and if you want to have more than one type, you have to
+separate it into separate arrays. And just like I set the values
+using this brackets operator, I can also retrieve the values
+using the brackets operator. So for example,
+I could say console.log and I can output array sub one,
+or sub one right here. So array sub one meaning I want to
+go to the second item in the array, which is right here and I want to output
+it to the screen using a console.log. So if I save that and
+I see it prints out 2. Furthermore, since at position three,
+or really at index two here, we have a function, I can invoke this function
+very easily using therein notation. So I'll say array, and it's at position
+two, so I'll say position two. And now since at position
+two is the value, and what's sitting in here in this position
+two is the value of the function. So that's the function value,
+not the return of the function, but just the function value. Which means in order to invoke it all I
+have to do is put parentheses after it and once I do, I can save it,
+and undefined and the reason it says hello undefined
+is because I never passed name. So, let's go ahead and
+say Yaakov, and save that. Now it says Hello Yaakov, but I can
+even do something more fun than that. I can actually pass in the array because
+I already have Yaakov stored right here. So I can say I'm passing in an array, and
+it's in the position zero so now what I'm doing is I'm retrieving position zero
+of this array, which is Yaakov string, and I'm passing it to position two value
+which is the value of the function. So the function is getting
+executed against the value Yaakov. So if I save that, I'll get again
+the same thing, hello Yaakov. Likewise, I could certainly
+retrieve a property of a literal object that is
+stored inside that array. So I could say here console.log, and I
+could say array sub three, or index three, and I could say .course, and that should
+print out HTML, CSS, and JavaScript. Let's go ahead and save that,
+and it says HTML CSS & JS. Okay, I can also create arrays
+using a short hand array imitation. So let me go ahead and comment this out so
+it doesn't crowd our console. So we'll save it and
+we'll clear the console. Let's go ahead and say,
+short hand array creation. Okay, so what we're going to do is say,
+var names, and we're going to create an array simply
+by providing an empty brackets. So empty brackets now creates
+an array in the variable names, and what I could do is, I could start listing
+my names, Yaakov, John, Joe, let's say. Okay, so if I do console.log now,
+on the names, I should see that array right there,
+Yaakov, John, and Joe. So that works, great. So now you see that there's
+two ways to create an array. One is kind of a long hand notation
+where you say new array, and the other one simply by kind of like
+an array literal something like that, but we just use the brackets and
+you separate the array values by a comma. And again I could put whatever I want in
+here, so if I wanted to let's say, I can actually use spacing here like this and if
+I wanted to I could create an object here. So let's see, I can create an object and
+say, name: "Yaakov", and comma, there's another object here if I wanted to have
+an object, we'll do name: "John" and I can actually leave it here because arrays
+are not restricted to have the same type. So if I save that and
+I'll see object, object Joe, right? So if I actually opened that up,
+it will let me open this up and we'll see Yaakov, name Yaakov, and
+the same one is second one is named John. Okay, but let's undo that for now and go back to the regular array
+we had before, and let's go ahead and loop over this array printing out each
+name, let's say, say hello to each name. So for that we're going to
+use a regular for loop. We'll say, var i = zero, and we need to keep looping until
+it's the end of the array. Well, there's three items in the array and each array object has a special
+property called length. And it's not a function, it's just a property that
+the JavaScript engine sets for you. So array names that length,
+we'll give me the length of the array, in this case it will be three. So what I'm saying is that I want my loop
+variable to be zero, one and two and when it's three it's no longer going to
+be less than the length of the array and it will quit. Okay, so let's go ahead and
+print hello to the console. So we'll say console.log and
+we'll say, "Hello" space, and then we'll say names[i]. So now every time through the loop
+the i is going to change and it's going to say hello
+to a different name. Let's go ahead and maybe comment that out
+so we don't see that on the console, and we save it and we say hello Yaakov,
+hello John, hello Joe. Now what's interesting about arrays
+in JavaScript is that they can even be sparse. So I'm going to go ahead and make some
+room here and I can say something like names and I can say name[100] and I could
+set that value to be let's say Jim. So now we have an array that has zero,
+one and two index and an 100 index and
+in between there's nothing there. So if I actually go ahead and take that
+here, and paste that loop right here and execute it, what we're going to see is it
+said, hello Yaakov, hello John, hello Joe. And it starts that again, hello Yaakov,
+hello Joe and then 97 times it just says hello undefined because what we're doing
+here is we're saying I want you to retrieve names with an index of four,
+and five, and six, and so on. Those indices just don't exist in this
+particular array, but 100 does exist, so therefore you see when it gets to 100,
+it prints out hello Jim. There is one more issue with arrays
+that you should be aware of, and we'll discuss that issue in
+part two of this lecture.

@@ -1,0 +1,78 @@
+[SOUND]
+In the previous lecture, we saw how the this keyword behaves itself
+when it's part of a function constructor. That is,
+it's referring to the function itself, or the object itself when that function is
+invoked together with the new keyword. In this lecture,
+I would like to look at object literal and how the this keyword behaves
+itself inside of one. So I'm looking at script.js
+located in the Lecture49 folder. So let me go ahead and close the browser. And let's create an object literal. Let's call it literalCircle,
+since we've done circles before. And an object literal is
+just two curly braces, and don't forget the semicolon at the end. And we'll give it a radius of 10. Okay, so
+an object literal with a radius of 10. And we'll also put a comma, and
+we'll give it a getArea, and getArea is going to be a function, its value of
+this property is going to be a function. We don't need the name, we already have getArea, and we're not
+going to give it the argument either. What we are going to do is
+we're going to do console.log, and we'll console.log this right
+inside the getArea method. So let's go ahead and save that. And once we've created that object
+literal, let's go ahead and call the getArea function and see what
+happens when we do console.log(this). We obviously have not really yet,
+at least, calculated the area. So let's go ahead and save that. And we'll see that what's going on here
+is, this is no longer referring to the window object or the global object,
+but it's actually referring to our circle class or to our literalCircle,
+which is an object with a radius of 10. And if we open it up, we'll see that it
+has a getArea property and a radius of 10. So when an object literal gets created,
+this, instead of pointing to the global object, is actually pointing
+to the actual object that got created. Therefore, what we could do is, we can do return Math.PI * Math.pow, and we could say,
+this.radius to the second power. So this is referring to
+the literalCircle object, and it has a property called
+radius which is right here. So therefore this is perfectly legal,
+and it should work just fine. So let's go ahead and actually console.log
+the answer to our getArea execution. And when we execute that,
+we do get 314 and so on. So this actually worked just fine. Now, why is that? Why is it that this is working? Why is this keyword referring to
+the object instead of referring like any other regular function to
+the global object like window? Well, believe it or not,
+you already know the reason to this. And the reason you know this is because
+when we discussed object literals, I told you that this statement right here
+when you open the curly braces is really tantamount to what? new Object(). So when that happens, this is actually
+what's executed in the background. new Object(). Well, you see that new keyword again. And when we see the new keyword, the this variable inside of that object
+is now referring to the actual object and not to the outside window or
+outside global object. So this in fact works exactly
+like function constructors in terms of the new keyword. Right, even though the new
+keyword here is kind of implicit, well everything's here implicit,
+since this is an object literal. Now, there is a bug, or at least
+what most people consider is a bug, within the JavaScript implementation
+in every single browser, it's really within
+the JavaScript specification. And the bug comes out in this fashion. If inside getArea, I will go ahead and
+create another function, just like I can. And I'll say var increaseRadius. And it's going to be a function. And I don't need a name again. And I don't really need
+an argument here either. And inside the body of the function, I am going to go ahead and
+increase the radius to 20. So I'll say this.radius = 20. So now when this method
+executes right here or this line executes right here,
+this.radius should now be 20. So it shouldn't be 314, it should be
+a much larger area of the circle. So let's go ahead and actually invoke,
+which is defined, this function here. Don't forget the semicolons,
+because that's an expression. Let's go ahead and
+invoke this function right here. So now after this invocation,
+this.radius should be 20, and this whole line should execute with
+a value of this.radius equals 20. So let's go ahead and save that. And what do you know? It's still 314, and
+that's kind of strange. Well, let's go ahead and console.log
+what our radius is, so this.radius. What exactly is our radius
+before we execute this, but after we increased the radius? Let's go ahead and save that,
+and it's still 10. Now, where did this 20 go? Well, the way this works is that when you
+have an inner function within another function, this keyword starts
+pointing to the global object. And we can actually test this
+by saying window.radius, and this should say 20, and so it does. So this 20 actually got set on the global object instead of
+on our literalCircle object. So how do you get around this? Well, there's a common pattern that
+people use to get around this, and the way you get around this is
+you just say var self = this. So now that you have self, self is
+always going to be referring to this. And this, at this point, at least,
+is referring to the literalCircle object. So instead of in the inner
+functions referring to this, you always refer to self. So now, radius is equal to 20,
+and now this should update the radius inside the object
+literal, inside our literalCircle. So when we execute this line right here,
+this.radius should be equal to 20, not 10. Let's go ahead and execute this. And as you can see, now our radius is
+indeed 20, and the area is much larger. So this is the way you get around
+this kind of annoying JavaScript bug. And I guess there is a disagreement out
+there whether or not this is a bug, or this is intended and
+this is how it's supposed to work. Either way, it's not really very useful. And in fact,
+in the new JavaScript version, which is ECMAScript 6,
+this supposedly has been fixed.
