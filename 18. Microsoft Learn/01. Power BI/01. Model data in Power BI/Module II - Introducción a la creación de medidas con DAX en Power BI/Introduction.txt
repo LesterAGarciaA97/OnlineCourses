@@ -1,0 +1,3 @@
+Expresiones de análisis de datos (DAX) es un lenguaje de programación que se utiliza en Microsoft Power BI para crear columnas calculadas, medidas y tablas personalizadas.
+Es una colección de funciones, operadores y constantes que se pueden usar en una fórmula, o expresión, para calcular y devolver uno o más valores. Puede usar DAX para solucionar 
+varios cálculos y problemas de análisis de datos, lo que puede ayudarlo a crear información nueva a partir de los datos que ya están en el modelo.
