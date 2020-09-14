@@ -43,4 +43,3 @@
 ### Folder 41 -----> Develop and deploy Windows applications on Google Cloud Platform
 ### Folder 42 -----> Getting started with Power BI Desktop
 ### Folder 43 -----> Curso completo de Power BI Desktop
-### Folder 44 -----> Business Intelligence Concepts, Tools, and Applications
