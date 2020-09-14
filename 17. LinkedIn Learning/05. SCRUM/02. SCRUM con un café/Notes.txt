@@ -1,0 +1,67 @@
+Procesos = alma máter de una organización
+
+Justificante de la respuesta prohibida en la estrategia ágil
+
+Procesos = más agiles en las operaciones de la empresa
+
+Tres criterios en mente:
+*Procesos simples
+* Estructurados y claros
+* Obviar lo que no añada valor
+
+Los procesos además de ser ágiles puede ser flexibles
+
+Mas flexibilidad = mayor agilidad
+
+Crear procesos ágiles:
+Que no tengan muchas fases
+Procesos simples
+Estructuras los procesos en el tiempo
+Eliminar las fases del proceso que no añaden valor
+Controles que aportan seguridad al proceso
+
+
+Filosofía SCRUM
+que es SCRUM
+"Un metodología agil para desarrollar productos y servicios innovadores"
+
+¿Donde se aplica?
+Desarrollo de software
+Startups/emprendimientos
+Proyectos complejos
+Servicios (elementos en los cuales intervengan clientes)
+
+Caracteristicas
+* Sistema de trabajo en paralelo
+* Ciclos cortos
+* Se enfoca a la entrega de resultados
+* Crear productos y servicios que se adapten a necesidades cambiantes
+* Mejora constante
+* Trabajo en equipo - Talento del equipo
+
+SCRUM DIARIO
+mANTENER EQUIpos pequeños más productivos
+
+duración de 15 minutos
+
+¿cual fue mi avance el dia de ayer?
+¿Que plaeno hacer hoy?
+¿Algun atasque?
+
+De preferencia a la misma hora todos los días
+
+
+Rituales = procesos cíclicos
+
+1) SCRUM DIARIO
+2) pLANIFICACIÓN DEL SPRINT
+3) Revisión del sprint
+4) Retrospectiva
+
+FLUJO DE TRABAJO EN SCRUM
+Diseñado para mantener al equipo en resolución de problemas
+
+"SPRINT"
+Duración de 2 a 4 semanas
+
+
