@@ -1,0 +1,3 @@
+El lenguaje DAX (Expresión de análisis de datos) es una característica clave de Power BI. Se usa para crear columnas y tablas calculadas, así como medidas. En este módulo, 
+aprenderá a usar DAX para solucionar problemas de análisis típicos. Obtendrá información sobre una de las funciones DAX más populares, CALCULATE, y cómo puede reemplazar el 
+comportamiento predeterminado de Power BI.
