@@ -1,0 +1,157 @@
+Un equipo motivado y productivo puede resolver cualquier tarea
+
+SCRUM = metología ágil para trabajar en equipo
+
+aPROVECHAR AL MÁXIMO los talentos de nuestro equipo
+
+¿Que es SCRUM?
+Metogología ágil para desarrollar productos y servicios innovadores"
+
+¿Dónde se aplica?
+Gran cantidad de escenarios posibles
+Software
+Startups
+Proyectos complejos
+
+
+Caracteristicas destacadas:
+* Sistema de trabajo en paralelo
+* Ciclos cortos
+* Se enfoca a la entrega de resultados
+	Crear productos o servicios adaptables...
+		* Mejora constante
+* Trabajo en equipo
+
+
+
+
+
+Cascadas VS SCRUM
+
+Cascada
+Toma de requerimientos
+   Diseño
+     Implementación
+        Pruebas
+
+Fugas importantes
+Repetición de tareas = Tiempo y dinero perdido
+Cambio de impacto al momento de lanzar un producto, esto a causa de la tardanza
+
+
+SCRUM
+Principios
+* Sprint = Ciclo corto (2 A 3 SEMANAS)
+Planificación
+Desarrollo
+Pruebas
+Revisión
+
+TODO DE FORMA PARALELA
+
+En scrum se va evolucionando durante el desarrollo del produco
+
+Los equipos SRCUM crean productos funcionales desde el principio
+
+
+¿Por qué usar SCRUM?
+* Eficiencia
+* Mejora constante
+* Adaptación a cambios imprevistos
+* Maduración de producto
+
+
+Roles dentro de SCRUM
+Cada miembro tiene una misión
+En SCRUM es importante mantener los procesos
+
+Procesos sencillo de implementar
+
+Dueño de producto
+ScrumMaster = Eje fundamental de los equipos
+Equipo
+
+EL DUEÑO DEL PRODUCTO
+Su rol es aportar las ideas del producto final
+Es el que se encuentra con el que será nuestro producto final
+
+Backlog = Bitácora
+Requisitos deseados para el producto final
+
+Siempre será la voz del producto
+
+
+EL EQUIPO
+Grupo de personas relacioandas con la producción del proyecto
+Encargados de implementar el proyecto
+Los equipos son pequeños y autosuficientes
+
+Los roles no son fijos y puede intercambiarse
+
+En un equipo SCRUM,Todos son parte del proceso creativo
+
+El quipo se enfoca en producir resultados
+
+
+EL SCRUMMASTER
+Mantiene el flujo de trabajo
+Apoya al equipo
+Mantiene los procesos
+Gestiona las reuniones diarias
+
+
+HISTORIA DE LOS POLLO Y LOS CERDOS
+cOMPROMETIDO O ENVUELTO?
+
+
+¿COMO TRABAJO UN EQUIPO SCRUM?
+Siempre se trabaja en ciclos cortos
+
+Al final de cada ciclo hay un producto fucional
+
+La bitároca del producto
+Las tarjetas deben de estar redactadas desde el punto de vista del usuario
+
+"El usuario debe tener acceso a un boton rojo"
+
+Solo el dueño de producto puede agregar o eliminar elementos
+
+
+LOS SPRINTS
+Ciclo de desarrollo del producto
+
+Todo sprint tiene un comienzo y un fin
+Tienen un tiempo definido
+
+Un producto funcional, potencialmente entregable
+
+
+Uno de los rituales más importantes de SCRUM
+SCRUM diario
+
+
+
+LA EJECUCIÓN DE TAREAS
+El tiempo que tarda el equiop en que tarda en crear un producto
+
+El resultado final siempre es un producto protencialmente entregable
+
+
+
+RETROSPECTIVA DE SCRUM
+nuevas habilidades descubiertas
+nuevos talentos adquiridos
+En este punto tambien se descubren las cosas que no se pueden hacer
+
+La retrospectica nunca puede ser una reunión para buscar culpables
+Es una oportunidad para madurar el proyecto
+
+
+REINICIO DE LOS CICLOS
+* Mejora constante
+* Maduración progresiva
+
+Cada ciclo da como rsultado un producto de mejor caildad
+
+Recuerda siempre elegir bien los objetivos, escucha a tus usuarios
+
