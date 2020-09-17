@@ -5,3 +5,4 @@
 ### Folder 03 -----> QA
 ### Folder 04 -----> Jira
 ### Folder 05 -----> SCRUM
+### Folder 06 -----> Other
