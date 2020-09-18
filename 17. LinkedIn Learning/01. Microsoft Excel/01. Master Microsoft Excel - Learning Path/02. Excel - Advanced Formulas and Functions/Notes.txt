@@ -1,0 +1,49 @@
+Formulas
+Mostrar formulas
+
+Inicio
+Buscar y seleccionar
+Fórmulas
+
+Trace dependants = Rastrear dependientes
+POdemos ver que celdas sufriran cambios si modificacmos la inicial seleccionada
+
+Work using portions in big formulas
+selct a portion and press F9
+
+
+You can change name of cells using formulas -> Define name
+or using the formulas space at left side
+
+
+SUM functions between mulitple sheets only can work simplify if they have the same layout
+
+
+
+IF FUNCTION
+
+Atajo para ir al final y al inicio de los datos:
+ctrl + .
+
+Nested IF
+
+
+
+Compound IF
+
+
+IFS = SI.CONJUNTO
+
+LOOKUP functions
+BuscarV
+
+
+CHOOSE function
+eLEGIR
+
+
+SWITCH = CAMBIAR
+Index
+
+Formula text = documentation tool
+
