@@ -47,3 +47,16 @@ Index
 
 Formula text = documentation tool
 
+
+Rank = Jerarquia
+1 = ascendente
+0 = descendente
+
+Rank.avg = jerarquia.media
+
+Large = K.Esimo.Mayor
+
+Short = K.Esimo.Menor
+
+Count.Blank = Contar.Blanco
+
