@@ -85,3 +85,19 @@ ROMAN = convertir a numros romanos
 
 Roman = NUMERO.ROMANO
 
+TIME = NSHORA
+
+
+CTRL + ; = Date of today
+Today = will change passing the days
+
+Ahora = fecha y hora
+
+WEEKDAY = diasem
+
+networkdays = dias.lab
+
+EDate = Fecha.Mes
+Eomonth = Fin.Mes
+
+
