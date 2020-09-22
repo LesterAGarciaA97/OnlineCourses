@@ -60,3 +60,28 @@ Short = K.Esimo.Menor
 
 Count.Blank = Contar.Blanco
 
+RoundUp = Redondear.Mas
+
+TRUNC = TRUNCAR
+INT = ENTERO
+ODD = Redondea.Impar
+
+TRUNC always drops the decimal portion
+INT always returns a lower value
+ODD = neares odd number moving away from zero
+
+
+MOD = residuo
+
+
+RAND = ALEATORIO
+RANDBETWEEN = ALEATORIO.ENTRE
+
+randarray = matrizaleat
+
+Agregate puede poner condicionales al opperar datos multiples
+
+ROMAN = convertir a numros romanos
+
+Roman = NUMERO.ROMANO
+
