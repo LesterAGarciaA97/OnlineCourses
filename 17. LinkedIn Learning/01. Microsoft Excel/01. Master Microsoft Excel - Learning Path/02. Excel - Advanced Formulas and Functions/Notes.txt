@@ -101,3 +101,10 @@ EDate = Fecha.Mes
 Eomonth = Fin.Mes
 
 
+
+REFERENCES FUNCTIONS
+
+OFFSET = DESREF
+
+
+
