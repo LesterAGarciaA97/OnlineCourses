@@ -107,4 +107,19 @@ REFERENCES FUNCTIONS
 OFFSET = DESREF
 
 
+Find = encontrar
+
+search = hallar
+
+MID = Extrae
+
+TRIM = ESPACIOS
+
+Textjoin = Unidercadenas
+
+Upper = mayusc
+lower = minusc
+proper = nompropio
+
+LET = LET
 
