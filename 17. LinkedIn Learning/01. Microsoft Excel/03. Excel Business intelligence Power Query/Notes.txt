@@ -1,0 +1,18 @@
+Business intelligence power query
+
+
+RAW DATA = csv, txt, sql, etc
+Extract, Transform and Load = ETL
+
+Data model
+Power pivot and Dax (Data Analysis Expressions)
+
+
+Power Query
+* Connect to data across a wide range of sources
+* Filter, shape and transform data
+* Create stored procedures to atuomate your data
+
+Weeks starts on sunday
+
+
