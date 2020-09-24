@@ -1,0 +1,74 @@
+Data types
+Attribute that specifies the king of infotmarion that will be stores
+
+Data requirements:
+
+
+Built-in types
+Wxact numbers
+Approximate numbers
+Dates and times
+Character strings
+Unicode strings
+Binary strings
+Spatial data
+
+
+Data type precedence
+Conytrols how data types get combined
+Defines the output data type
+
+DB collation
+Defines the sorting order for DB
+Prioritizes variations of similar characters
+
+
+Exact numerics
+INT
+Tinyint
+Smallint
+Bigint
+Bit
+Numeric/Decimal
+Money
+Smallmoney
+
+Convert data types = "cast"
+
+DATA TYPE binary = stored external files in DB
+
+Data modeling is part of the development life cycle
+
+
+Aggregate functions
+Create gorups of identically valued records
+Perform calculations accross the group
+
+Component
+Goup By
+
+Common functions:
+COUNT()
+SUM()
+MIN() and MAX()
+AVG()
+
+
+Views
+Virtualized table structure
+Reconfigure data from underlying tables
+Return a recordset table
+
+Benefits of views
+Function like tables in queries and joins
+Dont stro data; only references its location
+Provide secutiry benfits
+
+Security enchacements
+Can limit the number of columns and rows revealed to the end suer 
+
+AVOID USING SELECT * IN VIEWS!!!!!!
+
+
+
+
