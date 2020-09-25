@@ -1,0 +1,38 @@
+Los objetos visuales de Power BI son gráficos atractivos que puede 
+usar para revitalizar los datos. Le permiten compartir información de 
+forma más eficaz y aumentar la comprensión, la retención y el 
+atractivo. Los objetos visuales son una parte fundamental del informe 
+porque ayudan a que el público conecte e interactúe con la información 
+para tomar decisiones fundamentadas con rapidez.
+
+Después de cargar y modelar los datos de la organización en Power BI 
+Desktop, estará listo para empezar a crear los informes. En este 
+módulo, usará el editor de informes en Power BI Desktop para agregar 
+objetos visuales adecuados al lienzo del informe. Después, 
+personalizará esos objetos visuales para satisfacer los requisitos de 
+la organización.
+
+Imagine un escenario en el que trabaja como desarrollador de 
+Power BI para Tailwind Traders. La organización quiere transformar 
+la forma en que presenta sus datos a la dirección y a las partes 
+interesadas. Quiere reemplazar el formato actual de informes tabulares
+ y en texto por un enfoque más visual para que los usuarios 
+encuentren los informes más interesantes. Además, mediante el uso de 
+un enfoque visual, la empresa puede proporcionar a los usuarios un 
+acceso más rápido y fácil a la información que necesitan para tomar 
+decisiones empresariales. Se le asigna la tarea de crear un informe 
+de Power BI basado en una combinación de objetos visuales que se 
+personalizan para adaptarse a los requisitos de presentación de 
+informes y de marca de la organización.
+
+Al final de este módulo, podrá hacer lo siguiente: 
+
+    Agregar elementos de visualización a los informes
+
+    Elegir una visualización efectiva
+
+    Dar formato y configurar visualizaciones
+
+    Importar un objeto visual personalizado
+
+    Agregar un objeto visual de R o Python

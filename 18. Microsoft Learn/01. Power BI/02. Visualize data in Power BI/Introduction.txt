@@ -1,0 +1,11 @@
+Power BI tiene objetos visuales extraordinarios que se pueden usar en 
+los informes y paneles de Power BI. En este módulo, aprenderá cuándo 
+usar un objeto visual específico para resolver un problema concreto. 
+También obtendrá información sobre el diseño y el formato de los 
+informes. Además, aprenderá a usar la navegación por los informes para 
+contar una atractiva historia controlada por datos en Power BI. Los 
+paneles ayudarán a los usuarios a identificar los objetos visuales 
+para satisfacer sus necesidades específicas. Los informes paginados 
+ayudan a crear artefactos en el informe de píxeles perfectos, como 
+facturas de ventas, pedidos de compra, historias clínicas, informes de 
+transacciones y mucho más.
