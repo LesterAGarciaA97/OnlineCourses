@@ -1,0 +1,7 @@
+Los informes paginados permiten a los desarrolladores de 
+informes crear artefactos de Power BI con requisitos de 
+representación estrechamente controlados. Los informes 
+paginados son ideales para crear facturas de ventas, recibos, 
+pedidos de compra y datos tabulares. En este módulo aprenderá 
+a crear informes, agregar parámetros y trabajar con tablas y 
+gráficos en informes paginados.
