@@ -1,0 +1,40 @@
+Microsoft Power BI ofrece una amplia gama de métodos para analizar los datos 
+y obtener respuestas a sus preguntas. En este módulo se examinan 
+aracterísticas de Power BI que se basan en análisis y visualización avanzados.
+
+
+A veces, la manera más rápida de obtener una respuesta es formular una 
+pregunta en sus propias palabras. Power BI le permite hacer exactamente eso 
+con sus funciones de inteligencia artificial de análisis avanzado. Una 
+característica de Power BI es que le permite formular preguntas mediante 
+lenguaje natural y obtener respuesta a esas preguntas de manera automática.
+
+Del mismo modo, es probable que el conjunto de datos sea numérico y conste 
+de números, importes, medidas, etc. Ha analizado correctamente estos datos 
+numéricos para obtener conclusiones. Analizar datos no numéricos puede ser 
+difícil, pero con las capacidades de IA de Power BI, puede analizar datos de 
+texto para extraer más información que antes. Por ejemplo, es posible que 
+tenga acumulados desde hace tiempo en una base de datos una gran cantidad de 
+comentarios, críticas de clientes, o resultados de una encuesta de 
+satisfacción de los empleados. Ahora puede analizar estos datos adicionales 
+y transformarlos en información valiosa.
+
+Como los números no lo cuentan todo, puede usar las características de IA en 
+Power BI para examinar los datos con mayor profundidad, ver qué dicen los 
+usuarios y obtener resultados más constructivos, lo que le ayudará a adoptar 
+mejores decisiones empresariales.
+
+En el escenario de este módulo, ha creado informes para distintos equipos de 
+su organización. Ahora, quiere usar el aspecto de IA de las capacidades de 
+análisis avanzado de Power BI para mejorar los informes de manera inteligente. 
+Quiere que los usuarios puedan obtener nueva información de forma más 
+interactiva y recibir respuestas directas a sus preguntas.
+
+En este módulo se describen las funciones de inteligencia artificial (IA) 
+de Power BI. Al final de este módulo, podrá hacer lo siguiente: 
+
+    Usar el objeto visual Preguntas y respuestas  
+
+    Buscar factores importantes con el objeto visual Influenciadores clave
+
+    Usar el objeto visual Esquema jerárquico para desglosar una medida 
