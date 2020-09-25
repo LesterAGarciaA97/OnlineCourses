@@ -1,0 +1,7 @@
+Los paneles de Microsoft Power BI son diferentes de los informes de 
+Power BI. Los paneles permiten a los consumidores de los informes 
+crear un único artefacto de datos dirigidos que se personaliza solo 
+para ellos. Los paneles pueden constar de objetos visuales anclados 
+que se toman de informes distintos. Donde un informe de Power BI usa 
+datos de un único conjunto de datos, un panel de Power BI puede 
+contener objetos visuales de distintos conjuntos de datos.
