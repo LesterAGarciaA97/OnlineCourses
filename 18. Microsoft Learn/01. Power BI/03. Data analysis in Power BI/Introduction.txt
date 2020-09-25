@@ -1,0 +1,16 @@
+Los autores de informes pueden usar 
+características adicionales para mejorarlos, a 
+fin de obtener información analítica de los 
+datos con características como la exportación 
+y las preguntas y respuestas. En este módulo, 
+se examinarán detenidamente los datos e 
+informes de Power BI y, después, se extraerá 
+valor con análisis más exhaustivos. Además, 
+aprenderá a ordenar los datos y a presentar el 
+informe de forma coherente. Obtendrá 
+información sobre cómo obtener un resumen 
+estadístico de los datos y exportar datos de 
+Power BI. También se aplicarán y realizarán 
+análisis avanzados en el informe para obtener 
+información más detallada y significativa 
+sobre los datos.

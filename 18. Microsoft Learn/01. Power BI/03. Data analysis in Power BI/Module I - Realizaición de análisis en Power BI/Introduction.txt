@@ -1,0 +1,49 @@
+El análisis engloba procedimientos emergentes de la industria, como los de minería de datos, análisis de macrodatos, aprendizaje automático, IA y análisis predictivo. 
+Es un término que se usa para describir los aspectos técnicos del análisis que tienen funciones predictivas y que se pueden aplicar para solucionar problemas empresariales.
+
+El análisis puede transformar datos sin procesar en una amplia colección de información que clasifique los datos para identificar y analizar patrones y datos de comportamiento. 
+Las organizaciones pueden usar esta información para analizar el estado actual de sus operaciones y para predecir el comportamiento y las tendencias futuros mediante la formulación de 
+preguntas "hipotéticas". Además, el análisis puede ayudar con la detección de fraudes, el reconocimiento de imágenes, el análisis de opiniones, la productividad general de los empleados y,
+ a menudo, también reemplaza complejos procesos manuales.
+
+Imagine un escenario en el que pide a un empleado que averigüe la causa de un aumento reciente de las ventas. Es posible que el empleado tenga que inspeccionar concienzudamente todas las 
+ventas, entrevistar a clientes, hablar con vendedores y examinar las tendencias del mercado. En su lugar, puede aprovechar el objeto visual de elementos influyentes clave de Power BI para 
+usar el análisis avanzado y, posiblemente, obtener una respuesta mucho más rápido. El objeto visual es tan válido como los datos que le proporcione, por lo que igualmente tendrá que 
+recopilar los datos y organizarlos. Pero el análisis real se puede realizar de forma automática o, al menos, puede ofrecerle un excelente punto de partida.
+
+En última instancia, el análisis avanzado ayuda a las organizaciones a tomar mejores decisiones empresariales y crear resultados procesables y útiles mediante la reducción del trabajo 
+manual.
+
+Tradicionalmente, el análisis de datos era una tarea compleja realizada por ingenieros. Hoy en día es más accesible y comprensible para muchas personas dentro de las organizaciones, 
+en todos los equipos. Power BI es una herramienta excepcional para extraer rápidamente conclusiones útiles de los datos. Le permite crear objetos visuales y métricas para los datos en 
+informes y paneles, de modo que tanto usted como los usuarios puedan analizar las conclusiones de los datos a nivel general y profundizar en ellas para obtener información más detallada.
+
+En el escenario de este módulo, trabaja como analista de datos para Tailwind Traders. Se le ha encargado la creación de informes y paneles que se usarán en toda la organización para 
+facilitar la toma de decisiones empresariales cruciales. Por ejemplo, al equipo de productos le interesa saber si hay productos específicos que no se venden tan bien como otros, el equipo 
+de ventas se centra en las previsiones de ventas para el próximo año, y el equipo de almacén está interesado en un desglose general del rendimiento de las ubicaciones de almacenamiento y 
+distribución en todo el mundo. Para cada uno de estos equipos, tiene que crear y compartir informes y paneles únicos que muestren conclusiones generales, así como objetos visuales 
+desarrollados mediante el uso de análisis avanzados.
+
+La funcionalidad inherente de Power BI le facilitará esta tarea. Puede desarrollar conclusiones rápidas y compartirlas en informes y paneles con distintos equipos dentro de la organización.
+ Las funciones de análisis avanzado de Power BI le permitirán identificar categorías y tendencias, ver cómo cambian los datos con el tiempo y mucho más. A partir de esta información, 
+puede crear modelos de datos predictivos y, por tanto, ayudar a que la organización adopte decisiones empresariales, planes y previsiones más sólidos.
+
+En este módulo se describen las funciones de análisis avanzado de Power BI. Al final de este módulo, podrá hacer lo siguiente: 
+
+    Explorar el resumen estadístico.
+
+    Identificar valores atípicos con objetos visuales de Power BI.
+
+    Agrupar y discretizar datos para el análisis.
+
+    Aplicar técnicas de agrupación en clústeres.
+
+    Realizar análisis de series temporales.
+
+    Usar la característica Analizar.
+
+    Usar objetos visuales personalizados de análisis avanzado.
+
+    Revisar Conclusiones rápidas.
+
+    Aplicar Conclusiones de IA.
