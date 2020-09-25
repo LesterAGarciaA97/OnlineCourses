@@ -1,0 +1,57 @@
+Las organizaciones usan informes para supervisar y registrar el 
+rendimiento e identificar tendencias y varianzas. Cuando una 
+organización toma decisiones, se basa en la información proporcionada 
+por los informes. Los informes impulsan el comportamiento y las 
+medidas de la organización, en todos los niveles y en todos los 
+aspectos.
+
+Después de haber agregado objetos visuales al informe, puede realizar 
+más mejoras y modificarlo antes de compartirlo con el público. 
+En este módulo se van a aplicar las funciones disponibles en el 
+editor de informes de Power BI Desktop a los objetos visuales, a fin 
+de transformar el informe en una historia basada en datos. Se va a 
+proporcionar a los usuarios una experiencia de navegación y un diseño 
+de informe más eficaces, y se les van a ofrecer herramientas 
+adicionales para que puedan explorar mejor la información que se 
+presenta en los objetos visuales. Luego se va a publicar el informe 
+para que los usuarios puedan acceder a la información que necesitan 
+para tomar decisiones.
+
+En el escenario de este módulo, trabaja como desarrollador de 
+Power BI para Tailwind Traders. A los jefes les resulta difícil tomar 
+buenas decisiones empresariales basándose en la calidad actual de los 
+informes. Por lo tanto, los jefes le han solicitado un informe en el 
+que se muestre toda la información que necesitan para realizar sus 
+actividades de planeación y previsión anuales y, en última instancia, 
+ayudarles a tomar mejores decisiones estratégicas en la organización. 
+Quieren que el informe sea conciso, preciso y bien diseñado, y que se 
+muestre la información de una manera interesante que facilite la 
+navegación y cumpla con los estándares de accesibilidad actuales.
+
+Ya ha empezado a agregar y a personalizar objetos visuales en el 
+informe. Ahora tiene que llevar el informe al siguiente nivel para 
+satisfacer los requisitos de la dirección.
+
+Al final de este módulo, podrá hacer lo siguiente: 
+
+    Trazar un diseño de informe
+
+    Agregar botones, marcadores y selecciones
+
+    Diseñar la navegación de informes
+
+    Usar interacciones básicas
+
+    Usar interacciones avanzadas y obtención de detalles
+
+    Configurar el formato condicional
+
+    Aplicar criterios de segmentación, filtrado y ordenación
+
+    Publicar y exportar informes 
+
+    Hacer comentarios en los informes
+
+    Usar el analizador de rendimiento para mejorar los informes
+
+    Optimizar los informes para su uso en dispositivos móviles
