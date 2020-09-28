@@ -1,0 +1,36 @@
+Good testing begin with goo planning
+
+Quality teams vary in size
+One project or many projects
+
+Starting with a product 
+All projects begin with a product
+You are part of the full product dev process
+More importante, you are the voice of the customer
+You make certain features and functionality
+
+Define the product
+
+Product requirements document (PRD)
+
+Every project has an end date
+Designing a timeline is complicated
+
+Development is unpredictable
+
+Product + Workload +Timeline = Staffing needs
+
+Testing doesnt need to be serial
+
+Key stakeholders
+List of those who are invested
+documents thos approving the plan
+
+Objectives are crucial to any test plan
+
+The test cases are designed to target specific areas of a product and measure quality
+
+Test cases are the heart of the plan
+
+
+
