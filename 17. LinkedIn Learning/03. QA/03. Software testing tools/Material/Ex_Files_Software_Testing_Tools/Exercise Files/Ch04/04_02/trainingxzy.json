@@ -1,0 +1,1 @@
+{"swagger":"2.0","info":{"version":"1.0","title":"http://trainingxyz.com"},"basePath":"","paths":{"/api/albums/all":{"get":{"operationId":"all","parameters":[]}},"/api/posts/all":{"get":{"operationId":"all","parameters":[],"responses":{"200":{}}}},"/api/users/all":{"get":{"operationId":"All","parameters":[]}}}}

@@ -1,0 +1,32 @@
+Quality center
+
+*Test and defect management
+* Developer collaboration
+* Risk-based test planning
+
+Test planning = analize features of a project
+
+Azure Devops server
+Test link
+
+Documenting:
+XMind and sublime text
+
+
+Automation?
+Manual testing 
+Automated testing
+
+Frameworks
+* Selenium
+* Robot
+
+API testing
+* Postman
+
+
+Kali linux
+JMeter
+MicroFocusLoadRunner
+Taurus
+
