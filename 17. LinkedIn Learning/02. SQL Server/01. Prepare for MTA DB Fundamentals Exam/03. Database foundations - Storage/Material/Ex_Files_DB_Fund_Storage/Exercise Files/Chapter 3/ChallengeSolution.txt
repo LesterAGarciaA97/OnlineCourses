@@ -1,0 +1,2 @@
+CREATE NONCLUSTERED INDEX IX_Customers_State
+ON Customers (State);

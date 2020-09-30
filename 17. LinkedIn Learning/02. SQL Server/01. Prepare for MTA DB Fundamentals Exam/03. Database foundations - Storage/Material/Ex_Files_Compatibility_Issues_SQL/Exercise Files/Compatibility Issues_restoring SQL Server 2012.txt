@@ -1,0 +1,8 @@
+The course was recorded with SQL Server 2014, and there are some compatibility issues with the exercise file backup when restoring on SQL Server 2012 or earlier. One way to get around that is by running the attached script which will create the database from code instead of restoring the backup:
+
+In SQL Server Management Studio:
+	Press the New Query button
+	Paste in the entirety of the script from the attached text file
+	Make a change to the file paths on lines 5 and 7 to match the paths that you saw in the video "Using SSMS to restore a database” from Chapter 2. The exact file path will vary, depending on your system's location of the MSSQL/DATA folder
+	Press the Execute button. This will run through the steps to create the tables and populate with all of the data required for the course.
+

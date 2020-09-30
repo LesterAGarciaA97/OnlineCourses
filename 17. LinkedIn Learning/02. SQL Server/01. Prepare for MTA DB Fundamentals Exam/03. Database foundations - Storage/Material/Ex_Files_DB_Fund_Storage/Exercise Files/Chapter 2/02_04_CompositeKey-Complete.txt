@@ -1,0 +1,6 @@
+CREATE TABLE CustomerCreditCards(
+    CustomerID              int         Not Null,
+    CreditCardNumber        char(16)    Not Null,
+    PrimaryPayment          bit,
+CONSTRAINT PK_CustomerCreditCards PRIMARY KEY CLUSTERED (CustomerID, CreditCardNumber)
+);

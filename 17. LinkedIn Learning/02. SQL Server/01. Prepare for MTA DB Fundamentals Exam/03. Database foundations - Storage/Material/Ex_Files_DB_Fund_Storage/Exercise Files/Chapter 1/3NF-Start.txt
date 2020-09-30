@@ -1,0 +1,33 @@
+CREATE TABLE Customers(
+	CustomerID				--(PK)
+	Customer First Name
+	Customer Last Name
+	Street Address
+	City
+	State
+	Zip
+	Email
+);
+
+CREATE TABLE CustomerPhone(
+	Phone Number			--(PK)
+	CustomerID				--(PK)
+	Phone Number Type
+);
+
+
+CREATE TABLE CustomerCreditCard(
+	Credit Card Number				--(PK)
+	CustomerID						--(PK)
+	Primary Credit Card y/n
+);
+
+CREATE TABLE CreditCardDetails(
+	Credit Card Number				--(PK)
+	Credit Card Expiration Date
+	Credit Card Name
+	Billing Address
+	Billing City
+	Billing State
+	Billing Zip
+);

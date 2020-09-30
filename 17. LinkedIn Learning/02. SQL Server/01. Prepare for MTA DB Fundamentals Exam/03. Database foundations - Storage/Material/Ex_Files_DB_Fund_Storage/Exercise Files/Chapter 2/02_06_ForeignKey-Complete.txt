@@ -1,0 +1,5 @@
+ALTER TABLE CustomerCreditCards
+ADD CONSTRAINT FK_CustomerCreditCards_CreditCardDetails FOREIGN KEY (CreditCardNumber)
+REFERENCES CreditCardDetails(CreditCardNumber)
+ON DELETE CASCADE
+ON UPDATE CASCADE;

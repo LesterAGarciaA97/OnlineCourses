@@ -1,0 +1,14 @@
+CREATE TABLE Customers(
+	CustomerID				--(PK)
+	Customer First Name
+	Customer Last Name
+	Street Address
+	City
+	State
+	Zip
+	Email
+	Phone Number
+	Phone Type
+	Credit Card
+	Type
+);

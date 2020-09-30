@@ -1,0 +1,64 @@
+Why normalize a table?
+
+Isolates information so it appears in the DB only one time
+Simplifies maintenance and update
+Prevents inconsistencies
+
+Normal forms
+1NF: Eliminate repeating groups
+2NF: Eliminate redundant data
+3NF: Eliminate columns not dependent on key field
+4NF: Isolate independent multiple relationships
+5NF: Isolate semantically related multiple relationships
+
+1NF:
+Ensures records are in a entity format by:
+* Establishing a primary identifier
+* Removing multivalued attributes
+
+2NF:
+Requires first normal form
+Removes redundant data and moves it into related tables
+
+Fixing partial dependencies
+Create independent tables
+
+3NF:
+Requires second normal form
+Removes transiively dependent data thar does not depend on the key
+
+
+4NF:
+Isolate independent multiple relationships
+
+5NF:
+Isolate semantically related multiple relationships
+
+
+Key fields
+Types of primaty key
+* Serial number
+* Auto-generated identity identifier
+* Naturally occurring identifier
+
+
+Clustered indexes
+Speed up seraches by organizing records in a logical way
+
+B-Tree sctructure
+
+Clustered index
+Primary index of the table and defines how thre records are stored on disk
+
+Index overload
+Indexes take time to write, and must be updated every time a new record is added to the DB
+
+Non-clustered index
+Contains key values that point to the clustered index position of a record
+
+If a clustered index does not exist, then the non-clustered index will
+create pointers to the row´s location in the record heap
+
+
+
+

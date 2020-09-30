@@ -1,0 +1,24 @@
+Use [H+Active]
+Go
+
+CREATE TABLE Products(
+    ItemID int IDENTITY(1,1) NOT NULL,
+    ItemName char(50) NULL,
+    ItemType char(50) NULL,
+    Description varchar(max) NULL,
+    Price money NULL,
+ CONSTRAINT PK_Products PRIMARY KEY CLUSTERED (ItemID)
+);
+
+CREATE TABLE ProductSizes(
+    Size char(3) NOT NULL,
+    Gender char(1) NOT NULL,
+    ItemID int NOT NULL,
+ CONSTRAINT [PK_ProductSizes] PRIMARY KEY CLUSTERED (Size, Gender, ItemID)
+);
+
+CREATE TABLE ProductColors(
+    Color char(10) NOT NULL,
+    ItemID int NOT NULL,
+ CONSTRAINT [PK_ProductColors] PRIMARY KEY CLUSTERED (Color, ItemID)
+);

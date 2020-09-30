@@ -1,0 +1,13 @@
+-- establish new indexes using CREATE
+CREATE NONCLUSTERED INDEX IX_Invoices_CustomerID
+    ON Invoices (CustomerID);
+
+
+-- remove an index with a DROP statement
+DROP INDEX IX_Invoices_CustomerID
+    ON Invoices;
+
+
+-- creating a unique index will fail if there is duplicate values present in the table
+CREATE UNIQUE INDEX IX_Invoices_CustomerID
+    ON Invoices (CustomerID);
