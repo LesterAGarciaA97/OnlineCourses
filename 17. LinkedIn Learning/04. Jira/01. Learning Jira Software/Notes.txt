@@ -1,0 +1,19 @@
+JIRA is the leader project manager software in the world
+
+Planning
+Tracking
+Reporting
+Releasing
+
+Tickets = Issues
+
+
+Projects are like a team container
+
+Dashboard = User customizable interface
+
+JQL = Jira Query Language
+
+
+
+Creating dashboards
