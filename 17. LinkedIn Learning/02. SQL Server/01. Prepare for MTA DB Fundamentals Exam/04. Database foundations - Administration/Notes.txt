@@ -1,0 +1,17 @@
+Secutiry fundamentals
+
+Securable
+
+Principals
+
+Permissions
+	* Login to the server
+	* Access databases
+	* Access objects
+
+Autehtication options
+Windows user login
+Windows user group membership
+SQL Server Logins
+
+Fixed server roles
