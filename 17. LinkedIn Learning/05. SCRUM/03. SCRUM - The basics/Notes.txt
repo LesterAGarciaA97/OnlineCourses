@@ -1,0 +1,48 @@
+SCRUM - The basics
+
+SCRUM = scrummage
+scrummage was a method in rugby
+
+Agile project management allows a teams to adapt in real time
+
+allows teams deliver milestones as small pieces
+
+
+Better software deveplopment = Agile
+
+Fail fast = learn fast
+
+
+Time
+Cost
+Scope
+
+
+PO = Product Owner
+Scrum master
+
+Scrum is daily collaboration a communication
+
+
+* Set the vision for your project
+
+MVP = Minimum Viable Product
+
+* Write user stories
+
+Independent
+Negotiable
+Valuable
+Estimable
+Small
+Testable
+
+AC = Acceptance Criteria
+
+* Set boundaries for success
+
+
+Actual estimate
+Relative estimate
+
+
