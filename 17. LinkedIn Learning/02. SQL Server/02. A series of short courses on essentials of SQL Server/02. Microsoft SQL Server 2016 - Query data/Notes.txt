@@ -1,0 +1,9 @@
+Implementeing transactions
+
+INSERT, UPDATE AND DELETE
+
+
+COMMIT TRANSACTION
+
+
+ERROR HANDLING = use try catch
