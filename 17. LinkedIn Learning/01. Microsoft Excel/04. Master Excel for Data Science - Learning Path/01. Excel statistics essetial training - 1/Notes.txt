@@ -1,0 +1,8 @@
+Population: A large set of individuals
+
+Parameter: A characteristic of a population
+
+Sample: A set of individuals selected from de population
+
+Statistic: A characteristic of a sample
+
