@@ -1,0 +1,27 @@
+¿Qué es la reducción del impacto?
+
+Si bien la mayoría de las empresas exitosas de hoy en día son conscientes de los problemas de seguridad comunes y ponen gran esfuerzo en su prevención, no hay ningún conjunto de prácticas 
+de seguridad 100 % eficiente. Dado que es probable que ocurra una violación a la seguridad si el premio es grande, las empresas y organizaciones también deben estar preparadas para 
+contener el daño.
+
+Es importante comprender que el impacto de la violación de seguridad no solo está relacionado con el aspecto técnico, los datos robados, las bases de datos dañadas o los daños a la 
+propiedad intelectual; los daños también se extienden a la reputación de la empresa. Responder ante una infracción de datos es un proceso muy dinámico.
+
+A continuación, hay algunas medidas importantes que una empresa debe adoptar cuando identifica una violación de seguridad, según muchos expertos en seguridad:
+
+    Comunicar el problema. Informar internamente a los empleados del problema y llamarlos a la acción. Informar externamente a los clientes a través de comunicación directa y anuncios 
+oficiales. La comunicación genera transparencia, que es crucial para este tipo de situación.
+
+    Ser sincero y responsable en caso de que la empresa tenga la culpa.
+
+    Proporcionar detalles. Explicar por qué ocurrió la situación y qué se vio afectado. También se espera que la empresa se haga cargo de los costos de los servicios de protección contra 
+el robo de identidad para los clientes afectados.
+
+    Comprender qué causó y facilitó la violación de seguridad. De ser necesario, contrate expertos en informática forense para investigar y conocer los detalles.
+
+    Aplicar lo aprendido de la investigación de informática forense para garantizar que no se produzcan violaciones de seguridad similares en el futuro.
+
+    Asegurarse de que todos los sistemas estén limpios, que no se hayan instalado puertas traseras y que no haya nada más comprometido. Los atacantes con frecuencia probarán dejar una 
+puerta trasera para facilitar las infracciones futuras. Asegúrese de que esto no suceda.
+
+    Capacitar a los empleados, los partners y los clientes acerca de cómo prevenir las violaciones futuras.

@@ -1,0 +1,20 @@
+Ataque combinado
+
+
+Los ataques combinados son ataques que usan diversas técnicas para comprometer un objetivo. Mediante el uso de varias técnicas de ataque simultáneas, los atacantes tienen malware que 
+combina gusanos, troyanos, spyware, registradores de pulsaciones, spam y esquemas de suplantación de identidad. Esta tendencia de ataques combinados revela malware más complejo y pone los 
+datos de los usuarios en gran riesgo.
+
+Los tipos más comunes de ataque combinado utilizan mensajes de correo electrónico no deseado, mensajes instantáneos o sitios web legítimos para distribuir enlaces donde se descarga malware
+o spyware secretamente en la computadora. Otro ataque combinado común utiliza DDoS combinado con correos electrónicos de suplantación de identidad (phishing). Primero, el ataque DDoS se 
+utiliza para suspender un sitio web popular de un banco y enviar correos electrónicos a sus clientes disculpándose por la inconveniencia. El correo electrónico además redirecciona a los 
+usuarios a un sitio de emergencia falso donde la información real de inicio de sesión puede ser robada.
+
+Muchos de los gusanos más perjudiciales de las computadoras, como Nimbda, CodeRed, BugBear, Klez y Slammer, se categorizan mejor como ataques combinados, como se muestra a continuación:
+
+    Algunas variantes de Nimbda utilizan archivos adjuntos de correo electrónico, descargas de archivos de un servidor web comprometido y uso compartido de archivos de Microsoft 
+(intercambios anónimos) como métodos de propagación.
+
+    Otras variantes de Nimbda pueden modificar las cuentas de invitado del sistema para proporcionar al atacante o código malicioso los privilegios administrativos.
+
+Los gusanos recientes Conficker y ZeuS/LICAT también son ataques combinados. Conficker utiliza todos los métodos de distribución tradicionales.

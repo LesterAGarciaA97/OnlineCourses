@@ -1,0 +1,31 @@
+Aprovechamiento de vulnerabilidades
+
+
+
+El aprovechamiento de vulnerabilidades es otro método común de infiltración. Los atacantes analizan las computadoras para obtener información. A continuación encontrará un método común de 
+aprovechamiento de vulnerabilidades:
+
+Paso 1. Recopilación de información sobre el sistema de destino. Esto se puede hacer de muchas formas diferentes, como con un escáner de puerto o a través de la ingeniería social. El 
+objetivo es aprender tanto como sea posible acerca de la computadora de destino.
+
+Paso 2. Parte de la información pertinente aprendida en el Paso 1 puede ser el sistema operativo, su versión y una lista de los servicios que ejecuta.
+
+Paso 3. Una vez que conoce el sistema operativo y la versión del objetivo, el atacante busca cualquier vulnerabilidad conocida específica para dicha versión del SO u otros servicios del 
+sistema operativo.
+
+Paso 4. Cuando encuentra una vulnerabilidad, el atacante busca usar un ataque desarrollado anteriormente. Si no se ha desarrollado ningún ataque, el atacante puede considerar desarrollar 
+uno.
+
+La Figura 1 representa a un atacante que usa Whois, una base de datos de Internet pública que contiene información sobre nombres de dominio y personas registradas. La Figura 2 representa 
+a un atacante que usa la herramienta Nmap, un escáner popular de puerto. Con un escáner de puerto, un atacante puede sondear los puertos de la computadora de un objetivo para conocer qué 
+servicios se ejecutan en la computadora.
+
+Amenazas persistentes avanzadas
+
+Una forma de lograr la infiltración es a través de amenazas persistentes avanzadas (APT). Estas consisten en una operación cautelosa y avanzada de varias fases a largo plazo contra un 
+objetivo específico. Debido a la complejidad y el nivel de habilidad requeridos, las APT generalmente están bien financiadas. Las APT apuntan a las organizaciones o las naciones por 
+motivos políticos o comerciales.
+
+Generalmente relacionadas con el espionaje con base en la red, el propósito de las APT es implementar malware personalizado en uno o varios sistemas de destino y pasar desapercibidas. 
+Con múltiples fases de operación y varios tipos personalizados de malware que afecten a distintos dispositivos y realizan funciones específicas, un atacante individual generalmente carece 
+del conjunto de habilidades, recursos o la perseverancia necesarios para llevar a cabo una APT.

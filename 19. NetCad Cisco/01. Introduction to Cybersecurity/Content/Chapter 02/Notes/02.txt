@@ -1,0 +1,36 @@
+Búsqueda de vulnerabilidades en la seguridad
+
+
+
+Las vulnerabilidades de seguridad son cualquier tipo de defecto en software o hardware. Después de obtener conocimientos sobre una vulnerabilidad, los usuarios malintencionados intentan 
+explotarla. Un ataque es el término que se utiliza para describir un programa escrito para aprovecharse de una vulnerabilidad conocida. El acto de aprovecharse de una vulnerabilidad se 
+conoce como ataque. El objetivo del ataque es acceder a un sistema, los datos que aloja o recursos específicos.
+
+Vulnerabilidades de software
+
+Las vulnerabilidades de software generalmente se introducen por errores en el sistema operativo o el código de aplicación; a pesar de todos los esfuerzos realizados por las empresas para 
+encontrar y corregir las vulnerabilidades, es común que surjan nuevas vulnerabilidades. Microsoft, Apple y otros productores de sistemas operativos lanzan parches y actualizaciones casi 
+todos los días. Las actualizaciones de las aplicaciones también son comunes. Las aplicaciones como navegadores web, aplicaciones móviles y servidores web son actualizadas con frecuencia 
+por las empresas y las organizaciones responsables de estas.
+
+En 2015, una vulnerabilidad importante, llamada SYNful Knock, se descubrió en Cisco IOS. Esta vulnerabilidad permitió a los atacantes obtener el control de los routers de nivel empresarial,
+ como los antiguos routers 1841, 2811 y 3825 de Cisco. Los atacantes pudieron así monitorear todas las comunicaciones de red y tuvieron la capacidad de infectar otros dispositivos de la 
+red. Esta vulnerabilidad se introdujo en el sistema cuando una versión alterada de IOS se instaló en los routers. Para evitar esto, verifique siempre la integridad de la imagen de IOS 
+descargada y limite el acceso físico al equipo solo al personal autorizado.
+
+El objetivo de las actualizaciones de software es mantenerse actualizado y evitar el aprovechamiento de vulnerabilidades. Si bien algunas empresas tienen equipos de prueba de penetración 
+dedicados a la búsqueda y la corrección de vulnerabilidades de software antes de que puedan ser aprovechadas, hay investigadores de seguridad independientes que también se especializan en 
+la búsqueda de vulnerabilidades de software.
+
+El Proyecto Zero de Google es un excelente ejemplo de esta práctica. Después de descubrir varias vulnerabilidades en los diversos programas de software utilizados por los usuarios finales,
+Google formó un equipo dedicado a encontrar vulnerabilidades de software. La investigación de seguridad de Google puede encontrarse aquí.
+
+Vulnerabilidades de hardware
+
+Las vulnerabilidades de hardware se presentan a menudo mediante defectos de diseño del hardware. La memoria RAM, por ejemplo, consiste básicamente en capacitores instalados muy cerca unos 
+de otros. Se descubrió que, debido a la cercanía, los cambios constantes aplicados a uno de estos capacitores podían influir en los capacitores vecinos. Por esta falla de diseño, se generó
+ una vulnerabilidad llamada Rowhammer. Mediante la reescritura repetida de memoria en las mismas direcciones, el ataque Rowhammer permite que se recuperen los datos de las celdas de 
+memoria de direcciones cercanas, incluso si las celdas están protegidas.
+
+Las vulnerabilidades de hardware son específicas de los modelos de dispositivos y generalmente no se ven atacadas por intentos comprometedores aleatorios. Si bien las vulnerabilidades 
+de hardware son más comunes en ataques altamente dirigidos, la protección contra malware tradicional y la seguridad física son suficientes para proteger al usuario común.

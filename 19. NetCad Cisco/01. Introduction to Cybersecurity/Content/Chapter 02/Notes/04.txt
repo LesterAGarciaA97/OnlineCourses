@@ -1,0 +1,53 @@
+Tipos de malware
+
+
+Malware, acrónimo para el inglés “Malicious Software” (Software malicioso), es cualquier código que pueda utilizarse para robar datos, evitar los controles de acceso, ocasionar daños o 
+comprometer un sistema. A continuación, se encuentran algunos tipos comunes de malware:
+
+Spyware: este malware está diseñado para rastrear y espiar al usuario. El spyware a menudo incluye rastreadores de actividades, recopilación de pulsaciones de teclas y captura de datos. 
+En el intento por superar las medidas de seguridad, el spyware a menudo modifica las configuraciones de seguridad. El spyware con frecuencia se agrupa con el software legítimo o con 
+caballos troyanos.
+
+Adware: el software de publicidad está diseñado para brindar anuncios automáticamente. El adware a veces se instala con algunas versiones de software. Algunos adware están diseñados para 
+brindar solamente anuncios, pero también es común que el adware incluya spyware.
+
+Bot: de la palabra robot, un bot es un malware diseñado para realizar acciones automáticamente, generalmente en línea. Si bien la mayoría de los bots son inofensivos, un uso cada vez más 
+frecuente de bots maliciosos es el de los botnets. Varias computadoras pueden infectarse con bots programados para esperar silenciosamente los comandos provistos por el atacante.
+
+Ransomware: este malware está diseñado para mantener captivo un sistema de computación o los datos que contiene hasta que se realice un pago. El ransomware trabaja generalmente encriptando
+los datos de la computadora con una clave desconocida para el usuario. Algunas otras versiones de ransomware pueden aprovechar vulnerabilidades específicas del sistema para bloquearlo. 
+El ransomware se esparce por un archivo descargado o alguna vulnerabilidad de software.
+
+Scareware: este tipo de malware está diseñado para persuadir al usuario de realizar acciones específicas en función del temor. El scareware falsifica ventanas emergentes que se asemejan a 
+las ventanas de diálogo del sistema operativo. Estas ventanas muestran mensajes falsificados que indican que el sistema está en riesgo o necesita la ejecución de un programa específico 
+para volver al funcionamiento normal. En realidad, no se evaluó ni detectó ningún problema y, si el usuario acepta y autoriza la ejecución del programa mencionado, el sistema se infecta 
+con malware.
+
+Rootkit: este malware está diseñado para modificar el sistema operativo a fin de crear una puerta trasera. Los atacantes luego utilizan la puerta trasera para acceder a la computadora de 
+forma remota. La mayoría de los rootkits aprovecha las vulnerabilidades de software para realizar el escalamiento de privilegios y modificar los archivos del sistema. También es común que 
+los rootkits modifiquen las herramientas forenses de supervisión del sistema, por lo que es muy difícil detectarlos. A menudo, una computadora infectada por un rootkit debe limpiarse y 
+reinstalarse.
+
+Virus: un virus es un código ejecutable malintencionado que se adjunta a otros archivos ejecutables, generalmente programas legítimos. La mayoría de los virus requiere la activación del 
+usuario final y puede activarse en una fecha o un momento específico. Los virus pueden ser inofensivos y simplemente mostrar una imagen o pueden ser destructivos, como los que modifican o 
+borran datos. Los virus también pueden programarse para mutar a fin de evitar la detección. La mayoría de los virus ahora se esparcen por unidades USB, discos ópticos, recursos de red 
+compartidos o correo electrónico.
+
+Troyano: un troyano es malware que ejecuta operaciones maliciosas bajo la apariencia de una operación deseada. Este código malicioso ataca los privilegios de usuario que lo ejecutan. A 
+menudo, los troyanos se encuentran en archivos de imagen, archivos de audio o juegos. Un troyano se diferencia de un virus en que se adjunta a archivos no ejecutables.
+
+Gusanos: los gusanos son códigos maliciosos que se replican mediante la explotación independiente de las vulnerabilidades en las redes. Los gusanos, por lo general, ralentizan las redes. 
+Mientras que un virus requiere la ejecución de un programa del host, los gusanos pueden ejecutarse por sí mismos. A excepción de la infección inicial, ya no requieren la participación del 
+usuario. Una vez infectado el host, el gusano puede propagarse rápidamente por la red. Los gusanos comparten patrones similares. Todos tienen una vulnerabilidad de activación, una manera 
+de propagarse y contienen una carga útil.
+
+Los gusanos son responsables de algunos de los ataques más devastadores en Internet. Como se muestra en la Figura 1, en 2001 el gusano Código Rojo infectó 658 servidores. En el plazo de 
+19 horas, el gusano infectó más de 300 000 servidores, como se muestra en la Figura 2.
+
+Hombre en el medio (MitM): el MitM permite que el atacante tome el control de un dispositivo sin el conocimiento del usuario. Con ese nivel de acceso, el atacante puede interceptar y 
+capturar información sobre el usuario antes de retransmitirla a su destino. Los ataques MitM se usan ampliamente para robar información financiera. Existen muchas técnicas y malware para 
+proporcionar capacidades de MitM a los atacantes.
+
+Hombre en el móvil (MitMo): una variación del hombre en el medio, el MitMo es un tipo de ataque utilizado para tomar el control de un dispositivo móvil. Cuando está infectado, puede 
+ordenarse al dispositivo móvil que exfiltre información confidencial del usuario y la envíe a los atacantes. ZeuS, un ejemplo de ataque con capacidades de MitMo, permite que los atacantes 
+capturen silenciosamente SMS de verificación de 2 pasos enviados a los usuarios.

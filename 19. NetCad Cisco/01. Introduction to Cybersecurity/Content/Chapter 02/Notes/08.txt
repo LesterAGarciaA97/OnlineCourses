@@ -1,0 +1,15 @@
+Falsificación de identidad
+
+
+
+La suplantación de identidad es cuando una persona maliciosa envía un correo electrónico fraudulento disfrazado como fuente legítima y confiable. El objetivo de este mensaje es engañar al 
+destinatario para que instale malware en su dispositivo o comparta información personal o financiera. Un ejemplo de suplantación de identidad es un correo electrónico falsificado similar 
+al enviado por una tienda de conveniencia que solicita al usuario que haga clic en un enlace para reclamar un premio. El enlace puede ir a un sitio falso que solicita información personal 
+o puede instalar un virus.
+
+La suplantación de identidad focalizada es un ataque de suplantación de identidad altamente dirigido. Si bien la suplantación de identidad y la suplantación de identidad focalizada usan 
+correos electrónicos para llegar a las víctimas, los correos electrónicos de la suplantación de identidad (phishing) focalizada se personalizan para cada persona específica. El atacante 
+investiga los intereses del objetivo antes de enviarle el correo electrónico. Por ejemplo, el atacante descubre que al objetivo le interesan los automóviles y que está interesado en la 
+compra de un modelo específico. El atacante se une al mismo foro de debate sobre automóviles donde el objetivo es miembro, publica una oferta de venta del automóvil y envía un correo 
+electrónico al objetivo. El correo electrónico contiene un enlace a imágenes del automóvil. Cuando el objetivo hace clic en el enlace, el malware se instala en la computadora del objetivo.
+

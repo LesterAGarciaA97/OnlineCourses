@@ -1,0 +1,14 @@
+Ingeniería social
+
+La ingeniería social es un ataque de acceso que intenta manipular a las personas para que realicen acciones o divulguen información confidencial. Los ingenieros sociales con frecuencia 
+dependen de la disposición de las personas para ayudar, pero también se aprovechan de sus vulnerabilidades. Por ejemplo, un atacante puede llamar a un empleado autorizado con un problema 
+urgente que requiere acceso inmediato a la red. El atacante puede atraer la vanidad o la codicia del empleado o invocar la autoridad mediante técnicas de nombres.
+
+Estos son algunos tipos de ataques de ingeniería social:
+
+    Pretexto: esto es cuando un atacante llama a una persona y miente en el intento de obtener acceso a datos privilegiados. Un ejemplo implica a un atacante que pretende necesitar datos 
+personales o financieros para confirmar la identidad del objetivo.
+
+    Seguimiento: esto es cuando un atacante persigue rápidamente a una persona autorizada a un lugar seguro.
+
+    Algo por algo (quid pro quo): esto es cuando un atacante solicita información personal de una parte a cambio de algo, por ejemplo, un obsequio.

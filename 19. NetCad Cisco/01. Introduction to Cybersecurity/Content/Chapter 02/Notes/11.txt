@@ -1,0 +1,11 @@
+DDoS
+
+
+Un ataque DoS distribuido (DDoS) es similar a un ataque DoS pero proviene de múltiples fuentes coordinadas. Por ejemplo, un ataque DDoS podría darse de la siguiente manera:
+
+Un atacante crea una red de hosts infectados, denominada botnet. Los hosts infectados se denominan zombies. Los zombies son controlados por sistemas manipuladores.
+
+Las computadoras zombie constantemente analizan e infectan más hosts, lo que genera más zombies. Cuando está listo, el hacker proporciona instrucciones a los sistemas manipuladores 
+para que los botnet de zombies lleven a cabo un ataque DDoS.
+
+Haga clic en Reproducir en la figura para ver las animaciones de un ataque DDoS.

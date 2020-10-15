@@ -1,0 +1,16 @@
+Decodificación de contraseñas Wi-Fi
+
+
+
+La decodificación de contraseñas Wi-Fi es el proceso de detección de la contraseña utilizada para proteger la red inalámbrica. Estas son algunas técnicas utilizadas en la decodificación 
+de contraseñas:
+
+Ingeniería social: el atacante manipula a una persona que conoce la contraseña para que se la proporcione.
+
+Ataques por fuerza bruta: el atacante prueba diversas contraseñas posibles en el intento de adivinar la contraseña. Si la contraseña es un número de 4 dígitos, por ejemplo, el atacante 
+deberá probar cada una de las 10 000 combinaciones. Los ataques por fuerza bruta normalmente involucran un archivo de lista de palabras. Este es un archivo de texto que contiene una lista 
+de palabras tomadas del diccionario. Un programa luego prueba cada palabra y las combinaciones comunes. Debido a que los ataques por fuerza bruta llevan tiempo, las contraseñas complejas 
+llevan mucho más tiempo para descifrar. Algunas herramientas para forzar las contraseñas incluyen Ophcrack, L0phtCrack, THC Hydra, RainbowCrack y Medusa.
+
+Monitoreo de la red: mediante la escucha y la captura de paquetes enviados por la red, un atacante puede descubrir la contraseña, si la contraseña se envía sin cifrar (en texto plano). Si 
+la contraseña está cifrada, el atacante aún puede revelarla mediante una herramienta de decodificación de contraseñas.

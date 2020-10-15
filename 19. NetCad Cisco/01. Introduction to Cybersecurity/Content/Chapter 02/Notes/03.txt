@@ -1,0 +1,28 @@
+Clasificación de las vulnerabilidaes en la seguridad
+
+
+
+La mayoría de las vulnerabilidades en la seguridad del software se incluye en una de las siguientes categorías:
+
+Desbordamiento del búfer: esta vulnerabilidad ocurre cuando los datos se escriben más allá de los límites de un búfer. Los búferes son áreas de memoria asignadas a una aplicación. 
+Al cambiar los datos más allá de los límites de un búfer, la aplicación accede a la memoria asignada a otros procesos. Esto puede llevar a un bloqueo del sistema, comprometer los datos u 
+ocasionar el escalamiento de los privilegios.
+
+Entrada no validada: los programas suelen trabajar con la entrada de datos. Estos datos que entran al programa pueden tener contenido malicioso diseñado para que el programa se comporte 
+de manera no deseada. Considere un programa que recibe una imagen para procesar. Un usuario malintencionado podría crear un archivo de imagen con dimensiones de imagen no válidas. Las 
+dimensiones creadas maliciosamente podrían forzar al programa a asignar búferes de tamaños incorrectos e imprevistos.
+
+Condiciones de carrera: esta vulnerabilidad sucede cuando el resultado de un evento depende de resultados ordenados o temporizados. Una condición de carrera se convierte en una fuente de 
+vulnerabilidad cuando los eventos ordenados o temporizados requeridos no se producen en el orden correcto o el tiempo adecuado.
+
+Debilidades en las prácticas de seguridad: los sistemas y los datos confidenciales pueden protegerse con técnicas tales como autenticación, autorización y encriptación. Los 
+desarrolladores no deben intentar crear sus propios algoritmos de seguridad porque es probable que introduzcan vulnerabilidades. Se recomienda encarecidamente que los desarrolladores 
+utilicen las bibliotecas de seguridad ya creadas, aprobadas y verificadas.
+
+Problemas de control de acceso: el control de acceso es el proceso de controlar quién hace qué y va desde la administración del acceso físico a los equipos hasta determinar quién tiene 
+acceso a un recurso, por ejemplo, un archivo, y qué pueden hacer con este, como leerlo o modificarlo. Muchas vulnerabilidades de seguridad se generan por el uso incorrecto de los 
+controles de acceso.
+
+Casi todos los controles de acceso y las prácticas de seguridad pueden superarse si el atacante tiene acceso físico a los equipos objetivo. Por ejemplo, no importa que haya configurado 
+los permisos de un archivo, el sistema operativo no puede evitar que alguien eluda el sistema operativo y lea los datos directamente del disco. Para proteger los equipos y los datos 
+contenidos, el acceso físico debe restringirse y deben usarse técnicas de encriptación para proteger los datos contra robo o daño.

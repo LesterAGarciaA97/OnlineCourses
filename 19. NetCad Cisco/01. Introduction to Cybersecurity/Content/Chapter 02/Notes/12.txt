@@ -1,0 +1,12 @@
+Envenenamiento SEO
+
+
+
+Los motores de búsqueda, como Google, funcionan clasificando páginas y presentando resultados relevantes conforme a las consultas de búsqueda de los usuarios. Según la importancia del 
+contenido del sitio web, puede aparecer más arriba o más abajo en la lista de resultados de la búsqueda. La optimización de motores de búsqueda (SEO, por sus siglas en inglés) es un 
+conjunto de técnicas utilizadas para mejorar la clasificación de un sitio web por un motor de búsqueda. Aunque muchas empresas legítimas se especializan en la optimización de sitios web 
+para mejorar su posición, un usuario malintencionado puede utilizar la SEO para hacer que un sitio web malicioso aparezca más arriba en los resultados de la búsqueda. Esta técnica se 
+denomina envenenamiento SEO.
+
+El objetivo más común del envenenamiento SEO es aumentar el tráfico a sitios maliciosos que puedan alojar malware o ejercer la ingeniería social. Para forzar un sitio malicioso para que 
+califique más alto en los resultados de la búsqueda, los atacantes se aprovechan de los términos de búsqueda populares.

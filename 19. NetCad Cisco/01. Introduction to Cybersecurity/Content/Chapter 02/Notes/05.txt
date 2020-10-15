@@ -1,0 +1,25 @@
+Síntomas del malware
+
+Independientemente del tipo de malware con el que se ha infectado un sistema, estos son síntomas frecuentes de malware:
+
+    Aumento del uso de la CPU.
+
+    Disminución de la velocidad de la computadora.
+
+    La computadora se congela o falla con frecuencia.
+
+    Hay una disminución en la velocidad de navegación web.
+
+    Existen problemas inexplicables con las conexiones de red.
+
+    Se modifican los archivos.
+
+    Se eliminan archivos.
+
+    Hay una presencia de archivos, programas e iconos de escritorio desconocidos.
+
+    Se ejecutan procesos desconocidos.
+
+    Los programas se cierran o reconfiguran solos.
+
+    Se envían correos electrónicos sin el conocimiento o el consentimiento del usuario.

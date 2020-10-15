@@ -1,0 +1,17 @@
+Resumen
+
+Ataques, conceptos y técnicas
+
+
+Este capítulo cubre las maneras en que los profesionales de la ciberseguridad analizan qué ocurrió después de un ciberataque. Explica las vulnerabilidades de seguridad en software y 
+hardware y las distintas categorías de las vulnerabilidades de seguridad.
+
+Explica los diferentes tipos de software malicioso (conocido como malware) y los síntomas de malware. Parte del malware analizado incluyó virus, gusanos, troyanos, spyware, adware y otros.
+
+Se cubrieron las diferentes maneras en que los atacantes pueden infiltrarse en un sistema, entre ellas, la ingeniería social, la decodificación de contraseñas Wi-Fi, la suplantación de 
+identidad y el aprovechamiento de vulnerabilidades. También se explicaron distintos tipos de ataques de denegación de servicio.
+
+Los ataques combinados usan varias técnicas para infiltrarse en un sistema y atacarlo. Muchos de los gusanos más perjudiciales para las computadoras, como Nimbda, CodeRed, BugBear, Klez y 
+Slammer, se categorizan mejor como ataques combinados. Cuando un ataque no puede evitarse, es el trabajo del profesional de ciberseguridad reducir el impacto de dicho ataque.
+
+Si desea explorar más a fondo los conceptos de este capítulo, consulte la página Actividades y recursos adicionales en Recursos para los estudiantes.

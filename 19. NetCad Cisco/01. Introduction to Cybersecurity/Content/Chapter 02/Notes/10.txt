@@ -1,0 +1,16 @@
+DoS
+
+
+Los ataques de denegación de servicio (DoS) son un tipo de ataque a la red. Un ataque DoS da como resultado cierto tipo de interrupción del servicio de red a los usuarios, los 
+dispositivos o las aplicaciones. Existen dos tipos principales de ataques DoS:
+
+Cantidad abrumadora de tráfico: esto ocurre cuando se envía una gran cantidad de datos a una red, a un host o a una aplicación a una velocidad que no pueden administrar. Esto ocasiona 
+una disminución de la velocidad de transmisión o respuesta o una falla en un dispositivo o servicio.
+
+Paquetes maliciosos formateados: esto sucede cuando se envía un paquete malicioso formateado a un host o una aplicación y el receptor no puede manejarlo. Por ejemplo, un atacante envía 
+paquetes que contienen errores que las aplicaciones no pueden identificar o reenvía paquetes incorrectamente formateados. Esto hace que el dispositivo receptor se ejecute muy lentamente o 
+se detenga.
+
+Los ataques de DoS se consideran un riesgo importante porque pueden interrumpir fácilmente la comunicación y causar una pérdida significativa de tiempo y dinero. Estos ataques son 
+relativamente simples de llevar a cabo, incluso por un atacante inexperto.
+
