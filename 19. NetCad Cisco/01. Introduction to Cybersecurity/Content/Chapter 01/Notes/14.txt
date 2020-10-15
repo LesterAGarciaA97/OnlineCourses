@@ -1,0 +1,31 @@
+Ejemplo 3 de violación de seguridad
+
+
+
+Equifax Inc. es una de las agencias nacionales de informes de crédito para el consumidor de Estados Unidos. Esta empresa recopila información de millones de clientes particulares y 
+empresas en todo el mundo. En función de la información recopilada, se crean puntajes de crédito e informes de crédito acerca de los clientes. Esta información podría afectar a los 
+clientes al solicitar préstamos y buscar empleo.
+
+En septiembre de 2017, Equifax anunció públicamente un evento de violación de datos. Los atacantes aprovecharon una vulnerabilidad en el software de aplicaciones web Apache Struts. La 
+empresa cree que los delincuentes cibernéticos tuvieron acceso a millones de datos personales sensibles de los consumidores estadounidenses entre mayo y julio de 2017. Los datos de 
+carácter personal incluyen nombres completos de los clientes, números de seguro social, fechas de nacimiento, direcciones y otra información personal identificatoria. Hay evidencia de 
+que 
+la violación podría haber afectado a clientes de Reino Unido y Canadá.
+
+Equifax creó un sitio web exclusivo que permite a los consumidores determinar si su información se vio comprometida, e iniciar sesión para que puedan controlar el crédito y protegerse 
+contra el robo de identidad. Mediante el uso de un nuevo nombre de dominio en lugar de utilizar un subdominio de equifax.com, se permitió que personas maliciosas crearan sitios web no 
+autorizados con nombres similares. Estos sitios web pueden utilizarse como parte de un plan de suplantación de identidad que intenta engañar para que se proporcione información personal. 
+Además, un empleado de Equifax proporcionó un enlace web incorrecto en medios sociales para clientes preocupados. Afortunadamente, este sitio web fue dado de baja dentro de las 24 horas. 
+Fue creado por una persona que lo utilizaba como una oportunidad educativa para revelar las vulnerabilidades que existen en la página de respuesta de Equifax.
+
+Como consumidor preocupado, deseará comprobar rápidamente si su información se vio comprometida para poder minimizar el impacto. En un momento de crisis, puede ser engañado para que use 
+sitios web no autorizados. Debe ser cuidadoso al proporcionar información personal para no volver a convertirse en víctima. Además, las empresas son responsables de mantener nuestra 
+información protegida de accesos no autorizados. Las empresas deben aplicar un parche y actualizar su software de forma periódica para mitigar el aprovechamiento de vulnerabilidades 
+conocidas. Deben enseñar a sus empleados los procedimientos para proteger la información y qué hacer en caso de una violación, y proporcionales información al respecto.
+
+Por desgracia, las verdaderas víctimas de esta violación son las personas cuyos datos han sido comprometidos. En este caso, Equifax tiene la responsabilidad de proteger los datos 
+recopilados del consumidor durante la verificación de créditos, ya que los clientes no eligieron utilizar los servicios proporcionados por Equifax. El consumidor debe confiar en la 
+empresa para proteger la información recopilada. Además, los atacantes pueden utilizar estos datos para asumir su identidad, y es muy difícil demostrar lo contrario, ya que el atacante y 
+la víctima conocen la misma información. En estas situaciones, lo único que puede hacer es estar alerta cuando proporcione información personal de identificación en Internet. Revise sus 
+informes crediticios periódicamente (una vez al mes o una vez por trimestre). Denuncie de inmediato cualquier información falsa, como solicitudes de crédito que no inició o compras en sus 
+tarjetas de crédito que no realizó.

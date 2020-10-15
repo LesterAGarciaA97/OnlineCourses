@@ -1,0 +1,27 @@
+Ejemplo 2 de violación de seguridad
+
+
+
+El fabricante de juguetes de alta tecnología para niños, Vtech, sufrió una violación de seguridad en su base de datos en noviembre de 2015. Esta violación de seguridad podría afectar a 
+millones de clientes en todo el mundo, incluidos los niños. La violación de seguridad de los datos expuso información confidencial, incluidos nombres de clientes, direcciones de correo 
+electrónico, contraseñas, imágenes y registros de chat.
+
+Las tablets de juguete se habían convertido en un nuevo objetivo para los hackers. Los clientes habían compartido fotografías y habían utilizado las funciones de chat en las tablets de 
+juguete. La información no se aseguró correctamente, y el sitio web de la empresa no admitía la comunicación segura con SSL. Aunque la violación de seguridad no expuso la información de 
+ninguna tarjeta de crédito ni datos de identificación personal, la empresa fue suspendida en la bolsa de valores debido a la preocupación por la inmensidad del ataque.
+
+Vtech no protegió la información de los clientes correctamente y se vio expuesta durante la violación de seguridad. Aunque la empresa informó a sus clientes que sus contraseñas habían 
+sido encriptadas, aún era posible que los hackers las descifraran. Las contraseñas en la base de datos se cifraron mediante la función de hash MD5, pero las preguntas y respuestas de 
+seguridad se almacenaron en texto no cifrado. Desafortunadamente, la función de hash MD5 tiene vulnerabilidades conocidas. Los hackers pueden determinar las contraseñas originales 
+comparando millones de valores de hash calculados previamente.
+
+Con la información expuesta en esta violación de seguridad de datos, los delincuentes cibernéticos pudieron utilizarla para crear cuentas de correo electrónico, solicitar créditos y 
+cometer delitos antes de que los niños fueran lo suficientemente grandes como para ir a la escuela. En cuanto a los padres de estos niños, los delincuentes cibernéticos pudieron 
+apropiarse de las cuentas en línea porque muchas personas reutilizan las contraseñas en diversos sitios web y cuentas.
+
+La infracción a la seguridad no solo afectó la privacidad de los clientes, sino que arruinó la reputación de la empresa, según lo indicó la empresa cuando su presencia en la bolsa se 
+suspendió.
+
+Para los padres, es una llamada de atención para ser más cuidadosos sobre la privacidad de sus hijos en línea y solicitar una mejor seguridad para los productos de los niños. En cuanto a 
+los fabricantes de productos conectados a la red, deben ser más agresivos en la protección de los datos de clientes y privacidad ahora y en el futuro, ya que el panorama de los 
+ciberataques evoluciona.

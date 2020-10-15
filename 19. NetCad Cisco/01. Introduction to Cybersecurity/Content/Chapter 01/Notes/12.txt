@@ -1,0 +1,21 @@
+Ejemplo 1 de violación de seguridad
+
+
+
+El administrador de contraseñas en línea, LastPass, detectó actividad inusual en su red en julio de 2015. Resultó que los hackers habían robado las direcciones de correo electrónico de 
+los usuarios, los recordatorios de la contraseña y los hashes de autenticación. Afortunadamente para los usuarios, los hackers no pudieron obtener el repositorio de la contraseña cifrada 
+de nadie.
+
+Aunque hubo una violación a la seguridad, LastPass pudo de todos modos proteger la información de las cuentas de los usuarios. LastPass requiere la verificación de correo electrónico o la 
+autenticación de varios factores cada vez que hay un nuevo inicio de sesión desde un dispositivo o una dirección IP desconocidos. Los hackers también necesitarían la contraseña principal 
+para acceder a la cuenta.
+
+Los usuarios de LastPass también tienen cierta responsabilidad en la protección de sus cuentas. Los usuarios deben utilizar siempre contraseñas principales complejas y cambiar las 
+contraseñas principales periódicamente. Los usuarios siempre deben tener cuidado con los ataques de phishing. Un ejemplo de un ataque de phishing sería que un atacante envíe correos 
+electrónicos falsos en nombre de LastPass. Los correos electrónicos solicitan que los usuarios hagan clic en un enlace incrustado y cambien la contraseña. El enlace del correo electrónico 
+se envía a una versión fraudulenta de la página web utilizada para robar la contraseña principal. Los usuarios no deben hacer clic en los enlaces incrustados en un correo electrónico. 
+Los usuarios también deben tener cuidado con el recordatorio de la contraseña. El recordatorio de la contraseña no debe revelar sus contraseñas. Lo más importante es que los usuarios 
+deben habilitar la autenticación de dos pasos cuando esté disponible para todo sitio web que lo ofrezca.
+
+Si los usuarios y los proveedores de servicios usan las herramientas y los procedimientos adecuados para proteger la información de los usuarios, los datos de los usuarios podrían 
+protegerse, incluso en el caso de una brecha en la seguridad.

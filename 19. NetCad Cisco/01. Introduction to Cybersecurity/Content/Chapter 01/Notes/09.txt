@@ -1,0 +1,19 @@
+Tipos de datos de la organización
+
+
+
+Datos tradicionales
+
+Los datos corporativos incluyen información del personal, propiedades intelectuales y datos financieros. La información del personal incluye el material de las postulaciones, la nómina, 
+la carta de oferta, los acuerdos del empleado, y cualquier información utilizada para tomar decisiones de empleo. La propiedad intelectual, como patentes, marcas registradas y planes de 
+nuevos productos, permite a una empresa obtener una ventaja económica sobre sus competidores. Esta propiedad intelectual se puede considerar un secreto comercial; perder esta información 
+puede ser desastroso para el futuro de la empresa. Los datos financieros, como las declaraciones de ingresos, los balances y las declaraciones de flujo de caja de una empresa brindan 
+información sobre el estado de la empresa.
+
+Internet de las cosas y datos masivos
+
+Con el surgimiento de la Internet de las cosas (IoT), hay muchos más datos para administrar y asegurar. La IoT es una gran red de objetos físicos, como sensores y equipos, que se extiende 
+más allá de la red de computadoras tradicional. Todas estas conexiones, además del hecho de que hemos ampliado la capacidad y los servicios de almacenamiento a través de la nube y la 
+virtualización, llevan al crecimiento exponencial de los datos. Estos datos han creado una nueva área de interés en la tecnología y los negocios denominada “datos masivos”. Con la 
+velocidad, el volumen y la variedad de datos generados por la IoT y las operaciones diarias de la empresa, la confidencialidad, integridad y disponibilidad de estos datos son vitales para 
+la supervivencia de la organización.

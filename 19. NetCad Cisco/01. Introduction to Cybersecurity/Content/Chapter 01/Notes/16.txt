@@ -1,0 +1,25 @@
+Amenazas internas y externas
+
+
+
+Amenazas de seguridad internas
+
+Los ataques pueden originarse dentro de una organización o fuera de ella, como se muestra en la figura. Un usuario interno, como un 
+empleado o un partner contratado, puede de manera accidental o intencional:
+
+    Manipular de manera incorrecta los datos confidenciales
+
+    Amenazar las operaciones de los servidores internos o de los dispositivos de la infraestructura de red
+
+    Facilitar los ataques externos al conectar medios USB infectados al sistema informático corporativo
+
+    Invitar accidentalmente al malware a la red con correos electrónicos o páginas web maliciosos
+
+Las amenazas internas también tienen el potencial de generar mayor daño que las amenazas externas, porque los usuarios internos tienen 
+acceso directo al edificio y a sus dispositivos de infraestructura. Los empleados también tienen conocimiento de la red corporativa, sus 
+recursos y sus datos confidenciales, así como diferentes niveles de usuario o privilegios administrativos.
+
+Amenazas de seguridad externas
+
+Las amenazas externas de aficionados o atacantes expertos pueden atacar las vulnerabilidades en la red o los dispositivos informáticos, o 
+usar la ingeniería social para obtener acceso.

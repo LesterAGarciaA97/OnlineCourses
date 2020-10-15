@@ -1,0 +1,18 @@
+Las consecuencias de una violación a la seguridad
+
+
+
+Proteger a las organizaciones contra cualquier ciberataque posible no es factible, por algunos motivos. La experiencia necesaria para configurar y mantener la red segura puede ser 
+costosa. Los atacantes siempre seguirán encontrando nuevas maneras de apuntar a las redes. Con el tiempo, un ciberataque avanzado y dirigido tendrá éxito. La prioridad, luego, será con 
+qué rapidez su equipo de seguridad puede responder al ataque para minimizar la pérdida de datos, el tiempo de inactividad y la pérdida de ingresos.
+
+Ahora sabe que todo lo publicado en línea puede vivir en línea para siempre, incluso si logró borrar todas las copias en su poder. Si sus servidores fueron atacados, la información 
+confidencial del personal podría hacerse pública. Un hacker (o un grupo de hacking) puede vandalizar la página web de la empresa al publicar información falsa y arruinar la reputación de 
+la empresa que tardó años en crearse. Los hackers también pueden tirar la página web de la empresa y hacer que esta pierda ingresos. Si la página web queda inactiva durante períodos de 
+tiempo más largos, la empresa puede parecer poco confiable y perder posiblemente la credibilidad. Si el sitio web de la empresa o la red ha tenido una violación de seguridad, esto podría 
+provocar la fuga de los documentos confidenciales, la revelación de los secretos comerciales y el robo de la propiedad intelectual. La pérdida de toda esta información puede impedir el 
+crecimiento y la expansión de la empresa.
+
+El costo monetario de un ataque es mucho mayor que solo reemplazar los dispositivos perdidos o robados, invertir en la seguridad existente y fortalecer la seguridad física del edificio. 
+La empresa será responsable de comunicarse con todos los clientes afectados por la infracción y es posible que deba prepararse para un proceso jurídico. Con toda esta confusión, los 
+empleados pueden elegir irse de la empresa. Es posible que la empresa necesite centrarse menos en el crecimiento y más en la reparación de su reputación.

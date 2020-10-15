@@ -1,0 +1,16 @@
+¿Qué es la guerra cibernética?
+
+
+
+El ciberespacio se ha convertido en otra dimensión importante de guerra, donde las naciones pueden tener conflictos sin los choques de las tropas y las máquinas tradicionales. Esto 
+permite que los países con presencia militar mínima sean tan fuertes como otras naciones en el ciberespacio. La guerra cibernética es un conflicto basado en Internet que implica la 
+penetración de sistemas de computación y redes de otros países. Estos atacantes tienen los recursos y conocimientos para lanzar ataques masivos basados en Internet contra otros países 
+para causar daños o para interrumpir los servicios, como apagar toda la red de energía.
+
+Un ejemplo de un ataque patrocinado por el estado involucró el malware de Stuxnet diseñado para dañar la planta de enriquecimiento nuclear de Irán. El malware de Stuxnet no tomó control 
+de las computadoras específicas para robar información. Se diseñó para dañar el equipo físico controlado por las computadoras. Utilizó la codificación modular programada para realizar una 
+tarea específica en el malware. Utilizó certificados digitales robados para que el ataque pareciera legítimo para el sistema. Haga clic en Reproducir para ver un video sobre Stuxnet.
+
+Haga clic aquí para leer la transcripción de este video.
+
+Haga clic aquí para ver otro video para obtener más información sobre Stuxnet.

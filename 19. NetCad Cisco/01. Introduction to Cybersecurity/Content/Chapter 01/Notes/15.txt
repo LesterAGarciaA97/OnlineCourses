@@ -1,0 +1,25 @@
+Tipos de atacantes
+
+
+
+Los atacantes son personas o grupos que intentan aprovechar las vulnerabilidades para obtener una ganancia personal o financiera. Los atacantes están interesados en todo, desde las 
+tarjetas de crédito hasta los diseños de producto y todo lo que tenga valor.
+
+Aficionados: a veces, se denominan Script Kiddies. Generalmente, son atacantes con poca o ninguna habilidad que, a menudo, utilizan las herramientas existentes o las instrucciones que se 
+encuentran en Internet para llevar a cabo ataques. Algunos de ellos solo son curiosos, mientras que otros intentan demostrar sus habilidades y causar daños. Pueden utilizar herramientas 
+básicas, pero los resultados aún pueden ser devastadores.
+
+Hackers: este grupo de atacantes ingresa a computadoras o redes para obtener acceso. Según la intención de la intrusión, estos atacantes se clasifican como de Sombrero Blanco, Gris o Negro.
+ Los atacantes de Sombrero Blanco ingresan a las redes o los sistemas informáticos para descubrir las debilidades para poder mejorar la seguridad de estos sistemas. Estas intrusiones se 
+realizan con el permiso previo y los resultados se informan al propietario. Por otro lado, los atacantes de Sombrero Negro aprovechan las vulnerabilidades para obtener una ganancia ilegal 
+personal, financiera o política. Los atacantes de Sombrero Gris están en algún lugar entre los atacantes de sombrero blanco y negro. Los atacantes de Sombrero Gris pueden encontrar una 
+vulnerabilidad en un sistema. Es posible que los hackers de Sombrero Gris informen la vulnerabilidad a los propietarios del sistema si esa acción coincide con su agenda. Algunos hackers 
+de Sombrero Gris publican los hechos sobre la vulnerabilidad en Internet para que otros atacantes puedan sacarles provecho.
+
+La figura ofrece detalles sobre los términos hacker de sombrero blanco, negro y gris.
+
+Hackers organizados: estos hackers incluyen organizaciones de delincuentes cibernéticos, hacktivistas, terroristas y hackers patrocinados por el estado. Los delincuentes cibernéticos 
+generalmente son grupos de delincuentes profesionales centrados en el control, el poder y la riqueza. Los delincuentes son muy sofisticados y organizados, e incluso pueden proporcionar el 
+delito cibernético como un servicio a otros delincuentes. Los hacktivistas hacen declaraciones políticas para concientizar sobre los problemas que son importantes para ellos. Los 
+atacantes patrocinados por el estado reúnen inteligencia o causan daño en nombre de su gobierno. Estos atacantes suelen estar altamente capacitados y bien financiados, y sus ataques se 
+centran en objetivos específicos que resultan beneficiosos para su gobierno.
