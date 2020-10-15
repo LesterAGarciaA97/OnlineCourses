@@ -1,0 +1,35 @@
+Protega sus dispositivos informáticos
+
+
+
+Sus dispositivos informáticos almacenan sus datos y son el portal hacia su vida en línea. La siguiente es una breve lista de pasos a seguir para proteger sus dispositivos informáticos 
+contra intrusiones:
+
+    Mantenga el firewall encendido: ya sea un firewall de software o un firewall de hardware en un router, el firewall debe estar activado y actualizado para evitar que los hackers 
+accedan a sus datos personales o empresariales. Haga clic Windows 7 y 8.1 o Windows 10 para activar el firewall en la versión correspondiente de Windows. Haga clic aquí para activar el 
+firewall en los dispositivos Mac OS X.
+
+    Utilice un antivirus y antispyware: el software malicioso, como virus, troyanos, gusanos, ransomware y spyware, se instala en los dispositivos informáticos sin su permiso para obtener 
+acceso a su computadora y sus datos. Los virus pueden destruir sus datos, ralentizar su computadora o apoderarse de ella. Una manera en que los virus pueden apoderarse de su computadora es
+ permitiendo que los emisores de correo no deseado envíen correos electrónicos desde su cuenta. El spyware puede supervisar sus actividades en línea, recopilar su información personal o 
+enviar anuncios emergentes no deseados a su navegador web mientras está en línea. Una buena regla es descargar software solamente de sitios web confiables para evitar obtener spyware en 
+primer lugar. El software antivirus está diseñado para analizar su computadora y correo electrónico entrante para detectar virus y eliminarlos. A veces el software antivirus también 
+incluye antispyware. Mantenga su software actualizado para proteger su computadora de software malicioso reciente.
+
+    Administre su sistema operativo y navegador: los hackers siempre están intentando aprovechar las vulnerabilidades en sus sistemas operativos y navegadores web. Para proteger su 
+computadora y sus datos, establezca los parámetros de seguridad en su computadora o navegador en medio o alto. Actualice el sistema operativo de la computadora, incluidos los navegadores 
+web, y descargue e instale periódicamente parches y actualizaciones de seguridad del software de los proveedores.
+
+    Proteja todos sus dispositivos: sus dispositivos informáticos, ya sean PC, PC portátiles, tablets o smartphones, deben estar protegidos con contraseña para evitar el acceso no 
+autorizado. La información almacenada debe estar cifrada, especialmente en el caso de datos sensibles o confidenciales. En los dispositivos móviles, almacene solo información necesaria en 
+caso de robo o pérdida cuando está fuera de su hogar. Si alguno de sus dispositivos se ve comprometido, los delincuentes pueden tener acceso a todos sus datos a través del proveedor de 
+servicios de almacenamiento en la nube, como iCloud o Google Drive.
+
+Los dispositivos de IoT (Internet de las cosas) representan un riesgo incluso mayor que los otros dispositivos electrónicos. Mientras que las computadoras de escritorio, portátiles y los 
+dispositivos móviles reciben actualizaciones de software frecuentes, la mayoría de los dispositivos de IoT aún tiene su firmware original. Si se encuentran vulnerabilidades en el firmware,
+el dispositivo de IoT es probable que se mantenga vulnerable. Para empeorar el problema, los dispositivos de IoT están diseñados para conectarse con los servidores del proveedor 
+(call home) y solicitar acceso a Internet. Para acceder a Internet, la mayoría de los fabricantes de dispositivos de IoT confían en la red local del cliente. El resultado es que los 
+dispositivos de IoT son muy propensos a verse comprometidos y, cuando lo están, permiten el acceso a la red local del cliente y sus datos. La mejor manera de protegerse de esta situación 
+es contar con dispositivos de IoT con una red aislada compartida únicamente con otros dispositivos de IoT.
+
+Haga clic aquí para visitar Shodan, un escáner de dispositivos de IoT basado en la web.

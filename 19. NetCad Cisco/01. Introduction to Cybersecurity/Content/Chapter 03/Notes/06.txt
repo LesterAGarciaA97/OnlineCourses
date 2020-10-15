@@ -1,0 +1,31 @@
+Encripte sus datos
+
+
+Sus datos siempre deben estar encriptados. Es posible que piense que no tiene secretos ni nada que ocultar, ¿por qué usar la encriptación? Quizás cree que nadie desea sus datos. Muy 
+probablemente, esto no es cierto.
+
+¿Está listo para mostrar todas sus fotos y documentos a extraños? ¿Está listo para compartir información financiera almacenada en su computadora con sus amigos? ¿Desea divulgar sus 
+correos electrónicos y las contraseñas de sus cuentas al público en general?
+
+Esto puede ser incluso más problemático si una aplicación maliciosa infecta su computadora o dispositivo móvil y le roba información potencialmente valiosa, como números de cuenta, 
+contraseñas y otros documentos oficiales. Dicho tipo de información puede generar robos de identidad, fraude o rescates. Los delincuentes pueden decidir simplemente encriptar sus datos y 
+hacer que sean inutilizables hasta que la extorsión se liquide.
+
+¿Qué es la encriptación? La encriptación es el proceso de conversión de la información a un formato que una parte no autorizada no puede leer. Solo una persona de confianza autorizada con 
+la contraseña o clave secreta puede descifrar los datos y acceder a ellos en su formato original. La encriptación en sí misma no evita que una persona intercepte los datos. La encriptación solo puede evitar que una persona no autorizada vea o acceda al contenido.
+
+Se utilizan programas de software para encriptar archivos, carpetas e incluso unidades enteras.
+
+El sistema de encriptación de archivos (EFS, Encrypting File System) es una característica de Windows que permite encriptar datos. El EFS está directamente vinculado a una cuenta de 
+usuario determinada. Solo el usuario que cifró los datos puede acceder a estos una vez encriptados con el EFS. Para encriptar datos con EFS en todas las versiones de Windows, siga estos 
+pasos:
+
+Paso 1: Seleccione uno o más archivos o carpetas.
+
+Paso 2: Haga clic derecho en los datos seleccionados y en >Propiedades.
+
+Paso 3: Haga clic en Opciones avanzadas...
+
+Paso 4: Seleccione la casilla de verificación Encriptar contenido para proteger datos.
+
+Paso 5: Las carpetas y los archivos encriptados con el EFS se muestran en verde, como se muestra en la ilustración.

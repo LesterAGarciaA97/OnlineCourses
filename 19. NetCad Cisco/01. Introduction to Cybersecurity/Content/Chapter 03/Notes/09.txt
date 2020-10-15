@@ -1,0 +1,14 @@
+Autenticación de dos pasos
+
+Los servicios en línea más populares, como Google, Facebook, Twitter, LinkedIn, Apple y Microsoft, utilizan la autenticación de dos factores para agregar una capa adicional de seguridad 
+para los inicios de sesión de la cuenta. Además del nombre de usuario y la contraseña, o un patrón o número de identificación personal (PIN), la autenticación de dos factores requiere un 
+segundo token, por ejemplo:
+
+    Un objeto físico: una tarjeta de crédito, una tarjeta de cajero automático, un teléfono o un control.
+
+    Escaneo biométrico: huellas digitales, impresión de la palma o reconocimiento de voz o de rostro.
+
+Incluso con la autenticación de dos factores, los hackers aún pueden obtener acceso a sus cuentas en línea mediante ataques tales como suplantación de identidad, malware e ingeniería 
+social.
+
+Haga clic aquí para detectar si los sitios web que visita usan la autenticación de dos factores.

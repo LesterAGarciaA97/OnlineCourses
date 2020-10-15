@@ -1,0 +1,17 @@
+Eliminación de sus datos en forma permanente
+
+
+
+Cuando mueve un archivo a la papelera de reciclaje y lo elimina de manera permanente, no se puede acceder al archivo solo desde el sistema operativo. Cualquier persona con las 
+herramientas forenses adecuadas puede recuperar el archivo debido al rastro magnético que deja en el disco duro.
+
+Para borrar datos de modo que no sean recuperables, los datos deben sobrescribirse con unos y ceros varias veces. Para evitar la recuperación de los archivos eliminados, es posible que 
+deba utilizar herramientas diseñadas específicamente para hacerlo. El programa SDelete de Microsoft (para Vista y versiones posteriores) reclama tener la capacidad de eliminar los archivos
+confidenciales por completo. Shred para Linux y Secure Empty Trash para Mac OSX son algunas herramientas que aseguran proporcionar un servicio similar.
+
+La única forma de estar seguros de que los datos o los archivos no son recuperables es destruir físicamente el disco duro o el dispositivo de almacenamiento. Muchos delincuentes cometen 
+la insensatez de pensar que sus archivos son impenetrables o irrecuperables.
+
+Además de almacenar datos en las unidades de disco duro locales, sus datos también pueden guardarse en línea en la nube. Dichas copias también deberán eliminarse. Tómese un momento para 
+preguntarse: ¿dónde están guardados mis datos? ¿En una copia de seguridad en algún lado? ¿Están encriptados? Cuando deba eliminar sus datos o librarse de un disco duro o de una computadora,
+pregúntese: ¿he protegido los datos para evitar que caigan en las manos incorrectas?

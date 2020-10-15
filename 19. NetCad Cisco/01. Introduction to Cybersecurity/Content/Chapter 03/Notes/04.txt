@@ -1,0 +1,23 @@
+Utilice contraseñas únicas para cada cuenta en línea
+
+Posiblemente tenga más que una cuenta en línea y cada cuenta debe tener una contraseña única. Son muchas contraseñas para recordar. Sin embargo, la consecuencia de no usar contraseñas 
+seguras y únicas los deja a usted y sus datos vulnerables ante los delincuentes cibernéticos. Usar la misma contraseña para todas las cuentas en línea es como usar la misma llave para 
+todas las puertas cerradas; si un atacante consiguiera su contraseña, tendría acceso a todo lo que usted posee. Si los delincuentes obtienen su contraseña mediante la suplantación de 
+identidad, por ejemplo, intentarán ingresar en sus otras cuentas en línea. Si solo utiliza una contraseña para todas las cuentas, pueden ingresar en todas estas, robar o borrar todos sus 
+datos, o hacerse pasar por usted.
+
+Utilizamos tantas cuentas en línea que necesitan contraseña que es demasiado para recordar. Una solución para evitar reutilizar las contraseñas o utilizar contraseñas débiles es utilizar 
+un administrador de contraseñas. El administrador de contraseñas almacena y encripta todas sus contraseñas complejas y diferentes. El administrador puede ayudarlo a iniciar sesión en sus 
+cuentas en línea automáticamente. Solo debe recordar la contraseña maestra para acceder al administrador de contraseñas y administrar todas sus cuentas y contraseñas.
+
+Consejos para elegir una buena contraseña:
+
+    No use palabras del diccionario o nombres en ningún idioma.
+
+    No use errores ortográficos comunes de palabras del diccionario.
+
+    No use nombres de equipos o cuentas.
+
+    De ser posible, use caracteres especiales como ! @ # $ % ^ & * ( ).
+
+    Utilice una contraseña con diez o más caracteres.

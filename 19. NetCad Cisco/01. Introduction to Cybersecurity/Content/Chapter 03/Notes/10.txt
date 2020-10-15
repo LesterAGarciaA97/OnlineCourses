@@ -1,0 +1,12 @@
+OAuth 2.0
+
+
+
+Open Authorization (OAuth) es un protocolo de estándar abierto que permite que las credenciales de los usuarios finales tengan acceso a aplicaciones de terceros sin exponer las 
+contraseñas de los usuarios. OAuth actúa como intermediario para decidir si los usuarios finales pueden acceder a aplicaciones de terceros. Por ejemplo, supongamos que desea acceder a la 
+aplicación web XYZ y no tiene una cuenta de usuario para acceder a esta aplicación web. Sin embargo, XYZ tiene la opción de permitirle iniciar sesión con las credenciales de la red social 
+ABC. Por lo que puede acceder al sitio web XYZ con el inicio de sesión de la red social ABC.
+
+Para que esto funcione, la aplicación ‘XYZ’ se registra con ‘ABC’ y es una aplicación aprobada. Cuando accede a XYZ, utiliza sus credenciales de usuario para ABC. Luego XYZ solicita un 
+token de acceso a ABC en su nombre. Ahora tiene acceso a XYZ. XYZ no tiene ninguna información sobre usted y sus credenciales de usuario; esta interacción es completamente transparente 
+para el usuario. El uso de tokens secretos impide que una aplicación maliciosa obtenga su información y sus datos.

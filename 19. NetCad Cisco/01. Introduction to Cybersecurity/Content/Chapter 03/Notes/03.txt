@@ -1,0 +1,31 @@
+Use las redes inalámbricas en forma segura
+
+
+
+Las redes inalámbricas permiten que los dispositivos habilitados con Wi-Fi, como computadoras portátiles y tablets, se conecten a la red por medio de un identificador de red conocido como 
+identificador de conjunto de servicios (SSID). Para evitar que los intrusos ingresen en su red inalámbrica doméstica, el SSID predeterminado y la contraseña predeterminada para la interfaz
+de administración en el navegador web deben cambiarse. Los hackers son conscientes de este tipo de información de acceso predeterminada. Opcionalmente, el router inalámbrico también puede 
+configurarse para que no difunda el SSID, lo que añade una barrera adicional para la detección de la red. Sin embargo, esto no debe considerarse una seguridad adecuada para una red 
+inalámbrica. Además, debe encriptar la comunicación inalámbrica habilitando la seguridad inalámbrica y la función de encriptado WPA2 en el router inalámbrico. Incluso con el encriptado 
+WPA2 habilitado, la red inalámbrica aún puede ser vulnerable.
+
+En octubre de 2017, se descubrió una falla de seguridad en el protocolo WPA2. Esta falla permite a un intruso descifrar la encriptación entre el router inalámbrico y el cliente 
+inalámbrico, lo que permite que este tenga acceso al tráfico de red y lo manipule. Esta vulnerabilidad puede ser atacada utilizando el Ataque de reinstalación de clave 
+(KRACK, Key Reinstallation Attack). Afecta a todas las redes wifi protegidas, modernas. Para mitigar un ataque, un usuario debe actualizar todos los productos afectados: routers 
+inalámbricos y cualquier dispositivo inalámbrico, como computadoras portátiles y dispositivos móviles, tan pronto como las actualizaciones de seguridad estén disponibles. Para las 
+computadoras portátiles u otros dispositivos con NIC por cable, una conexión por cable podría mitigar esta vulnerabilidad. Además, también puede utilizarse un servicio de VPN de confianza 
+para prevenir el acceso no autorizado a los datos mientras se utiliza la red inalámbrica.
+
+Haga clic aquí para saber más acerca de KRACK.
+
+Cuando está lejos de casa, los puntos públicos de acceso inalámbrico permiten tener acceso a su información en línea y navegar por Internet. Sin embargo, es mejor no acceder ni enviar 
+información personal confidencial a través de una red pública inalámbrica. Verifique si su computadora está configurada para compartir archivos y medios digitales y si requiere la 
+autenticación de usuario con encriptación. Para evitar que una persona intercepte su información (lo que se conoce como “eavesdropping”) mientras utiliza una red pública inalámbrica, 
+utilice túneles VPN y servicios encriptados. El servicio VPN proporciona acceso seguro a Internet con una conexión cifrada entre la computadora y el servidor VPN del proveedor de 
+servicios VPN. Con un túnel VPN encriptado, aunque se intercepte una transmisión de datos, no podrá descifrarse.
+
+Haga clic aquí para obtener más información acerca de la protección al utilizar redes inalámbricas.
+
+Muchos dispositivos móviles, como smartphones y tablets, incluyen el protocolo inalámbrico Bluetooth. Esta funcionalidad permite que los dispositivos con Bluetooth habilitados se 
+conecten entre sí y compartan información. Desafortunadamente, Bluetooth puede ser atacado por hackers a fin de espiar algunos dispositivos, establecer controles del acceso remoto, 
+distribuir malware y consumir baterías. Para evitar estos problemas, mantenga Bluetooth desactivado cuando no lo utiliza.

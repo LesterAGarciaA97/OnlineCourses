@@ -1,0 +1,16 @@
+Realice un respaldo de sus datos
+
+
+
+Su disco duro puede fallar. Su computadora portátil puede perderse. Pueden robar su teléfono. Quizá borró la versión original de un documento importante. Tener un respaldo puede evitar la 
+pérdida de datos irreemplazables, como fotos familiares. Para hacer un respaldo correcto de los datos, necesitará una ubicación de almacenamiento adicional para los datos y deberá copiar 
+los datos en dicha ubicación periódica y automáticamente.
+
+La ubicación adicional para los archivos de copia de seguridad puede estar en su red doméstica, una ubicación secundaria o la nube. Si almacena los respaldos de los datos de manera local, 
+tendrá el control total de los datos. Puede decidir copiar todos sus datos en un dispositivo de almacenamiento conectado a la red (NAS), un disco duro externo simple o puede seleccionar 
+solo algunas carpetas importantes para hacer un respaldo en unidades de memoria USB, CD/DVD o incluso cintas. En dicho escenario, es usted el propietario y es totalmente responsable del 
+costo y el mantenimiento de los equipos del dispositivo de almacenamiento. Si contrata un servicio de almacenamiento en la nube, el costo depende de la cantidad de espacio de 
+almacenamiento que necesita. Con un servicio de almacenamiento en la nube, como Amazon Web Services (AWS), tendrá acceso a sus datos de respaldo siempre que tenga acceso a su cuenta. 
+Cuando contrata servicios de almacenamiento en línea, es posible que deba ser más selectivo respecto de los datos que respalda debido al costo del almacenamiento y las constantes 
+transferencias de datos en línea. Uno de los beneficios de guardar un respaldo en una ubicación alternativa es que es seguro en caso de incendio, robo u otro desastre, excepto que falle 
+el dispositivo de almacenamiento.

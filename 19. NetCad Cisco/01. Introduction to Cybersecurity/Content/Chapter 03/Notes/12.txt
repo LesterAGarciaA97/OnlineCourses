@@ -1,0 +1,29 @@
+Privacidad del correo electrónico y el navegador web
+
+
+
+Cada día, millones de mensajes de correo electrónico se utilizan para comunicarse con amigos y realizar negocios. El correo electrónico es una manera conveniente de comunicarse 
+rápidamente. Cuando envía un correo electrónico, es similar a enviar un mensaje mediante una tarjeta postal. El mensaje de la tarjeta postal se transmite a plena vista de cualquier 
+persona que pueda observarlo; el mensaje de correo electrónico se transmite en texto sin formato y es legible para cualquier persona que tenga acceso. Estas comunicaciones además pasan 
+por diferentes servidores en la ruta hacia su destino. Incluso si borra los mensajes de correo electrónico, los mensajes pueden archivarse en los servidores de correo durante algún tiempo.
+
+
+Cualquier persona con acceso físico a su computadora o a su router puede ver qué sitios web ha visitado con el historial del navegador web, el caché y posiblemente los archivos de registro. 
+Este problema puede minimizarse habilitando el modo de navegación privada en el navegador web. La mayoría de los exploradores web populares tienen un nombre propio para el modo de 
+navegación privada:
+
+    Microsoft Internet Explorer: InPrivate
+
+    Google Chrome: Incognito
+
+    Mozilla Firefox: ventana privada/pestaña privada
+
+    Safari: navegación privada
+
+Al utilizar el modo privado, se deshabilitan las cookies y los archivos temporales de Internet y el historial de exploración se eliminan después de cerrar la ventana o el programa.
+
+Mantener su historial de exploración de Internet privado puede impedir que otros recopilen información sobre sus actividades en línea y lo tienten para comprar algo con publicidad dirigida. Incluso con la navegación privada habilitada y las cookies desactivadas, las empresas desarrollan diferentes maneras de identificar usuarios para recopilar información y seguir el comportamiento de los usuarios. Por ejemplo, los dispositivos intermediarios, como los routers, pueden tener información sobre el historial de navegación web del usuario.
+
+
+En última instancia, es su responsabilidad proteger sus datos, su identidad y sus dispositivos informáticos. Cuándo envía un correo electrónico, ¿debe incluir su historial médico? 
+La próxima vez que busque en Internet, ¿será segura su transmisión? Simplemente algunas precauciones pueden ahorrarle problemas en el futuro.

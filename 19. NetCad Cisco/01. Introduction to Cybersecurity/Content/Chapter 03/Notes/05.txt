@@ -1,0 +1,44 @@
+Use una frase en lugar de una palabra como contraseña
+
+
+
+Para evitar el acceso físico no autorizado a los dispositivos informáticos, use frases en lugar de palabras como contraseñas. Es más fácil crear una contraseña larga en forma de frase 
+que en forma de palabra porque generalmente está en el formato de oración en lugar de palabra. Una longitud mayor hace que las frases sean menos vulnerables a los ataques de fuerza bruta 
+o de diccionario. Además, una frase puede ser más fácil de recordar, especialmente si debe cambiar de contraseña con frecuencia. Aquí se incluyen algunas sugerencias para elegir buenas 
+contraseñas o frases:
+
+Sugerencias para elegir una buena frase:
+
+    Elija una oración que signifique algo para usted.
+
+    Agregue caracteres especiales, como ! @ # $ % ^ & * ( ).
+
+    Mientras más larga, mejor.
+
+    Evite oraciones comunes o famosas, por ejemplo, letras de una canción popular.
+
+Recientemente, el Instituto Nacional de Normas y Tecnología (NIST) de los Estados Unidos publicó requisitos de contraseña mejorados. Las normas del NIST están destinadas a aplicaciones 
+del gobierno, pero también pueden servir como normas para otras. Las nuevas pautas tienen como objetivo proporcionar una mejor experiencia del usuario y poner la responsabilidad de 
+comprobación del usuario en los proveedores.
+
+Resumen de las nuevas pautas:
+
+    Esta debe tener una longitud mínima de 8 caracteres, pero no más de 64 caracteres.
+
+    No utilice contraseñas comunes ni que se puedan adivinar con facilidad; por ejemplo, contraseña, abc123.
+
+    No hay reglas de composición, como el tener que incluir números y letras mayúsculas y minúsculas.
+
+    Mejore la precisión de escritura permitiendo que el usuario vea la contraseña mientras la escribe.
+
+    Se permiten todos los caracteres de impresión y espacios.
+
+    Sin pistas de contraseña.
+
+    Sin fecha de caducidad periódica o arbitraria de la contraseña.
+
+    Sin autenticación basada en conocimientos, tales como información de preguntas secretas compartidas, datos de marketing, historial de transacciones.
+
+Haga clic aquí para obtener más información sobre el requisito de contraseña mejorado del NIST.
+
+Aunque el acceso a sus computadoras y dispositivos de red sea seguro, también es importante proteger y preservar sus datos.
