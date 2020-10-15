@@ -1,0 +1,25 @@
+Tipos de firewall
+
+Un firewall (cortafuegos) es un muro o partición diseñada para evitar que el fuego se propague de una parte a otra de un edificio. En las redes de computadoras, un firewall está diseñado 
+para controlar o filtrar la entrada o salida de comunicaciones de un dispositivo o una red, como se muestra en la figura. Un firewall puede instalarse en una única computadora con el 
+propósito de proteger dicha computadora (firewall ejecutado en un host) o puede ser un dispositivo de red independiente que protege toda una red de computadoras y todos los dispositivos 
+host en dicha red (firewall basado en la red).
+
+Durante años, dado que los ataques a la computadora y la red se han vuelto más sofisticados, se han desarrollado nuevos tipos de firewalls que atienden diferentes fines en la protección 
+de la red. Esta es una lista de los tipos de firewall comunes:
+
+    Firewall de capa de red: filtrado basado en las direcciones IP de origen y destino.
+
+    Firewall de capa de transporte: filtrado basado en puertos de origen y datos de destino y filtrado basado en los estados de conexión.
+
+    Firewall de capa de aplicación: filtrado basado en la aplicación, el programa o el servicio.
+
+    Firewall de aplicación consciente del contexto: filtrado basada en el usuario, el dispositivo, la función, el tipo de aplicación y el perfil de amenazas.
+
+    Servidor proxy: filtrado de solicitudes de contenido web, como URL, dominio, medios, etcétera.
+
+    Servidor de proxy inverso: ubicados frente a los servidores web, los servidores de proxy inversos protegen, ocultan, descargan y distribuyen el acceso a los servidores web.
+
+    Firewall de traducción de direcciones de red (NAT): ocultan o enmascaran las direcciones privadas de los hosts de red.
+
+    Firewall basado en host: filtrado de puertos y llamadas de servicio del sistema en el sistema operativo de una computadora.

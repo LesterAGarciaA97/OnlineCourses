@@ -1,0 +1,36 @@
+Buenas prácticas de seguridad
+
+
+Muchas organizaciones nacionales y profesionales han publicado listas de buenas prácticas de seguridad. La siguiente es una lista de algunas de las buenas prácticas de seguridad:
+
+    Realizar una evaluación de riesgos: conocer el valor de lo que protege ayuda a justificar los gastos de seguridad.
+
+    Crear una política de seguridad: cree una política que delinee claramente las reglas de la empresa, las tareas y las expectativas.
+
+    Medidas de seguridad física: restringen el acceso a los centros de datos, a las ubicaciones de servidores y a los extintores.
+
+    Medidas de seguridad de recursos humanos: los empleados deben ser correctamente investigados con comprobaciones de antecedentes.
+
+    Efectuar y probar las copias de respaldo: realice copias de respaldo periódicas y pruebe los datos recuperados de las copias de respaldo.
+
+    Mantener parches y actualizaciones de seguridad: actualice periódicamente los servidores, computadoras, los programas y sistemas operativos de los dispositivos de red.
+
+    Implementar controles de acceso: configure los roles de usuario y los niveles de privilegio, así como una autenticación de usuario sólida.
+
+    Revisar periódicamente la respuesta ante incidentes: utilice un equipo de respuesta ante incidentes y pruebe los escenarios de respuesta ante emergencias.
+
+    Implementar una herramienta de administración, análisis y supervisión de red: seleccione una solución de monitoreo de seguridad que se integre con otras tecnologías.
+
+    Implementar dispositivos de seguridad de la red: utilice routers de nueva generación, firewalls y otros dispositivos de seguridad.
+
+    Implementar una solución de seguridad integral para terminales: utilice software antivirus y antimalware de nivel empresarial.
+
+    Informar a los usuarios: educar a los usuarios y a los empleados sobre los procedimientos seguros.
+
+    Cifrar los datos: cifrar todos los datos confidenciales de la empresa, incluido el correo electrónico.
+
+Algunas de las pautas más útiles se encuentran en los depósitos organizacionales, como el Centro de Recursos de Seguridad Informática del Instituto Nacional de Normas y Tecnología 
+(NIST, por sus siglas en inglés), según se muestra en la figura.
+
+Una de las organizaciones más conocidas y respetadas para la capacitación en ciberseguridad es el SANS Institute. Haga clic aquí para obtener más información sobre SANS y los tipos de 
+capacitación y certificaciones que ofrece.

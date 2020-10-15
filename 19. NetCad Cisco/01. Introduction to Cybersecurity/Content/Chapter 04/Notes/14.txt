@@ -1,0 +1,17 @@
+Herramientas para prevención y detección de incidentes
+
+Estas son algunas de las herramientas utilizadas para detectar y evitar incidentes de seguridad:
+
+    SIEM: un sistema de administración de información y eventos de seguridad (SIEM) es un software que recopila y analiza las alertas de seguridad, los registros y otros datos históricos 
+y en tiempo real de los dispositivos de seguridad de la red.
+
+    DLP: el software Data Loss Prevention (DLP) es un sistema de hardware o software diseñado para evitar el robo o la fuga de datos confidenciales de la red. El sistema DLP puede 
+concentrarse en la autorización de acceso a los archivos, el intercambio de datos, la copia de datos, la supervisión de la actividad del usuario y más. Los sistemas DLP están diseñados 
+para supervisar y proteger los datos en tres diferentes estados: datos en uso, datos en movimiento y datos almacenados. Los datos en uso se centran en el cliente, los datos en movimiento 
+se refieren a los datos mientras viajan a través de la red y los datos almacenados se refieren al almacenamiento de datos.
+
+    Cisco ISE y TrustSec: Cisco Identity Services Engine (Cisco ISE) y Cisco TrustSec aplican el acceso a los recursos de red mediante la creación de políticas de control de acceso basado 
+en roles que segmenta el acceso a la red (usuarios temporales, usuarios móviles, empleados) sin complejidad agregada. La clasificación del tráfico se basa en la identidad del usuario o el
+dispositivo. Haga clic en Reproducir en la figura para obtener más información sobre el ISE.
+
+    Haga clic aquí para leer la transcripción de este video.

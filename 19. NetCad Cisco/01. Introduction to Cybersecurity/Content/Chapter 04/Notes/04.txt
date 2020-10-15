@@ -1,0 +1,26 @@
+Dispositivos de seguridad
+
+
+
+Hoy no existe un dispositivo de seguridad o una tecnología que resuelva todas las necesidades de seguridad de la red por sí solo. Debido a que hay una variedad de dispositivos de 
+seguridad y herramientas que deben implementarse, es importante que trabajen en conjunto. Los dispositivos de seguridad son más efectivos cuando forman parte de un sistema.
+
+Los dispositivos de seguridad pueden ser dispositivos independientes, como un router o firewall, una tarjeta que puede instalarse en un dispositivo de red o un módulo con su propio 
+procesador y memoria en caché. Los dispositivos de seguridad también pueden ser herramientas de software que se ejecutan en un dispositivo de red. Los dispositivos de seguridad se dividen 
+en las siguientes categorías generales:
+
+Routers: los routers de servicios integrados (ISR) Cisco, como se muestra en la Figura 1, tienen muchas capacidades similares a las de un firewall además de las funciones de ruteo, entre 
+ellas, el filtrado de tráfico, la capacidad de ejecutar un sistema de prevención de intrusiones (IPS), el cifrado y las capacidades de VPN para las conexiones de cifrado seguro.
+
+Firewalls: los firewalls de nueva generación de Cisco tienen todas las capacidades de un router ISR además de análisis y administración de redes avanzadas. El dispositivo de seguridad 
+adaptable (ASA, por sus siglas en inglés) de Cisco con funcionalidades de firewall se muestra en la Figura 2.
+
+IPS: los dispositivos IPS de nueva generación, que se muestran en la Figura 3, están dedicados a la prevención de intrusiones.
+
+VPN: los dispositivos de seguridad de Cisco cuentan con tecnologías de redes virtuales privadas (VPN) tanto de cliente como servidor. Están diseñados para conexiones de cifrado seguro.
+
+Malware/antivirus: Cisco Advanced Malware Protection (AMP) viene en los routers de nueva generación de Cisco, como también en los firewalls, los dispositivos IPS y los dispositivos de 
+seguridad web y de correo electrónico y además puede instalarse como software en los equipos host.
+
+Otros dispositivos de seguridad: esta categoría incluye dispositivos de seguridad web y de correo electrónico, dispositivos de descifrado, servidores de control de acceso del cliente y 
+sistemas de administración de seguridad.

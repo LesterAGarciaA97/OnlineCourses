@@ -1,0 +1,16 @@
+Resumen
+
+Capítulo 4
+
+Protección de la organización
+
+
+Este capítulo comenzó analizando algunos procesos y tecnologías utilizados por los profesionales de la ciberseguridad para proteger la red, los equipos y los datos de una organización. 
+Incluyó tipos de firewalls, dispositivos de seguridad y software.
+
+Se abarcaron los botnets, la cadena de eliminación (Kill chain), la seguridad basada en el comportamiento y el uso de NetFlow para monitorear una red.
+
+Por último, se explicó el enfoque de Cisco para la ciberseguridad, incluidos los equipos de CSIRT y el libro de estrategias de seguridad. Abarca brevemente las herramientas que los 
+profesionales de la ciberseguridad utilizan para detectar y prevenir los ataques a la red, incluidas SIEM, DLP, Cisco ISE y TrustSec, así como IDS e IPS.
+
+Si desea explorar más a fondo los conceptos de este capítulo, consulte la página Actividades y recursos adicionales en Recursos para los estudiantes.

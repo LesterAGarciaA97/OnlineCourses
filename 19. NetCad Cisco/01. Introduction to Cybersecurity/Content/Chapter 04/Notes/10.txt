@@ -1,0 +1,14 @@
+Seguridad basada en el comportamiento
+
+La seguridad basada en el comportamiento es una forma de detección de amenazas que no depende de las firmas malintencionadas conocidas, pero que utiliza el contexto informativo para 
+detectar anomalías en la red. La detección basada en el comportamiento implica la captura y el análisis del flujo de comunicación entre un usuario de la red local y un destino local o 
+remoto. Estas comunicaciones, cuando se detectan y analizan, revelan el contexto y los patrones de comportamiento que se pueden usar para detectar anomalías. La detección basada en el 
+comportamiento puede detectar la presencia de un ataque mediante un cambio en el comportamiento normal.
+
+    Honeypot: una honeypot es una herramienta de detección basada en el comportamiento que primero atrae al atacante apelando al patrón previsto de comportamiento malicioso del atacante; 
+una vez dentro de la honeypot, el administrador de la red puede capturar, registrar y analizar el comportamiento del atacante. Esto permite que un administrador gane más conocimiento y 
+construya una mejor defensa.
+
+    Arquitectura de Cyber Threat Defense Solution de Cisco: esta es una arquitectura de seguridad que utiliza la detección basada en el comportamiento e indicadores para proporcionar 
+mayor visibilidad, contexto y control. El objetivo es definir quién, qué, dónde, cuándo y cómo se produce un ataque. Esta arquitectura de seguridad utiliza muchas tecnologías de seguridad 
+para lograr este objetivo.

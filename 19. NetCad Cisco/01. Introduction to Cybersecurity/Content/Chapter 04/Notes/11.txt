@@ -1,0 +1,10 @@
+Netflow
+
+
+La tecnología NetFlow se usa para recopilar información sobre los datos que atraviesan la red. La información de NetFlow se puede comparar con una factura telefónica por el tráfico de la 
+red. Muestra quién y qué dispositivos están en la red también como y cuando los usuarios y dispositivos tuvieron acceso a la red. NetFlow es un componente importante del análisis y la 
+detección basados en el comportamiento. Los switches, routers y firewalls equipados con NetFlow pueden comunicar información sobre los datos que ingresan, egresan y viajan por la red. La 
+información se envía a los recopiladores de NetFlow que recopilan, almacenan y analiza los registros de NetFlow.
+
+NetFlow puede recopilar información sobre el uso a través de muchas características diferentes de cómo se transportan los datos por la red, como se muestra en la figura. Mediante la 
+recopilación de la información sobre los flujos de datos de la red, NetFlow puede establecer comportamientos de línea base en más de 90 atributos diferentes.

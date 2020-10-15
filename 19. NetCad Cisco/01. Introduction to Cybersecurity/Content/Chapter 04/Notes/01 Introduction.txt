@@ -1,0 +1,9 @@
+Protección de la organización
+
+Este capítulo abarca algunos de los procesos y tecnologías utilizados por los profesionales de la ciberseguridad para proteger la red, equipos y los datos de una organización. Primero, 
+explica brevemente los tipos de firewalls, dispositivos de seguridad y software que se utilizan actualmente, incluidas las mejores prácticas
+
+Luego, este capítulo explica los botnets, the kill chain, la seguridad basada en comportamientos y el uso de NetFlow para monitorear una red.
+
+Abarca brevemente las herramientas que los profesionales de la ciberseguridad utilizan para detectar y prevenir los ataques a la red. Abarca brevemente las herramientas que los 
+profesionales de la ciberseguridad utilizan para detectar y prevenir los ataques a red

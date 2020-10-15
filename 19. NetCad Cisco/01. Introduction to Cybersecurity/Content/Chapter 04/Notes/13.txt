@@ -1,0 +1,28 @@
+Libro de estrategias de seguridad
+
+La tecnología cambia constantemente. Esto significa que los ciberataques también evolucionan. Continuamente se descubren nuevas vulnerabilidades y métodos de ataque. La seguridad se ha 
+convertido en una preocupación importante para las empresas debido a la reputación y el impacto financiero resultantes de las violaciones a la seguridad. Los ataques están dirigidos a 
+redes críticas y datos confidenciales. Las organizaciones deben tener planes para prepararse, para tratar las violaciones a la seguridad y recuperarse de estas.
+
+Una de las mejores maneras de prepararse para una violación a la seguridad es prevenirla. Se deben tener pautas sobre cómo identificar el riesgo de la ciberseguridad en los sistemas, los 
+activos, los datos y las funcionalidades, proteger el sistema mediante la implementación de protecciones y capacitaciones del personal, y detectar el evento de ciberseguridad lo más 
+rápidamente posible. Cuando se detecta una violación a la seguridad, deben adoptarse las acciones adecuadas para minimizar el impacto y los daños. El plan de respuesta debe ser flexible 
+con múltiples opciones de acción durante la violación. Una vez contenida la violación y restaurados los sistemas y servicios comprometidos, las medidas de seguridad y los procesos deben 
+actualizarse para incluir las lecciones aprendidas durante la violación.
+
+Toda esta información se debe recopilar en un libro de estrategias de seguridad. Un libro de estrategias de seguridad es un conjunto de consultas repetidas (informes) de fuentes de datos 
+de eventos de seguridad que conducen a la detección y la respuesta ante los incidentes. Idealmente, el libro de estrategias de seguridad debe cumplir las siguientes acciones:
+
+    Detectar equipos infectados con malware.
+
+    Detectar actividad de red sospechosa.
+
+    Detectar intentos de autenticación irregulares.
+
+    Describir y entender el tráfico entrante y saliente.
+
+    Proporcionar información de resumen que incluya tendencias, estadísticas y recuentos.
+
+    Proporcionar acceso rápido y utilizable a estadísticas y métricas.
+
+    Establecer una correspondencia de eventos en todas las fuentes de datos relevantes.

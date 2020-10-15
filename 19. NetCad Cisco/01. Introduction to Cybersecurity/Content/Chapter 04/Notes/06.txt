@@ -1,0 +1,10 @@
+Protección contra el malware
+
+
+¿Cómo proporciona la defensa contra la presencia constante de ataques de día cero y las amenazas persistentes avanzadas (APT, por sus siglas en inglés) que roban datos durante largos 
+períodos de tiempo? Una solución es utilizar una aplicación de detección de malware avanzada de nivel empresarial que ofrezca detección de malware en tiempo real.
+
+Los administradores de red deben monitorear constantemente la red para detectar signos de malware o comportamientos que revelan la presencia de una APT. Cisco cuenta con Advanced Malware 
+Protection (AMP) Threat Grid, que analiza millones de archivos y los correlaciona con cientos de millones de otros objetos de malware analizados. Esto brinda a los clientes una vista 
+global de las campañas, la distribución y los ataques de malware. AMP es un software de Cliente/Servidor implementado en terminales de host, como servidor independiente, o en otros 
+dispositivos de seguridad de la red. La figura muestra los beneficios de AMP Threat Grid.

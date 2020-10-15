@@ -1,0 +1,30 @@
+Escaneo de puertos
+
+
+
+El escaneo de puertos es un proceso de comprobación de una computadora, un servidor u otro host de red para conocer los puertos abiertos. En redes, a cada aplicación que se ejecuta en un 
+dispositivo se le asigna un identificador llamado número de puerto. Este número de puerto se utiliza en ambos extremos de la transmisión para asegurar que los datos estén llegando a la 
+aplicación correcta. El escaneo de puertos se puede utilizar con fines maliciosos como una herramienta de reconocimiento, para identificar el sistema operativo y los servicios que se 
+ejecutan en una computadora o un host, o se puede utilizar inofensivamente por parte de un administrador de red para verificar las políticas de seguridad en la red.
+
+Con el propósito de evaluar el firewall de la red de computadoras y la seguridad de los puertos, puede utilizar una herramienta de escaneo de puertos, como Nmap, para encontrar todos los 
+puertos abiertos en su red. El escaneo de puertos se puede considerar como precursor para un ataque a la red y, por lo tanto, no debe realizarse en servidores públicos en Internet o en la 
+red de una empresa sin permiso.
+
+Para ejecutar el escaneo de puertos Nmap de una computadora en la red doméstica local, descargue y ejecute un programa como Zenmap, proporcione la dirección IP de destino de la 
+computadora que desea analizar, elija un perfil de escaneo predeterminado y presione Escanear. El escaneo de Nmap reportará cualquier servicio que se esté ejecutando (como servicios web, 
+servicios de correo, etc.) y los números de puerto. El escaneo de puertos generalmente provoca alguna de estas tres respuestas:
+
+    Abierto o aceptado: el host respondió e indicó que hay un servicio activo en el puerto.
+
+    Cerrado, denegado o no escucha: el host respondió e indicó que se denegarán las conexiones en el puerto.
+
+    Filtrado, caído o bloqueado: no hubo respuesta del host.
+
+Para ejecutar escaneo del puerto desde fuera de la red, deberá iniciar el escaneo desde fuera de la red. Esto implicará la ejecución de un escaneo de puertos de Nmap con la dirección IP 
+pública del firewall o router. Para obtener su dirección IP pública, utilice un motor de búsqueda, como Google, con la consulta “cuál es mi dirección IP”. El motor de búsqueda le devolverá 
+su dirección IP pública.
+
+Para ejecutar un escaneo de los seis puertos más comunes de un router o firewall doméstico, vaya al escáner de puertos en línea de Nmap en https://hackertarget.com/nmap-online-port-scanner/
+e ingrese su dirección IP pública en el cuadro del formulario: dirección IP para escanear… y presione Escaneo rápido de Nmap. Si la respuesta es Abierta para cualquiera de los puertos: 21, 
+22, 25, 80, 443 o 3389, lo más probable es que esté habilitado el reenvío de puertos en el router o firewall y que ejecute servidores en su red privada, como se muestra en la figura.

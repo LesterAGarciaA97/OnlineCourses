@@ -1,0 +1,15 @@
+Detección de ataques en tiempo real
+
+El software no es perfecto. Cuando un hacker explota un defecto de un software antes de que el creador pueda corregirlo, se conoce como ataque de día cero. Debido a la complejidad y 
+tamaño de los ataques de día cero que se encuentran actualmente, no es extraño que los ataques a la red tengan éxito y que el éxito de su defensa ahora se mida según la rapidez con la que 
+una red responde ante un ataque. La capacidad de detectar ataques mientras suceden en tiempo real, así como de detenerlos inmediatamente o en cuestión de minutos, es el objetivo ideal. 
+Desafortunadamente, muchas empresas y organizaciones a día de hoy no pueden detectar los ataques sino hasta días o incluso meses después de ocurridos.
+
+    Análisis en tiempo real de principio a fin: Detectar ataques en tiempo real requiere el análisis activo mediante el firewall y los dispositivos de red IDS/IPS. También debe usarse la 
+detección de malware de cliente/servidor de nueva generación con conexiones a los centros de amenazas globales en línea. En la actualidad, el software y los dispositivos de análisis 
+activos deben detectar anomalías de red mediante la detección de comportamientos y el análisis basado en el comportamiento.
+
+    Ataques DDoS y respuesta en tiempo real: El ataque DDoS es una de las mayores amenazas que requiere la detección y respuesta en tiempo real. Es extremadamente difícil defenderse 
+contra los ataques de DDoS porque los ataques se originan en cientos o miles de hosts zombis y aparecen como tráfico legítimo, como se muestra en la figura. Para muchas empresas y 
+organizaciones, los ataques DDoS ocurren de forma regular y paralizan los servidores de Internet y la disponibilidad de la red. La capacidad para detectar y responder a los ataques DDoS 
+en tiempo real es crucial.

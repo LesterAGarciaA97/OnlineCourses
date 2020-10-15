@@ -1,0 +1,15 @@
+IDS e IPS
+
+
+Un sistema de detección de intrusiones (IDS), que se muestra en la figura, es un dispositivo de red exclusivo, o una de varias herramientas en un servidor o firewall que analiza los 
+datos de una base de datos de reglas o firmas de ataque, que busca tráfico malicioso. Si se detecta una coincidencia, el IDS registrará la detección y creará una alerta para el 
+administrador de la red. El sistema de detección de intrusiones no adopta medidas cuando se detecta una coincidencia, por lo que no evita que se produzcan los ataques. El trabajo del IDS 
+es simplemente detectar, registrar y generar informes.
+
+El análisis que realiza el IDS ralentiza la red (esto se denomina latencia). Para evitar el retraso de la red, el IDS generalmente se configura sin conexión, separado del tráfico de red 
+común. Los datos se copian o duplican mediante un switch y luego se reenvían a los IDS para la detección sin conexión. También existen herramientas del IDS que pueden instalarse sobre un 
+sistema operativo de la computadora host, como Linux o Windows.
+
+Un sistema de prevención de intrusiones (IPS) tiene la capacidad de bloquear o denegar el tráfico en función de las coincidencias positivas de la regla o la firma. Uno de los IPS/IDS más 
+reconocidos es Snort. La versión comercial de Snort es Sourcefire de Cisco. Sourcefire tiene la capacidad de realizar el análisis de tráfico y puerto en tiempo real, registrar, buscar y 
+comparar contenido; puede detectar sondas, ataques y escaneos de puertos. También se combina con otras herramientas de terceros para informar y analizar el rendimiento y los registros.

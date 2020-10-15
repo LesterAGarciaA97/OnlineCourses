@@ -1,0 +1,32 @@
+Cadena de eliminación o proceso de ataque (Kill Chain) en la ciberdefensa
+
+
+En la ciberseguridad, la cadena de eliminación o proceso de ataque (Kill Chain) representa las etapas de un ataque a los sistemas de información. Desarrollada por Lockheed Martin como 
+marco de seguridad para la respuesta y la detección de incidentes, la cadena de eliminación consta de los siguientes pasos:
+
+Etapa 1. Reconocimiento: el atacante recopila información sobre el objetivo.
+
+Etapa 2. Armamentización: el atacante crea un ataque y contenido malicioso para enviar al objetivo.
+
+Etapa 3. Entrega: el atacante envía el ataque y la carga maliciosa al objetivo por correo electrónico u otros métodos.
+
+Etapa 4. Explotación: se ejecuta el ataque.
+
+Etapa 5. Instalación: el malware y las puertas traseras se instalan en el objetivo.
+
+Etapa 6. Mando y control: se obtiene el control remoto del objetivo mediante un servidor o canal de comando y control.
+
+Etapa 7. Acción: el atacante realiza acciones maliciosas, como el robo de información, o ejecuta ataques adicionales en otros dispositivos desde dentro de la red a través de las etapas de 
+la cadena de eliminación nuevamente.
+
+Para defendernos de la cadena de eliminación, existen acciones de seguridad diseñadas en torno a las etapas de la cadena de eliminación. Estas son algunas preguntas sobre las defensas de 
+seguridad de una empresa en función de la cadena de eliminación:
+
+• ¿Cuáles son los indicadores de ataque en cada etapa de la cadena de eliminación?
+
+• ¿Qué herramientas de seguridad son necesarias para detectar los indicadores de ataque en cada una de las etapas?
+
+• ¿Hay brechas en la capacidad de la empresa para detectar un ataque?
+
+Según Lockheed Martin, comprender las etapas de la cadena de eliminación permite poner obstáculos defensivos, demorar el ataque y, finalmente, evitar la pérdida de datos. La figura 
+muestra cómo cada etapa de la cadena de eliminación equivale a un aumento en la cantidad de esfuerzo y costos para impedir y corregir ataques.

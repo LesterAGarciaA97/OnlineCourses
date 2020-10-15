@@ -1,0 +1,12 @@
+Botnet
+
+
+Un botnet es un grupo de bots conectados a través de Internet con la capacidad de ser controlados por un individuo o grupo malicioso. Una computadora bot se infecta generalmente por 
+visitar un sitio web, abrir un elemento adjunto de correo electrónico o abrir un archivo de medios infectado.
+
+Un botnet puede tener decenas de miles o incluso cientos de miles de bots. Estos bots se pueden activar para distribuir malware, lanzar ataques DDoS, distribuir correo electrónico no 
+deseado o ejecutar ataques de contraseña por fuerza bruta. Los botnets por lo general se controlan a través de un servidor de comando y control.
+
+Los delincuentes cibernéticos alquilan a menudo los botnets, por un monto, a otros proveedores para fines infames.
+
+La figura muestra cómo un filtro de tráfico de botnet se utiliza para informar a la comunidad de seguridad mundial las ubicaciones de los botnets.

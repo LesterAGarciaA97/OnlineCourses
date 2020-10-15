@@ -1,0 +1,13 @@
+CSIRT
+
+
+Muchas organizaciones grandes tienen un Equipo de respuesta a incidentes de seguridad informática (CSIRT, por sus siglas en inglés) para recibir, revisar y responder a informes de 
+incidentes de seguridad informática, como se muestra en la Figura 1. La función principal del CSIRT es ayudar a proteger la empresa, el sistema y la preservación de datos realizando 
+investigaciones integrales de los incidentes de seguridad informática. Para evitar incidentes de seguridad, el CSIRT de Cisco proporciona una evaluación de amenazas proactiva, 
+planificación de la mitigación, análisis de tendencias de incidentes y revisión de la arquitectura de seguridad, como se muestra en la Figura 2.
+
+El CSIRT de Cisco colabora con el Foro de respuesta ante los incidentes y los equipos de seguridad (FIRST), el Intercambio de información de seguridad nacional (NSIE), el Intercambio de 
+información de seguridad de defensa (DSIE) y el Centro de Investigación y Análisis de operaciones DNS (DNS-OARC).
+
+Hay organizaciones de CSIRT nacionales y públicas, como la División CERT del Instituto de Ingeniería de Software de la Universidad Carnegie Mellon, que están dispuestos a ayudar a las 
+organizaciones, y a los CSIRT nacionales, a desarrollar, utilizar y mejorar sus capacidades de administración de incidentes.
