@@ -1,0 +1,31 @@
+Cuestiones legales en la ciberseguridad
+
+
+
+Los profesionales de la ciberseguridad deben tener las mismas habilidades que los hackers, especialmente que los hackers de Sombrero Negro, para ofrecer protección contra los ataques. 
+Una diferencia entre un hacker y un profesional de la ciberseguridad es que el profesional de la ciberseguridad debe trabajar dentro de los límites legales.
+
+Asuntos legales personales
+
+Ni siquiera tiene que ser un empleado para estar sujetos a las leyes de la ciberseguridad. En su vida privada, puede tener la oportunidad y las habilidades de hackear la computadora o la 
+red de otra persona. Hay un antiguo dicho, "Solo porque puede no significa que deba hacerlo". Tenga en cuenta esto. La mayoría de los hackers dejan huellas, lo sepan o no, y estas huellas 
+pueden rastrearse hasta el hacker.
+
+Los profesionales de la ciberseguridad desarrollan muchas habilidades que se pueden utilizar para bien o mal. Los que utilizan sus habilidades dentro del sistema legal, para proteger la 
+infraestructura, las redes y la privacidad siempre tienen alta demanda.
+
+Asuntos legales corporativos
+
+La mayoría de los países tienen algunas leyes de ciberseguridad. Pueden tener relación con la infraestructura crítica, las redes, y la privacidad corporativa e individual. Las empresas 
+deben cumplir estas leyes.
+
+En algunos casos, si infringe las leyes de ciberseguridad mientras realiza su trabajo, es posible que sea la empresa la que resulte castigada y usted podría perder su trabajo. En otros 
+casos, podría ser procesado, multado y posiblemente condenado.
+
+Generalmente, si tiene dudas sobre si una acción o un comportamiento pueden ser ilegales, suponga que son ilegales y no los lleve a cabo. Su empresa puede tener un departamento legal o 
+alguien del departamento de Recursos Humanos que puede contestar su pregunta antes de hacer algo ilegal.
+
+Derecho internacional y ciberseguridad
+
+El área de la ley de ciberseguridad es mucho más nueva que la ciberseguridad en sí. Como se mencionó anteriormente, la mayoría de los países tienen algunas leyes, y habrá más leyes por 
+venir.

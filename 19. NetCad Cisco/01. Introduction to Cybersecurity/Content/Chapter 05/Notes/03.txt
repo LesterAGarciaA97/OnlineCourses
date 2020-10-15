@@ -1,0 +1,37 @@
+Cuestiones éticas en ciberseguridad
+
+
+
+Además de trabajar dentro de los límites de la ley, los profesionales de la ciberseguridad también deben demostrar un comportamiento ético.
+
+Asuntos éticos personales
+
+Una persona puede actuar de manera no ética y no someterse a un proceso legal, multas ni encarcelamiento. Esto se debe a que es posible que la acción no haya sido técnicamente ilegal. 
+Pero eso no significa que el comportamiento sea aceptable. El comportamiento ético es muy fácil de verificar. Es imposible enumerar todos los distintos comportamientos no éticos que puede 
+exhibir alguien con habilidades de ciberseguridad. A continuación, presentamos solo dos. Hágase las siguientes preguntas:
+
+    ¿Me gustaría descubrir que alguien hackeó mi computadora y alteró las imágenes de mis sitios de red social?
+
+    ¿Me gustaría saber que un técnico de TI en el que confiaba para reparar mi red, divulgó a colegas mi información personal, lo que obtuvo mientras trabajaba en mi red?
+
+Si responde 'no' a cualquiera de estas preguntas, entonces no haga esas cosas a los demás.
+
+Cuestiones éticas corporativas
+
+La ética representa los códigos de comportamiento que se aplican a veces por las leyes. Existen muchas áreas en ciberseguridad que no están cubiertas por las leyes. Esto significa que 
+hacer algo que es técnicamente legal puede sin embargo no ser algo ético. Debido a que muchas áreas de ciberseguridad no están (o aún no están) cubiertas por las leyes, muchas 
+organizaciones profesionales de TI han creado códigos de ética para las personas del sector. A continuación, se muestra una lista de tres organizaciones con códigos de ética:
+
+    El Instituto de ciberseguridad (CSI, por sus siglas en inglés) ha emitido un código de ética que puede leer aquí.
+
+    La Asociación de seguridad de sistemas de información (ISSA, por sus siglas en inglés) tiene un código de ético que se encuentra aquí.
+
+    La Asociación de profesionales de la tecnología de la información (AITP, por sus siglas en inglés) tiene un código de ética y un estándar de conducta que se encuentran aquí.
+
+Cisco tiene un equipo dedicado exclusivamente al comportamiento ético comercial. Vaya aquí para leer más sobre esto. Este sitio contiene un libro electrónico sobre el Código de 
+conducta comercial de Cisco y un archivo PDF. En los dos archivos hay un “Árbol de decisiones de ética”, como se muestra en la figura. Aunque usted no trabaje para Cisco, las preguntas y 
+respuestas que se encuentran en este árbol de decisiones se pueden aplicar fácilmente a su lugar de trabajo. Al igual que con las preguntas legales, generalmente, si tiene dudas sobre si 
+una acción o un comportamiento podrían resultar inmorales, suponga que lo son y no los lleve a cabo. Puede haber alguien en el departamento de Recursos Humanos o Legal de su empresa que 
+pueda aclarar su situación antes de hacer algo que se consideraría no ético.
+
+Busque en línea para encontrar otras organizaciones relacionadas con TI con códigos de ética. Intente encontrar lo que tienen en común.

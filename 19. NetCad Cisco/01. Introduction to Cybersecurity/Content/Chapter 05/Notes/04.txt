@@ -1,0 +1,27 @@
+Puestos de trabajo en ciberseguridad
+
+
+
+Muchos otros negocios y sectores están contratando profesionales de la ciberseguridad. Existen varios motores de búsqueda en línea para ayudarlo a encontrar el trabajo correcto en 
+ciberseguridad:
+
+    ITJobMatch : El motor de búsqueda ITJobMatch se especializa en trabajos de TI de todo tipo, en todo el mundo.
+
+    Monster : Monster es un motor de búsqueda para todo tipo de trabajo. El enlace provisto va directamente a los trabajos de ciberseguridad.
+
+    CareerBuilder : CareerBuilder también es un motor de búsqueda para todo tipo de trabajo. El enlace provisto va directamente a los trabajos de ciberseguridad.
+
+Estos son solo tres de muchos sitios diferentes de búsqueda de trabajo en línea. Aunque recién esté comenzando sus estudios en TI y ciberseguridad, utilizar los motores de búsqueda 
+laboral es una buena forma de ver qué tipo de trabajos están disponibles, en todo el mundo.
+
+Según su interés en la ciberseguridad, puede haber distintos tipos de trabajo disponibles para usted, y es posible que requieran certificaciones de habilidades especializadas. Por 
+ejemplo, un analizador de penetración, también conocido como hacker ético, busca y ataca las vulnerabilidades en la seguridad de aplicaciones, redes y sistemas. Para convertirse en 
+analizador de penetración, deberá obtener experiencia en otros trabajos de TI, como administrador de seguridad, administrador de red y administrador del sistema. Cada uno de estos 
+trabajos requiere su propio conjunto de habilidades que lo ayudarán a convertirse en un activo valioso para una organización.
+
+Esperamos que este curso haya ganado su interés para que se capacite en TI y ciberseguridad, y que, luego, continúe con una carrera emocionante. Cisco Networking Academy ofrece muchos 
+cursos para que pueda continuar su educación en ciberseguridad. Lo invitamos a inscribirse en el curso siguiente, Cybersecurity Essentials, para seguir adquiriendo una base de 
+conocimientos sólidos en ciberseguridad. Visite Cisco Networking Academy y consulte la lista de cursos que se encuentran disponibles. Además, también puede tener acceso a recursos 
+profesionales disponibles en Cisco Networking Academy.
+
+Solo por diversión, haga clic aquí para leer una novela gráfica de un superhéroe de la ciberseguridad.
