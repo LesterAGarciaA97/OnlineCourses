@@ -1,0 +1,43 @@
+Download and install packet tracer
+
+Students commonly use Packet Tracer to:
+
+    Prepare for a certification exam.
+
+    Practice what they learn in networking courses.
+
+    Sharpen their skills for a job interview.
+
+    Examine the impact of adding new technologies into existing network designs.
+
+    Build their skills for jobs in the Internet of Things.
+
+    Compete in Global Design Challenges (take a look at the 2017 PT 7 Design Challenge on Facebook).
+
+Packet Tracer is an essential learning tool used in many Cisco Networking Academy courses.
+
+Click Play in the video for a detailed walk-through of the Packet Tracer download and installation process.
+
+Click here to read a transcript of this video.
+
+To obtain and install your copy of Cisco Packet Tracer follow these simple steps:
+
+    Log into your Cisco Networking Academy “I’m Learning” page.
+
+    Select Resources from the menu in the upper right portion of your screen.
+
+    Select Download Packet Tracer.
+
+    Select the version of Packet Tracer you require.
+
+    Save the file to your computer.
+
+    Launch the Packet Tracer install program.
+
+    After installation, close and restart your web browser.
+
+    Launch Cisco Packet Tracer by selecting the appropriate icon.
+
+    When prompted, use your Netacad login information to authenticate.
+
+    Packet Tracer will launch and you are ready to explore its features.

@@ -1,0 +1,8 @@
+Introduction to packet tracer
+
+
+Packet Tracer is an exciting network design, simulation and modelling tool that allows you to develop your skill set in networking, cybersecurity, and the Internet of Things (IoT). 
+It allows you to model complex systems without the need for dedicated equipment. It is used across numerous Cisco Academy courses to help develop and assess the skill set necessary for 
+successful completion of the course.
+
+In this chapter, Packet Tracer is introduced and instructions are provided to allow you to download and install it.

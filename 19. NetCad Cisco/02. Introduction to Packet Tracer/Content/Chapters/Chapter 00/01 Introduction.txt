@@ -1,0 +1,10 @@
+First time in this course
+
+This Introduction to Packet Tracer course is designed for new users of Packet Tracer for self-study and familiarization with the tool used in many Networking Academy courses. 
+It is not the intention of this course to teach networking and IoT technology.
+
+ If available, we encourage you to enroll in networking and IoT courses at your institution to learn more. There is also a self-enroll course available on NetAcad.com called introduction 
+to IoT that will help you get started on the topic.
+
+The Cisco Networking Academy Facebook site is where you can meet and engage with other Networking Academy students from around the world. You may be able to receive peer to peer support 
+if you have questions on Packet Tracer.

@@ -1,0 +1,13 @@
+Summary 
+Chapter 01
+
+Introduction to packet tracer
+
+
+
+At the completion of this chapter, you should be able to:
+
+    Explain the function and installation of Cisco Packet Tracer.
+
+For additional help and practice using Packet Tracer, please visit the Tutorials located under Help in the Packet Tracer program. To view some examples of how Packet Tracer can be used, 
+select File, then Open Samples from the main menu.
