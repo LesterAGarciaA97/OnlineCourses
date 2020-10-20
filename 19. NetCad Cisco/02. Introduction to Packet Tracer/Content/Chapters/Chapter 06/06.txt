@@ -1,0 +1,13 @@
+Summary
+
+Chapter 06
+
+Accessing and monitoring smart devices
+
+
+
+At the completion of this chapter, you should be able to create and connect IoT devices into a small home network using the built-in registration server of the home gateway or a dedicated 
+registration server.
+
+For additional help and practice using Packet Tracer, please visit the Tutorials located under Help in the Packet Tracer program. To view some examples of how Packet Tracer can be used, 
+select File, then Open Samples from the main menu.

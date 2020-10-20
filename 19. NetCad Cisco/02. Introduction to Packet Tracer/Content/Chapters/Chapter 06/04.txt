@@ -1,0 +1,37 @@
+Registering devices to a dedicated registration server
+
+
+
+IoT devices can also be registered to a dedicated Registration Server for remote monitoring, configuration, or programming. The dedicated registration server has the benefit of being able 
+to provide many other services to your network, such as Web, DHCP, DNS, email, and FTP.
+
+With a dedicated server, IoT devices would first be connected to a wireless network and would then be configured to register to the server.
+
+To connect and configure the registration server:
+
+• Connect the server to your network using a wired or wireless connection.
+
+• Click on the server and select Desktop/IP configuration. Ensure that DHCP has been turned on and then verify that the server is obtaining an IP addresse.
+
+• Select Services/IoT and turn the Registration Server on.
+
+To configure a remote device to interact with the registration server:
+
+• Connect a remote device such as a tablet, PC, or smart phone to the wireless network.
+
+• Click on the remote device and select Desktop/Web Browser. Use the IP address of the registration server as the URL.
+
+• The first time you access the server, you will have to create a user login. Subsequent visits will require you to login using the login credentials. For security reasons, it is 
+important to protect your IoT devices by using strong passwords on your server.
+
+To register IoT devices with the Dedicated Server:
+
+• Click on each device and select the Config tab.
+
+• Select the remote server option under IoT server and supply the IP address of the server, plus the login information.
+
+• Use the remote device to verify the presence of the registered IoT devices.
+
+Click Play in the video to learn about creating and controlling a small IoT home network using a dedicated registration server.
+
+Click here to read a transcript of this video.

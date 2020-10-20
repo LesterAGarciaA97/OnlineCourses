@@ -1,0 +1,3 @@
+Introduction: Creating and controlling a small smart home network
+
+In this chapter you will learn how to connect and control smart devices using either a Home Gateway device or a remote registration server.

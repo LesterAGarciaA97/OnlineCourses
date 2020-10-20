@@ -1,0 +1,41 @@
+Connecting and monitoring IoT devices using a home gateway
+
+
+
+The Home Gateway device acts as a local connection to your IoT smart devices. This device was designed to provide Internet access, wireless connectivity, and local logic for smart 
+devices. The Home Gateway device provides an IoT registration service that is always turned on and an auto discovery service for Things in the local Ethernet and wireless network. Once 
+connected to the home gateway, the user can control and monitor the smart devices from their smartphone, tablet, or PC.
+
+Once a home gateway device has been added to the logical workspace, click on the device. You will see the following:
+
+• Physical tab – the device has an Internet port, four LAN ports, and multiple antennae
+
+• Config tab – this shows the interfaces and network settings that are configurable
+
+• GUI tab – this shows the registration server inside the device that allows for interaction with IoT devices. It is on by default but can be turned off.
+
+• Attributes tab – This is blank by default but can show features and values such as MTBF, cost, power source, and wattage.
+
+After connecting the home gateway to an existing network, select the Config tab. The internet and the wireless interfaces should obtain IP addressing information from the network.
+
+To connect an IoT device, such as a fan, wirelessly, click on the fan and select the Config tab. The simple config tab appears. Select the Advanced button in the lower right hand corner 
+to view more options.
+
+To configure and register the fan with the home gateway:
+
+• Select I/O Config and then select wireless adapter from the network adaptors dropdown list.
+
+• Select Config to verify that the fan has established a wireless connection to the correct SSID. This can also be done visually by viewing the fan in the workspace.
+
+• Select Config/Settings and select the home gateway as the IoT server registration device.
+
+To control the fan remotely:
+
+• Add a tablet, PC, or smart phone to the workspace and connect it to the home gateway. Click on the remote device and select Desktop/IPConfig to verify connectivity.
+
+• Return to the desktop and select the web browser. Use the default gateway address from the remote device as the URL. This is the address of the home gateway. Once into the home gateway, 
+you should see the registered fan and be able to modify its settings.
+
+Click Play in the video to learn about creating and controlling a small IoT home network using a home gateway.
+
+Click here to read a transcript of this video.
