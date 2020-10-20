@@ -1,0 +1,4 @@
+Simulation mode
+
+In this chapter, you learn how to use Packet Tracer’s powerful simulation mode. This mode allows you to verify device connectivity and to study how the various types of data traverse 
+your network. 

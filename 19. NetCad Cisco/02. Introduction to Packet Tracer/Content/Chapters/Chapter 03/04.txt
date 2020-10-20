@@ -1,0 +1,12 @@
+Viewing the contents of PDUs
+
+
+Once the PDUs have been captured, you have several ways to view their contents. Viewing the contents of the PDUs can be used to verify connectivity, verify functionality, and troubleshoot 
+issues. It is also a great tool for studying or reviewing the contents of the OSI model layers and the mechanisms of communication.
+
+If viewed in OSI Model mode, you see a summary of the addresses and contents of the headers at each layer. If you select Inbound or Outbound PDU Details, the exact format of the 
+appropriate headers is displayed.
+
+Click Play in the video to see how to view PDUs.
+
+Click here to read a transcript of this video.

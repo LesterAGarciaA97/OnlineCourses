@@ -1,0 +1,19 @@
+Creating PDUs in simulation mode
+
+
+Packet Tracer provides a Simulation mode that allows you to create and capture PDUs to check several functions within your network, such as:
+
+    Basic Connectivity – Can all devices communicate with each other?
+
+    Security – Are access lists functioning as designed?
+
+    Applications and Services – Are applications and services such as DNS, HTTP, and FTP functioning as designed?
+
+The default mode for Packet Tracer is Realtime mode. In Realtime mode the time is continuously running as indicated by the clock in the lower right hand corner of the worksheet. In 
+Simulation mode, time can be stopped or slowed to allow users to view data traffic one packet at a time. Simulation mode is used to observe network traffic in detail with time controlled 
+directly by the user.
+
+Click Play in the video to see how to use Simulation mode to create simple PDUs to replicate ICMP and ARP functionality and how to create more complex PDUs from a list of protocols such 
+as DNS, HTTP, Telnet, SSH, FTP, and many more.
+
+Click here to read a transcript of this video.
