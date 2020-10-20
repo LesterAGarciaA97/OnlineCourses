@@ -1,0 +1,10 @@
+Device configuration
+
+
+Once your network has been created, it is time to configure the devices and components. Packet Tracer has the capability to configure the different intermediate and end devices that make 
+up your network. To access the configuration interface of any devices first click on the device that you wish to configure. A popup window will appear displaying a series of tabs. 
+Different types of devices have different interfaces.
+
+Click Play in the video to learn how to configure devices and components in your simulated network.
+
+Click here to read a transcript of this video.

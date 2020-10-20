@@ -1,0 +1,6 @@
+Chapter 02
+Introduction
+
+The user interface
+
+This chapter introduces the user interface and provides guidance on how to create a simple network using Packet Tracer.

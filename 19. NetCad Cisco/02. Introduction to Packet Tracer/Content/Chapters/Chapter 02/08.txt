@@ -1,0 +1,12 @@
+Packet tracer - GUI and CLI configuration
+
+For intermediate devices such as routers and switches, there are two methods of configuration available. Devices can be configured or investigated via a Config tab (a GUI interface) or a 
+command line interface (CLI) (Figure 1). The Config tab does not exist in most physical equipment. This tab is a learning tab in Packet Tracer. If you don’t know how to use the command line
+interface, this tab provides a way to “fill in the blank” to do basic configurations. It will show the equivalent CLI commands that would do the same thing if using the Command Line 
+Interface. The CLI interface requires knowledge of device configuration.
+
+For some of the end devices, such as PCs and laptops, Packet Tracer provides a desktop interface that gives you access to IP configuration, wireless configuration, a command prompt, a Web 
+browser, and much more (Figure 2).
+
+If you are configuring a server, the server has all of the functions of the Host with the addition of one more tab, the services tab (Figure 3). This tab allows a server to be configured 
+as a web server, a DHCP server, a DNS server, or various other servers visible in the graphic. 

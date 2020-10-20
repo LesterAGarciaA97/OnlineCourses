@@ -1,0 +1,9 @@
+Packet tracer - Finding and deploying devices
+
+Since Packet Tracer simulates networks and network traffic, the physical aspects of these networks also needs to be simulated. This includes actually finding and deploying physical devices, 
+customizing those devices, and cabling those devices. After the physical deployment and cabling is done, then it is time for  configuration of the interfaces used to connect the devices.
+
+Finding a device to deploy requires looking in the Device-Type Selection Box. The Device-Type Selection Box works on the concept of categories and sub-categories as shown in the figure.
+
+The top row of icons represents the category list consisting of: [Networking Devices], [End Devices], [Components], [Connections], [Miscellaneous], and [Multiuser]. Each category contains 
+at least one sub-category group. 
