@@ -1,0 +1,24 @@
+Summary
+
+Chapter 05
+
+IoT components in packet tracer
+
+
+
+At the completion of this chapter, you should be able to describe:
+
+• What IoT devices are available in Packet Tracer.
+
+• Where IoT devices are located.
+
+• How to connect IoT devices to your network.
+
+• How sensors interact with smart devices.
+
+• How different IoT devices work.
+
+• Basic configuration of smart devices.
+
+For additional help and practice using Packet Tracer, please visit the Tutorials located under Help in the Packet Tracer program. To view some examples of how Packet Tracer can be used, 
+select File, then Open Samples from the main menu.

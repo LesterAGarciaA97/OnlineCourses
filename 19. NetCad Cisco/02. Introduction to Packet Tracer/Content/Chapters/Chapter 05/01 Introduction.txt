@@ -1,0 +1,7 @@
+Introduction: IoT components in packet tracer
+
+In simple terms the IoT is a connection of networked sensors, actuators, and smart devices that collect and share data.  Packet Tracer 7 contains many new features to support the IoT. 
+This includes the addition of IoT devices that can be configured to react to certain environmental values such as sun, wind, rain, and humidity. These devices can be configured to take 
+actions based on the changing environmental values, such as turning on lights or closing garage doors. The next few chapters include instructions to locate the IoT devices, to connect 
+them to your network, to configure and modify scripts to make them function, and to control these devices remotely. Packet Tracer provides everything you need to create simulated smart 
+homes, smart cities, and smart factories.

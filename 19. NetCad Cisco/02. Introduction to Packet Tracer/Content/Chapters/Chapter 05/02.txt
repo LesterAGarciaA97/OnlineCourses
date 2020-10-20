@@ -1,0 +1,43 @@
+Configure IoT devices using packet tracer
+
+
+
+Packet Tracer has a wide variety of sensors and smart devices that will allow you to design smart homes, smart cities, smart factories, and smart power grids.
+
+To locate the available sensors and smart devices, select End Devices from the Device Selection box at the lower left-hand side of the screen. Next select one of the subcategories such as 
+Home. In the Home subcategory, you will see many IoT devices such as an air conditioner, ceiling fan, coffee maker, and CO detector. These devices can be connected to your network 
+wirelessly or with a physical cable.
+
+To connect the devices to your network, you need a device, such as a home gateway or registration server. To find a home gateway, select Network Devices from the Device Selection box and 
+then select Wireless Devices from the subcategories.
+
+To control the devices, you have two options:
+
+1. You can interact directly with a device. Hold down the Alt key and at the same time click on the device to turn it on or off.
+
+2. You can connect remotely over the network. Using a remote PC, tablet or smart phone, you can use a web browser to connect to the home gateway or registration server. From here, you can 
+turn the devices on or off using the features of the home gateway or registration server.
+
+To configure devices, click on the device to open it. Once opened, you have a multiple tabs to select:
+
+• Specifications – describes the features, usage, local and remote control of the device
+
+• Physical – available modules and power connections
+
+• Config – shows display name, serial number, network configuration, and IoT server
+
+• Attributes – display the device attributes such as MTBF, power consumption, and cost
+
+To configuration the home gateway, you click on the device. Within the device you have multiple tabs to select.
+
+• Physical – available modules, and power
+
+• Config – shows display name, interfaces (Internet, LAN, and wireless) to be configured
+
+• GUI – shows services to be turned on/off
+
+• Attributes – shows features and values related to device such as: mean time between failure (MTBF), cost, power sources, and wattage
+
+Click Play in the video to learn about locating, connecting, and configuring IoT devices in Packet Tracer.
+
+Click here to read a transcript of this video.
