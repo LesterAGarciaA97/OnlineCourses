@@ -1,0 +1,37 @@
+The packet tracer physical view
+
+Now that you know the purpose and the use of the menus in the logical workspace, we will move on to learn about the physical workspace in Packet Tracer. The default view for Packet Tracer 
+is Logical, which is equivalent to creating a logical diagram for the network. The other type of diagram used in networking is the physical diagram which not only shows the relationships 
+of the network devices but also applies building and distance factors in making the design.
+
+Packet Tracer has the physical workspace that allows you to make your network more realistic by adding backgrounds, buildings, and wiring closets. These features are important for 
+documentation, design, and visualization. You can see the actual layout of the network within a room or a building. This provides valuable information into the flow of traffic and the 
+suitability and placement of equipment. The Physical view also has a great feature that shows the wireless coverage areas based on your equipment placement within buildings.
+
+In this section, you will learn to:
+
+    Navigate the physical workspace.
+
+    Add cities, corporate offices, and branch offices.
+
+    Add backgrounds into the cities and offices.
+
+    Add wiring closets to the offices.
+
+    Place networking devices into racks within the closets.
+
+When the Physical view is shown, the basic organizational scheme is the following:
+
+a.    intercity
+b.    city
+c.    building
+d.    wiring closet
+
+
+A user is able to add as many cities, buildings, and wiring closets as they need; however, there can only be one intercity. Containers of smaller sizes can be added at any level but 
+larger containers cannot be added into smaller containers. For example, a building can be added to the intercity, but a city cannot be added to a building, and a building cannot be added 
+to a wiring closet.
+
+Click Play in the video to learn how to use the features of the physical workspace.
+
+Click here to read a transcript of this video.

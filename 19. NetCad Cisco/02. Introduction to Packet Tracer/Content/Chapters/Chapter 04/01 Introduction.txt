@@ -1,0 +1,4 @@
+Packet tracer usage
+
+In this chapter, you are introduced to the Physical view. This mode allows you to place a logical network topology into a physical context. Packet Tracer creates various file types. 
+The file types are introduced in this chapter and we also discuss how Packet Tracer is used as an assessment tool.

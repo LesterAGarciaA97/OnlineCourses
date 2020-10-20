@@ -1,0 +1,19 @@
+Packet tracer assessment types
+
+Packet Tracer is used in the Networking Academy to assist in the design, creation and testing of networks and network applications. Packet Tracer is also used for purposes of 
+self-evaluation, practice, and formal assessment. This section will display and discuss PTSAs and PTMOs.
+
+A PTMO (Packet Tracer as a Media Object) is an assessment item where a Packet Tracer Activity is part of the assessment item. Once the .pka is loaded, the student is provided with a small 
+set of instructions to be completed. Once completed, they are able to return to the item to answer the question based on their work. PTMOs can be used by themselves or as an item on a 
+quiz or final exam.
+
+A PTSA (Packet Tracer Skills Assessment) is used as a standalone skills-based assessment complete with a full set of instructions. Students are required to build, modify, and/or 
+troubleshoot a network. PTSAs are often done in a timed environment. Once the student has completed the activity, they submit their work to netacad.com. Some PTSAs are configured to allow 
+students to save their work and continue at a later time.
+
+Once a PTSA has been completed, the student will receive their score plus item level feedback. They also see a list of objectives of the PTSA along with information about what they did 
+right and what they did wrong. All forms of feedback are intended to assist the student to improve their skills.
+
+Click Play in the video to see examples of the different assessment uses of Packet Tracer.
+
+Click here to read a transcript of this video.
