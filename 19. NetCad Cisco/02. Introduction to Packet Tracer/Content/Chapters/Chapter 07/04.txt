@@ -1,0 +1,31 @@
+Configuring the environment using containers
+
+
+Important terms and concepts:
+
+• Current time – time inside a container that increments by 30 minute increments. Every 1 second in real time equates to 30 minutes in “Container” time. The timer goes from 0 (midnight) 
+to 11:59. (Figure 1)
+
+• KeyFrame – represents a single moment in time
+
+• KeyFrame graph – A graph that shows the value of environmental elements at any given point in time throughout the day. (Figure 2)
+
+• Transference - values that determine the rate that the child container converges with the parent container and works the same way for all environment types.
+
+To modify environmental elements within a container:
+
+1. Select Environmental from the top right hand corner of the Physical view.
+
+2. Select the appropriate container location.
+
+3. Modify the time, if required.
+
+4. Select Environmental Values/Edit – a keyframe graph will appear.
+
+5. Select the Advanced tab and modify the required environmental conditions using the dropdown boxes as required.
+
+Note: Remember to hit enter after modifying a value to add that value. (Figure 3)
+
+6. The modified values will be reflected immediately in the keyframe graph.
+
+7. You can also manipulate the graph by dragging the timeline to modify the time and value of a particular environmental value.

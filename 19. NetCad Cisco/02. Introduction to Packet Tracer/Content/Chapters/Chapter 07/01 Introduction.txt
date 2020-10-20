@@ -1,0 +1,13 @@
+Packet tracer environment controls
+
+In this chapter, you will learn:
+
+• The environmental controls that are available in Packet Tracer.
+
+• How to configure environmental controls within containers.
+
+• How smart devices interact with the Packet Tracer environmental elements.
+
+• How to adjust environmental elements.
+
+• How to set conditions and take action.

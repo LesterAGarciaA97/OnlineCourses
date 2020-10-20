@@ -1,0 +1,22 @@
+Summary
+
+Chapter 07
+
+Packet tracer environment controls
+
+
+
+At the completion of this chapter, you should be able to:
+
+• Describe the types of environmental controls that are available in Packet Tracer.
+
+• Configure environmental controls within containers.
+
+• Explain how smart devices interact with the Packet Tracer environmental elements.
+
+• Adjust environmental elements.
+
+• Set conditions so that IoT devices will take action.
+
+For additional help and practice using Packet Tracer, please visit the Tutorials located under Help in the Packet Tracer program. To view some examples of how Packet Tracer can be used, 
+select File, then Open Samples from the main menu.
