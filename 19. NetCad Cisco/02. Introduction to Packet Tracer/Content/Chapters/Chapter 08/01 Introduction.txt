@@ -1,0 +1,13 @@
+Creating and programming objects in packet tracer
+
+In this chapter, you will learn:
+
+    How to create a new Thing.
+
+    How to connect your new Thing to the network.
+
+    How to use available scripts for the new Thing.
+
+    How to access the programming environment.
+
+    How to review and modify existing scripts.

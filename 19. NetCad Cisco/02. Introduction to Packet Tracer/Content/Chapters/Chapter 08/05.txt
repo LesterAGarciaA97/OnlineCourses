@@ -1,0 +1,10 @@
+Reviewing and modifying scripts
+
+
+
+Packet Tracer provides a large number of devices that can be modified to create new Things. It is often easier to modify an existing object that has similar functionality to the Thing 
+being created than it is to program an entirely new Thing.
+
+Click Play in the video to see how to program a new Thing.
+
+Click here to read a transcript of this video.

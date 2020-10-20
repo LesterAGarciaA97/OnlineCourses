@@ -1,0 +1,23 @@
+The programming environment
+
+
+
+To be able to provide true IoT solutions, it is critical to have programming knowledge. Packet Tracer provides support for JavaScript, Python, and Visual Blocky.
+
+To enter the programming environment.
+
+1. Open an IoT device and click on the Advanced button.
+
+2. Select the Programming tab.
+
+Once in the Programming area, you can program a new script or copy an existing script from another Thing.
+
+To modify an existing script to use for a new Thing:
+
+1. Select the script in the panel to the left and select Open. (Figure 1)
+
+2. The selected programming script will appear in the right hand panel and may be edited as appropriate. You can use the editing buttons (Figure 2) to make the script modification easier.
+
+3. Once finished any required modifications, simply close the Programming tab and the changes will be saved.
+
+It is also possible to completely delete the old script and program your Thing from scratch.

@@ -1,0 +1,22 @@
+Summary
+
+Chapter 08
+
+Creating and programming objects in packet tracer
+
+
+
+At the completion of this chapter, you should be able to:
+
+    Create a new Thing.
+
+    Connect a Thing to the network.
+
+    Use available scripts for a new Thing.
+
+    Access the programming environment.
+
+    Review and modify existing scripts.
+
+For additional help and practice using Packet Tracer, please visit the Tutorials located under Help in the Packet Tracer program. To view some examples of how Packet Tracer can be used, 
+select File, then Open Samples from the main menu.
