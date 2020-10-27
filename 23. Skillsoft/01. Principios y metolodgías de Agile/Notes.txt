@@ -1,0 +1,32 @@
+Principios y metodologías de agile
+Agile manifesto
+
+Metodos y practicas agile
+como crear una hoja de ruta de procducto agile
+
+Comprender Agile
+
+Modelo de proceso definido y lineal
+Modelo de proceso empírico e iterativo
+
+Modelo incremental
+
+Agile permite encontrar errores de forma más temprana
+
+Centrarse en los requisitos de valor más alto
+
+
+Valores y principios de agile
+Feb 2001
+Agile manifesto
+4 valores y 12 principios
+
+Aceptar el cambio
+
+Simplicidad es la clave
+
+Programacion extrema = ingenieria del software
+
+
+Marco de trabajo SCRUM
+2 semanas por cada srpint

@@ -1,0 +1,22 @@
+Los proyectos Agile usan breves iteraciones de trabajo y desarrollo incremental de productos que se centran en prioridades del negocio y valor para el cliente. En este curso, va a 
+aprender conceptos fundamentales de Agile, incluyendo los ocho valores Agile y doce principios Agile. Este curso también incluye las cinco fases del modelo de Agilidad en la gestión de 
+proyectos y presenta las metodologías y marcos de trabajo Agile más habituales. Finalmente, este curso introduce actividades clave para gestionar un proyecto Agile, incluyendo la creación 
+de una visión del producto y acta de constitución del proyecto, así como los mejores tipos de contratos y documentación. Este curso pertenece a una serie de la ruta de aprendizaje de 
+Skillsoft que cubre los objetivos para el examen de PMI Agile Certified Practitioner (PMI-ACP)®. PMI-ACP es una marca registrada del Project Management Institute, Inc.
+Prerrequisitos
+ninguna
+ENivel de experiencia
+Intermedio
+Todos
+Los objetivos
+
+    identificar características del método Agile
+    distinguir entre valores Agile principales y secundarios
+    identificar las cinco fases del modelo de Agilidad en la gestión de proyectos
+    identificar algunas de las metodologías que pueden utilizarse para la gestión de proyectos de Agile
+    reconocer los cuatro eventos de inspección y adaptación de Scrum
+    identificar y los cinco pasos ADAPT requeridos para la transición a Agile
+    identificar los componentes recomendados de un caso de negocio
+    reconocer los elementos de un acta de constitución del proyecto
+    identificar los tipos de contratos adecuados para proyectos Agile
+    identificar tipos útiles de documentación para proyectos Agile
