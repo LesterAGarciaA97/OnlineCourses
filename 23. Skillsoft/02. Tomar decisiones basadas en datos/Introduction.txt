@@ -1,0 +1,14 @@
+Tomar decisiones basadas en datos no significa que tenga que ignorar su intuición o experiencias anteriores. En este curso, va a conocer las mejores prácticas para adoptar un método 
+equilibrado de toma de decisiones que no se basen en una única perspectiva.
+Prerrequisitos
+ninguna
+ENivel de experiencia
+Todos
+Los objetivos
+
+    identificar los beneficios de la toma de decisiones basadas en datos
+    reconocer las preguntas que hay que realizar al pensar de manera crítica sobre los datos
+    identificar cómo crear una cultura de toma de decisiones basada en datos en una organización
+    identificar los pasos del proceso de toma de decisiones basadas en datos
+    identificar mejores prácticas clave para tomar decisiones basadas en datos
+    describir cómo evitar errores comunes en la toma de decisiones basadas en datos

@@ -1,0 +1,34 @@
+Datos para tomar decisiones de negocio
+
+Ventaja estrategia al cambiar enfoque
+
+Introducción a la toma de decisiones basada en datos
+Mineria y analisis automatizados de datos
+
+Analizar, comprender y utilizar información y datos
+
+Aumentar conservación de los empleados
+Permite la rotación del personal
+
+
+Pensar de manera crítica sobre los datos
+¿Cual es el tamaño de la muestra?
+
+Comprender los números detrás de los datos ayuda a evitar toma de malas decisiones
+
+Diccionario de datos para definir métricas
+
+
+Pasos para decisiones basadas en datos
+Se necesita comprender que significan los datos
+
+Identificar problema o cuestión a resolver
+Identificar áreas de negocio y problemas estrategicos que abordar
+
+4 tipos de analisis de datos
+Analisis descriptivos = ¿Que paso?
+Analisis de diagnostico de pregunta = ¿Porque ocurrio esto?
+Analisis predictivos = ¿ Que puede pasar?
+Analisis prescriptivos = ¿Que pasa a continuación? para recomendar los pasos futuros
+
+
