@@ -1,0 +1,49 @@
+Interpretación de Big Data
+Identify, gather and analyze data
+
+Big data y el proceso de análisis de datos
+Big data? = Que hacemos con la data que recolectamos
+
+Preguntas de definición
+
+Analisis prescriptivo
+Analisis descriptivo
+
+
+Analisis básicos
+Meotdos analiticos basicos
+Stats and visualizations
+
+Fragmentación
+
+
+Analisis avanzados
+Forecasting
+Modelado predictivo
+
+Neural networks
+K
+
+Herramientas de almaenamiento, gestión, limpieza y mineria de datoa
+
+almacenar y gestionar
+* Hadoop
+* Cloudera
+* Mongo DB
+* Open refine
+* Datacleaner
+* Rapidminer
+
+Herramientas de analisis y visualizacion de datos
+* Qubole
+* Tableu
+* CartoDB
+* Chartio
+* Blockspring
+* Pentaho
+* Import.io
+
+
+Retos del analisis de Big Data
+"think out of the box"
+

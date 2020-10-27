@@ -1,0 +1,17 @@
+El uso de big data puede conducir a ganancias significativas para su organización como por ejemplo la reducción de costes operativos, mejora de la toma de decisiones y desarrollo de 
+nuevos productos innovadores. Aunque tiene que saber cómo identificar, recopilar, analizar y usar de forma efectiva sus datos para cosechar los beneficios. En este curso, va a aprender el 
+proceso de análisis de datos. Este curso también introduce los métodos analíticos básicos y avanzados más habituales, incluyendo minería de datos. Este curso también cubre algunas de las 
+herramientas de big data más habituales y sus usos asociados, y algunos retos que hay que tener en cuenta al realizar actividades de análisis de big data en su organización.
+Prerrequisitos
+ninguna
+ENivel de experiencia
+Todos
+Los objetivos
+
+    secuenciar los cinco pasos del proceso de análisis de datos
+    identificar las cuatro categorías de análisis de datos
+    reconocer métodos de análisis de datos básicos
+    reconocer métodos de análisis de datos avanzados
+    reconocer algunas de las herramientas de big data más habituales utilizadas para actividades de almacenamiento, gestión, limpieza y minería de datos
+    reconocer algunas de las herramientas de big data más habituales utilizadas para actividades de análisis, visualización, integración y recopilación de datos
+    identificar los retos asociados con análisis de big data
