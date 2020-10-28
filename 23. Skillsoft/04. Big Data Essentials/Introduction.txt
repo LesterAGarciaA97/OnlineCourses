@@ -1,0 +1,26 @@
+Many of the big data tools are open-source and Linux-based. Explore the fundamentals of big data, including positioning it in an historical IT context, available tools for working with 
+big data, and the big data stack.
+Prerrequisitos
+ninguna
+ENivel de experiencia
+Principiante
+Los objetivos
+
+    put in Big Data into perspective of supercomputing.
+    describe Big Data in context of technology waves and put it into the perspective by comparing to previous technology waves
+    list the six emerging technologies and relate them to Big Data
+    define big data and describe Gartner's Vectors
+    define structured and unstructured data in terms of Gartner's model
+    list the standard sizes used in Big Data to determine sizes of data sets
+    list the three primary key contributors to the origins of Big Data
+    list the primary Big Data distro companies
+    describe the Apache Software Foundation
+    list projects attributable to the Apache Software Foundation
+    list projects attributable to the Apache Software Foundation
+    describe Cascading and MongoDB
+    list the layers of the Big Data Stack
+    list the common Big Data components
+    describe columnar databases and Hbase
+
+Instructor
+Will Dailey 
