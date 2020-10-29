@@ -1,0 +1,81 @@
+Basic types
+Sharding
+Master slave
+Peer to peer
+Combined
+
+
+Sharding
+Horizontal partition
+Separete Nodes
+	Read and write
+Latency
+
+
+Master slave
+Data replication
+Multiple nodes
+
+Master node
+Update data
+
+Other nodes
+queries
+
+Scalability
+Read vs write
+
+Peer to peer
+Data replication
+Multiple nodes
+No master
+
+Nodes
+Read and write
+
+Load balancing vs consistency
+
+
+
+Data characteristics
+Large files
+Large data sets
+Data updates
+	Replication
+	Propagation
+Common actions
+Reads
+Appends
+
+
+Purposes
+Availability
+Load balancing
+
+Models
+Single server
+Replication                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+	Sharding
+	Master slave
+	Peer to peer
+
+Problems with single server
+Availability issues
+Redundancy issues
+Write issues
+
+Problems with distributing
+Consistency
+Read
+Write issues
+
+Consistent hashing
+
+
+Volumne
+Variety
+Velocity
+Complexity
+
+ROLAP (Relational On-Line analitycal processing)
+MOLAP (Multi-dimensional on-line analytical processing)

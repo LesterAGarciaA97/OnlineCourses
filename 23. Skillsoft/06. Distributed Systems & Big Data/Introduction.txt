@@ -1,0 +1,17 @@
+NoSQL databases are increasingly used in real-time web applications and big data. Learn about distributed systems, issues, and models, as well as consistent hashing, big data, and 
+analytics.
+Prerrequisitos
+ninguna
+ENivel de experiencia
+Principiante
+Los objetivos
+
+    describe the four basic ways systems are distributed
+    identify considerations that could be problematic for distributed systems
+    identify considerations for the different types of distributed systems
+    describe consistent hashing and how it can be used
+    describe the fundamentals of Big Data
+    identify how big data analytics are used
+
+Instructor
+Chuck Easttom 
