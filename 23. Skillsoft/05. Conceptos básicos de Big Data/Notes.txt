@@ -1,0 +1,33 @@
+Conceptos básicos de Big data
+
+Almacenamiento
+Investigación
+Visualización
+Análisis
+
+
+Volumenes grandes de datos
+
+Datos NO estructurados
+
+Beneficios de Big Data
+
+Increase profits
+
+Acelera la toma de decisiones
+
+Analizarlos en tiempo real
+
+Big data crea dialogo 
+
+analisis de riesgos
+
+Tipos de fuentes de datos para big data
+	Financial data
+	Datos estructurados = Facil de almacenar
+
+Extraer informacion util = con SQL
+
+Generados por máquinas
+Human interaction with machines
+

@@ -1,0 +1,16 @@
+Probablemente ha oído hablar de big data, ¿aunque qué es exactamente y cómo puede utilizarse para proporcionar a su organización una ventaja competitiva? En este curso, va a aprender las 
+características clave de big data, los beneficios que puede proporcionar y los tipos de datos que incorpora. También conocerá diferentes alternativas de aplicación, en función del sector 
+de mercado. Este curso también incluye algunos desafíos fundamentales para la seguridad de big data y algunas mejores prácticas para gestionar big data a través de un ciclo de vida 
+efectivo de la información.
+Prerrequisitos
+ninguna
+ENivel de experiencia
+Todos
+Los objetivos
+
+    reconocer las características clave de big data
+    identificar los beneficios de big data para las organizaciones
+    distinguir entre los dos tipos de fuentes de datos en big data
+    reconocer aplicaciones de big data por sector de mercado
+    identificar buenas prácticas para asegurar big data
+    reconocer las fases del ciclo de vida de los datos
