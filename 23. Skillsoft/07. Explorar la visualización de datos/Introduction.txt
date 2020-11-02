@@ -1,0 +1,14 @@
+Las visualizaciones de datos proporcionan perspectivas prácticas de lo que pueden ser conjuntos complejos de datos. En este curso, va a conocer cómo comunicarse claramente con 
+visualizaciones de datos y hacer llegar su idea rápidamente.
+Prerrequisitos
+ninguna
+ENivel de experiencia
+Todos
+Los objetivos
+
+    reconocer los beneficios de la visualización de datos
+    identificar consideraciones clave para seleccionar una herramienta de software para crear visualizaciones de datos
+    identificar las mejores prácticas para comunicarse claramente con visualizaciones de datos
+    distinguir entre el propósito de diferentes tipos de visualizaciones de datos
+    identificar mejores prácticas clave de diseño para visualizaciones de datos
+    describir cómo evitar crear visualizaciones de datos que sean engañosas

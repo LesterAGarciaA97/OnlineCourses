@@ -1,0 +1,44 @@
+Explorar la visualización de datos
+
+El mundo de los negocios esta repleto de datos
+Usarlos bien ofrece ventajas competitivas 
+
+Herramientas de visualización de datos se pude profundizar más en los datos, en el analisis general de los datos.
+
+Pueden tomar muchas formas para ser visualizados los datos
+
+Comprenderlos con más rapidez que el texto
+
+Sin analisis de datos, la información es inutil
+
+
+Seleccionar software de visualizacióin de datos
+
+SSBI
+
+
+Gobernanza de datos:
+* Definir métricas del éxito
+* Describir procesos para crear, compartir informes
+* Asignar privilegios para el acceso a datos
+* Describir procesos de mantenimiento
+
+Formatos de datos (sql Y noSQL, CRM, SAP, ORACLE)
+
+Hadoop = Fundamental para organizaciones para procesamiento de Big DATA
+
+Grado con que la herramienta puede profudizar en los datos fuente
+Capacidades de exportación
+
+
+Comunicarse claramente con las visualizaciones de datos
+
+Uso de buenos datos = selección y comparación de grupos
+
+Se necesitan hacer aleatorios
+
+Datos declarativos = afirman información
+Datos exploratorios = confirman o revelan información
+
+Data wrapper
+
