@@ -1,0 +1,15 @@
+Internet de las cosas permite detectar y controlar objetos de forma remota a través de una infraestructura de red existente. Este curso tratará los aspectos básicos de IoT, así como su 
+aplicación y valor para clientes, organizaciones y la vida cotidiana.
+Prerrequisitos
+ninguna
+ENivel de experiencia
+Todos
+Los objetivos
+
+    No hay ningún objetivo para la Descripción general del curso
+    identificar el propósito e ideas que hay detrás de IoT
+    reconocer aplicaciones de IoT que abordan áreas clave de interés
+    identificar desafíos clave en la gestión de datos para IoT
+    seleccionar áreas de negocio clave donde IoT puede generar valor
+    identificar métodos para generar ingresos de IoT
+    identificar formas con las que IoT beneficia las relaciones con el cliente
