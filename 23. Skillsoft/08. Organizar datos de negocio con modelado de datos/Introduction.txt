@@ -1,0 +1,14 @@
+La creación de modelos de datos puede ayudar a los negocios a organizar y acceder mejor a los datos. En este curso, va a conocer los tipos y tareas básicos de modelos de datos y de qué 
+forma los tres niveles de modelado de datos pueden proporcionar un plano detallado de los datos de una empresa.
+Prerrequisitos
+ninguna
+ENivel de experiencia
+Todos
+Los objetivos
+
+    identificar las características del modelado de datos
+    reconocer las formas con las que el modelado de datos mejora las operaciones del negocio
+    identificar las tareas básicas en el modelado de datos
+    identificar los tipos comunes de modelos de datos
+    reconocer las diferencias entre los tres estilos de modelado de datos
+    identificar estrategias comunes para construir modelos de datos

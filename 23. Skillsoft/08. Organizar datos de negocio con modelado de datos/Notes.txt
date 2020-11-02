@@ -1,0 +1,10 @@
+Proceso de estructuración y organización de un conjunto de datos = modelado de datos
+
+Modelo de datos
+1) Descripcionde la estructura de datos
+2) Organización de los datos dentro de una estructura
+
+Base de datos
+
+Mantener ventaja competitiva
+

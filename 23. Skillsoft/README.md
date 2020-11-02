@@ -7,3 +7,4 @@
 ### Folder 05 -----> Conceptos básicos de Big Data
 ### Folder 06 -----> Distributed Systems & Big Data
 ### Folder 07 -----> Explorar la visualización de datos
+### Folder 08 -----> Organizar datos de negocio con modelado de datos
