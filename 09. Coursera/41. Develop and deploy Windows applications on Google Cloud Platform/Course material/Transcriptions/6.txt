@@ -1,0 +1,60 @@
+Now let's look at
+a reference architecture for Windows workloads on
+Google Cloud Platform. For traditional Windows applications,
+you'll want to insure that your Windows Active Directory environment
+is extended into Google Cloud Platform. You might run a read only
+Active Directory secondary server or perhaps use
+Active Directory Federation Services. You'll notice in this diagram that we've
+connected the on-premises resources to Google Cloud Platform using
+the Google VPN resource. This will enable you to treat the Google
+Cloud Platform resources as a seamless extension of your private network
+applications and services. Here are some useful tips in terms
+of Google Compute Engine network configuration, specifically for
+Windows virtual machines. When you provision virtual machines,
+the default network configuration is to have a private IP address
+visible to the instance and a public IP address that's
+maintained by Compute Engine. When a machine doesn't
+have a public IP address, then it's not able to
+connect to the Internet without configuring a separate machine as
+the network addressed translation gateway. This is important for Windows virtual
+machines, as they need to be able to connect to the Internet to contact
+the Windows license server when the machine is first provisioned, and
+subsequently at regular intervals. So you'll need to ensure that your
+network configuration supports this. It's also important to remember that
+there are two firewalls in play with Windows virtual machines, both the one
+running in your Windows server and the Google Compute Engine firewall. The Compute Engine default firewall
+allows RDP traffic and ICMP, so you can ping your instance. SSH is also important, but not so
+important for Windows VMs. You'll probably want to
+lock down RDP access, so it's only possible from your
+on-premises environment. And if you've got a VPN connection,
+remove the default RDP rule altogether. You also need to think about what
+other ports should be opened. For example, if you want to publish
+ASP.NET MVC applications using Web Deploy from your
+on-premises environment, and you don't have a VPN connection
+then you need to open up port 3389. One final network feature is
+that VMs can be configured with a fixed internal IP address. Doing this means that
+the address is preserved even when the machine is shut down from an
+extended period of time, then restarted. Without a fixed internal address, the address is assigned
+by Google's DHCP service. Let's also look at Google Compute Engine
+storage configuration. The default storage configuration for
+Windows virtual machines is a single 50 gigabyte persistent
+disk based on spinning hard drives. Persistent disk on Compute Engine,
+a network attached block storage devices where the performance scales
+with the size of the disks, and are automatically replicated three times. They come in two types, regular and SSD. SSD drives offer higher throughput, and much higher apps performance than regular
+hard drives at higher cost per gigabyte. Take a look at the DOCs for
+absolute performance numbers. You can have a maximum of 64 terabytes
+of storage per virtual machine and you can split this up over multiple
+distinct disks of different types. One nice feature of Google Compute Engine
+disks is that they can be attached to multiple machines in read-only mode. In addition,
+you can also provision local SSDs. This has even higher IOPs performance
+than a persistent SSD, but does not survive a virtual
+machine shutdown. You should use this as
+a local scratch disk or cache drive where
+the application needs that. Disk can also be backed up using
+Google Computer Engine snapshots. These integrate with
+the Windows volume shadow copy service which means that usually there
+is no need to pause disk activity to backup a disk on Compute Engine. Another product on the platform that
+you should be aware of is Stackdriver. This provides single pane of glass
+monitoring, logging, tracing, and error reporting across all your
+Compute Engine virtual machines. There's an available Stackdriver agent for Windows to enable collection of
+key metrics from your Windows VMs.
