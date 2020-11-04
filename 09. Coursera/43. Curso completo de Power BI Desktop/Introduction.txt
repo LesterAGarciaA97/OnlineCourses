@@ -1,0 +1,23 @@
+A lo largo de este curso aprenderás mucha información nueva acerca de la herramienta de Power BI Desktop. Por ello, te recomiendo que antes de comenzar con el proyecto guiado te 
+familiarices con los siguientes conceptos.
+
+A continuación tienes un conjunto de recursos que creo que te serán de utilidad:
+
+    Foros de la comunidad Power BI
+    Galería de dashboards
+    Microsoft learn path
+
+Fundamentos de Power BI
+
+Power Bi es una de las herramientas mas relevantes dentro del campo del Business Intelligence. Esto se debe a que ofrece ventajas como:
+
+    Permite conectar, transformar y analizar millones de datos
+    Permite construir modelos relacionales de manera fácil y automatizada.
+    Permite definir cálculos complejos de forma sencilla con DAX
+    Permite generar informes personalizados, interactivos y con capacidades de analítica avanzada.
+    Es intuitivo, potente y gratis para comenzar
+
+Hay dos tipos de servicio:
+
+    Power BI Desktop: es una herramienta de análisis de datos y creación de informes para la instalación en local.
+    Power BI Service: es un servicio basado en la nube. Admite la edición ligera de informes y la colaboración para equipos y organizaciones.
