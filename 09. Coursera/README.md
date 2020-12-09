@@ -37,8 +37,8 @@
 ### Folder 35 -----> ¿Cómo (nos) cambia la tecnología?
 ### Folder 36 -----> Competencias digitales. Herramientas de ofimática (Microsoft Word, Excel, PowerPoint)
 ### Folder 37 -----> COVID-19: What you need to know (CME Eligible)
-### Folder 38 -----> Software testing and automation
-### Folder 39 -----> Google IT support
+### Folder 38 -----> Introduction to software testing
+### Folder 39 -----> Technical support fundamentals
 ### Folder 40 -----> Programming with Cloud IoT platforms
 ### Folder 41 -----> Develop and deploy Windows applications on Google Cloud Platform
 ### Folder 42 -----> Getting started with Power BI Desktop
