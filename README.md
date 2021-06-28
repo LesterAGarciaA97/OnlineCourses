@@ -17,7 +17,7 @@
 ### Folder 15 -----> Laserants (www.laserants.com)
 ### Folder 16 -----> LinkedIn Learning (www.linkedin.com)
 ### Folder 17 -----> Microsoft Learn (https://docs.microsoft.com/es-es/learn/#!lang=1046)
-### Folder 18 -----> NetCad Cisco (www.netacad.com/es/courses/security/introduction-cybersecurity)
+### Folder 18 -----> NetAcad Cisco (www.netacad.com/es/courses/security/introduction-cybersecurity)
 ### Folder 19 -----> Platzi (www.platzi.com)
 ### Folder 20 -----> Programiz (www.programiz.com)
 ### Folder 21 -----> Prograte (https://progate.com)
