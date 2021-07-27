@@ -1,0 +1,1 @@
+z = Floor(Random*(Max-Min+1))+Min
