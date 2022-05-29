@@ -1,4 +1,10 @@
 package protectedmodifier.package2;
 
-public class EjecutarProtectedDemo {
+import protectedmodifier.package1.*;
+
+public class EjecutarProtectedDemo extends ProtectedDemo {
+    public static void maind(String[] args){
+        EjecutarProtectedDemo objEjecutarProtectedDemo = new EjecutarProtectedDemo();
+        objEjecutarProtectedDemo.mostrar();
+    }
 }
