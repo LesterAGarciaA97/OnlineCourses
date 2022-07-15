@@ -3,7 +3,7 @@
 ### Folder 01 -----> App Brewery (www.appbrewery.co)
 ### Folder 02 -----> Capacítate para el empleo (www.capacitateparaelempleo.org)
 ### Folder 03 -----> Code Academy (www.codecademy.com)
-### Folder 04 -----> CodeCehf (www.codechef.com)
+### Folder 04 -----> CodeChef (www.codechef.com)
 ### Folder 05 -----> Code.org (www.code.org)
 ### Folder 06 -----> CodeWars (www.codewars.com)
 ### Folder 07 -----> Codility (www.codility.com)
@@ -23,4 +23,3 @@
 ### Folder 21 -----> TopCoder (www.topecoder.com)
 ### Folder 22 -----> Udacity (www.udacity.com)
 ### Folder 23 -----> Udemy (www.udemy.com)
-### Folder 24 -----> YouAccel (www.youaccel.com)
